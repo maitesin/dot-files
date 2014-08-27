@@ -1,0 +1,16 @@
+Config { font = "-*-Fixed-Bold-R-Normal-*-14-*-*-*-*-*-*-*"
+       , bgColor = "black"
+       , fgColor = "grey"
+       , position = TopW L 90
+       , commands = [ Run Cpu ["-L","3","-H","50","--normal","green","--high","red"] 10
+                    , Run Memory ["-t","Mem: <usedratio>%"] 10
+                    , Run Date "%a %b %_d %H:%M" "date" 10
+		    , Run Com "uname" ["-n", "-r"] "" 360000
+		    , Run Com "enp2s0.sh" [] "" 60
+		    , Run Com "battery.sh" [] "" 10
+		    , Run Battery ["-t","<timeleft>","-L","50","-H","75","-h","green","-n","yell","-l","red"] 10
+                    , Run StdinReader
+                    ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template = "%StdinReader% }{ %battery.sh%%battery% | %cpu% | %memory% | <fc=#2f4f4f>eth0: %enp2s0.sh%</fc>  <fc=#ee9a00>%date%</fc>  <fc=#ff0000>%uname%</fc>"       }
