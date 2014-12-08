@@ -17,7 +17,7 @@ import qualified XMonad.StackSet as W
 import System.IO  
 
 
-myTerminal      = "xterm -bg black -fg green -fn *-fixed-*-*-*-12-*"
+myTerminal      = "xterm"
 
 myWorkspaces  = ["1:Main","2:Xat","3:Web","4:Music","5:Video","6", "7", "8", "9"]  
 
