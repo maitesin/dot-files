@@ -22,3 +22,8 @@
        remote = yellow
 [push]
 	default = simple
+[sendemail]
+	smtpencryption = tls
+	smtpserver = smtp.gmail.com
+	smtpuser = oscar.forner.martinez@gmail.com
+	smtpserverport = 587
