@@ -362,7 +362,66 @@
       </action>
     </keybind>
 
-    
+    <keybind key="W-q">
+<action name="Execute">
+<command>xkill</command>
+<startupnotify>
+<enabled>yes</enabled>
+<name>Kill an application</name>
+</startupnotify>
+</action>
+</keybind>
+<keybind key="W-v">
+<action name="ToggleMaximizeVert"/>
+</keybind>
+<keybind key="W-r">
+<action name="Execute">
+<command>update_doc</command>
+<startupnotify>
+<enabled>yes</enabled>
+<name>DOC</name>
+</startupnotify>
+</action>
+</keybind>
+<keybind key="W-space">
+<action name="ShowMenu">
+<menu>root-menu</menu>
+</action>
+</keybind>
+<keybind key="W-a">
+<action name="ToggleMaximizeFull"/>
+</keybind>
+<keybind key="W-Right">
+<action name="MoveToEdgeEast"/>
+</keybind>
+<keybind key="W-Up">
+<action name="MoveToEdgeNorth"/>
+</keybind>
+<keybind key="W-Left">
+<action name="MoveToEdgeWest"/>
+</keybind>
+<keybind key="W-Down">
+<action name="MoveToEdgeSouth"/>
+</keybind>
+<keybind key="W-h">
+<action name="ToggleMaximizeHorz"/>
+</keybind>
+<keybind key="A-W-Up">
+<action name="GrowToEdgeNorth"/>
+</keybind>
+<keybind key="A-W-Right">
+<action name="GrowToEdgeEast"/>
+</keybind>
+<keybind key="A-W-Down">
+<action name="GrowToEdgeSouth"/>
+</keybind>
+<keybind key="A-W-Left">
+<action name="GrowToEdgeWest"/>
+</keybind>
+<keybind key="W-c">
+<action name="MoveToCenter"/>
+</keybind>
+
     
     <keybind key="C-A-r">
       <action name="Reconfigure"/>
