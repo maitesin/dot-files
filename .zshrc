@@ -11,7 +11,6 @@ ZSH_THEME="bira"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls='ls --color=auto'
-alias windows='rdesktop -d ebi -u oforner mote.windows.ebi.ac.uk -a 24 -g 1280x1024'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
@@ -56,36 +55,8 @@ compinit
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git svn mvn)
+plugins=(git svn)
 
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
-export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"
-# MacPorts Installer addition on 2014-02-26_at_09:39:56: adding an appropriate PATH variable for use with MacPorts.
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-
-# export MANPATH="/usr/local/man:$MANPATH"
-
-export M2_HOME=/opt/apache-maven
-export PATH=$PATH:$M2_HOME/bin
-
-#Java 6
-export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
-#Java 7
-#export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home
-
-# # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
-# ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
-
