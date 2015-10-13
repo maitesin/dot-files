@@ -1,20 +1,26 @@
 #!/bin/bash
 
-xsetroot -cursor_name left_ptr
-
+# Setting the wallpaper
 feh --bg-fill .config/Wallpaper.jpg
 
+# System tray to have the dropbox, audio, network and/or parcellite icons.
 trayer --edge top --align right --SetDockType true --SetPartialStrut true  --expand true --width 5 --height 12 --transparent true --alpha 0 --tint 0x000000 &
 
-setxkbmap -layout uk
+# Setting the keyboard layout to UK english.
+setxkbmap -layout gb
 
+# Launching dropbox.
 dropbox &
 
+# Launching pulse audio mixer (the icon shown in the system tray).
 pnmixer &
 
-nm-applet &
+# Launching clipboard manager.
+parcellite &
 
+# To set colours and configuration for Xterm
 xrdb -merge .Xresources
+
 
 xbindkeys &
 
@@ -42,4 +48,5 @@ do
     sleep 10s
 done &
 
+# Starting session with DWM
 exec ck-launch-session dbus-launch dwm
