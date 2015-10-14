@@ -27,6 +27,9 @@ xbindkeys &
 # Set WM name (for Java apps)
 wmname LG3D
 
+# Autolock screen
+xautolock -time 15 -locker 'xlock -mode blank' &
+
 # Loop
 while true
 do
