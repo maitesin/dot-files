@@ -21,8 +21,9 @@ parcellite &
 # To set colours and configuration for Xterm
 xrdb -merge .Xresources
 
-
+# Mapping spanish stuff in my keyboard
 xbindkeys &
+xmodmap .Xmodmap
 
 # Set WM name (for Java apps)
 wmname LG3D
@@ -52,4 +53,4 @@ do
 done &
 
 # Starting session with DWM
-exec ck-launch-session dbus-launch dwm
+exec dwm
