@@ -2,7 +2,7 @@
 	name = Maitesin
 	email = violador.de.segmentos@gmail.com
 [core]
-	editor = emacs -nw
+	editor = vim 
 [merge]
 	tool = vimdiff
 [color]
