@@ -28,15 +28,6 @@ set showmatch
 " intelligent comments
 set comments=sl:/*,mb:\ *,elx:\ */
 
-" Install OmniCppComplete like described on http://vim.wikia.com/wiki/C++_code_completion
-" This offers intelligent C++ completion when typing ‘.’ ‘->’ or <C-o>
-" Load standard tag files
-"set tags+=~/.vim/tags/cpp
-"set tags+=~/.vim/tags/gl
-
-" Install DoxygenToolkit from http://www.vim.org/scripts/script.php?script_id=987
-let g:DoxygenToolkit_authorName="Oscar Forner <oscar.forner.martinez@gmail.com>"
-
 " Enhanced keyboard mappings
 "
 " in normal mode F2 will save the file
@@ -47,8 +38,6 @@ imap <F2> <ESC>:w<CR>i
 map <F4> :e %:p:s,.h$,.X123X,:s,.cpp$,.h,:s,.X123X$,.cpp,<CR>
 " recreate tags file with F5
 map <F5> :!ctags -R –c++-kinds=+p –fields=+iaS –extra=+q .<CR>
-" create doxygen comment
-map <F6> :Dox<CR>
 " build using makeprg with <F7>
 map <F7> :make<CR>
 " build using makeprg with <S-F7>
@@ -60,11 +49,11 @@ map <F12> <C-]>
 let g:cpp_class_scope_highlight = 1
 let g:cpp_experimental_template_highlight = 1
 
-set laststatus=2
-let g:airline#extensions#tabline#enabled = 1
 """"""""""""""""""""""""""""""
 " airline
 """"""""""""""""""""""""""""""
+set laststatus=2
+let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
 if !exists('g:airline_symbols')
     let g:airline_symbols = {}
