@@ -28,6 +28,11 @@ set showmatch
 " intelligent comments
 set comments=sl:/*,mb:\ *,elx:\ */
 
+" folding methods
+set foldmethod=indent
+set foldlevel=1
+set foldclose=all
+
 " Enhanced keyboard mappings
 "
 " in normal mode F2 will save the file

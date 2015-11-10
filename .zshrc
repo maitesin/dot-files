@@ -10,7 +10,20 @@ ZSH_THEME="bira"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ls='ls --color=auto'
+alias ls='ls --group-directories-first --time-style=+"%d.%m.%Y %H:%M" --color=auto -F'
+alias ll='ls -l --group-directories-first --time-style=+"%d.%m.%Y %H:%M" --color=auto -F'
+alias la='ls -la --group-directories-first --time-style=+"%d.%m.%Y %H:%M" --color=auto -F'
+alias grep='grep --color=tty -d skip'
+alias cp="cp -i"                          # confirm before overwriting something
+alias df='df -h'                          # human-readable sizes
+alias free='free -m'                      # show sizes in MB
+alias np='nano PKGBUILD'
+alias fixit='sudo rm -f /var/lib/pacman/db.lck && sudo pacman-mirrors -g && sudo pacman -Syyuu  && sudo pacman -Suu'
+
+alias qmake='qmake -qt=4'
+
+alias nostromo='ssh ns3358840.ip-37-187-23.eu'
+alias nvlc='cvlc --extraintf ncurses'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
@@ -55,8 +68,26 @@ compinit
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git svn)
+plugins=(git gradle vim python svn mercurial)
 
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
+
+export EDITOR=/usr/bin/vim
+export JAVA_HOME=/usr/lib/jvm/white\ space
+export GRADLE_OPTS=-Dorg.gradle.daemon=true
+
+# Maven to the path
+export M2_HOME=/opt/maven
+export PATH=$PATH:$M2_HOME/bin
+
+# QA-Framework to the path
+export PATH=$PATH:/opt/prqa-framework-2.0.0/common/bin
+
+# Adding my own scripts to the path
+export PATH=$PATH:~/.scripts
+
+# To allow awt java apps to fit in different layouts
+export _JAVA_AWT_WM_NONREPARENTING=1
+
