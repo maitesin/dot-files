@@ -92,3 +92,7 @@ Bundle 'gmarik/vundle'
 Bundle 'Valloric/YouCompleteMe'
 
 filetype plugin indent on 
+alloric/YouCompleteMe'
+
+filetype plugin indent on 
+let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
