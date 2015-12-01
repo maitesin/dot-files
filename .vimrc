@@ -29,8 +29,9 @@ set showmatch
 set comments=sl:/*,mb:\ *,elx:\ */
 
 " folding methods
-set foldmethod=indent
-set foldlevel=1
+set foldmethod=marker
+set foldmarker={,}
+set foldlevel=0
 set foldclose=all
 
 " Enhanced keyboard mappings
