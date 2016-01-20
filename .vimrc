@@ -9,14 +9,13 @@ set autoindent
 " use intelligent indentation for C
 set smartindent
 " configure tabwidth and insert spaces instead of tabs
-set tabstop=4        " tab width is 4 spaces
-set softtabstop=4
-set shiftwidth=4     " indent also with 4 spaces
+autocmd BufNewFile,BufRead *.cpp set tabstop=2 softtabstop=2 shiftwidth=2
+autocmd BufNewFile,BufRead *.c   set tabstop=4 softtabstop=4 shiftwidth=4
 set expandtab        " expand tabs to spaces
 " wrap lines at 120 chars. 80 is somewaht antiquated with nowadays displays.
-set colorcolumn=120
+autocmd BufNewFile,BufRead *.cpp set colorcolumn=120 textwidth=120
+autocmd BufNewFile,BufRead *.c   set colorcolumn=80  textwidth=80
 highlight ColorColumn ctermbg=darkgrey
-set textwidth=120
 " turn syntax highlighting on
 set t_Co=256
 syntax on
@@ -41,7 +40,8 @@ nmap <F2> :w<CR>
 " in insert mode F2 will exit insert, save, enters insert again
 imap <F2> <ESC>:w<CR>i
 " switch between header/source with F4
-map <F4> :e %:p:s,.h$,.X123X,:s,.cpp$,.h,:s,.X123X$,.cpp,<CR>
+autocmd BufNewFile,BufRead *cpp map <F4> :e %:p:s,.h$,.X123X,:s,.cpp$,.h,:s,.X123X$,.cpp,<CR>
+autocmd BufNewFile,BufRead *.c map <F4> :e %:p:s,.h$,.X123X,:s,.c$,.h,:s,.X123X$,.c,<CR>
 " recreate tags file with F5
 map <F5> :!ctags -R –c++-kinds=+p –fields=+iaS –extra=+q .<CR>
 " build using makeprg with <F7>
@@ -51,10 +51,7 @@ map <S-F7> :make clean all<CR>
 " goto definition with F12
 map <F12> <C-]>
 
-" C++ highly syntax from: https://github.com/octol/vim-cpp-enhanced-highlight
-let g:cpp_class_scope_highlight = 1
-let g:cpp_experimental_template_highlight = 1
-
+" Setting YouCompleteMe global extra configuration
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
 
 """"""""""""""""""""""""""""""
