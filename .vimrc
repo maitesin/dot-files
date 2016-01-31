@@ -15,9 +15,10 @@ set expandtab        " expand tabs to spaces
 " wrap lines at 120 chars. 80 is somewaht antiquated with nowadays displays.
 autocmd BufNewFile,BufRead *.cpp set colorcolumn=120 textwidth=120
 autocmd BufNewFile,BufRead *.c   set colorcolumn=80  textwidth=80
-highlight ColorColumn ctermbg=darkgrey
+" highlight ColorColumn ctermbg=darkgrey
 " turn syntax highlighting on
 set t_Co=256
+set background=dark
 syntax on
 " colorscheme wombat256
 " turn line numbers on
@@ -89,6 +90,7 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'scrooloose/nerdtree'
+Plugin 'NLKNguyen/papercolor-theme'
 
 filetype plugin indent on 
 let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
@@ -102,3 +104,5 @@ autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 map <C-n> :NERDTreeToggle<CR>
 
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+colorscheme PaperColor
