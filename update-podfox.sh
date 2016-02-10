@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FEEDS=$(podfox feeds | cut -d"|" -f2 | grep -v shortname | grep -v "=" | awk '{print $2}')
+FEEDS=$(podfox feeds | cut -d"|" -f2 | grep -v shortname | grep -v "=" | awk '{print $1}')
 
 for feed in ${FEEDS}
 do
@@ -13,7 +13,7 @@ do
     then
         read -p "How many do you want to download?" howmany
         : ${howmany:=1}
-        if [[ ${howmany} == 1 ]]
+        if [ "${howmany}" -ge "1" ]
         then
             podfox download ${feed} --how-many=${howmany}
         fi
