@@ -34,12 +34,20 @@ set foldmarker={,}
 set foldlevel=0
 set foldclose=all
 
+" set visual bell instead of beeping. Moreover set vim not to beep nor flash
+set visualbell
+set t_vb=
+
 " Enhanced keyboard mappings
 "
 " in normal mode F2 will save the file
 nmap <F2> :w<CR>
 " in insert mode F2 will exit insert, save, enters insert again
 imap <F2> <ESC>:w<CR>i
+" in normal mode F3 will strip the whitespaces of the file
+nmap <F3> :StripWhitespace<CR>
+" in insert mode F3 will exit insert, strip the whitespaces, enters insert again
+imap <F3> <ESC>:StripWhitespace<CR>i
 " switch between header/source with F4
 autocmd BufNewFile,BufRead *cpp map <F4> :e %:p:s,.h$,.X123X,:s,.cpp$,.h,:s,.X123X$,.cpp,<CR>
 autocmd BufNewFile,BufRead *.c map <F4> :e %:p:s,.h$,.X123X,:s,.c$,.h,:s,.X123X$,.c,<CR>
@@ -51,6 +59,10 @@ map <F7> :make<CR>
 map <S-F7> :make clean all<CR>
 " goto definition with F12
 map <F12> <C-]>
+
+"clang-format integration
+map <C-K> :pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
+imap <C-K> <c-o>:pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
 
 " Setting YouCompleteMe global extra configuration
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
@@ -90,9 +102,14 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'scrooloose/nerdtree'
+Bundle 'Xuyuanp/nerdtree-git-plugin'
+Bundle 'vim-scripts/Conque-GDB'
+Bundle 'oplatek/Conque-Shell'
+Bundle 'ntpeters/vim-better-whitespace'
+
 Plugin 'NLKNguyen/papercolor-theme'
 
-filetype plugin indent on 
+filetype plugin indent on
 let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
 
 " NERDTree configuration
