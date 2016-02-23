@@ -61,8 +61,13 @@ map <S-F7> :make clean all<CR>
 map <F12> <C-]>
 
 "clang-format integration
-map <C-K> :pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
-imap <C-K> <c-o>:pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
+" Ubuntu
+"map <C-K> :pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
+"imap <C-K> <c-o>:pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
+" Arch
+map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
+imap <C-K> <c-o>:pyf /usr/share/clang/clang-format.py<cr>
+
 
 " Setting YouCompleteMe global extra configuration
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
