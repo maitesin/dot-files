@@ -57,6 +57,10 @@ map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
 map <F7> :make<CR>
 " build using makeprg with <S-F7>
 map <S-F7> :make clean all<CR>
+" GDB: step into (Step)
+imap <F8> s<CR>
+" GDB: step over (Next)
+imap <F9> n<CR>
 " goto definition with F12
 map <F12> <C-]>
 
@@ -67,6 +71,11 @@ map <F12> <C-]>
 " Arch
 map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
 imap <C-K> <c-o>:pyf /usr/share/clang/clang-format.py<cr>
+
+" Ctrl + c comment selected lines
+map <C-c> :s/^/\/\//<Enter>
+" Ctrl + u uncomment selected lines
+map <C-u> :s/^\/\///<Enter>
 
 " Setting YouCompleteMe global extra configuration
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
