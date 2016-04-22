@@ -174,6 +174,7 @@ client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color      
 
 # bar
 bar {
+        tray_output primary
   	status_command i3blocks -c /home/maitesin/.config/i3/i3blocks.conf
 	colors {
 		background $bg-color
