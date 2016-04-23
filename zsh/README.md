@@ -22,6 +22,7 @@ sudo apt-get install zsh
 
 ## Step 5. Linking config folders
 ```bash
+rm ~/.zshrc
 ln -s ~/workspace/dot-files/zsh/.zshrc ~/.zshrc
 ```
 
