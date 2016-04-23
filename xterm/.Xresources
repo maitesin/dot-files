@@ -7,7 +7,11 @@ xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
 xterm*termName: xterm-color
 xterm*eightBitInput: false
 
-URxvt*font: xft: Ubuntu Mono derivative Powerline:size=12
+! URxvt font
+URxvt.font:                xft: Ubuntu Mono derivative Powerline:size=12
+URxvt.boldFont:            xft: Ubuntu Mono derivative Powerline:size=12:bold
+URxvt.italicFont:          xft: Ubuntu Mono derivative Powerline:size=12:italic
+URxvt.boldItalicFont:      xft: Ubuntu Mono derivative Powerline:size=12:bold:italic
 
 ! Base16 Monokai
 ! Scheme: Wimer Hazenberg (http://www.monokai.nl)
