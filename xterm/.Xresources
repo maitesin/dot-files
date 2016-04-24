@@ -48,3 +48,7 @@ URxvt*color19:                        #49483e
 URxvt*color20:                        #a59f85
 URxvt*color21:                        #f5f4f1
 
+! URxvt misc
+URxvt.scrollBar: false
+URxvt.transparent: true
+URxvt.shading: 20
