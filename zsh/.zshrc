@@ -1,11 +1,12 @@
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/maitesin/.oh-my-zsh
+export ZSH=/home/maitesin/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
 #ZSH_THEME="bira"
+ZSH_THEME="powerline"
 
 # Example aliases
 alias ls='ls --group-directories-first --time-style=+"%d.%m.%Y %H:%M" --color=auto -F'
@@ -15,14 +16,10 @@ alias grep='grep --color=tty -d skip'
 alias cp="cp -i"                          # confirm before overwriting something
 alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
-alias np='nano PKGBUILD'
-alias fixit='sudo rm -f /var/lib/pacman/db.lck && sudo pacman-mirrors -g && sudo pacman -Syyuu  && sudo pacman -Suu'
 alias pbcopy='xsel --clipboard --input'
 
 alias nostromo='ssh ns3358840.ip-37-187-23.eu'
 alias nvlc='cvlc --extraintf ncurses'
-
-eval $(thefuck --alias)
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -66,11 +63,10 @@ eval $(thefuck --alias)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git gradle vim python svn zsh-syntax-highlighting)
+plugins=(git gradle vim python svn)
 
 # User configuration
 
-export PATH="/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/maven/bin:/opt/prqa-framework-2.0.0/common/bin:/home/maitesin/.scripts"
 export EDITOR=/usr/bin/vim
 export JAVA_HOME=/usr/lib/jvm/white space
 export GRADLE_OPTS=-Dorg.gradle.daemon=true
@@ -89,5 +85,3 @@ export PATH=$PATH:~/.scripts
 export _JAVA_AWT_WM_NONREPARENTING=1
 
 source $ZSH/oh-my-zsh.sh
-
-

@@ -66,11 +66,11 @@ map <F12> <C-]>
 
 "clang-format integration
 " Ubuntu
-"map <C-K> :pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
-"imap <C-K> <c-o>:pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
+map <C-K> :pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
+imap <C-K> <c-o>:pyf /usr/share/vim/addons/syntax/clang-format.py<cr>
 " Arch
-map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
-imap <C-K> <c-o>:pyf /usr/share/clang/clang-format.py<cr>
+"map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
+"imap <C-K> <c-o>:pyf /usr/share/clang/clang-format.py<cr>
 
 " Ctrl + c comment selected lines
 map <C-c> :s/^/\/\//<Enter>
@@ -80,33 +80,10 @@ map <C-u> :s/^\/\///<Enter>
 " Setting YouCompleteMe global extra configuration
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
 
-""""""""""""""""""""""""""""""
 " airline
-""""""""""""""""""""""""""""""
 set laststatus=2
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
-if !exists('g:airline_symbols')
-    let g:airline_symbols = {}
-endif
-" unicode symbols
-let g:airline_left_sep = '»'
-let g:airline_left_sep = '▶'
-let g:airline_right_sep = '«'
-let g:airline_right_sep = '◀'
-let g:airline_symbols.linenr = '␊'
-let g:airline_symbols.linenr = '␤'
-let g:airline_symbols.linenr = '¶'
-let g:airline_symbols.branch = '⎇'
-let g:airline_symbols.paste = 'ρ'
-let g:airline_symbols.paste = 'Þ'
-let g:airline_symbols.paste = '∥'
-let g:airline_symbols.whitespace = 'Ξ'
-let g:airline_symbols.space = "\ua0"
-let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#show_buffers = 0
-let g:airline_theme = 'molokai'
-
 
 " Vim Bundles (Vundle)
 set rtp+=~/.vim/bundle/vundle/
@@ -126,6 +103,11 @@ Bundle "tomtom/tlib_vim"
 Bundle "garbas/vim-snipmate"
 Bundle 'honza/vim-snippets'
 
+" Airline
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+
+" Color theme
 Plugin 'NLKNguyen/papercolor-theme'
 
 filetype plugin indent on
