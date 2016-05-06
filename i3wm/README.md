@@ -11,7 +11,10 @@ How to setup my i3 configuration in a Ubuntu (16.04) system.
 sudo apt-get install i3 i3blocks git rofi feh 
 ```
 
-## Step 2. Linking config folders
+## Step 2. Install i3-gaps
+[i3-gaps](https://github.com/Airblader/i3)
+
+## Step 3. Linking config folders
 ```bash
 rm -rf ~/.config/i3
 ln -s ~/workspace/dot-files/i3wm ~/.config/i3
