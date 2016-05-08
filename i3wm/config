@@ -29,6 +29,10 @@ font pango:Ubuntu Mono derivative Powerline 12
 # General configuration for the borders
 hide_edge_borders both
 new_window none
+smart_gaps on
+smart_borders on
+gaps inner 5
+gaps outer 2
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
