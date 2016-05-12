@@ -111,7 +111,6 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'NLKNguyen/papercolor-theme'
 
 filetype plugin indent on
-let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
 
 " NERDTree configuration
 " autocmd vimenter * NERDTree
