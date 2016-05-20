@@ -29,6 +29,10 @@ font pango:Ubuntu Mono derivative Powerline 12
 # General configuration for the borders
 hide_edge_borders both
 new_window none
+smart_gaps on
+smart_borders on
+gaps inner 5
+gaps outer 2
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -218,6 +222,8 @@ bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -opacity "85" -bw 0
 
 exec_always --no-startup-id feh --bg-scale /home/maitesin/.wallpaper.jpg
 #exec_always --no-startup-id xrandr --output HDMI-0 --off --output DVI-I-1 --off --output DVI-I-0 --off --output DVI-I-3 --mode 1920x1080 --pos 0x0 --rotate normal --output DVI-I-2 --mode 1920x1080 --pos 1920x0 --rotate normal
+exec --no-startup-id dropbox
+exec --no-startup-id clipit
 #exec --no-startup-id spotify
 #exec --no-startup-id skype
 
