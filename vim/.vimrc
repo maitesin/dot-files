@@ -22,7 +22,7 @@ set background=dark
 syntax on
 " colorscheme wombat256
 " turn line numbers on
-set number
+set relativenumber number
 " highlight matching braces
 set showmatch
 " intelligent comments
@@ -96,6 +96,7 @@ Bundle 'Xuyuanp/nerdtree-git-plugin'
 Bundle 'vim-scripts/Conque-GDB'
 Bundle 'oplatek/Conque-Shell'
 Bundle 'ntpeters/vim-better-whitespace'
+Bundle 'jiangmiao/auto-pairs'
 
 " Stuff for the snippets
 Bundle "MarcWeber/vim-addon-mw-utils"
