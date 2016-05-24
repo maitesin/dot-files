@@ -20,7 +20,7 @@ mkdir -p ~/.vim/bundle
 ## Step 3. Clone Vundle and install plugins
 [https://github.com/VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
 ```bash
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/vundle
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim +PluginInstall +qall
 ```
 
