@@ -1,0 +1,56 @@
+XTerm*faceName: Ubuntu Mono derivative Powerline
+xterm*faceSize: 12
+xterm*vt100*geometry: 80x60
+xterm*saveLines: 16384
+xterm*loginShell: true
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*termName: xterm-color
+xterm*eightBitInput: false
+
+! URxvt font
+URxvt.font:                xft: Ubuntu Mono derivative Powerline:size=12
+URxvt.boldFont:            xft: Ubuntu Mono derivative Powerline:size=12:bold
+URxvt.italicFont:          xft: Ubuntu Mono derivative Powerline:size=12:italic
+URxvt.boldItalicFont:      xft: Ubuntu Mono derivative Powerline:size=12:bold:italic
+
+! URxvt misc
+URxvt.scrollBar: false
+URxvt.transparent: true
+URxvt.shading: 20
+
+
+! Base16 Darktooth
+! Scheme: Jason Milkins (https://github.com/jasonm23)
+
+URxvt*background:                     #1D2021
+URxvt*foreground:                     #A89984
+URxvt*cursorColor:                    #A89984
+
+URxvt*scrollColor:                    #A89984
+URxvt*highlightColor:                 #504945
+URxvt*highlightTextColor:             #928374
+
+URxvt*color0:                         #1D2021
+URxvt*color1:                         #FB543F
+URxvt*color2:                         #95C085
+URxvt*color3:                         #FAC03B
+URxvt*color4:                         #0D6678
+URxvt*color5:                         #8F4673
+URxvt*color6:                         #8BA59B
+URxvt*color7:                         #A89984
+URxvt*color8:                         #665C54
+URxvt*color9:                         #FB543F
+URxvt*color10:                        #95C085
+URxvt*color11:                        #FAC03B
+URxvt*color12:                        #0D6678
+URxvt*color13:                        #8F4673
+URxvt*color14:                        #8BA59B
+URxvt*color15:                        #FDF4C1
+
+URxvt*color16:                        #FE8625
+URxvt*color17:                        #A87322
+URxvt*color18:                        #32302F
+URxvt*color19:                        #504945
+URxvt*color20:                        #928374
+URxvt*color21:                        #D5C4A1
+
