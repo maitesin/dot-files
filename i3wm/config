@@ -98,16 +98,16 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
-set $workspace1 "1:"
-set $workspace2 "2:"
-set $workspace3 "3:"
-set $workspace4 "4:"
-set $workspace5 "5:"
+set $workspace1 ""
+set $workspace2 ""
+set $workspace3 ""
+set $workspace4 ""
+set $workspace5 ""
 set $workspace6 "6:"
 set $workspace7 "7:"
 set $workspace8 "8:"
 set $workspace9 "9:"
-set $workspace10 "10:"
+set $workspace10 ""
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
@@ -139,6 +139,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+b exec lock
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -184,6 +185,7 @@ client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color      
 bar {
         tray_output primary
   	status_command i3blocks -c /home/maitesin/.config/i3/i3blocks.conf
+        position top
 	colors {
 		background $bg-color
 	    	separator #757575
