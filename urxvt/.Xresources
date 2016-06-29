@@ -17,6 +17,8 @@ URxvt.boldItalicFont:      xft: Ubuntu Mono derivative Powerline:size=12:bold:it
 URxvt.scrollBar: false
 URxvt.transparent: true
 URxvt.shading: 20
+!URxvt*depth: 32
+!URxvt*background: rgba:0000/0000/0200/c800
 
 
 ! Base16 Darktooth
