@@ -219,12 +219,16 @@ bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioPause exec playerctl play-pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
-bindsym Print exec screenshot
+bindsym Print exec scrot
 bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd"
 
 exec_always --no-startup-id feh --bg-scale /home/maitesin/.wallpaper.jpg
+
+# Configure screen
 #exec_always --no-startup-id xrandr --output HDMI-0 --off --output DVI-I-1 --off --output DVI-I-0 --off --output DVI-I-3 --mode 1920x1080 --pos 0x0 --rotate normal --output DVI-I-2 --mode 1920x1080 --pos 1920x0 --rotate normal
-exec --no-startup-id dropbox
+exec --no-startup-id xrandr --output DVI-D-1 --primary
+
+exec --no-startup-id dropbox start
 exec --no-startup-id clipit
 #exec --no-startup-id spotify
 #exec --no-startup-id skype
