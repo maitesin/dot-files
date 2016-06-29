@@ -54,13 +54,16 @@ autocmd BufNewFile,BufRead *.c map <F4> :e %:p:s,.h$,.X123X,:s,.c$,.h,:s,.X123X$
 " recreate tags file with F5
 map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
 " build using makeprg with <F7>
-map <F7> :make<CR>
+map <F6> :make<CR>
 " build using makeprg with <S-F7>
-map <S-F7> :make clean all<CR>
+map <S-F6> :make clean all<CR>
 " GDB: step into (Step)
-imap <F8> s<CR>
+imap <F7> s<CR>
 " GDB: step over (Next)
-imap <F9> n<CR>
+imap <F8> n<CR>
+" FixIt
+map <F9> :YcmCompleter FixIt<CR>
+imap <F9>  <ESC>:YcmCompleter FixIt<CR>i
 " goto definition with F12
 map <F12> <C-]>
 
@@ -97,6 +100,7 @@ Bundle 'vim-scripts/Conque-GDB'
 Bundle 'oplatek/Conque-Shell'
 Bundle 'ntpeters/vim-better-whitespace'
 Bundle 'jiangmiao/auto-pairs'
+Plugin 'terryma/vim-multiple-cursors'
 
 " Stuff for the snippets
 Bundle "MarcWeber/vim-addon-mw-utils"
