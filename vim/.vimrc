@@ -44,18 +44,21 @@ set t_vb=
 nmap <F2> :w<CR>
 " in insert mode F2 will exit insert, save, enters insert again
 imap <F2> <ESC>:w<CR>i
+" in normal mode Shift + F2 strip the whitespace of the file and save it
+nmap <S-F2> :StripWhitespace :w<CR>
+" in insert mode Shift + F2 strip the whitespace of the file and save it
+nmap <S-F2> <ESC> :StripWhitespace :w<CR>i
 " in normal mode F3 will strip the whitespaces of the file
-nmap <F3> :StripWhitespace<CR>
-" in insert mode F3 will exit insert, strip the whitespaces, enters insert again
-imap <F3> <ESC>:StripWhitespace<CR>i
+nmap <F3> :NERDTreeToggle<CR>
+imap <F3> <ESC>:NERDTreeToggle<CR>i
 " switch between header/source with F4
 autocmd BufNewFile,BufRead *cpp map <F4> :e %:p:s,.h$,.X123X,:s,.cpp$,.h,:s,.X123X$,.cpp,<CR>
 autocmd BufNewFile,BufRead *.c map <F4> :e %:p:s,.h$,.X123X,:s,.c$,.h,:s,.X123X$,.c,<CR>
 " recreate tags file with F5
 map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
-" build using makeprg with <F7>
+" build using makeprg with <F6>
 map <F6> :make<CR>
-" build using makeprg with <S-F7>
+" build using makeprg with <S-F6>
 map <S-F6> :make clean all<CR>
 " GDB: step into (Step)
 imap <F7> s<CR>
@@ -122,8 +125,6 @@ filetype plugin indent on
 
 autocmd StdinReadPre * let s:std_in=1
 autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
-
-map <C-n> :NERDTreeToggle<CR>
 
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
