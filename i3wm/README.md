@@ -11,8 +11,9 @@ How to setup my i3 configuration in a Ubuntu (16.04) system.
 sudo apt-get install i3 i3blocks git rofi feh lxappearance 
 ```
 
-## Step 2. Install i3-gaps
+## Step 2. Install i3-gaps and i3blocks-gaps
 [i3-gaps](https://github.com/Airblader/i3)
+[i3blocks](https://github.com/vivien/i3blocks)
 
 ## Step 3. Linking config folders
 ```bash
