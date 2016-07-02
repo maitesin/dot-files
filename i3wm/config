@@ -226,7 +226,9 @@ exec_always --no-startup-id feh --bg-scale /home/maitesin/.wallpaper.jpg
 
 # Configure screen
 #exec_always --no-startup-id xrandr --output HDMI-0 --off --output DVI-I-1 --off --output DVI-I-0 --off --output DVI-I-3 --mode 1920x1080 --pos 0x0 --rotate normal --output DVI-I-2 --mode 1920x1080 --pos 1920x0 --rotate normal
-exec --no-startup-id xrandr --output DVI-D-1 --primary
+
+# Specific configuration of my computers
+exec --no-startup-id ~/.config/i3/specific_host.conf
 
 exec --no-startup-id dropbox start
 exec --no-startup-id clipit
