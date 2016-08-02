@@ -225,7 +225,7 @@ bindsym XF86AudioPause exec --no-startup-id playerctl play-pause
 bindsym XF86AudioNext exec --no-startup-id playerctl next
 bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 bindsym Print exec --no-startup-id scrot
-bindsym $mod+d exec --no-startup-id rofi -show run -lines 3 -eh 2 -width 100 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd"
+bindsym $mod+d exec --no-startup-id fish -c 'rofi -show run -lines 3 -eh 2 -width 100 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd"'
 
 exec_always --no-startup-id feh --bg-scale /home/maitesin/.wallpaper.jpg
 
