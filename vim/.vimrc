@@ -98,7 +98,7 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'scrooloose/nerdtree'
-Bundle 'Xuyuanp/nerdtree-git-plugin'
+"Bundle 'Xuyuanp/nerdtree-git-plugin'
 Bundle 'vim-scripts/Conque-GDB'
 Bundle 'oplatek/Conque-Shell'
 Bundle 'ntpeters/vim-better-whitespace'

@@ -8,10 +8,10 @@ xterm*termName: xterm-color
 xterm*eightBitInput: false
 
 ! URxvt font
-URxvt.font:                xft: Ubuntu Mono derivative Powerline:size=12
-URxvt.boldFont:            xft: Ubuntu Mono derivative Powerline:size=12:bold
-URxvt.italicFont:          xft: Ubuntu Mono derivative Powerline:size=12:italic
-URxvt.boldItalicFont:      xft: Ubuntu Mono derivative Powerline:size=12:bold:italic
+URxvt.font:                xft: Ubuntu Mono derivative Powerline:size=13
+URxvt.boldFont:            xft: Ubuntu Mono derivative Powerline:size=13:bold
+URxvt.italicFont:          xft: Ubuntu Mono derivative Powerline:size=13:italic
+URxvt.boldItalicFont:      xft: Ubuntu Mono derivative Powerline:size=13:bold:italic
 
 ! URxvt misc
 URxvt.scrollBar: false
