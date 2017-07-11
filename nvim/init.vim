@@ -84,7 +84,7 @@ map <C-c> :s/^/\/\//<Enter>
 map <C-u> :s/^\/\///<Enter>
 
 " Setting YouCompleteMe global extra configuration
-let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
+let g:ycm_global_ycm_extra_conf = '~/.config/nvim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
 
 " airline
 set laststatus=2
@@ -92,31 +92,33 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
 
 " Vim Bundles (Vundle)
-set rtp+=~/.vim/bundle/Vundle.vim/
-call vundle#rc()
+call plug#begin('~/.local/share/nvim/plugged')
 
-Bundle 'gmarik/vundle'
-Bundle 'Valloric/YouCompleteMe'
-Bundle 'scrooloose/nerdtree'
-"Bundle 'Xuyuanp/nerdtree-git-plugin'
-Bundle 'vim-scripts/Conque-GDB'
-Bundle 'oplatek/Conque-Shell'
-Bundle 'ntpeters/vim-better-whitespace'
-Bundle 'jiangmiao/auto-pairs'
-Plugin 'terryma/vim-multiple-cursors'
+function! BuildYCM(info)
+  if a:info.status == 'installed' || a:info.force
+    !./install.py --clang-completer --gocode-completer --racer-completer --system-libclang --system-boost
+  endif
+endfunction
+
+Plug 'Valloric/YouCompleteMe', {'for':['c', 'cpp', 'python', 'go', 'rust'], 'do': function('BuildYCM')}
+Plug 'scrooloose/nerdtree'
+Plug 'vim-scripts/Conque-GDB'
+Plug 'oplatek/Conque-Shell'
+Plug 'ntpeters/vim-better-whitespace'
+Plug 'jiangmiao/auto-pairs'
+Plug 'terryma/vim-multiple-cursors'
 
 " Stuff for the snippets
-Bundle "MarcWeber/vim-addon-mw-utils"
-Bundle "tomtom/tlib_vim"
-Bundle "garbas/vim-snipmate"
-Bundle 'honza/vim-snippets'
+Plug 'honza/vim-snippets'
 
 " Airline
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 
 " Color theme
-Plugin 'NLKNguyen/papercolor-theme'
+Plug 'NLKNguyen/papercolor-theme'
+
+call plug#end()
 
 filetype plugin indent on
 
@@ -138,3 +140,4 @@ let g:ycm_key_list_select_completion   = ['<C-j>', '<C-n>', '<Down>']
 let g:ycm_key_list_previous_completion = ['<C-k>', '<C-p>', '<Up>']
 
 colorscheme PaperColor
+let g:airline_theme='papercolor'
