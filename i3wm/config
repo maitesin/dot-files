@@ -19,20 +19,15 @@ font pango:Ubuntu Mono derivative Powerline 12
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
+new_window none
+new_float none
+
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # The font above is very space-efficient, that is, it looks good, sharp and
 # clear in small sizes. However, its unicode glyph coverage is limited, the old
 # X core fonts rendering does not support right-to-left and this being a bitmap
 # font, it doesn’t scale on retina/hidpi displays.
-
-# General configuration for the borders
-hide_edge_borders both
-new_window none
-smart_gaps on
-smart_borders on
-gaps inner 5
-gaps outer 2
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -173,7 +168,6 @@ set $inactive-bg-color   #2f343f
 set $text-color          #f3f4f5
 set $inactive-text-color #676E7D
 set $urgent-bg-color     #E53935
-set $transparent         #00000000
 set $white               #ffffff
 set $black               #000000
 
@@ -188,16 +182,13 @@ client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color      
 bar {
         tray_output primary
   	status_command i3blocks -c /home/maitesin/.config/i3/i3blocks.conf
-        i3bar_command i3bar -t
         position top
 	colors {
-                statusline $white
-		background $transparent
-	    	separator #757575
+                statusline $black
 		#                  border             background         text
-		focused_workspace  $transparent       $transparent       $black
-		inactive_workspace $transparent       $transparent       $black
-		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $black
+		focused_workspace  $transparent       $transparent       $white
+		inactive_workspace $transparent       $transparent       $white
+		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $white
 	}
 }
 
