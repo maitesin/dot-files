@@ -15,44 +15,58 @@ URxvt.boldItalicFont:      xft: Ubuntu Mono derivative Powerline:size=13:bold:it
 
 ! URxvt misc
 URxvt.scrollBar: false
-URxvt.transparent: true
-URxvt.shading: 20
-!URxvt*depth: 32
-!URxvt*background: rgba:0000/0000/0200/c800
 
+! Base16 Monokai
+! Scheme: Wimer Hazenberg (http://www.monokai.nl)
 
-! Base16 Darktooth
-! Scheme: Jason Milkins (https://github.com/jasonm23)
+#define base00 #272822
+#define base01 #383830
+#define base02 #49483e
+#define base03 #75715e
+#define base04 #a59f85
+#define base05 #f8f8f2
+#define base06 #f5f4f1
+#define base07 #f9f8f5
+#define base08 #f92672
+#define base09 #fd971f
+#define base0A #f4bf75
+#define base0B #a6e22e
+#define base0C #a1efe4
+#define base0D #66d9ef
+#define base0E #ae81ff
+#define base0F #cc6633
 
-URxvt*background:                     #1D2021
-URxvt*foreground:                     #A89984
-URxvt*cursorColor:                    #A89984
+URxvt.foreground:   base05
+#ifdef background_opacity
+URxvt.background:   [background_opacity]base00
+#else
+URxvt.background:   base00
+#endif
+URxvt.cursorColor:  base05
 
-URxvt*scrollColor:                    #A89984
-URxvt*highlightColor:                 #504945
-URxvt*highlightTextColor:             #928374
+URxvt.color0:       base00
+URxvt.color1:       base08
+URxvt.color2:       base0B
+URxvt.color3:       base0A
+URxvt.color4:       base0D
+URxvt.color5:       base0E
+URxvt.color6:       base0C
+URxvt.color7:       base05
 
-URxvt*color0:                         #1D2021
-URxvt*color1:                         #FB543F
-URxvt*color2:                         #95C085
-URxvt*color3:                         #FAC03B
-URxvt*color4:                         #0D6678
-URxvt*color5:                         #8F4673
-URxvt*color6:                         #8BA59B
-URxvt*color7:                         #A89984
-URxvt*color8:                         #665C54
-URxvt*color9:                         #FB543F
-URxvt*color10:                        #95C085
-URxvt*color11:                        #FAC03B
-URxvt*color12:                        #0D6678
-URxvt*color13:                        #8F4673
-URxvt*color14:                        #8BA59B
-URxvt*color15:                        #FDF4C1
+URxvt.color8:       base03
+URxvt.color9:       base08
+URxvt.color10:      base0B
+URxvt.color11:      base0A
+URxvt.color12:      base0D
+URxvt.color13:      base0E
+URxvt.color14:      base0C
+URxvt.color15:      base07
 
-URxvt*color16:                        #FE8625
-URxvt*color17:                        #A87322
-URxvt*color18:                        #32302F
-URxvt*color19:                        #504945
-URxvt*color20:                        #928374
-URxvt*color21:                        #D5C4A1
-
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+URxvt.color16:      base09
+URxvt.color17:      base0F
+URxvt.color18:      base01
+URxvt.color19:      base02
+URxvt.color20:      base04
+URxvt.color21:      base06
