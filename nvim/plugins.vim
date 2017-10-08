@@ -25,6 +25,12 @@ Plug 'vim-airline/vim-airline-themes'
 " Color theme
 Plug 'NLKNguyen/papercolor-theme'
 
+" Rust
+Plug 'rust-lang/rust.vim'
+
+" Golang
+Plug 'fatih/vim-go'
+
 call plug#end()
 
 
