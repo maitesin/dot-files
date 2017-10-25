@@ -184,7 +184,7 @@ bar {
 	status_command i3status
         position top
 	colors {
-                statusline $black
+                statusline $white
 		#                  border             background         text
 		focused_workspace  $transparent       $transparent       $white
 		inactive_workspace $transparent       $transparent       $white
