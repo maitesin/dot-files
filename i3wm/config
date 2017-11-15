@@ -13,7 +13,7 @@ set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Ubuntu Mono derivative Powerline 12 
+font pango:Ubuntu Mono derivative Powerline 12
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -164,7 +164,7 @@ bindsym $mod+r mode "resize"
 
 
 set $bg-color 	         #2f343f
-set $inactive-bg-color   #2f343f
+set $inactive-bg-color   #5f646f
 set $text-color          #f3f4f5
 set $inactive-text-color #676E7D
 set $urgent-bg-color     #E53935
@@ -174,8 +174,8 @@ set $black               #000000
 # window colors
 #                       border              background         text                 indicator
 client.focused          $bg-color           $bg-color          $text-color          #00ff00
-client.unfocused        $inactive-bg-color $inactive-bg-color $inactive-text-color #00ff00
-client.focused_inactive $inactive-bg-color $inactive-bg-color $inactive-text-color #00ff00
+client.unfocused        $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
+client.focused_inactive $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
 client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color          #00ff00
 
 # bar
@@ -186,8 +186,8 @@ bar {
 	colors {
                 statusline $white
 		#                  border             background         text
-		focused_workspace  $transparent       $transparent       $white
-		inactive_workspace $transparent       $transparent       $white
+		focused_workspace  $bg-color          $bg-color          $white
+		inactive_workspace $inactive-bg-color $inactive-bg-color $white
 		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $white
 	}
 }
@@ -217,10 +217,13 @@ bindsym XF86AudioNext exec --no-startup-id playerctl next
 bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 bindsym Print exec --no-startup-id scrot
 
-exec_always --no-startup-id feh --bg-scale /home/maitesin/.wallpaper.jpg
+exec_always --no-startup-id feh --bg-scale ~/.wallpaper.jpg
 
 # Specific configuration of my computers
 exec --no-startup-id ~/.config/i3/specific_host.conf
+
+# Configure URXVT
+exec --no-startup-id xrdb -merge ~/.Xresources
 
 exec --no-startup-id dropbox start
 exec --no-startup-id clipit

@@ -12,7 +12,6 @@ Go to [https://github.com/powerline/fonts](https://github.com/powerline/fonts)
 
 # Step 4. Install theme and plugins
 ```bash
-omf install vundle
 omf install agnoster
 ```
 
@@ -21,4 +20,4 @@ Append:
 ```bash
 set --erase fish_greeting
 ```
-to the file ~/.config/fish/config.fish
+to the file `~/.config/fish/config.fish`
