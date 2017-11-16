@@ -1,1540 +1,1540 @@
 {
     "shortname": "bsdnow",
     "title": "BSD Now MP3",
+    "url": "http://feeds.feedburner.com/BsdNowMp3",
     "episodes": [
         {
             "published": 1510213669.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0219.mp3",
             "title": "We love the ARC | BSD Now 219",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0219.mp3"
+            "downloaded": false
         },
         {
             "published": 1509609690.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0218.mp3",
             "title": "A KRACK in the WiFi | BSD Now 218",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0218.mp3"
+            "downloaded": false
         },
         {
             "published": 1509019170.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0217.mp3",
             "title": "Your questions, part II | BSD Now 217",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0217.mp3"
+            "downloaded": false
         },
         {
             "published": 1508401726.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0216.mp3",
             "title": "Software is storytelling | BSD Now 216",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0216.mp3"
+            "downloaded": false
         },
         {
             "published": 1507801062.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0215.mp3",
             "title": "Turning FreeBSD up to 100 Gbps | BSD Now 215",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0215.mp3"
+            "downloaded": false
         },
         {
             "published": 1507209535.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0214.mp3",
             "title": "The history of man, kind | BSD Now 214",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0214.mp3"
+            "downloaded": false
         },
         {
             "published": 1506765714.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0213.mp3",
             "title": "The French CONnection | BSD Now 213",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0213.mp3"
+            "downloaded": false
         },
         {
             "published": 1506001200.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0212.mp3",
             "title": "The Solaris Eclipse | BSD Now 212",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0212.mp3"
+            "downloaded": false
         },
         {
             "published": 1505399674.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0211.mp3",
             "title": "It's HAMMER2 Time! | BSD Now 211",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0211.mp3"
+            "downloaded": false
         },
         {
             "published": 1504765028.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0210.mp3",
             "title": "Your questions, Part I | BSD Now 210",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0210.mp3"
+            "downloaded": false
         },
         {
             "published": 1504180278.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0209.mp3",
             "title": "Signals: gotta catch \u2018em all | BSD Now 209",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0209.mp3"
+            "downloaded": false
         },
         {
             "published": 1503563981.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0208.mp3",
             "title": "Faces of Open Source | BSD Now 208",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0208.mp3"
+            "downloaded": false
         },
         {
             "published": 1502973090.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0207.mp3",
             "title": "Bridge over the river Cam | BSD Now 207",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0207.mp3"
+            "downloaded": false
         },
         {
             "published": 1502349058.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0206.mp3",
             "title": "To hier is UNIX | BSD Now 206",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0206.mp3"
+            "downloaded": false
         },
         {
             "published": 1501759436.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0205.mp3",
             "title": "FreeBSD Turning it up to 11.1 | BSD Now 205",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0205.mp3"
+            "downloaded": false
         },
         {
             "published": 1501158666.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0204.mp3",
             "title": "Wayland, Weston & FreeBSD | BSD Now 204",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0204.mp3"
+            "downloaded": false
         },
         {
             "published": 1500539478.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0203.mp3",
             "title": "For the love of ZFS | BSD Now 203",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0203.mp3"
+            "downloaded": false
         },
         {
             "published": 1499935843.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0202.mp3",
             "title": "Brokering Bind | BSD Now 202",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0202.mp3"
+            "downloaded": false
         },
         {
             "published": 1499321676.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0201.mp3",
             "title": "Skip grep, use awk | BSD Now 201",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0201.mp3"
+            "downloaded": false
         },
         {
             "published": 1498721697.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0200.mp3",
             "title": "Getting Scrubbed to Death | BSD Now 200",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0200.mp3"
+            "downloaded": false
         },
         {
             "published": 1498120358.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0199.mp3",
             "title": "Read the source, KARL | BSD Now 199",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0199.mp3"
+            "downloaded": false
         },
         {
             "published": 1497510061.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0198.mp3",
             "title": "You can\u2019t handle the libtruth | BSD Now 198",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0198.mp3"
+            "downloaded": false
         },
         {
             "published": 1496838594.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0197.mp3",
             "title": "Relaying the good news | BSD Now 197",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0197.mp3"
+            "downloaded": false
         },
         {
             "published": 1496307008.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0196.mp3",
             "title": "PostgreZFS | BSD Now 196",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0196.mp3"
+            "downloaded": false
         },
         {
             "published": 1495695892.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0195.mp3",
             "title": "I don\u2019t WannaCry | BSD Now 195",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0195.mp3"
+            "downloaded": false
         },
         {
             "published": 1495091866.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0194.mp3",
             "title": "Daemonic Plans | BSD Now 194",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0194.mp3"
+            "downloaded": false
         },
         {
             "published": 1494497023.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0193.mp3",
             "title": "Fire up the 802.11 AC | BSD Now 193",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0193.mp3"
+            "downloaded": false
         },
         {
             "published": 1493883856.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0192.mp3",
             "title": "SSHv1 Be Gone | BSD Now 192",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0192.mp3"
+            "downloaded": false
         },
         {
             "published": 1493266892.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0191.mp3",
             "title": "I Know 64 & A Bunch More | BSD Now 191",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0191.mp3"
+            "downloaded": false
         },
         {
             "published": 1492656436.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0190.mp3",
             "title": "The Moore You Know | BSD Now 190",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0190.mp3"
+            "downloaded": false
         },
         {
             "published": 1492050080.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0189.mp3",
             "title": "Codified Summer | BSD Now 189",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0189.mp3"
+            "downloaded": false
         },
         {
             "published": 1491445923.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0188.mp3",
             "title": "And then the murders began | BSD Now 188",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0188.mp3"
+            "downloaded": false
         },
         {
             "published": 1490834707.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0187.mp3",
             "title": "Catching up to BSD | BSD Now 187",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0187.mp3"
+            "downloaded": false
         },
         {
             "published": 1490254779.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0186.mp3",
             "title": "Fast & the Firewall: Tokyo Drift | BSD Now 186",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0186.mp3"
+            "downloaded": false
         },
         {
             "published": 1489628306.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0185.mp3",
             "title": "Exit Interview | BSD Now 185",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0185.mp3"
+            "downloaded": false
         },
         {
             "published": 1488944926.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0184.mp3",
             "title": "Tokyo Dreaming | BSD Now 184",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0184.mp3"
+            "downloaded": false
         },
         {
             "published": 1488320753.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0183.mp3",
             "title": "Getting Steamy Here | BSD Now 183",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0183.mp3"
+            "downloaded": false
         },
         {
             "published": 1487800268.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0182.mp3",
             "title": "Bloaty McBloatface | BSD Now 182",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0182.mp3"
+            "downloaded": false
         },
         {
             "published": 1487160170.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0181.mp3",
             "title": "The Cantrillogy | BSD Now 181",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0181.mp3"
+            "downloaded": false
         },
         {
             "published": 1486519424.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0180.mp3",
             "title": "Illuminating the desktop | BSD Now 180",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0180.mp3"
+            "downloaded": false
         },
         {
             "published": 1485996778.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0179.mp3",
             "title": "The Wayland Machine | BSD Now 179",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0179.mp3"
+            "downloaded": false
         },
         {
             "published": 1485416683.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0178.mp3",
             "title": "Enjoy the Silence | BSD Now 178",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0178.mp3"
+            "downloaded": false
         },
         {
             "published": 1484790757.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0177.mp3",
             "title": "Getting Pi on my Wifi | BSD Now 177",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0177.mp3"
+            "downloaded": false
         },
         {
             "published": 1484195788.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0176.mp3",
             "title": "Linking your world | BSD Now 176",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0176.mp3"
+            "downloaded": false
         },
         {
             "published": 1483582162.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0175.mp3",
             "title": "How the Dtrace saved Christmas | BSD Now 175",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0175.mp3"
+            "downloaded": false
         },
         {
             "published": 1483007444.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0174.mp3",
             "title": "2016 highlights | BSD Now 174",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0174.mp3"
+            "downloaded": false
         },
         {
             "published": 1482365098.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0173.mp3",
             "title": "Carry on my Wayland son | BSD Now 173",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0173.mp3"
+            "downloaded": false
         },
         {
             "published": 1481775010.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0172.mp3",
             "title": "A tale of BSD from yore | BSD Now 172",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0172.mp3"
+            "downloaded": false
         },
         {
             "published": 1481160913.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0171.mp3",
             "title": "The APU, BSD Style! | BSD Now 171",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0171.mp3"
+            "downloaded": false
         },
         {
             "published": 1480564643.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0170.mp3",
             "title": "Sandboxing Cohabitation | BSD Now 170",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0170.mp3"
+            "downloaded": false
         },
         {
             "published": 1479946789.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0169.mp3",
             "title": "Scheduling your NetBSD | BSD Now 169",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0169.mp3"
+            "downloaded": false
         },
         {
             "published": 1479384035.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0168.mp3",
             "title": "The Post Show Show | BSD Now 168",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0168.mp3"
+            "downloaded": false
         },
         {
             "published": 1478767478.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0167.mp3",
             "title": "Playing the Long Game | BSD Now 167",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0167.mp3"
+            "downloaded": false
         },
         {
             "published": 1478137491.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0166.mp3",
             "title": "Pass that UNIX Pipe | BSD Now 166",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0166.mp3"
+            "downloaded": false
         },
         {
             "published": 1477544715.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0165.mp3",
             "title": "Vote4BSD | BSD Now 165",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0165.mp3"
+            "downloaded": false
         },
         {
             "published": 1476940027.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0164.mp3",
             "title": "Virtualized COW / PI? | BSD Now 164",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0164.mp3"
+            "downloaded": false
         },
         {
             "published": 1476355815.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0163.mp3",
             "title": "Return of the Cantrill | BSD Now 163",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0163.mp3"
+            "downloaded": false
         },
         {
             "published": 1475751905.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0162.mp3",
             "title": "The Foundation of NetBSD | BSD Now 162",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0162.mp3"
+            "downloaded": false
         },
         {
             "published": 1475138500.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0161.mp3",
             "title": "The BSD Bromance | BSD Now 161",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0161.mp3"
+            "downloaded": false
         },
         {
             "published": 1474529235.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0160.mp3",
             "title": "EuroBSD Dreamin' | BSD Now 160",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0160.mp3"
+            "downloaded": false
         },
         {
             "published": 1473937691.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0159.mp3",
             "title": "Net Scaling Privacy (Flix Style) | BSD Now 159",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0159.mp3"
+            "downloaded": false
         },
         {
             "published": 1473333092.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0158.mp3",
             "title": "Ham, Radio & Pie, Oh My! | BSD Now 158",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0158.mp3"
+            "downloaded": false
         },
         {
             "published": 1472695734.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0157.mp3",
             "title": "ZFS, The \u201cUniversal\u201d Filesystem | BSD Now 157",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0157.mp3"
+            "downloaded": false
         },
         {
             "published": 1472106683.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0156.mp3",
             "title": "The Fresh BSD experience | BSD Now 156",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0156.mp3"
+            "downloaded": false
         },
         {
             "published": 1471506269.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0155.mp3",
             "title": "Cabling up FreeBSD | BSD Now 155",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0155.mp3"
+            "downloaded": false
         },
         {
             "published": 1470895061.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0154.mp3",
             "title": "Myths, Pi's & Features, oh my! | BSD Now 154",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0154.mp3"
+            "downloaded": false
         },
         {
             "published": 1470301595.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0153.mp3",
             "title": "Big Int Trouble | BSD Now 153",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0153.mp3"
+            "downloaded": false
         },
         {
             "published": 1469679326.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0152.mp3",
             "title": "The Laporte has landed! | BSD Now 152",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0152.mp3"
+            "downloaded": false
         },
         {
             "published": 1469099227.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0151.mp3",
             "title": "Fuzzy Auditing | BSD Now 151",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0151.mp3"
+            "downloaded": false
         },
         {
             "published": 1468478555.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0150.mp3",
             "title": "Sprinkle A Little BSD Into Your Life | BSD Now 150",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0150.mp3"
+            "downloaded": false
         },
         {
             "published": 1467894781.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0149.mp3",
             "title": "A Wild Dexter Appears! | BSD Now 149",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0149.mp3"
+            "downloaded": false
         },
         {
             "published": 1467276808.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0148.mp3",
             "title": "The place to B... A Robot! | BSD Now 148",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0148.mp3"
+            "downloaded": false
         },
         {
             "published": 1466677643.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0147.mp3",
             "title": "Release all the things! | BSD Now 147",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0147.mp3"
+            "downloaded": false
         },
         {
             "published": 1466073348.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0146.mp3",
             "title": "Music to Beastie\u2019s ears | BSD Now 146",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0146.mp3"
+            "downloaded": false
         },
         {
             "published": 1465465013.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0145.mp3",
             "title": "At the Core of it all | BSD Now 145",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0145.mp3"
+            "downloaded": false
         },
         {
             "published": 1464842979.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0144.mp3",
             "title": "The PF life | BSD Now 144",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0144.mp3"
+            "downloaded": false
         },
         {
             "published": 1464261255.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0143.mp3",
             "title": "One small step for DRM, one giant leap for BSD | BSD Now 143",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0143.mp3"
+            "downloaded": false
         },
         {
             "published": 1463654535.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0142.mp3",
             "title": "Diving for BSD Perls | BSD Now 142",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0142.mp3"
+            "downloaded": false
         },
         {
             "published": 1463048119.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0141.mp3",
             "title": "BSD Likes Ike! | BSD Now 141",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0141.mp3"
+            "downloaded": false
         },
         {
             "published": 1462444952.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0140.mp3",
             "title": "Tracing it back to BSD | BSD Now 140",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0140.mp3"
+            "downloaded": false
         },
         {
             "published": 1461822471.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0139.mp3",
             "title": "Cheri-picking BSD | BSD Now 139",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0139.mp3"
+            "downloaded": false
         },
         {
             "published": 1461235021.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0138.mp3",
             "title": "Rushing into BSD | BSD Now 138",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0138.mp3"
+            "downloaded": false
         },
         {
             "published": 1460628950.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0137.mp3",
             "title": "FreeNAS Mini XL | BSD Now 137",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0137.mp3"
+            "downloaded": false
         },
         {
             "published": 1460018745.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0136.mp3",
             "title": "This is GNN | BSD Now 136",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0136.mp3"
+            "downloaded": false
         },
         {
             "published": 1459419939.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0135.mp3",
             "title": "Speciality MWL | BSD Now 135",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0135.mp3"
+            "downloaded": false
         },
         {
             "published": 1458814368.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0134.mp3",
             "title": "Marking up the Ports tree | BSD Now 134",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0134.mp3"
+            "downloaded": false
         },
         {
             "published": 1458209128.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0133.mp3",
             "title": "The Tokyo Debrief | BSD Now 133",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0133.mp3"
+            "downloaded": false
         },
         {
             "published": 1457604021.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0132.mp3",
             "title": "Scaling up with BSD | BSD Now 132",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0132.mp3"
+            "downloaded": false
         },
         {
             "published": 1456989868.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0131.mp3",
             "title": "BSD Behind The Chalkboard | BSD Now 131",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0131.mp3"
+            "downloaded": false
         },
         {
             "published": 1456399681.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0130.mp3",
             "title": "Store all the Things | BSD Now 130",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0130.mp3"
+            "downloaded": false
         },
         {
             "published": 1455728059.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0129.mp3",
             "title": "Synthesize all the Things! | BSD Now 129",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0129.mp3"
+            "downloaded": false
         },
         {
             "published": 1455181827.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0128.mp3",
             "title": "The State of BSD | BSD Now 128",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0128.mp3"
+            "downloaded": false
         },
         {
             "published": 1454580300.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0127.mp3",
             "title": "DNS, Black Holes & Willem | BSD Now 127",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0127.mp3"
+            "downloaded": false
         },
         {
             "published": 1453967962.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0126.mp3",
             "title": "illuminating the future on PC-BSD | BSD Now 126",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0126.mp3"
+            "downloaded": false
         },
         {
             "published": 1453370825.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0125.mp3",
             "title": "DevSummits, Core and the Baldwin | BSD Now 125",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0125.mp3"
+            "downloaded": false
         },
         {
             "published": 1452769091.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0124.mp3",
             "title": "Get your engine(x) started! | BSD Now 124",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0124.mp3"
+            "downloaded": false
         },
         {
             "published": 1452163056.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0123.mp3",
             "title": "ZFS in the trenches | BSD Now 123",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0123.mp3"
+            "downloaded": false
         },
         {
             "published": 1451549245.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0122.mp3",
             "title": "The BSD Black Box | BSD Now 122",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0122.mp3"
+            "downloaded": false
         },
         {
             "published": 1450949755.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0121.mp3",
             "title": "All your hyves are belong to us | BSD Now 121",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0121.mp3"
+            "downloaded": false
         },
         {
             "published": 1450339942.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0120.mp3",
             "title": "I\u2019m talking about the man in the middle | BSD Now 120",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0120.mp3"
+            "downloaded": false
         },
         {
             "published": 1449743484.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0119.mp3",
             "title": "There be Dragons, BSD Dragons! | BSD Now 119",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0119.mp3"
+            "downloaded": false
         },
         {
             "published": 1449131336.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0118.mp3",
             "title": "BSD is go for Launch | BSD Now 118",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0118.mp3"
+            "downloaded": false
         },
         {
             "published": 1448527806.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0117.mp3",
             "title": "The Cantrill Strikes Back | BSD Now 117",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0117.mp3"
+            "downloaded": false
         },
         {
             "published": 1447928155.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0116.mp3",
             "title": "Arcing ZFS | BSD Now 116",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0116.mp3"
+            "downloaded": false
         },
         {
             "published": 1447322310.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0115.mp3",
             "title": "Controlling the Transmissions | BSD Now 115",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0115.mp3"
+            "downloaded": false
         },
         {
             "published": 1446708971.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0114.mp3",
             "title": "BSD-Schooling | BSD Now 114",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0114.mp3"
+            "downloaded": false
         },
         {
             "published": 1446113950.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0113.mp3",
             "title": "What\u2019s Next for BSD? | BSD Now 113",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0113.mp3"
+            "downloaded": false
         },
         {
             "published": 1445504937.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0112.mp3",
             "title": "Tracing the source | BSD Now 112",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0112.mp3"
+            "downloaded": false
         },
         {
             "published": 1444901337.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0111.mp3",
             "title": "Xenocratic Oath | BSD Now 111",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0111.mp3"
+            "downloaded": false
         },
         {
             "published": 1444298255.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0110.mp3",
             "title": "Firmware Fights | BSD Now 110",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0110.mp3"
+            "downloaded": false
         },
         {
             "published": 1443688389.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0109.mp3",
             "title": "Impish BSD | BSD Now 109",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0109.mp3"
+            "downloaded": false
         },
         {
             "published": 1443076633.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0108.mp3",
             "title": "ServeUp BSD | BSD Now 108",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0108.mp3"
+            "downloaded": false
         },
         {
             "published": 1442486757.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0107.mp3",
             "title": "In Their Midst | BSD Now 107",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0107.mp3"
+            "downloaded": false
         },
         {
             "published": 1441859184.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0106.mp3",
             "title": "Multipath TCP | BSD Now 106",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0106.mp3"
+            "downloaded": false
         },
         {
             "published": 1441259067.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0105.mp3",
             "title": "Virginia BSD Assembly | BSD Now 105",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0105.mp3"
+            "downloaded": false
         },
         {
             "published": 1440669792.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0104.mp3",
             "title": "Beverly Hills 25519 | BSD Now 104",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0104.mp3"
+            "downloaded": false
         },
         {
             "published": 1440061167.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0103.mp3",
             "title": "Ubuntu Slaughters Kittens | BSD Now 103",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0103.mp3"
+            "downloaded": false
         },
         {
             "published": 1439460524.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0102.mp3",
             "title": "May Contain ZFS | BSD Now 102",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0102.mp3"
+            "downloaded": false
         },
         {
             "published": 1438855986.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0101.mp3",
             "title": "I'll Fix Everything | BSD Now 101",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0101.mp3"
+            "downloaded": false
         },
         {
             "published": 1438253323.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0100.mp3",
             "title": "Straight from the Src | BSD Now 100",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0100.mp3"
+            "downloaded": false
         },
         {
             "published": 1437643719.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0099.mp3",
             "title": "BSD Gnow | BSD Now 99",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0099.mp3"
+            "downloaded": false
         },
         {
             "published": 1437040479.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0098.mp3",
             "title": "Our Code is Your Code | BSD Now 98",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0098.mp3"
+            "downloaded": false
         },
         {
             "published": 1436436461.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0097.mp3",
             "title": "Big Network, SmallWall | BSD Now 97",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0097.mp3"
+            "downloaded": false
         },
         {
             "published": 1435832673.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0096.mp3",
             "title": "Lost Technology | BSD Now 96",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0096.mp3"
+            "downloaded": false
         },
         {
             "published": 1435234448.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0095.mp3",
             "title": "Bitrot Group Therapy | BSD Now 95",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0095.mp3"
+            "downloaded": false
         },
         {
             "published": 1434623522.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0094.mp3",
             "title": "Builder's Insurance | BSD Now 94",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0094.mp3"
+            "downloaded": false
         },
         {
             "published": 1434017501.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0093.mp3",
             "title": "Stacked in Our Favor | BSD Now 93",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0093.mp3"
+            "downloaded": false
         },
         {
             "published": 1433409960.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0092.mp3",
             "title": "BSD After Midnight | BSD Now 92",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0092.mp3"
+            "downloaded": false
         },
         {
             "published": 1432793896.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0091.mp3",
             "title": "Vox Populi | BSD Now 91",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0091.mp3"
+            "downloaded": false
         },
         {
             "published": 1432202986.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0090.mp3",
             "title": "ZFS Armistice | BSD Now 90",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0090.mp3"
+            "downloaded": false
         },
         {
             "published": 1431600393.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0089b.mp3",
             "title": "Exclusive Disjunction | BSD Now 89",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0089b.mp3"
+            "downloaded": false
         },
         {
             "published": 1430993250.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0088.mp3",
             "title": "Below the Clouds | BSD Now 88",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0088.mp3"
+            "downloaded": false
         },
         {
             "published": 1430383964.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0087.mp3",
             "title": "On the List | BSD Now 87",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0087.mp3"
+            "downloaded": false
         },
         {
             "published": 1429781343.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0086.mp3",
             "title": "Business as Usual | BSD Now 86",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0086.mp3"
+            "downloaded": false
         },
         {
             "published": 1429183286.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0085.mp3",
             "title": "PIE in the Sky | BSD Now 85",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0085.mp3"
+            "downloaded": false
         },
         {
             "published": 1428581942.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0084.mp3",
             "title": "pkg remove freebsd-update | BSD Now 84",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0084.mp3"
+            "downloaded": false
         },
         {
             "published": 1427983226.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0083.mp3",
             "title": "woN DSB | BSD Now 83",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0083.mp3"
+            "downloaded": false
         },
         {
             "published": 1427368385.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0082.mp3",
             "title": "SSL in the Wild | BSD Now 82",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0082.mp3"
+            "downloaded": false
         },
         {
             "published": 1426761243.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0081.mp3",
             "title": "Puffy in a Box | BSD Now 81",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0081.mp3"
+            "downloaded": false
         },
         {
             "published": 1426153199.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0080.mp3",
             "title": "The PC-BSD Tour II | BSD Now 80",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0080.mp3"
+            "downloaded": false
         },
         {
             "published": 1425557067.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0079.mp3",
             "title": "Just Add QEMU | BSD Now 79",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0079.mp3"
+            "downloaded": false
         },
         {
             "published": 1424955422.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0078.mp3",
             "title": "From the Foundation (Part 2) | BSD Now 78",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0078.mp3"
+            "downloaded": false
         },
         {
             "published": 1424347902.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0077.mp3",
             "title": "Noah's L2ARC | BSD Now 77",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0077.mp3"
+            "downloaded": false
         },
         {
             "published": 1423747840.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0076.mp3",
             "title": "Time for a Change | BSD Now 76",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0076.mp3"
+            "downloaded": false
         },
         {
             "published": 1423137017.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0075.mp3",
             "title": "From the Foundation (Part 1) | BSD Now 75",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0075.mp3"
+            "downloaded": false
         },
         {
             "published": 1422531094.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0074.mp3",
             "title": "That Sly MINIX | BSD Now 74",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0074.mp3"
+            "downloaded": false
         },
         {
             "published": 1421934583.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0073.mp3",
             "title": "Pipe Dreams | BSD Now 73",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0073.mp3"
+            "downloaded": false
         },
         {
             "published": 1421327481.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0072.mp3",
             "title": "Common *Sense Approach | BSD Now 72",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0072.mp3"
+            "downloaded": false
         },
         {
             "published": 1420715731.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0071.mp3",
             "title": "System Disaster | BSD Now 71",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0071.mp3"
+            "downloaded": false
         },
         {
             "published": 1420112209.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0070.mp3",
             "title": "Daemons in the North | BSD Now 70",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0070.mp3"
+            "downloaded": false
         },
         {
             "published": 1419514400.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0069b.mp3",
             "title": "Under the Ports Tree | BSD Now 69",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0069b.mp3"
+            "downloaded": false
         },
         {
             "published": 1418906089.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0068.mp3",
             "title": "Just the Essentials | BSD Now 68",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0068.mp3"
+            "downloaded": false
         },
         {
             "published": 1418296698.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0067.mp3",
             "title": "Must Be Rigged | BSD Now 67",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0067.mp3"
+            "downloaded": false
         },
         {
             "published": 1417693249.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0066.mp3",
             "title": "Conference Connoisseur | BSD Now 66",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0066.mp3"
+            "downloaded": false
         },
         {
             "published": 1417088160.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0065.mp3",
             "title": "8,000,000 Mogofoo-ops | BSD Now 65",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0065.mp3"
+            "downloaded": false
         },
         {
             "published": 1416476680.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0064.mp3",
             "title": "Rump Kernels Revisited | BSD Now 64",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0064.mp3"
+            "downloaded": false
         },
         {
             "published": 1415884763.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0063.mp3",
             "title": "A Man's man | BSD Now 63",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0063.mp3"
+            "downloaded": false
         },
         {
             "published": 1415271588.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0062.mp3",
             "title": "Gift from the Sun | BSD Now 62",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0062.mp3"
+            "downloaded": false
         },
         {
             "published": 1414668402.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0061.mp3",
             "title": "IPSECond Wind | BSD Now 61",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0061.mp3"
+            "downloaded": false
         },
         {
             "published": 1414060692.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0060.mp3",
             "title": "Don't Buy a Router | BSD Now 60",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0060.mp3"
+            "downloaded": false
         },
         {
             "published": 1413462826.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0059.mp3",
             "title": "BSD\u3063\u3066\u805e\u3044\u305f\u3053\u3068\u3042\u308b\uff1f | BSD Now 59",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0059.mp3"
+            "downloaded": false
         },
         {
             "published": 1412850649.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0058.mp3",
             "title": "Behind the Masq | BSD Now 58",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0058.mp3"
+            "downloaded": false
         },
         {
             "published": 1412251425.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0057.mp3",
             "title": "The Daemon's Apprentice | BSD Now 57",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0057.mp3"
+            "downloaded": false
         },
         {
             "published": 1411643080.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0056.mp3",
             "title": "Beastly Infrastructure | BSD Now 56",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0056.mp3"
+            "downloaded": false
         },
         {
             "published": 1411037061.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0055.mp3",
             "title": "The Promised WLAN | BSD Now 55",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0055.mp3"
+            "downloaded": false
         },
         {
             "published": 1410434109.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0054.mp3",
             "title": "Luminary Environment | BSD Now 54",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0054.mp3"
+            "downloaded": false
         },
         {
             "published": 1409826563.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0053.mp3",
             "title": "It\u2019s HAMMER Time | BSD Now 53",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0053.mp3"
+            "downloaded": false
         },
         {
             "published": 1409221510.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0052.mp3",
             "title": "Reverse Takeover | BSD Now 52",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0052.mp3"
+            "downloaded": false
         },
         {
             "published": 1408619088.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0051.mp3",
             "title": "Engineering Nginx | BSD Now 51",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0051.mp3"
+            "downloaded": false
         },
         {
             "published": 1408014063.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0050.mp3",
             "title": "VPN, My Dear Watson | BSD Now 50",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0050.mp3"
+            "downloaded": false
         },
         {
             "published": 1407413406.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0049.mp3",
             "title": "The PC-BSD Tour | BSD Now 49",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0049.mp3"
+            "downloaded": false
         },
         {
             "published": 1406803472.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0048.mp3",
             "title": "Liberating SSL | BSD Now 48",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0048.mp3"
+            "downloaded": false
         },
         {
             "published": 1406202555.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0047.mp3",
             "title": "DES Challenge IV | BSD Now 47",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0047.mp3"
+            "downloaded": false
         },
         {
             "published": 1405596717.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0046.mp3",
             "title": "Network Iodometry | BSD Now 46",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0046.mp3"
+            "downloaded": false
         },
         {
             "published": 1404996252.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0045.mp3",
             "title": "ZFS War Stories | BSD Now 45",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0045.mp3"
+            "downloaded": false
         },
         {
             "published": 1404388227.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0044.mp3",
             "title": "Base ISO 100 | BSD Now 44",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0044.mp3"
+            "downloaded": false
         },
         {
             "published": 1403777575.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0043.mp3",
             "title": "Package Design | BSD Now 43",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0043.mp3"
+            "downloaded": false
         },
         {
             "published": 1403179375.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0042.mp3",
             "title": "Devious Methods | BSD Now 42",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0042.mp3"
+            "downloaded": false
         },
         {
             "published": 1402586855.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0041.mp3",
             "title": "Commit This Bit | BSD Now 41",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0041.mp3"
+            "downloaded": false
         },
         {
             "published": 1401974454.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0040.mp3",
             "title": "AirPorts & Packages | BSD Now 40",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0040.mp3"
+            "downloaded": false
         },
         {
             "published": 1401370731.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0039c.mp3",
             "title": "The Friendly Sandbox | BSD Now 39",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0039c.mp3"
+            "downloaded": false
         },
         {
             "published": 1400755892.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0038.mp3",
             "title": "A BUG\u2019s Life | BSD Now 38",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0038.mp3"
+            "downloaded": false
         },
         {
             "published": 1400238461.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0037.mp3",
             "title": "BSDCanned Goods | BSD Now 37",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0037.mp3"
+            "downloaded": false
         },
         {
             "published": 1399630930.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0036.mp3",
             "title": "Let\u2019s Get RAID | BSD Now 36",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0036.mp3"
+            "downloaded": false
         },
         {
             "published": 1398902129.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0035.mp3",
             "title": "Puffy Firewall | BSD Now 35",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0035.mp3"
+            "downloaded": false
         },
         {
             "published": 1398247530.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0034.mp3",
             "title": "It\u2019s Gonna Get NASty | BSD Now 34",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0034.mp3"
+            "downloaded": false
         },
         {
             "published": 1397761487.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0033.mp3",
             "title": "Certified Package Delivery | BSD Now 33",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0033.mp3"
+            "downloaded": false
         },
         {
             "published": 1397156039.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0032.mp3",
             "title": "PXE Dust | BSD Now 32",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0032.mp3"
+            "downloaded": false
         },
         {
             "published": 1396559246.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/201404.jb-dl.cdn.scaleengine.net/bsdnow/2014/audio/bsd-0031.mp3",
             "title": "Edgy BSD Users | BSD Now 31",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/201404.jb-dl.cdn.scaleengine.net/bsdnow/2014/audio/bsd-0031.mp3"
+            "downloaded": false
         },
         {
             "published": 1395960099.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0030-mp3.mp3",
             "title": "Documentation is King | BSD Now 30",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0030-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1395360180.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0029-mp3.mp3",
             "title": "P.E.F.S. | BSD 29",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0029-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1394738316.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0028-mp3.mp3",
             "title": "Ghost of Partition | BSD 28",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0028-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1394149448.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0027-mp3.mp3",
             "title": "BSD Now vs. BSDTalk | BSD Now 27",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0027-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1393537075.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0026-mp3.mp3",
             "title": "Port Authority | BSD Now 26",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0026-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1392931760.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0025-mp3.mp3",
             "title": "A Sixth pfSense | BSD 25",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0025-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1392155460.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/201402.jb-dl.cdn.scaleengine.net/bsdnow/2014/audio/bsd-0024-mp3.mp3",
             "title": "The Cluster & The Cloud | BSD Now 24",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/201402.jb-dl.cdn.scaleengine.net/bsdnow/2014/audio/bsd-0024-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1391724619.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0023-mp3.mp3",
             "title": "Time Signatures | BSD Now 23",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0023-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1391122337.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0022-mp3.mp3",
             "title": "Journaled News-Updates | BSD Now 22",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0022-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1390514205.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0021-mp3.mp3",
             "title": "Tendresse for Ten | BSD Now 21",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0021-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1389912567.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0020-mp3.mp3",
             "title": "Bhyve Mind | BSD Now 20",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0020-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1389343297.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0019-mp3.mp3",
             "title": "The Installfest | BSD 19",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0019-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1388526228.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0018-mp3.mp3",
             "title": "Eclipsing Binaries | BSD Now 18",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0018-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1387925470.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0017-mp3.mp3",
             "title": "The Gift of Giving | BSD Now 17",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0017-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1387537012.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0016-mp3.mp3",
             "title": "Cryptocrystalline | BSD Now 16",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0016-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1386884261.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0015-mp3.mp3",
             "title": "Kickin' NAS | BSD Now 15",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0015-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1386333121.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0014-mp3.mp3",
             "title": "Zettabytes for Days | BSD Now 14",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0014-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1385719013.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0013-mp3.mp3",
             "title": "Bridging the Gap | BSD Now 13",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0013-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1385113825.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0012-mp3.mp3",
             "title": "Collecting SSHells | BSD Now 12",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0012-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1384511533.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0011-mp3.mp3",
             "title": "The Gateway Drug | BSD Now 11",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0011-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1383860604.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0010-mp3.mp3",
             "title": "Year of the BSD Desktop | BSD Now 10",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0010-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1383258661.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0009-mp3.mp3",
             "title": "-CURRENT Events | BSD Now 9",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/bsd-0009-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1382690603.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0008-mp3.mp3",
             "title": "A Brief Introduction | BSD Now 8",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0008-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1382092389.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0007-mp3.mp3",
             "title": "Go Directly to Jail(8) | BSD Now 7",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0007-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1381477342.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0006-mp3.mp3",
             "title": "Doing It de Raadt Way | BSD Now 6",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0006-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1380823267.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0005-mp3.mp3",
             "title": "Stacks of Cache | BSD Now 5",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0005-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1380203432.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0004-mp3.mp3",
             "title": "Teskeing the Possibilities | BSD Now 4",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0004-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1379665877.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0003-mp3.mp3",
             "title": "MX with TTX | BSD Now 3",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/bsd-0003-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1378980411.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0002-mp3.mp3",
             "title": "Engineering and Powder Kegs | BSD Now 2",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/bsd-0002-mp3.mp3"
+            "downloaded": false
         },
         {
             "published": 1378472863.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/BSD-0001-mp3.mp3",
             "title": "BGP & BSD | BSD Now 1",
             "listened": false,
-            "downloaded": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/BSD-0001-mp3.mp3"
+            "downloaded": false
         }
-    ],
-    "url": "http://feeds.feedburner.com/BsdNowMp3"
+    ]
 }
