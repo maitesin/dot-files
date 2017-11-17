@@ -2,8 +2,13 @@
 call plug#begin('~/.local/share/nvim/plugged')
 
 function! BuildYCM(info)
+  let os_name = system("uname")
   if a:info.status == 'installed' || a:info.force
-    !./install.py --clang-completer --gocode-completer --rust-completer
+    if os_name == 'OpenBSD'
+      !./install.py --clang-completer --gocode-completer --rust-completer --system-libclang
+    else
+      !./install.py --clang-completer --gocode-completer --rust-completer
+    endif
   endif
 endfunction
 
