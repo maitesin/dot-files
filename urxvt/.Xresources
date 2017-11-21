@@ -37,11 +37,7 @@ URxvt.scrollBar: false
 #define base0F #cc6633
 
 URxvt.foreground:   base05
-#ifdef background_opacity
-URxvt.background:   [background_opacity]base00
-#else
 URxvt.background:   base00
-#endif
 URxvt.cursorColor:  base05
 
 URxvt.color0:       base00
