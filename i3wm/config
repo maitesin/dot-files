@@ -19,7 +19,7 @@ font pango:Ubuntu Mono derivative Powerline 12
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
-new_window none
+new_window pixel 1
 new_float none
 
 # Before i3 v4.8, we used to recommend this one as the default:
