@@ -1,1098 +1,1098 @@
 {
-    "shortname": "techsnap",
     "title": "TechSNAP MP3",
+    "shortname": "techsnap",
     "episodes": [
         {
-            "published": 1511200703.0,
-            "downloaded": true,
             "listened": false,
             "title": "Neutral Nets | TechSNAP 346",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0346.mp3"
+            "downloaded": true,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0346.mp3",
+            "published": 1511200703.0
         },
         {
-            "published": 1510967709.0,
-            "downloaded": true,
             "listened": false,
             "title": "Namespaces GOTO Jail | TechSNAP 345",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0345.mp3"
+            "downloaded": true,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0345.mp3",
+            "published": 1510967709.0
         },
         {
-            "published": 1510101599.0,
-            "downloaded": false,
             "listened": false,
             "title": "SSL Strippers | TechSNAP 344",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0344b.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0344b.mp3",
+            "published": 1510101599.0
         },
         {
-            "published": 1509490887.0,
-            "downloaded": false,
             "listened": false,
             "title": "Low Security Pillow Storage | TechSNAP 343",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0343.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0343.mp3",
+            "published": 1509490887.0
         },
         {
-            "published": 1508879558.0,
-            "downloaded": false,
             "listened": false,
             "title": "Cloudy with a chance of ABI | TechSNAP 342",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0342.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0342.mp3",
+            "published": 1508879558.0
         },
         {
-            "published": 1508272489.0,
-            "downloaded": false,
             "listened": false,
             "title": "HAMR Time | TechSNAP 341",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0341.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0341.mp3",
+            "published": 1508272489.0
         },
         {
-            "published": 1507832074.0,
-            "downloaded": false,
             "listened": false,
             "title": "Spy Tapes | TechSNAP 340",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0340.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0340.mp3",
+            "published": 1507832074.0
         },
         {
-            "published": 1507214758.0,
-            "downloaded": false,
             "listened": false,
             "title": "Laying Internet Pipe | TechSNAP 339",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0339.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0339.mp3",
+            "published": 1507214758.0
         },
         {
-            "published": 1506469459.0,
-            "downloaded": false,
             "listened": false,
             "title": "Patch Your S3it | TechSNAP 338",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0338.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0338.mp3",
+            "published": 1506469459.0
         },
         {
-            "published": 1505850161.0,
-            "downloaded": false,
             "listened": false,
             "title": "FCC\u2019s Free Offsite Storage | TechSNAP 337",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0337.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0337.mp3",
+            "published": 1505850161.0
         },
         {
-            "published": 1505256994.0,
-            "downloaded": false,
             "listened": false,
             "title": "Equihax | TechSNAP 336",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0336.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0336.mp3",
+            "published": 1505256994.0
         },
         {
-            "published": 1504646615.0,
-            "downloaded": false,
             "listened": false,
             "title": "Extended Usefulness | TechSNAP 335",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0335.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0335.mp3",
+            "published": 1504646615.0
         },
         {
-            "published": 1504044007.0,
-            "downloaded": false,
             "listened": false,
             "title": "HPKP: Hard to Say, Hard to Use | TechSNAP 334",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0334.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0334.mp3",
+            "published": 1504044007.0
         },
         {
-            "published": 1503646317.0,
-            "downloaded": false,
             "listened": false,
             "title": "Rsync On Ice | TechSNAP 333",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0333.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0333.mp3",
+            "published": 1503646317.0
         },
         {
-            "published": 1502840276.0,
-            "downloaded": false,
             "listened": false,
             "title": "Leaky Pumps | TechSNAP 332",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0332.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0332.mp3",
+            "published": 1502840276.0
         },
         {
-            "published": 1502232238.0,
-            "downloaded": false,
             "listened": false,
             "title": "BTRFS is Toast | TechSNAP 331",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0331.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0331.mp3",
+            "published": 1502232238.0
         },
         {
-            "published": 1501629483.0,
-            "downloaded": false,
             "listened": false,
             "title": "Netflix Lab Rats | TechSNAP 330",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0330.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0330.mp3",
+            "published": 1501629483.0
         },
         {
-            "published": 1501021738.0,
-            "downloaded": false,
             "listened": false,
             "title": "Teeny Weeny DNS Server | TechSNAP 329",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0329.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0329.mp3",
+            "published": 1501021738.0
         },
         {
-            "published": 1500418154.0,
-            "downloaded": false,
             "listened": false,
             "title": "LetsEncrypt is a SNAP | TechSNAP 328",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0328.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0328.mp3",
+            "published": 1500418154.0
         },
         {
-            "published": 1499818455.0,
-            "downloaded": false,
             "listened": false,
             "title": "Unsecured IO | TechSNAP 327",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0327.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0327.mp3",
+            "published": 1499818455.0
         },
         {
-            "published": 1499208842.0,
-            "downloaded": false,
             "listened": false,
             "title": "Broadband from Space | TechSNAP 326",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0326.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0326.mp3",
+            "published": 1499208842.0
         },
         {
-            "published": 1498595124.0,
-            "downloaded": false,
             "listened": false,
             "title": "Google Reads Your Email | TechSNAP 325",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0325.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0325.mp3",
+            "published": 1498595124.0
         },
         {
-            "published": 1497996451.0,
-            "downloaded": false,
             "listened": false,
             "title": "DNS Mastery | TechSNAP 324",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0324.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0324.mp3",
+            "published": 1497996451.0
         },
         {
-            "published": 1497410836.0,
-            "downloaded": false,
             "listened": false,
             "title": "Comment & Control | TechSNAP 323",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0323.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0323.mp3",
+            "published": 1497410836.0
         },
         {
-            "published": 1496781222.0,
-            "downloaded": false,
             "listened": false,
             "title": "#NotMyInternet | TechSNAP 322",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0322.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0322.mp3",
+            "published": 1496781222.0
         },
         {
-            "published": 1496180272.0,
-            "downloaded": false,
             "listened": false,
             "title": "A Burrito Stole My Money | TechSNAP 321",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0321.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0321.mp3",
+            "published": 1496180272.0
         },
         {
-            "published": 1495563530.0,
-            "downloaded": false,
             "listened": false,
             "title": "Kill Switch Engage | TechSNAP 320",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0320.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0320.mp3",
+            "published": 1495563530.0
         },
         {
-            "published": 1494970737.0,
-            "downloaded": false,
             "listened": false,
             "title": "When IT Security Cries | TechSNAP 319",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0319.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0319.mp3",
+            "published": 1494970737.0
         },
         {
-            "published": 1494362529.0,
-            "downloaded": false,
             "listened": false,
             "title": "All Drives Die | TechSNAP 318",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0318.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0318.mp3",
+            "published": 1494362529.0
         },
         {
-            "published": 1493776427.0,
-            "downloaded": false,
             "listened": false,
             "title": "Some Fishy Chips | TechSNAP 317",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0317.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0317.mp3",
+            "published": 1493776427.0
         },
         {
-            "published": 1493161448.0,
-            "downloaded": false,
             "listened": false,
             "title": "PHP Steals Your Nuts | TechSNAP 316",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0316.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0316.mp3",
+            "published": 1493161448.0
         },
         {
-            "published": 1492549076.0,
-            "downloaded": false,
             "listened": false,
             "title": "Tales of FileSystems | TechSNAP 315",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0315.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0315.mp3",
+            "published": 1492549076.0
         },
         {
-            "published": 1491963221.0,
-            "downloaded": false,
             "listened": false,
             "title": "Cyber Liability | TechSNAP 314",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0314.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0314.mp3",
+            "published": 1491963221.0
         },
         {
-            "published": 1491354275.0,
-            "downloaded": false,
             "listened": false,
             "title": "Wifi Stack Overfloweth | TechSNAP 313",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0313.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0313.mp3",
+            "published": 1491354275.0
         },
         {
-            "published": 1490747694.0,
-            "downloaded": false,
             "listened": false,
             "title": "Privacy is Dead | TechSNAP 312",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0312.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0312.mp3",
+            "published": 1490747694.0
         },
         {
-            "published": 1490148694.0,
-            "downloaded": false,
             "listened": false,
             "title": "Check Yo Checksum | TechSNAP 311",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0311.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0311.mp3",
+            "published": 1490148694.0
         },
         {
-            "published": 1489533036.0,
-            "downloaded": false,
             "listened": false,
             "title": "Don\u2019t Panic & P your S | TechSNAP 310",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0310.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0310.mp3",
+            "published": 1489533036.0
         },
         {
-            "published": 1488923339.0,
-            "downloaded": false,
             "listened": false,
             "title": "Bad Boy Backups | TechSNAP 309",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0309.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0309.mp3",
+            "published": 1488923339.0
         },
         {
-            "published": 1488318013.0,
-            "downloaded": false,
             "listened": false,
             "title": "Cloudy with a Chance of Leaks | TechSNAP 308",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0308.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0308.mp3",
+            "published": 1488318013.0
         },
         {
-            "published": 1487713440.0,
-            "downloaded": false,
             "listened": false,
             "title": "State Sponsored Audiophiles | TechSNAP 307",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0307.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0307.mp3",
+            "published": 1487713440.0
         },
         {
-            "published": 1487117500.0,
-            "downloaded": false,
             "listened": false,
             "title": "Metadata Matters | TechSNAP 306",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0306.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0306.mp3",
+            "published": 1487117500.0
         },
         {
-            "published": 1486511541.0,
-            "downloaded": false,
             "listened": false,
             "title": "Gambling with Code | TechSNAP 305",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0305.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0305.mp3",
+            "published": 1486511541.0
         },
         {
-            "published": 1485912319.0,
-            "downloaded": false,
             "listened": false,
             "title": "Three C's to Tweet By | TechSNAP 304",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0304.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0304.mp3",
+            "published": 1485912319.0
         },
         {
-            "published": 1485297737.0,
-            "downloaded": false,
             "listened": false,
             "title": "DDos Mafia | TechSNAP 303",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0303.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0303.mp3",
+            "published": 1485297737.0
         },
         {
-            "published": 1484638998.0,
-            "downloaded": false,
             "listened": false,
             "title": "Internet of Voice Triggers | TechSNAP 302",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0302.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0302.mp3",
+            "published": 1484638998.0
         },
         {
-            "published": 1484083329.0,
-            "downloaded": false,
             "listened": false,
             "title": "The Next Generation | TechSNAP 301",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0301.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0301.mp3",
+            "published": 1484083329.0
         },
         {
-            "published": 1483650700.0,
-            "downloaded": false,
             "listened": false,
             "title": "2089 Days Uptime | TechSNAP 300",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0300.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0300.mp3",
+            "published": 1483650700.0
         },
         {
-            "published": 1483037054.0,
-            "downloaded": false,
             "listened": false,
             "title": "Fancy Bear Misfire.apk | TechSNAP 299",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0299.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0299.mp3",
+            "published": 1483037054.0
         },
         {
-            "published": 1482403203.0,
-            "downloaded": false,
             "listened": false,
             "title": "Best of 2016 | TechSNAP 298",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0298.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0298.mp3",
+            "published": 1482403203.0
         },
         {
-            "published": 1481833165.0,
-            "downloaded": false,
             "listened": false,
             "title": "The Bourne Avalanche | TechSNAP 297",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0297.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0297.mp3",
+            "published": 1481833165.0
         },
         {
-            "published": 1481233171.0,
-            "downloaded": false,
             "listened": false,
             "title": "Schoolhouse Exploits | TechSNAP 296",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0296.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0296.mp3",
+            "published": 1481233171.0
         },
         {
-            "published": 1480622337.0,
-            "downloaded": false,
             "listened": false,
             "title": "Shift+F10 and Done | TechSNAP 295",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0295.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0295.mp3",
+            "published": 1480622337.0
         },
         {
-            "published": 1480012627.0,
-            "downloaded": false,
             "listened": false,
             "title": "Turkey.deb | TechSNAP 294",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0294.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0294.mp3",
+            "published": 1480012627.0
         },
         {
-            "published": 1479426570.0,
-            "downloaded": false,
             "listened": false,
             "title": "Root in 70 Seconds | TechSNAP 293",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0293.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0293.mp3",
+            "published": 1479426570.0
         },
         {
-            "published": 1478767866.0,
-            "downloaded": false,
             "listened": false,
             "title": "Unix Security Trifecta | TechSNAP 292",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0292.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0292.mp3",
+            "published": 1478767866.0
         },
         {
-            "published": 1478137819.0,
-            "downloaded": false,
             "listened": false,
             "title": "Nuclear IoT Toaster | TechSNAP 291",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0291.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0291.mp3",
+            "published": 1478137819.0
         },
         {
-            "published": 1477585653.0,
-            "downloaded": false,
             "listened": false,
             "title": "Internet Snow Day | TechSNAP 290",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0290.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0290.mp3",
+            "published": 1477585653.0
         },
         {
-            "published": 1477005901.0,
-            "downloaded": false,
             "listened": false,
             "title": "Long Broken SSL History | TechSNAP 289",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0289.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0289.mp3",
+            "published": 1477005901.0
         },
         {
-            "published": 1476406135.0,
-            "downloaded": false,
             "listened": false,
             "title": "Internet of Default Passwords | TechSNAP 288",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0288.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0288.mp3",
+            "published": 1476406135.0
         },
         {
-            "published": 1475785291.0,
-            "downloaded": false,
             "listened": false,
             "title": "Open Source Botnet | TechSNAP 287",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0287.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0287.mp3",
+            "published": 1475785291.0
         },
         {
-            "published": 1475176558.0,
-            "downloaded": false,
             "listened": false,
             "title": "Botnet of Things | TechSNAP 286",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0286.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0286.mp3",
+            "published": 1475176558.0
         },
         {
-            "published": 1474529693.0,
-            "downloaded": false,
             "listened": false,
             "title": "OpSec for Script Kiddies | TechSNAP 285",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0285.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0285.mp3",
+            "published": 1474529693.0
         },
         {
-            "published": 1473956889.0,
-            "downloaded": false,
             "listened": false,
             "title": "Buffalo Overflow | TechSNAP 284",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0284.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0284.mp3",
+            "published": 1473956889.0
         },
         {
-            "published": 1473364807.0,
-            "downloaded": false,
             "listened": false,
             "title": "I Can't Believe It's Not Ethernet | TechSNAP 283",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0283.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0283.mp3",
+            "published": 1473364807.0
         },
         {
-            "published": 1472754095.0,
-            "downloaded": false,
             "listened": false,
             "title": "The Shadow Knows | TechSNAP 282",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0282.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0282.mp3",
+            "published": 1472754095.0
         },
         {
-            "published": 1472150940.0,
-            "downloaded": false,
             "listened": false,
             "title": "iPhishing Expedition | TechSNAP 281",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0281.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0281.mp3",
+            "published": 1472150940.0
         },
         {
-            "published": 1471507439.0,
-            "downloaded": false,
             "listened": false,
             "title": "Microsoft\u2019s Golden Ticket | TechSNAP 280",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0280.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0280.mp3",
+            "published": 1471507439.0
         },
         {
-            "published": 1470895730.0,
-            "downloaded": false,
             "listened": false,
             "title": "The Internet is Dying | TechSNAP 279",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0279.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0279.mp3",
+            "published": 1470895730.0
         },
         {
-            "published": 1470332909.0,
-            "downloaded": false,
             "listened": false,
             "title": "Dangerous Dangling Quotes | TechSNAP 278",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0278.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0278.mp3",
+            "published": 1470332909.0
         },
         {
-            "published": 1469742915.0,
-            "downloaded": false,
             "listened": false,
             "title": "Internet Power Struggle | TechSNAP 277",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0277.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0277.mp3",
+            "published": 1469742915.0
         },
         {
-            "published": 1469125198.0,
-            "downloaded": false,
             "listened": false,
             "title": "Bitmap Pox | TechSNAP 276",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0276.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0276.mp3",
+            "published": 1469125198.0
         },
         {
-            "published": 1468518082.0,
-            "downloaded": false,
             "listened": false,
             "title": "Ending Ransomware | TechSNAP 275",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0275.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0275.mp3",
+            "published": 1468518082.0
         },
         {
-            "published": 1467919819.0,
-            "downloaded": false,
             "listened": false,
             "title": "Windows Exploit Edition | TechSNAP 274",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0274.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0274.mp3",
+            "published": 1467919819.0
         },
         {
-            "published": 1467308988.0,
-            "downloaded": false,
             "listened": false,
             "title": "Make Ads GIF Again | TechSNAP 273",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0273.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0273.mp3",
+            "published": 1467308988.0
         },
         {
-            "published": 1466708289.0,
-            "downloaded": false,
             "listened": false,
             "title": "Game of File Systems | TechSNAP 272",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0272.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0272.mp3",
+            "published": 1466708289.0
         },
         {
-            "published": 1466103076.0,
-            "downloaded": false,
             "listened": false,
             "title": "Apple Pretend Filesystem | TechSNAP 271",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0271.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0271.mp3",
+            "published": 1466103076.0
         },
         {
-            "published": 1465467482.0,
-            "downloaded": false,
             "listened": false,
             "title": "Signature Bloatware Updates | TechSNAP 270",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0270.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0270.mp3",
+            "published": 1465467482.0
         },
         {
-            "published": 1464884640.0,
-            "downloaded": false,
             "listened": false,
             "title": "10,000 Cables Under the Sea | TechSNAP 269",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0269.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0269.mp3",
+            "published": 1464884640.0
         },
         {
-            "published": 1464284288.0,
-            "downloaded": false,
             "listened": false,
             "title": "PIS Poor DNS | TechSNAP 268",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0268.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0268.mp3",
+            "published": 1464284288.0
         },
         {
-            "published": 1463679593.0,
-            "downloaded": false,
             "listened": false,
             "title": "My Kingdom for a VLAN | TechSNAP 267",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0267.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0267.mp3",
+            "published": 1463679593.0
         },
         {
-            "published": 1463082046.0,
-            "downloaded": false,
             "listened": false,
             "title": "Curl Sleeper Agent | TechSNAP 266",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0266.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0266.mp3",
+            "published": 1463082046.0
         },
         {
-            "published": 1462480670.0,
-            "downloaded": false,
             "listened": false,
             "title": "Insecure Socket Layer | TechSNAP 265",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0265.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0265.mp3",
+            "published": 1462480670.0
         },
         {
-            "published": 1461823108.0,
-            "downloaded": false,
             "listened": false,
             "title": "On Target | TechSNAP 264",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0264.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0264.mp3",
+            "published": 1461823108.0
         },
         {
-            "published": 1461235487.0,
-            "downloaded": false,
             "listened": false,
             "title": "One Key to Rule Them All | TechSNAP 263",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0263.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0263.mp3",
+            "published": 1461235487.0
         },
         {
-            "published": 1460659114.0,
-            "downloaded": false,
             "listened": false,
             "title": "rm -rf $ALLTHETHINGS/ | TechSNAP 262",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0262.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0262.mp3",
+            "published": 1460659114.0
         },
         {
-            "published": 1460019087.0,
-            "downloaded": false,
             "listened": false,
             "title": "Holding Hospitals Hostage | TechSNAP 261",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0261.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0261.mp3",
+            "published": 1460019087.0
         },
         {
-            "published": 1459436606.0,
-            "downloaded": false,
             "listened": false,
             "title": "Pay to Boot | TechSNAP 260",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0260.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0260.mp3",
+            "published": 1459436606.0
         },
         {
-            "published": 1458845655.0,
-            "downloaded": false,
             "listened": false,
             "title": "Can You Hack Me Now? | TechSNAP 259",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0259.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0259.mp3",
+            "published": 1458845655.0
         },
         {
-            "published": 1458238305.0,
-            "downloaded": false,
             "listened": false,
             "title": "Metaphorically Exploited | TechSNAP 258",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0258.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0258.mp3",
+            "published": 1458238305.0
         },
         {
-            "published": 1457604254.0,
-            "downloaded": false,
             "listened": false,
             "title": "Fixing the Barn Door | TechSNAP 257",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0257.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0257.mp3",
+            "published": 1457604254.0
         },
         {
-            "published": 1457025779.0,
-            "downloaded": false,
             "listened": false,
             "title": "Open Server Sadness Layer | TechSNAP 256",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0256.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0256.mp3",
+            "published": 1457025779.0
         },
         {
-            "published": 1456422644.0,
-            "downloaded": false,
             "listened": false,
             "title": "Dip the Chip | TechSNAP 255",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0255.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0255.mp3",
+            "published": 1456422644.0
         },
         {
-            "published": 1455822166.0,
-            "downloaded": false,
             "listened": false,
             "title": "Weaponized Comic Sans | TechSNAP 254",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0254.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0254.mp3",
+            "published": 1455822166.0
         },
         {
-            "published": 1455213400.0,
-            "downloaded": false,
             "listened": false,
             "title": "Cisco's Perfect 10 | TechSNAP 253",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0253.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0253.mp3",
+            "published": 1455213400.0
         },
         {
-            "published": 1454611289.0,
-            "downloaded": false,
             "listened": false,
             "title": "Hot Norse Potato | TechSNAP 252",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0252.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0252.mp3",
+            "published": 1454611289.0
         },
         {
-            "published": 1453968618.0,
-            "downloaded": false,
             "listened": false,
             "title": "A Look Back On Feedback | TechSNAP 251",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0251.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0251.mp3",
+            "published": 1453968618.0
         },
         {
-            "published": 1453371051.0,
-            "downloaded": false,
             "listened": false,
             "title": "Lights out Management | TechSNAP 250",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0250.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0250.mp3",
+            "published": 1453371051.0
         },
         {
-            "published": 1452791010.0,
-            "downloaded": false,
             "listened": false,
             "title": "Internet of Threats | TechSNAP 249",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0249.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0249.mp3",
+            "published": 1452791010.0
         },
         {
-            "published": 1452194616.0,
-            "downloaded": false,
             "listened": false,
             "title": "Virtual Private Surveillance | TechSNAP 248",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0248.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0248.mp3",
+            "published": 1452194616.0
         },
         {
-            "published": 1451549625.0,
-            "downloaded": false,
             "listened": false,
             "title": "Snappy New Year! | TechSNAP 247",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0247.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0247.mp3",
+            "published": 1451549625.0
         },
         {
-            "published": 1450950277.0,
-            "downloaded": false,
             "listened": false,
             "title": "Allan's Favorite Things | TechSNAP 246",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0246.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0246.mp3",
+            "published": 1450950277.0
         },
         {
-            "published": 1450381761.0,
-            "downloaded": false,
             "listened": false,
             "title": "Insecurity Appliance | TechSNAP 245",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0245.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0245.mp3",
+            "published": 1450381761.0
         },
         {
-            "published": 1449777622.0,
-            "downloaded": false,
             "listened": false,
             "title": "Finding Nakamoto | TechSNAP 244",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0244.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0244.mp3",
+            "published": 1449777622.0
         },
         {
-            "published": 1449168621.0,
-            "downloaded": false,
             "listened": false,
             "title": "SpyFi Barbie | TechSNAP 243",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0243.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0243.mp3",
+            "published": 1449168621.0
         },
         {
-            "published": 1448528183.0,
-            "downloaded": false,
             "listened": false,
             "title": "A Keyboard Walks into a Barcode | TechSNAP 242",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0242.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0242.mp3",
+            "published": 1448528183.0
         },
         {
-            "published": 1447952759.0,
-            "downloaded": false,
             "listened": false,
             "title": "Double ROT-13 | TechSNAP 241",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0241.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0241.mp3",
+            "published": 1447952759.0
         },
         {
-            "published": 1447323593.0,
-            "downloaded": false,
             "listened": false,
             "title": "Zero-Days Of Our Lives | TechSNAP 240",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0240.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0240.mp3",
+            "published": 1447323593.0
         },
         {
-            "published": 1446709873.0,
-            "downloaded": false,
             "listened": false,
             "title": "PLAID Falls Out of Fashion | TechSNAP 239",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0239.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0239.mp3",
+            "published": 1446709873.0
         },
         {
-            "published": 1446133373.0,
-            "downloaded": false,
             "listened": false,
             "title": "Certifiable Authority | TechSNAP 238",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0238.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/techsnap-0238.mp3",
+            "published": 1446133373.0
         },
         {
-            "published": 1445538852.0,
-            "downloaded": false,
             "listened": false,
             "title": "A Rip in NTP | TechSNAP 237",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0237.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0237.mp3",
+            "published": 1445538852.0
         },
         {
-            "published": 1444932936.0,
-            "downloaded": false,
             "listened": false,
             "title": "National Security Breaking Agency | TechSNAP 236",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0236.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0236.mp3",
+            "published": 1444932936.0
         },
         {
-            "published": 1444329134.0,
-            "downloaded": false,
             "listened": false,
             "title": "Catching the Angler | TechSNAP 235",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0235.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0235.mp3",
+            "published": 1444329134.0
         },
         {
-            "published": 1443692332.0,
-            "downloaded": false,
             "listened": false,
             "title": "Key Flaw With GPL | TechSNAP 234",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0234.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0234.mp3",
+            "published": 1443692332.0
         },
         {
-            "published": 1443079084.0,
-            "downloaded": false,
             "listened": false,
             "title": "Dukes of Cyber Hazard | TechSNAP 233",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0233.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0233.mp3",
+            "published": 1443079084.0
         },
         {
-            "published": 1442489517.0,
-            "downloaded": false,
             "listened": false,
             "title": "Hardware Insecurity Module | TechSNAP 232",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0232.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0232.mp3",
+            "published": 1442489517.0
         },
         {
-            "published": 1441861544.0,
-            "downloaded": false,
             "listened": false,
             "title": "Leaky RSA Keys | TechSNAP 231",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0231.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0231.mp3",
+            "published": 1441861544.0
         },
         {
-            "published": 1441262277.0,
-            "downloaded": false,
             "listened": false,
             "title": "Trojan Family Ties | TechSNAP 230",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0230.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0230.mp3",
+            "published": 1441262277.0
         },
         {
-            "published": 1440703470.0,
-            "downloaded": false,
             "listened": false,
             "title": "Extortion Startups | TechSNAP 229",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0229.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0229.mp3",
+            "published": 1440703470.0
         },
         {
-            "published": 1440061423.0,
-            "downloaded": false,
             "listened": false,
             "title": "Export Grade Vulnerabilities | TechSNAP 228",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0228.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0228.mp3",
+            "published": 1440061423.0
         },
         {
-            "published": 1439477164.0,
-            "downloaded": false,
             "listened": false,
             "title": "Oracle's EULAgy #oraclefanfic | TechSNAP 227",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0227.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0227.mp3",
+            "published": 1439477164.0
         },
         {
-            "published": 1438933035.0,
-            "downloaded": false,
             "listened": false,
             "title": "Solving the Flash Plague | TechSNAP 226",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0226.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0226.mp3",
+            "published": 1438933035.0
         },
         {
-            "published": 1438276042.0,
-            "downloaded": false,
             "listened": false,
             "title": "SourceForge's Downfall | TechSNAP 225",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0225.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0225.mp3",
+            "published": 1438276042.0
         },
         {
-            "published": 1437644857.0,
-            "downloaded": false,
             "listened": false,
             "title": "Butterflies & Backronyms | TechSNAP 224",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0224.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0224.mp3",
+            "published": 1437644857.0
         },
         {
-            "published": 1437062244.0,
-            "downloaded": false,
             "listened": false,
             "title": "A Bias to Insecurity | TechSNAP 223",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0223.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0223.mp3",
+            "published": 1437062244.0
         },
         {
-            "published": 1436460591.0,
-            "downloaded": false,
             "listened": false,
             "title": "ZFS does not prevent Stupidity | TechSNAP 222",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0222.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0222.mp3",
+            "published": 1436460591.0
         },
         {
-            "published": 1435864101.0,
-            "downloaded": false,
             "listened": false,
             "title": "Ripping me a new Protocol | TechSNAP 221",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0221.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0221.mp3",
+            "published": 1435864101.0
         },
         {
-            "published": 1435255538.0,
-            "downloaded": false,
             "listened": false,
             "title": "Homeland Insecurity | TechSNAP 220",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0220.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0220.mp3",
+            "published": 1435255538.0
         },
         {
-            "published": 1434651266.0,
-            "downloaded": false,
             "listened": false,
             "title": "OPM Data too Valuable to Sell | TechSNAP 219",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0219.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0219.mp3",
+            "published": 1434651266.0
         },
         {
-            "published": 1434018174.0,
-            "downloaded": false,
             "listened": false,
             "title": "Hacking Henchmen for Hire | TechSNAP 218",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0218.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0218.mp3",
+            "published": 1434018174.0
         },
         {
-            "published": 1433439718.0,
-            "downloaded": false,
             "listened": false,
             "title": "An Encryptioner's Conscience | TechSNAP 217",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0217.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0217.mp3",
+            "published": 1433439718.0
         },
         {
-            "published": 1432802224.0,
-            "downloaded": false,
             "listened": false,
             "title": "Spy vs MSpy | TechSNAP 216",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0216c.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0216c.mp3",
+            "published": 1432802224.0
         },
         {
-            "published": 1432223528.0,
-            "downloaded": false,
             "listened": false,
             "title": "EXTenuating Circumstances | TechSNAP 215",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0215.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0215.mp3",
+            "published": 1432223528.0
         },
         {
-            "published": 1431629467.0,
-            "downloaded": false,
             "listened": false,
             "title": "Venomous Floppy Legacy | TechSNAP 214",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0214.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0214.mp3",
+            "published": 1431629467.0
         },
         {
-            "published": 1431020737.0,
-            "downloaded": false,
             "listened": false,
             "title": "Blame as a Service | TechSNAP 213",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0213.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0213.mp3",
+            "published": 1431020737.0
         },
         {
-            "published": 1430390182.0,
-            "downloaded": false,
             "listened": false,
             "title": "Dormant Docker Disasters | TechSNAP 212",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0212.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0212.mp3",
+            "published": 1430390182.0
         },
         {
-            "published": 1429838254.0,
-            "downloaded": false,
             "listened": false,
             "title": "The French Disconnection | TechSNAP 211",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0211.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0211.mp3",
+            "published": 1429838254.0
         },
         {
-            "published": 1429210997.0,
-            "downloaded": false,
             "listened": false,
             "title": "SMBTrapped in Microsoft | TechSNAP 210",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0210.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0210.mp3",
+            "published": 1429210997.0
         },
         {
-            "published": 1428609801.0,
-            "downloaded": false,
             "listened": false,
             "title": "Day-0 of an InfoSec Career | TechSNAP 209",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0209.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0209.mp3",
+            "published": 1428609801.0
         },
         {
-            "published": 1427993624.0,
-            "downloaded": false,
             "listened": false,
             "title": "Any Cert Will Do | TechSNAP 208",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0208.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0208.mp3",
+            "published": 1427993624.0
         },
         {
-            "published": 1427398835.0,
-            "downloaded": false,
             "listened": false,
             "title": "Lunch Lady Lockdown | TechSNAP 207",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0207.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0207.mp3",
+            "published": 1427398835.0
         },
         {
-            "published": 1426795332.0,
-            "downloaded": false,
             "listened": false,
             "title": "Two Factor Falsification | TechSNAP 206",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0206.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0206.mp3",
+            "published": 1426795332.0
         },
         {
-            "published": 1426154160.0,
-            "downloaded": false,
             "listened": false,
             "title": "An Uber Mess | TechSNAP 205",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0205.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0205.mp3",
+            "published": 1426154160.0
         },
         {
-            "published": 1425578091.0,
-            "downloaded": false,
             "listened": false,
             "title": "Ghost of Crypto Past | TechSNAP 204",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0204.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0204.mp3",
+            "published": 1425578091.0
         },
         {
-            "published": 1424985328.0,
-            "downloaded": false,
             "listened": false,
             "title": "TurboHax | TechSNAP 203",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0203.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0203.mp3",
+            "published": 1424985328.0
         },
         {
-            "published": 1424366955.0,
-            "downloaded": false,
             "listened": false,
             "title": "SuperFishy Mistake | TechSNAP 202",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0202.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0202.mp3",
+            "published": 1424366955.0
         },
         {
-            "published": 1423768073.0,
-            "downloaded": false,
             "listened": false,
             "title": "Group Problemcy | TechSNAP 201",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0201.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0201.mp3",
+            "published": 1423768073.0
         },
         {
-            "published": 1423165878.0,
-            "downloaded": false,
             "listened": false,
             "title": "Your TechSNAP Story | TechSNAP 200",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0200.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0200.mp3",
+            "published": 1423165878.0
         },
         {
-            "published": 1422557792.0,
-            "downloaded": false,
             "listened": false,
             "title": "Internet of Problems | TechSNAP 199",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0199.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0199.mp3",
+            "published": 1422557792.0
         },
         {
-            "published": 1421961452.0,
-            "downloaded": false,
             "listened": false,
             "title": "Dude Where's My Card? | TechSNAP 198",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0198.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0198.mp3",
+            "published": 1421961452.0
         },
         {
-            "published": 1421360811.0,
-            "downloaded": false,
             "listened": false,
             "title": "Patch and Notify | TechSNAP 197",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0197.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0197.mp3",
+            "published": 1421360811.0
         },
         {
-            "published": 1420746348.0,
-            "downloaded": false,
             "listened": false,
             "title": "Sony\u2019s Hard Lessons | TechSNAP 196",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0196.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0196.mp3",
+            "published": 1420746348.0
         },
         {
-            "published": 1420113287.0,
-            "downloaded": false,
             "listened": false,
             "title": "Cloudy With a Chance of SSL | TechSNAP 195",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0195.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0195.mp3",
+            "published": 1420113287.0
         },
         {
-            "published": 1419514787.0,
-            "downloaded": false,
             "listened": false,
             "title": "Best Of TechSNAP 2014 | TechSNAP 194",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0194.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0194.mp3",
+            "published": 1419514787.0
         },
         {
-            "published": 1418928887.0,
-            "downloaded": false,
             "listened": false,
             "title": "Don\u2019t Fire IT | TechSNAP 193",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0193.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/techsnap-0193.mp3",
+            "published": 1418928887.0
         },
         {
-            "published": 1418323963.0,
-            "downloaded": false,
             "listened": false,
             "title": "Signed by Sony | TechSNAP 192",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0192.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0192.mp3",
+            "published": 1418323963.0
         },
         {
-            "published": 1417726739.0,
-            "downloaded": false,
             "listened": false,
             "title": "Celebrity Bugs | TechSNAP 191",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0191.mp3"
+            "downloaded": false,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/techsnap-0191.mp3",
+            "published": 1417726739.0
         }
     ],
     "url": "http://feeds.feedburner.com/techsnapmp3"
