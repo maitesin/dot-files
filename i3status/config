@@ -51,7 +51,6 @@ battery 0 {
     hide_seconds = true
     status_chr = " "
     status_bat = " "
-    status_unk = " "
     status_full = " "
 }
 
