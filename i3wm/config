@@ -225,8 +225,10 @@ exec --no-startup-id ~/.config/i3/specific_host.conf
 # Configure URXVT
 exec --no-startup-id xrdb -merge ~/.Xresources
 
+# Start-up applications
 exec --no-startup-id dropbox start
 exec --no-startup-id clipit
+exec --no-startup-id xautolock -timer 5 -locker "i3lock --color=000000"
 
 # Keys
 exec_always --no-startup-id xmodmap -e "clear lock" #disable caps lock switch
