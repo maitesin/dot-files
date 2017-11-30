@@ -1,15 +1,20 @@
-music_directory "/home/maitesin/Music/"  
-playlist_directory "/home/maitesin/.mpd/playlists"   
-db_file      "/home/maitesin/.mpd/mpd.db"  
-log_file      "/home/maitesin/.mpd/mpd.log"  
-pid_file      "/home/maitesin/.mpd/mpd.pid"  
-state_file     "/home/maitesin/.mpd/mpdstate"  
+music_directory "/home/maitesin/Music/"
+playlist_directory "/home/maitesin/.mpd/playlists"
+db_file      "/home/maitesin/.mpd/mpd.db"
+log_file      "/home/maitesin/.mpd/mpd.log"
+pid_file      "/home/maitesin/.mpd/mpd.pid"
+state_file     "/home/maitesin/.mpd/mpdstate"
 
 audio_output {
-	type	"alsa"
-	name	"alsa_pcm"
-	device	"hw:1,0"
-	mixer_type	"hardware"
-	mixer_device	"default"
-	mixer_control	"PCM"
+  type  "alsa"
+  name  "MPD"
 }
+
+#audio_output {
+#	type	"alsa"
+#	name	"alsa_pcm"
+#	device	"hw:1,0"
+#	mixer_type	"hardware"
+#	mixer_device	"default"
+#	mixer_control	"PCM"
+#}
