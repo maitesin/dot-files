@@ -20,6 +20,8 @@ Plug 'oplatek/Conque-Shell'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'jiangmiao/auto-pairs'
 Plug 'terryma/vim-multiple-cursors'
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
 
 " Stuff for the snippets
 Plug 'honza/vim-snippets'
