@@ -43,4 +43,6 @@ map <C-c> :s/^/\/\//<Enter>
 " Ctrl + u uncomment selected lines
 map <C-u> :s/^\/\///<Enter>
 
-
+" fzf remaps to search files
+map <C-p> :Files<CR>
+imap <C-p> :Files<CR>i

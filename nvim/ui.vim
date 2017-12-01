@@ -28,4 +28,3 @@ let g:airline_theme='papercolor'
 " Setting YouCompleteMe global extra configuration
 let g:ycm_global_ycm_extra_conf = '/home/maitesin/.local/share/nvim/plugged/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
 
-

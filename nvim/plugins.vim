@@ -24,6 +24,7 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 
 " Stuff for the snippets
+Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 
 " Airline
