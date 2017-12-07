@@ -1,910 +1,910 @@
 {
     "url": "http://ubuntupodcast.org/feed/podcast/",
-    "shortname": "ubuntu",
+    "title": "Ubuntu Podcast",
     "episodes": [
         {
-            "published": 1512064823.0,
-            "listened": false,
-            "downloaded": true,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e39/ubuntupodcast_s10e39.mp3",
-            "title": "S10E39 \u2013 Hysterical Daffy Furniture - Ubuntu Podcast"
+            "title": "S10E39 \u2013 Hysterical Daffy Furniture - Ubuntu Podcast",
+            "published": 1512064823.0,
+            "downloaded": true,
+            "listened": false
         },
         {
-            "published": 1511449223.0,
-            "listened": false,
-            "downloaded": true,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e38/ubuntupodcast_s10e38.mp3",
-            "title": "S10E38 \u2013 Soft Knowledgeable Burn - Ubuntu Podcast"
+            "title": "S10E38 \u2013 Soft Knowledgeable Burn - Ubuntu Podcast",
+            "published": 1511449223.0,
+            "downloaded": true,
+            "listened": false
         },
         {
-            "published": 1510844438.0,
-            "listened": false,
-            "downloaded": true,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e37/ubuntupodcast_s10e37.mp3",
-            "title": "S10E37 \u2013 Psychotic Fearless Breakfast - Ubuntu Podcast"
-        },
-        {
-            "published": 1510391107.0,
-            "listened": false,
+            "title": "S10E37 \u2013 Psychotic Fearless Breakfast - Ubuntu Podcast",
+            "published": 1510844438.0,
             "downloaded": true,
+            "listened": false
+        },
+        {
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e36/ubuntupodcast_s10e36.mp3",
-            "title": "S10E36 \u2013 Therapeutic Devilish Birthday - Ubuntu Podcast"
+            "title": "S10E36 \u2013 Therapeutic Devilish Birthday - Ubuntu Podcast",
+            "published": 1510391107.0,
+            "downloaded": true,
+            "listened": false
         },
         {
-            "published": 1509786012.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e35/ubuntupodcast_s10e35.mp3",
-            "title": "S10E35 \u2013 Berserk Miniature Need - Ubuntu Podcast"
+            "title": "S10E35 \u2013 Berserk Miniature Need - Ubuntu Podcast",
+            "published": 1509786012.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1509109258.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e34/ubuntupodcast_s10e34.mp3",
-            "title": "S10E34 \u2013 Trashy Disgusted Can - Ubuntu Podcast"
+            "title": "S10E34 \u2013 Trashy Disgusted Can - Ubuntu Podcast",
+            "published": 1509109258.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1508524533.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e33/ubuntupodcast_s10e33.mp3",
-            "title": "S10E33 \u2013 Aggressive Judicious Frame - Ubuntu Podcast"
+            "title": "S10E33 \u2013 Aggressive Judicious Frame - Ubuntu Podcast",
+            "published": 1508524533.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1507813237.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e32/ubuntupodcast_s10e32.mp3",
-            "title": "S10E32 \u2013 Possessive Open Chicken - Ubuntu Podcast"
+            "title": "S10E32 \u2013 Possessive Open Chicken - Ubuntu Podcast",
+            "published": 1507813237.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1507294851.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e31/ubuntupodcast_s10e31.mp3",
-            "title": "S10E31 \u2013 Plausible Dull Story - Ubuntu Podcast"
+            "title": "S10E31 \u2013 Plausible Dull Story - Ubuntu Podcast",
+            "published": 1507294851.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1506714340.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e30/ubuntupodcast_s10e30.mp3",
-            "title": "S10E30 \u2013 Resolute Huge Aftermath - Ubuntu Podcast"
+            "title": "S10E30 \u2013 Resolute Huge Aftermath - Ubuntu Podcast",
+            "published": 1506714340.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1506021000.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e29/ubuntupodcast_s10e29.mp3",
-            "title": "S10E29 \u2013 Adamant Terrible Hammer - Ubuntu Podcast"
+            "title": "S10E29 \u2013 Adamant Terrible Hammer - Ubuntu Podcast",
+            "published": 1506021000.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1505399430.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e28/ubuntupodcast_s10e28.mp3",
-            "title": "S10E28 \u2013 Momentous Sparkling Jellyfish - Ubuntu Podcast"
+            "title": "S10E28 \u2013 Momentous Sparkling Jellyfish - Ubuntu Podcast",
+            "published": 1505399430.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1504789206.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e27/ubuntupodcast_s10e27.mp3",
-            "title": "S10E27 \u2013 Faithful Tasteless Harmony - Ubuntu Podcast"
+            "title": "S10E27 \u2013 Faithful Tasteless Harmony - Ubuntu Podcast",
+            "published": 1504789206.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1504270812.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e26/ubuntupodcast_s10e26.mp3",
-            "title": "S10E26 \u2013 Endurable Wiry Bird - Ubuntu Podcast"
+            "title": "S10E26 \u2013 Endurable Wiry Bird - Ubuntu Podcast",
+            "published": 1504270812.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1503579605.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e25/ubuntupodcast_s10e25.mp3",
-            "title": "S10E25 \u2013 Materialistic Gorgeous Cabbage - Ubuntu Podcast"
+            "title": "S10E25 \u2013 Materialistic Gorgeous Cabbage - Ubuntu Podcast",
+            "published": 1503579605.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1503061200.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e24/ubuntupodcast_s10e24.mp3",
-            "title": "S10E24 \u2013 Fierce Hurried Start - Ubuntu Podcast"
+            "title": "S10E24 \u2013 Fierce Hurried Start - Ubuntu Podcast",
+            "published": 1503061200.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1502370046.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e23/ubuntupodcast_s10e23.mp3",
-            "title": "S10E23 \u2013 Important Fluffy Turn - Ubuntu Podcast"
+            "title": "S10E23 \u2013 Important Fluffy Turn - Ubuntu Podcast",
+            "published": 1502370046.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1501765244.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e22/ubuntupodcast_s10e22.mp3",
-            "title": "S10E22 \u2013 Dazzling Fancy Beast - Ubuntu Podcast"
+            "title": "S10E22 \u2013 Dazzling Fancy Beast - Ubuntu Podcast",
+            "published": 1501765244.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1501160424.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e21/ubuntupodcast_s10e21.mp3",
-            "title": "S10E21 \u2013 Godly Heady Airport - Ubuntu Podcast"
+            "title": "S10E21 \u2013 Godly Heady Airport - Ubuntu Podcast",
+            "published": 1501160424.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1500555633.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e20/ubuntupodcast_s10e20.mp3",
-            "title": "S10E20 \u2013 Wry Mindless Ice - Ubuntu Podcast"
+            "title": "S10E20 \u2013 Wry Mindless Ice - Ubuntu Podcast",
+            "published": 1500555633.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1499950858.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e19/ubuntupodcast_s10e19.mp3",
-            "title": "S10E19 \u2013 Inconclusive Squalid Driving - Ubuntu Podcast"
+            "title": "S10E19 \u2013 Inconclusive Squalid Driving - Ubuntu Podcast",
+            "published": 1499950858.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1499346042.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e18/ubuntupodcast_s10e18.mp3",
-            "title": "S10E18 \u2013 Piquant Abnormal Yard - Ubuntu Podcast"
+            "title": "S10E18 \u2013 Piquant Abnormal Yard - Ubuntu Podcast",
+            "published": 1499346042.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1498827641.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e17/ubuntupodcast_s10e17.mp3",
-            "title": "S10E17 \u2013 Live Mycroft Biscuits - Ubuntu Podcast"
+            "title": "S10E17 \u2013 Live Mycroft Biscuits - Ubuntu Podcast",
+            "published": 1498827641.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1498222818.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e16/ubuntupodcast_s10e16.mp3",
-            "title": "S10E16 \u2013 Enthusiastic Woozy Route - Ubuntu Podcast"
+            "title": "S10E16 \u2013 Enthusiastic Woozy Route - Ubuntu Podcast",
+            "published": 1498222818.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1497645195.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e15/ubuntupodcast_s10e15.mp3",
-            "title": "S10E15 \u2013 Numberless Thoughtless Goldfish - Ubuntu Podcast"
+            "title": "S10E15 \u2013 Numberless Thoughtless Goldfish - Ubuntu Podcast",
+            "published": 1497645195.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1496926828.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e14/ubuntupodcast_s10e14.mp3",
-            "title": "S10E14 \u2013 Mature Halting Snail - Ubuntu Podcast"
+            "title": "S10E14 \u2013 Mature Halting Snail - Ubuntu Podcast",
+            "published": 1496926828.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1496322026.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e13/ubuntupodcast_s10e13.mp3",
-            "title": "S10E13 \u2013 Grieving Temporary Ear - Ubuntu Podcast"
+            "title": "S10E13 \u2013 Grieving Temporary Ear - Ubuntu Podcast",
+            "published": 1496322026.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1495803620.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e12/ubuntupodcast_s10e12.mp3",
-            "title": "S10E12 \u2013 Needy Expensive Spiders - Ubuntu Podcast"
+            "title": "S10E12 \u2013 Needy Expensive Spiders - Ubuntu Podcast",
+            "published": 1495803620.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1495112457.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e11/ubuntupodcast_s10e11.mp3",
-            "title": "S10E11 \u2013 Flaky Noxious Rainstorm - Ubuntu Podcast"
+            "title": "S10E11 \u2013 Flaky Noxious Rainstorm - Ubuntu Podcast",
+            "published": 1495112457.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1494507605.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e10/ubuntupodcast_s10e10.mp3",
-            "title": "S10E10 \u2013 Miniature Blushing Steel - Ubuntu Podcast"
+            "title": "S10E10 \u2013 Miniature Blushing Steel - Ubuntu Podcast",
+            "published": 1494507605.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1493902835.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e09/ubuntupodcast_s10e09.mp3",
-            "title": "S10E09 \u2013 Elfin Moaning Wine - Ubuntu Podcast"
+            "title": "S10E09 \u2013 Elfin Moaning Wine - Ubuntu Podcast",
+            "published": 1493902835.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1493298025.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e08/ubuntupodcast_s10e08.mp3",
-            "title": "S10E08 \u2013 Rotten Hospitable Statement - Ubuntu Podcast"
+            "title": "S10E08 \u2013 Rotten Hospitable Statement - Ubuntu Podcast",
+            "published": 1493298025.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1492693218.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e07/ubuntupodcast_s10e07.mp3",
-            "title": "S10E07 \u2013 Black Frail Silver - Ubuntu Podcast"
+            "title": "S10E07 \u2013 Black Frail Silver - Ubuntu Podcast",
+            "published": 1492693218.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1492088412.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e06/ubuntupodcast_s10e06.mp3",
-            "title": "S10E06 \u2013 Tasty Different Cow - Ubuntu Podcast"
+            "title": "S10E06 \u2013 Tasty Different Cow - Ubuntu Podcast",
+            "published": 1492088412.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1491483613.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e05/ubuntupodcast_s10e05.mp3",
-            "title": "S10E05 \u2013 Supreme Luxuriant Gun - Ubuntu Podcast"
+            "title": "S10E05 \u2013 Supreme Luxuriant Gun - Ubuntu Podcast",
+            "published": 1491483613.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1490878803.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e04/ubuntupodcast_s10e04.mp3",
-            "title": "S10E04 \u2013 Sulky Meek Work - Ubuntu Podcast"
+            "title": "S10E04 \u2013 Sulky Meek Work - Ubuntu Podcast",
+            "published": 1490878803.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1490281257.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e03/ubuntupodcast_s10e03.mp3",
-            "title": "S10E03 \u2013 Aloof Puny Wren - Ubuntu Podcast"
+            "title": "S10E03 \u2013 Aloof Puny Wren - Ubuntu Podcast",
+            "published": 1490281257.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1489676415.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e02/ubuntupodcast_s10e02.mp3",
-            "title": "S10E02 \u2013 Wiry Labored Sense - Ubuntu Podcast"
+            "title": "S10E02 \u2013 Wiry Labored Sense - Ubuntu Podcast",
+            "published": 1489676415.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1489071600.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e01/ubuntupodcast_s10e01.mp3",
-            "title": "S10E01 \u2013 Verdant Bitter Passenger - Ubuntu Podcast"
+            "title": "S10E01 \u2013 Verdant Bitter Passenger - Ubuntu Podcast",
+            "published": 1489071600.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1487862030.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s10/e00/ubuntupodcast_s10e00.mp3",
-            "title": "S10E00 \u2013 Cool Skillful Title - Ubuntu Podcast"
+            "title": "S10E00 \u2013 Cool Skillful Title - Ubuntu Podcast",
+            "published": 1487862030.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1483023651.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e44/ubuntupodcast_s09e44.mp3",
-            "title": "S09E44 \u2013 L\u2019aura - Ubuntu Podcast"
+            "title": "S09E44 \u2013 L\u2019aura - Ubuntu Podcast",
+            "published": 1483023651.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1482418837.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e43/ubuntupodcast_s09e43.mp3",
-            "title": "S09E43 \u2013 Talk to the Hand - Ubuntu Podcast"
+            "title": "S09E43 \u2013 Talk to the Hand - Ubuntu Podcast",
+            "published": 1482418837.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1481814020.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e42/ubuntupodcast_s09e42.mp3",
-            "title": "S09E42 \u2013 Joe\u2019s Wee Heavy Metal - Ubuntu Podcast"
+            "title": "S09E42 \u2013 Joe\u2019s Wee Heavy Metal - Ubuntu Podcast",
+            "published": 1481814020.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1481209255.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e41/ubuntupodcast_s09e41.mp3",
-            "title": "S09E41 \u2013 Pine In The Neck - Ubuntu Podcast"
+            "title": "S09E41 \u2013 Pine In The Neck - Ubuntu Podcast",
+            "published": 1481209255.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1480604414.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e40/ubuntupodcast_s09e40.mp3",
-            "title": "S09E40 \u2013 Dirty Dan\u2019s Dark Delight - Ubuntu Podcast"
+            "title": "S09E40 \u2013 Dirty Dan\u2019s Dark Delight - Ubuntu Podcast",
+            "published": 1480604414.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1480345215.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e39.2/ubuntupodcast_s09e39.2.mp3",
-            "title": "S09E39.2 \u2013 Le CrossOver Number 2 - Ubuntu Podcast"
+            "title": "S09E39.2 \u2013 Le CrossOver Number 2 - Ubuntu Podcast",
+            "published": 1480345215.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1479999647.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e39/ubuntupodcast_s09e39.mp3",
-            "title": "S09E39 \u2013 Error Establishing Database Connection - Ubuntu Podcast"
+            "title": "S09E39 \u2013 Error Establishing Database Connection - Ubuntu Podcast",
+            "published": 1479999647.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1479394830.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e38/ubuntupodcast_s09e38.mp3",
-            "title": "S09E38 \u2013 Jon\u2019s Second Breakfast - Ubuntu Podcast"
+            "title": "S09E38 \u2013 Jon\u2019s Second Breakfast - Ubuntu Podcast",
+            "published": 1479394830.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1478790043.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e37/ubuntupodcast_s09e37.mp3",
-            "title": "S09E37 \u2013 Raspberry Uber - Ubuntu Podcast"
+            "title": "S09E37 \u2013 Raspberry Uber - Ubuntu Podcast",
+            "published": 1478790043.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1478185219.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e36/ubuntupodcast_s09e36.mp3",
-            "title": "S09E36 \u2013 Paul\u2019s Bitter Holiday - Ubuntu Podcast"
+            "title": "S09E36 \u2013 Paul\u2019s Bitter Holiday - Ubuntu Podcast",
+            "published": 1478185219.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1477573223.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e35/ubuntupodcast_s09e35.mp3",
-            "title": "S09E35 \u2013 Red Nun - Ubuntu Podcast"
+            "title": "S09E35 \u2013 Red Nun - Ubuntu Podcast",
+            "published": 1477573223.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1476968409.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e34/ubuntupodcast_s09e34.mp3",
-            "title": "S09E34 \u2013 The Mutant Killer Zombie Manhattan Project Thingy - Ubuntu Podcast"
+            "title": "S09E34 \u2013 The Mutant Killer Zombie Manhattan Project Thingy - Ubuntu Podcast",
+            "published": 1476968409.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1476363657.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e33/ubuntupodcast_s09e33.mp3",
-            "title": "S09E33 \u2013 Emma\u2019s Clown Car - Ubuntu Podcast"
+            "title": "S09E33 \u2013 Emma\u2019s Clown Car - Ubuntu Podcast",
+            "published": 1476363657.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1475786714.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e32/ubuntupodcast_s09e32.mp3",
-            "title": "S09E32 \u2013 Ryan\u2019s Temporary Insanity - Ubuntu Podcast"
+            "title": "S09E32 \u2013 Ryan\u2019s Temporary Insanity - Ubuntu Podcast",
+            "published": 1475786714.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1475185533.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e31/ubuntupodcast_s09e31.mp3",
-            "title": "S09E31 \u2013 Bull In A China Shop - Ubuntu Podcast"
+            "title": "S09E31 \u2013 Bull In A China Shop - Ubuntu Podcast",
+            "published": 1475185533.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1474549239.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e30/ubuntupodcast_s09e30.mp3",
-            "title": "S09E30 \u2013 Pie Till You Die - Ubuntu Podcast"
+            "title": "S09E30 \u2013 Pie Till You Die - Ubuntu Podcast",
+            "published": 1474549239.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1473966933.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e29/ubuntupodcast_s09e29.mp3",
-            "title": "S09E29 \u2013 Edward Snowden presents Disneyland - Ubuntu Podcast"
+            "title": "S09E29 \u2013 Edward Snowden presents Disneyland - Ubuntu Podcast",
+            "published": 1473966933.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1473339628.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e28/ubuntupodcast_s09e28.mp3",
-            "title": "S09E28 \u2013 Death by Viking - Ubuntu Podcast"
+            "title": "S09E28 \u2013 Death by Viking - Ubuntu Podcast",
+            "published": 1473339628.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1472734844.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e27/ubuntupodcast_s09e27.mp3",
-            "title": "S09E27 \u2013 Bit O\u2019 Posh - Ubuntu Podcast"
+            "title": "S09E27 \u2013 Bit O\u2019 Posh - Ubuntu Podcast",
+            "published": 1472734844.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1472130001.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e26/ubuntupodcast_s09e26.mp3",
-            "title": "S09E26 \u2013 Mosaic Promise - Ubuntu Podcast"
+            "title": "S09E26 \u2013 Mosaic Promise - Ubuntu Podcast",
+            "published": 1472130001.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1471525224.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e25/ubuntupodcast_s09e25.mp3",
-            "title": "S09E25 \u2013 Golden Keys - Ubuntu Podcast"
+            "title": "S09E25 \u2013 Golden Keys - Ubuntu Podcast",
+            "published": 1471525224.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1470920457.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e24/ubuntupodcast_s09e24.mp3",
-            "title": "S09E24 \u2013 Elementary Penguin - Ubuntu Podcast"
+            "title": "S09E24 \u2013 Elementary Penguin - Ubuntu Podcast",
+            "published": 1470920457.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1470661253.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e23.5/ubuntupodcast_s09e23.5.mp3",
-            "title": "S09E23\u00bd \u2013 Running Order of Laminated Majesty - Ubuntu Podcast"
+            "title": "S09E23\u00bd \u2013 Running Order of Laminated Majesty - Ubuntu Podcast",
+            "published": 1470661253.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1470315609.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e23/ubuntupodcast_s09e23.mp3",
-            "title": "S09E23 \u2013 German Sparkle Party - Ubuntu Podcast"
+            "title": "S09E23 \u2013 German Sparkle Party - Ubuntu Podcast",
+            "published": 1470315609.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1469710855.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e22/ubuntupodcast_s09e22.mp3",
-            "title": "S09E22 \u2013 Guide to the Galaxy - Ubuntu Podcast"
+            "title": "S09E22 \u2013 Guide to the Galaxy - Ubuntu Podcast",
+            "published": 1469710855.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1469120577.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e21/ubuntupodcast_s09e21.mp3",
-            "title": "S09E21 \u2013 Snapper Biscuit - Ubuntu Podcast"
+            "title": "S09E21 \u2013 Snapper Biscuit - Ubuntu Podcast",
+            "published": 1469120577.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1468501250.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e20/ubuntupodcast_s09e20.mp3",
-            "title": "S09E20 \u2013 Dad\u2019s Old Bits - Ubuntu Podcast"
+            "title": "S09E20 \u2013 Dad\u2019s Old Bits - Ubuntu Podcast",
+            "published": 1468501250.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1467896446.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e19/ubuntupodcast_s09e19.mp3",
-            "title": "S09E19 \u2013 Perfectly Preserved Brain - Ubuntu Podcast"
+            "title": "S09E19 \u2013 Perfectly Preserved Brain - Ubuntu Podcast",
+            "published": 1467896446.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1467291601.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e18/ubuntupodcast_s09e18.mp3",
-            "title": "S09E18 \u2013 Suspicious Package - Ubuntu Podcast"
+            "title": "S09E18 \u2013 Suspicious Package - Ubuntu Podcast",
+            "published": 1467291601.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1466686804.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e17/ubuntupodcast_s09e17.mp3",
-            "title": "S09E17 \u2013 Sherlock Holmes\u2019 Smarter Brother - Ubuntu Podcast"
+            "title": "S09E17 \u2013 Sherlock Holmes\u2019 Smarter Brother - Ubuntu Podcast",
+            "published": 1466686804.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1466082050.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e16/ubuntupodcast_s09e16.mp3",
-            "title": "S09E16 \u2013 Reluctant Dragon - Ubuntu Podcast"
+            "title": "S09E16 \u2013 Reluctant Dragon - Ubuntu Podcast",
+            "published": 1466082050.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1465477211.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e15/ubuntupodcast_s09e15.mp3",
-            "title": "S09E15 \u2013 Wotever Next? - Ubuntu Podcast"
+            "title": "S09E15 \u2013 Wotever Next? - Ubuntu Podcast",
+            "published": 1465477211.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1464872437.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e14/ubuntupodcast_s09e14.mp3",
-            "title": "S09E14 \u2013 El Sputniko - Ubuntu Podcast"
+            "title": "S09E14 \u2013 El Sputniko - Ubuntu Podcast",
+            "published": 1464872437.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1464267629.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e13/ubuntupodcast_s09e13.mp3",
-            "title": "S09E13 \u2013 Hollywood Nights - Ubuntu Podcast"
+            "title": "S09E13 \u2013 Hollywood Nights - Ubuntu Podcast",
+            "published": 1464267629.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1463662822.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e12/ubuntupodcast_s09e12.mp3",
-            "title": "S09E12 \u2013 Accordian Man - Ubuntu Podcast"
+            "title": "S09E12 \u2013 Accordian Man - Ubuntu Podcast",
+            "published": 1463662822.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1463062290.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e11/ubuntupodcast_s09e11.mp3",
-            "title": "S09E11 \u2013 Sweet Baby Robocop - Ubuntu Podcast"
+            "title": "S09E11 \u2013 Sweet Baby Robocop - Ubuntu Podcast",
+            "published": 1463062290.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1462453226.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e10/ubuntupodcast_s09e10.mp3",
-            "title": "S09E10 \u2013 Release the Bats - Ubuntu Podcast"
+            "title": "S09E10 \u2013 Release the Bats - Ubuntu Podcast",
+            "published": 1462453226.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1461848435.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e09/ubuntupodcast_s09e09.mp3",
-            "title": "S09E09 \u2013 Solitary Confinement - Ubuntu Podcast"
+            "title": "S09E09 \u2013 Solitary Confinement - Ubuntu Podcast",
+            "published": 1461848435.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1461243648.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e08/ubuntupodcast_s09e08.mp3",
-            "title": "S09E08 \u2013 Up the Creek Extreme - Ubuntu Podcast"
+            "title": "S09E08 \u2013 Up the Creek Extreme - Ubuntu Podcast",
+            "published": 1461243648.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1460638824.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e07/ubuntupodcast_s09e07.mp3",
-            "title": "S09E07 \u2013 Light in the Window - Ubuntu Podcast"
+            "title": "S09E07 \u2013 Light in the Window - Ubuntu Podcast",
+            "published": 1460638824.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1460034029.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e06/ubuntupodcast_s09e06.mp3",
-            "title": "S09E06 \u2013 La Kik - Ubuntu Podcast"
+            "title": "S09E06 \u2013 La Kik - Ubuntu Podcast",
+            "published": 1460034029.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1459429210.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e05/ubuntupodcast_s09e05.mp3",
-            "title": "S09E05 \u2013 Dark side of the Toon - Ubuntu Podcast"
+            "title": "S09E05 \u2013 Dark side of the Toon - Ubuntu Podcast",
+            "published": 1459429210.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1458831656.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e04/ubuntupodcast_s09e04.mp3",
-            "title": "S09E04 \u2013 Master of Unrelated Science - Ubuntu Podcast"
+            "title": "S09E04 \u2013 Master of Unrelated Science - Ubuntu Podcast",
+            "published": 1458831656.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1458230110.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e03/ubuntupodcast_s09e03.mp3",
-            "title": "S09E03 \u2013 Arms Akimbo - Ubuntu Podcast"
+            "title": "S09E03 \u2013 Arms Akimbo - Ubuntu Podcast",
+            "published": 1458230110.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1457622051.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e02/ubuntupodcast_s09e02.mp3",
-            "title": "S09E02 \u2013 Crash Test Pumpkin - Ubuntu Podcast"
+            "title": "S09E02 \u2013 Crash Test Pumpkin - Ubuntu Podcast",
+            "published": 1457622051.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1457017246.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e01/ubuntupodcast_s09e01.mp3",
-            "title": "S09E01 \u2013 Raspberry Tripel - Ubuntu Podcast"
+            "title": "S09E01 \u2013 Raspberry Tripel - Ubuntu Podcast",
+            "published": 1457017246.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1455807623.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s09/e00/ubuntupodcast_s09e00.mp3",
-            "title": "S09E00 \u2013 Topical Solution - Ubuntu Podcast"
+            "title": "S09E00 \u2013 Topical Solution - Ubuntu Podcast",
+            "published": 1455807623.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1450947610.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e42/ubuntupodcast_s08e42.mp3",
-            "title": "S08E42 \u2013 Santa Claus Conquers the Martians - Ubuntu Podcast"
+            "title": "S08E42 \u2013 Santa Claus Conquers the Martians - Ubuntu Podcast",
+            "published": 1450947610.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1450345030.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e41/ubuntupodcast_s08e41.mp3",
-            "title": "S08E41 \u2013 Santa with Muscles - Ubuntu Podcast"
+            "title": "S08E41 \u2013 Santa with Muscles - Ubuntu Podcast",
+            "published": 1450345030.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1449674583.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e40/ubuntupodcast_s08e40.mp3",
-            "title": "S08E40 \u2013 Kartoffelsalat - Ubuntu Podcast"
+            "title": "S08E40 \u2013 Kartoffelsalat - Ubuntu Podcast",
+            "published": 1449674583.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1449137107.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e39/ubuntupodcast_s08e39.mp3",
-            "title": "S08E39 \u2013 Ram Gopal Varma Ki Aag - Ubuntu Podcast"
+            "title": "S08E39 \u2013 Ram Gopal Varma Ki Aag - Ubuntu Podcast",
+            "published": 1449137107.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1448540886.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e38/ubuntupodcast_s08e38.mp3",
-            "title": "S08E38 \u2013 Santa with Muscles - Ubuntu Podcast"
+            "title": "S08E38 \u2013 Santa with Muscles - Ubuntu Podcast",
+            "published": 1448540886.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1447935281.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e37/ubuntupodcast_s08e37.mp3",
-            "title": "S08E37 \u2013 Code Name: K.O.Z. - Ubuntu Podcast"
+            "title": "S08E37 \u2013 Code Name: K.O.Z. - Ubuntu Podcast",
+            "published": 1447935281.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1447451772.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e36/ubuntupodcast_s08e36.mp3",
-            "title": "S08E36 \u2013 Khan the Con - Ubuntu Podcast"
+            "title": "S08E36 \u2013 Khan the Con - Ubuntu Podcast",
+            "published": 1447451772.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1446755075.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e35/ubuntupodcast_s08e35.mp3",
-            "title": "S08E35 \u2013 Going Overboard - Ubuntu Podcast"
+            "title": "S08E35 \u2013 Going Overboard - Ubuntu Podcast",
+            "published": 1446755075.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1446123604.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e34/ubuntupodcast_s08e34.mp3",
-            "title": "S08E34 \u2013 Manos: The Hands of Fate - Ubuntu Podcast"
+            "title": "S08E34 \u2013 Manos: The Hands of Fate - Ubuntu Podcast",
+            "published": 1446123604.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1445584789.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e33/ubuntupodcast_s08e33.mp3",
-            "title": "S08E33 \u2013 Boggy Creek II: And the Legend Continues - Ubuntu Podcast"
+            "title": "S08E33 \u2013 Boggy Creek II: And the Legend Continues - Ubuntu Podcast",
+            "published": 1445584789.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1444988048.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e32/ubuntupodcast_s08e32.mp3",
-            "title": "S08E32 \u2013 United Passions - Ubuntu Podcast"
+            "title": "S08E32 \u2013 United Passions - Ubuntu Podcast",
+            "published": 1444988048.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1444333350.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e31/ubuntupodcast_s08e31.mp3",
-            "title": "S08E31 \u2013 The Wild World of Batwoman - Ubuntu Podcast"
+            "title": "S08E31 \u2013 The Wild World of Batwoman - Ubuntu Podcast",
+            "published": 1444333350.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1443797954.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e30/ubuntupodcast_s08e30.mp3",
-            "title": "S08E30 \u2013 Gunday - Ubuntu Podcast"
+            "title": "S08E30 \u2013 Gunday - Ubuntu Podcast",
+            "published": 1443797954.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1443106181.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e29/ubuntupodcast_s08e29.mp3",
-            "title": "S08E29 \u2013 Car 54, Where Are You? - Ubuntu Podcast"
+            "title": "S08E29 \u2013 Car 54, Where Are You? - Ubuntu Podcast",
+            "published": 1443106181.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1442571534.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e28/ubuntupodcast_s08e28.mp3",
-            "title": "S08E28 \u2013 Warrior of the Lost World - Ubuntu Podcast"
+            "title": "S08E28 \u2013 Warrior of the Lost World - Ubuntu Podcast",
+            "published": 1442571534.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1441881968.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e27/ubuntupodcast_s08e27.mp3",
-            "title": "S08E27 \u2013 A Fox\u2019s Tale - Ubuntu Podcast"
+            "title": "S08E27 \u2013 A Fox\u2019s Tale - Ubuntu Podcast",
+            "published": 1441881968.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1441284100.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e26/ubuntupodcast_s08e26.mp3",
-            "title": "S08E26 \u2013 Courageous - Ubuntu Podcast"
+            "title": "S08E26 \u2013 Courageous - Ubuntu Podcast",
+            "published": 1441284100.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1440664879.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e25/ubuntupodcast_s08e25.mp3",
-            "title": "S08E25 \u2013 Jurassic Shark - Ubuntu Podcast"
+            "title": "S08E25 \u2013 Jurassic Shark - Ubuntu Podcast",
+            "published": 1440664879.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1440174932.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e24/ubuntupodcast_s08e24.mp3",
-            "title": "S08E24 \u2013 Epic Movie - Ubuntu Podcast"
+            "title": "S08E24 \u2013 Epic Movie - Ubuntu Podcast",
+            "published": 1440174932.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1439834979.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e23/ubuntupodcast_s08e23.mp3",
-            "title": "S08E23 \u2013 Glitter - Ubuntu Podcast"
+            "title": "S08E23 \u2013 Glitter - Ubuntu Podcast",
+            "published": 1439834979.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1438968157.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e22/ubuntupodcast_s08e22.mp3",
-            "title": "S08E22 \u2013 Daniel the Wizard - Ubuntu Podcast"
+            "title": "S08E22 \u2013 Daniel the Wizard - Ubuntu Podcast",
+            "published": 1438968157.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1438421418.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e21/ubuntupodcast_s08e21.mp3",
-            "title": "S08E21 \u2013 United Passions - Ubuntu Podcast"
+            "title": "S08E21 \u2013 United Passions - Ubuntu Podcast",
+            "published": 1438421418.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1437686561.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e20/ubuntupodcast_s08e20.mp3",
-            "title": "S08E20 \u2013 Who\u2019s Your Caddy? - Ubuntu Podcast"
+            "title": "S08E20 \u2013 Who\u2019s Your Caddy? - Ubuntu Podcast",
+            "published": 1437686561.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1437070738.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e19/ubuntupodcast_s08e19.mp3",
-            "title": "S08E19 \u2013 The Creeping Terror - Ubuntu Podcast"
+            "title": "S08E19 \u2013 The Creeping Terror - Ubuntu Podcast",
+            "published": 1437070738.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1436469196.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e18/ubuntupodcast_s08e18.mp3",
-            "title": "S08E18 \u2013 Mitchell - Ubuntu Podcast"
+            "title": "S08E18 \u2013 Mitchell - Ubuntu Podcast",
+            "published": 1436469196.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1435905152.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e17/ubuntupodcast_s08e17.mp3",
-            "title": "S08E17 \u2013 Gigli - Ubuntu Podcast"
+            "title": "S08E17 \u2013 Gigli - Ubuntu Podcast",
+            "published": 1435905152.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1435318449.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e16/ubuntupodcast_s08e16.mp3",
-            "title": "S08E16 \u2013 The Hottie & the Nottie - Ubuntu Podcast"
+            "title": "S08E16 \u2013 The Hottie & the Nottie - Ubuntu Podcast",
+            "published": 1435318449.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1434703628.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e15/ubuntupodcast_s08e15.mp3",
-            "title": "S08E15 \u2013 The Touch of Satan - Ubuntu Podcast"
+            "title": "S08E15 \u2013 The Touch of Satan - Ubuntu Podcast",
+            "published": 1434703628.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1434035564.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e14/ubuntupodcast_s08e14.mp3",
-            "title": "S08E14 \u2013 The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!? - Ubuntu Podcast"
+            "title": "S08E14 \u2013 The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!? - Ubuntu Podcast",
+            "published": 1434035564.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1433408848.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e13/ubuntupodcast_s08e13.mp3",
-            "title": "S08E13 \u2013 A Story About Love - Ubuntu Podcast"
+            "title": "S08E13 \u2013 A Story About Love - Ubuntu Podcast",
+            "published": 1433408848.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1433138367.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e12/ubuntupodcast_s08e12.mp3",
-            "title": "S08E12 \u2013 Demon Island - Ubuntu Podcast"
+            "title": "S08E12 \u2013 Demon Island - Ubuntu Podcast",
+            "published": 1433138367.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1432210752.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e11/ubuntupodcast_s08e11.mp3",
-            "title": "S08E11- Blubberella - Ubuntu Podcast"
+            "title": "S08E11- Blubberella - Ubuntu Podcast",
+            "published": 1432210752.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1431625420.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e10/ubuntupodcast_s08e10.mp3",
-            "title": "S08E10 \u2013 The Beast of Yucca Flats - Ubuntu Podcast"
+            "title": "S08E10 \u2013 The Beast of Yucca Flats - Ubuntu Podcast",
+            "published": 1431625420.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1431026420.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e09/ubuntupodcast_s08e09.mp3",
-            "title": "S08E09 \u2013 Baby Geniuses - Ubuntu Podcast"
+            "title": "S08E09 \u2013 Baby Geniuses - Ubuntu Podcast",
+            "published": 1431026420.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1430408696.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e08/ubuntupodcast_s08e08.mp3",
-            "title": "S08E08 \u2013 Alone in the Dark - Ubuntu Podcast"
+            "title": "S08E08 \u2013 Alone in the Dark - Ubuntu Podcast",
+            "published": 1430408696.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1429774601.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e07/ubuntupodcast_s08e07.mp3",
-            "title": "S08E07 \u2013 The Starfighters - Ubuntu Podcast"
+            "title": "S08E07 \u2013 The Starfighters - Ubuntu Podcast",
+            "published": 1429774601.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1429202283.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e06/ubuntupodcast_s08e06.mp3",
-            "title": "S08E06 \u2013 Leonard Part 6 - Ubuntu Podcast"
+            "title": "S08E06 \u2013 Leonard Part 6 - Ubuntu Podcast",
+            "published": 1429202283.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1428677023.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e05/ubuntupodcast_s08e05.mp3",
-            "title": "S08E05 \u2013 Hobgoblins - Ubuntu Podcast"
+            "title": "S08E05 \u2013 Hobgoblins - Ubuntu Podcast",
+            "published": 1428677023.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1427989670.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e04/ubuntupodcast_s08e04.mp3",
-            "title": "S08E04 \u2013 Zombie Nightmare - Ubuntu Podcast"
+            "title": "S08E04 \u2013 Zombie Nightmare - Ubuntu Podcast",
+            "published": 1427989670.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1427407609.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e03/ubuntupodcast_s08e03.mp3",
-            "title": "S08E03 \u2013 Disaster Movie - Ubuntu Podcast"
+            "title": "S08E03 \u2013 Disaster Movie - Ubuntu Podcast",
+            "published": 1427407609.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1426759184.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e02/ubuntupodcast_s08e02.mp3",
-            "title": "S08E02 \u2013 The Oasis of the Living Dead - Ubuntu Podcast"
+            "title": "S08E02 \u2013 The Oasis of the Living Dead - Ubuntu Podcast",
+            "published": 1426759184.0,
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1426281310.0,
-            "listened": false,
-            "downloaded": false,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s08/e01/ubuntupodcast_s08e01.mp3",
-            "title": "S08E01 \u2013 Breaking Wind Part 1 - Ubuntu Podcast"
+            "title": "S08E01 \u2013 Breaking Wind Part 1 - Ubuntu Podcast",
+            "published": 1426281310.0,
+            "downloaded": false,
+            "listened": false
         }
     ],
-    "title": "Ubuntu Podcast"
+    "shortname": "ubuntu"
 }
