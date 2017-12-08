@@ -1,91 +1,91 @@
 {
-    "url": "https://latenightlinux.com/feed/mp3",
     "title": "Late Night Linux (MP3)",
+    "url": "https://latenightlinux.com/feed/mp3",
+    "shortname": "late",
     "episodes": [
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL25.mp3",
-            "title": "Late Night Linux \u2013 Episode 25",
+            "downloaded": true,
             "published": 1511831187.0,
-            "downloaded": true,
+            "title": "Late Night Linux \u2013 Episode 25",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL25.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL24.mp3",
-            "title": "Late Night Linux \u2013 Episode 24",
+            "downloaded": true,
             "published": 1510622108.0,
-            "downloaded": true,
+            "title": "Late Night Linux \u2013 Episode 24",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL24.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL23.mp3",
-            "title": "Late Night Linux \u2013 Episode 23",
+            "downloaded": false,
             "published": 1509413741.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 23",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL23.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL22.mp3",
-            "title": "Late Night Linux \u2013 Episode 22",
+            "downloaded": false,
             "published": 1508201931.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 22",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL22.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL21.mp3",
-            "title": "Late Night Linux \u2013 Episode 21",
+            "downloaded": false,
             "published": 1506988673.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 21",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL21.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL20.mp3",
-            "title": "Late Night Linux \u2013 Episode 20",
+            "downloaded": false,
             "published": 1505780827.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 20",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL20.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL19.mp3",
-            "title": "Late Night Linux \u2013 Episode 19",
+            "downloaded": false,
             "published": 1504570845.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 19",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL19.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL18.mp3",
-            "title": "Late Night Linux \u2013 Episode 18",
+            "downloaded": false,
             "published": 1503164848.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 18",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL18.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNLaskogg.mp3",
-            "title": "Late Night Linux \u2013 Call for OggCamp questions",
+            "downloaded": false,
             "published": 1502619230.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Call for OggCamp questions",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNLaskogg.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL17.mp3",
-            "title": "Late Night Linux \u2013 Episode 17",
+            "downloaded": false,
             "published": 1502126577.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 17",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL17.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL16.mp3",
-            "title": "Late Night Linux \u2013 Episode 16",
+            "downloaded": false,
             "published": 1500819818.0,
-            "downloaded": false,
+            "title": "Late Night Linux \u2013 Episode 16",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL16.mp3",
             "listened": false
         },
         {
-            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL15.mp3",
-            "title": "Late Night Linux \u2013 Episode 15",
-            "published": 1499731635.0,
             "downloaded": false,
+            "published": 1499731635.0,
+            "title": "Late Night Linux \u2013 Episode 15",
+            "url": "http://podtrac.com/pts/redirect.mp3/latenightlinux.com/media/LNL15.mp3",
             "listened": false
         }
-    ],
-    "shortname": "late"
+    ]
 }
