@@ -1,6 +1,7 @@
 {
-    "shortname": "kernel",
     "url": "http://jcm.libsyn.com/rss",
+    "title": "Linux Kernel Podcast",
+    "shortname": "kernel",
     "episodes": [
         {
             "url": "http://traffic.libsyn.com/jcm/20170707.mp3?dest-id=14586",
@@ -310,6 +311,5 @@
             "listened": false,
             "downloaded": false
         }
-    ],
-    "title": "Linux Kernel Podcast"
+    ]
 }
