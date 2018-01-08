@@ -1,126 +1,126 @@
 {
+    "url": "http://feeds.twit.tv/floss.xml",
+    "title": "FLOSS Weekly (MP3)",
     "episodes": [
         {
-            "listened": false,
-            "title": "FLOSS Weekly 465: drm_hwcomposer",
             "published": 1514981527.0,
             "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0465/floss0465.mp3",
+            "listened": false,
+            "title": "FLOSS Weekly 465: drm_hwcomposer",
             "downloaded": true
         },
         {
+            "published": 1513776961.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0464/floss0464.mp3",
             "listened": false,
             "title": "FLOSS Weekly 464: PyRx",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0464/floss0464.mp3",
-            "published": 1513776961.0,
             "downloaded": true
         },
         {
+            "published": 1513165885.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0463/floss0463.mp3",
             "listened": false,
             "title": "FLOSS Weekly 463: Linkerd",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0463/floss0463.mp3",
-            "published": 1513165885.0,
             "downloaded": true
         },
         {
+            "published": 1512559474.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0462/floss0462.mp3",
             "listened": false,
             "title": "FLOSS Weekly 462: Evolution of Community",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0462/floss0462.mp3",
-            "published": 1512559474.0,
             "downloaded": true
         },
         {
+            "published": 1511954846.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0461/floss0461.mp3",
             "listened": false,
             "title": "FLOSS Weekly 461: The {code} Team",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0461/floss0461.mp3",
-            "published": 1511954846.0,
             "downloaded": true
         },
         {
+            "published": 1511350791.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0460/floss0460.mp3",
             "listened": false,
             "title": "FLOSS Weekly 460: Jewelbots",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0460/floss0460.mp3",
-            "published": 1511350791.0,
             "downloaded": true
         },
         {
+            "published": 1510746990.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0459/floss0459.mp3",
             "listened": false,
             "title": "FLOSS Weekly 459: Offnet",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0459/floss0459.mp3",
-            "published": 1510746990.0,
             "downloaded": true
         },
         {
+            "published": 1510139795.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0458/floss0458.mp3",
             "listened": false,
             "title": "FLOSS Weekly 458: Crail",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0458/floss0458.mp3",
-            "published": 1510139795.0,
             "downloaded": false
         },
         {
+            "published": 1509534765.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0457/floss0457.mp3",
             "listened": false,
             "title": "FLOSS Weekly 457: JFrog Artifactory",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0457/floss0457.mp3",
-            "published": 1509534765.0,
             "downloaded": false
         },
         {
+            "published": 1508929038.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0456/floss0456.mp3",
             "listened": false,
             "title": "FLOSS Weekly 456: Bedrock",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0456/floss0456.mp3",
-            "published": 1508929038.0,
             "downloaded": false
         },
         {
+            "published": 1508318819.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0455/floss0455.mp3",
             "listened": false,
             "title": "FLOSS Weekly 455: Flogo",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0455/floss0455.mp3",
-            "published": 1508318819.0,
             "downloaded": false
         },
         {
+            "published": 1507716600.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0454/floss0454.mp3",
             "listened": false,
             "title": "FLOSS Weekly 454: OpenBenchmarking.org",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0454/floss0454.mp3",
-            "published": 1507716600.0,
             "downloaded": false
         },
         {
+            "published": 1507195691.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0453/floss0453.mp3",
             "listened": false,
             "title": "FLOSS Weekly 453: libgit2",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0453/floss0453.mp3",
-            "published": 1507195691.0,
             "downloaded": false
         },
         {
+            "published": 1506504138.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0452/floss0452.mp3",
             "listened": false,
             "title": "FLOSS Weekly 452: CNCF Community Infrastructure Lab",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0452/floss0452.mp3",
-            "published": 1506504138.0,
             "downloaded": false
         },
         {
+            "published": 1505894453.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0451/floss0451.mp3",
             "listened": false,
             "title": "FLOSS Weekly 451: Oracle Open Source",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0451/floss0451.mp3",
-            "published": 1505894453.0,
             "downloaded": false
         },
         {
+            "published": 1505382821.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0450/floss0450.mp3",
             "listened": false,
             "title": "FLOSS Weekly 450: Friend",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0450/floss0450.mp3",
-            "published": 1505382821.0,
             "downloaded": false
         },
         {
+            "published": 1504690691.0,
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0449/floss0449.mp3",
             "listened": false,
             "title": "FLOSS Weekly 449: Aquameta",
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/floss/floss0449/floss0449.mp3",
-            "published": 1504690691.0,
             "downloaded": false
         }
     ],
-    "title": "FLOSS Weekly (MP3)",
-    "url": "http://feeds.twit.tv/floss.xml",
     "shortname": "floss"
 }
