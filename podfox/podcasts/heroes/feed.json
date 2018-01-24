@@ -1,28 +1,28 @@
 {
+    "title": "Command Line Heroes",
+    "url": "https://feeds.pacific-content.com/commandlineheroes",
+    "shortname": "heroes",
     "episodes": [
         {
-            "published": 1516053660.0,
             "listened": false,
-            "title": "OS Wars_part 1",
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
+            "published": 1516053660.0,
+            "title": "OS Wars_part 1",
             "downloaded": true
         },
         {
-            "published": 1516053600.0,
             "listened": false,
-            "title": "OS Wars_part 2: Rise of Linux",
             "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
+            "published": 1516053600.0,
+            "title": "OS Wars_part 2: Rise of Linux",
             "downloaded": true
         },
         {
-            "published": 1512108000.0,
             "listened": false,
-            "title": "Preview_CLH",
             "url": "https://tracking.feedpress.it/link/18442/7582651/3def9db9.mp3",
+            "published": 1512108000.0,
+            "title": "Preview_CLH",
             "downloaded": false
         }
-    ],
-    "title": "Command Line Heroes",
-    "shortname": "heroes",
-    "url": "https://feeds.pacific-content.com/commandlineheroes"
+    ]
 }
