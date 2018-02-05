@@ -1,1050 +1,1057 @@
 {
+    "url": "https://talkpython.fm/episodes/rss",
+    "title": "Talk Python To Me - Python conversations for passionate developers",
     "episodes": [
         {
-            "listened": false,
+            "published": 1517529600.0,
+            "url": "https://talkpython.fm/episodes/download/149/4-python-web-frameworks-compared.mp3",
+            "downloaded": true,
+            "title": "#149 4 Python Web Frameworks, Compared",
+            "listened": false
+        },
+        {
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/148/python-book-authors-panel-discussion.mp3",
             "published": 1517097600.0,
-            "title": "#148 Python Book Authors'  Panel Discussion"
+            "title": "#148 Python Book Authors'  Panel Discussion",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/147/quart-flask-but-3x-faster.mp3",
             "published": 1516320000.0,
-            "title": "#147 Quart: Flask, but 3x faster"
+            "title": "#147 Quart: Flask, but 3x faster",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/146/building-alexa-skills-with-python-and-flask.mp3",
             "published": 1515628800.0,
-            "title": "#146 Building Alexa Skills with Python and Flask"
+            "title": "#146 Building Alexa Skills with Python and Flask",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/145/2017-python-year-in-review.mp3",
             "published": 1514678400.0,
-            "title": "#145 2017 Python Year in Review"
+            "title": "#145 2017 Python Year in Review",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/144/machine-learning-at-the-large-hadron-collider.mp3",
             "published": 1514246400.0,
-            "title": "#144 Machine Learning at the Large Hadron Collider"
+            "title": "#144 Machine Learning at the Large Hadron Collider",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/143/tuning-python-web-app-performance.mp3",
             "published": 1513728000.0,
-            "title": "#143 Tuning Python Web App Performance"
+            "title": "#143 Tuning Python Web App Performance",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/142/automating-the-web-with-selenium-and-instapy.mp3",
             "published": 1513123200.0,
-            "title": "#142 Automating the web with Selenium and InstaPy"
+            "title": "#142 Automating the web with Selenium and InstaPy",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/141/python-tricks.mp3",
             "published": 1512604800.0,
-            "title": "#141 Python tricks"
+            "title": "#141 Python tricks",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/140/level-up-your-python-with-100daysofcode-challenge.mp3",
             "published": 1511913600.0,
-            "title": "#140 Level up your Python with #100DaysOfCode challenge"
+            "title": "#140 Level up your Python with #100DaysOfCode challenge",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/139/paths-into-a-data-science-career.mp3",
             "published": 1511308800.0,
-            "title": "#139 Paths into a data science career"
+            "title": "#139 Paths into a data science career",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/138/anvil-all-web-all-python.mp3",
             "published": 1510704000.0,
-            "title": "#138 Anvil: All web, all Python"
+            "title": "#138 Anvil: All web, all Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": true,
             "url": "https://talkpython.fm/episodes/download/137/design-concepts-and-tips-for-developers.mp3",
             "published": 1510099200.0,
-            "title": "#137 Design concepts and tips for developers"
+            "title": "#137 Design concepts and tips for developers",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/136/secure-code-lessons-from-have-i-been-pwned.mp3",
             "published": 1509580800.0,
-            "title": "#136 Secure code lessons from Have I Been Pwned"
+            "title": "#136 Secure code lessons from Have I Been Pwned",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/135/capturing-human-moments-with-ai-and-python.mp3",
             "published": 1509058800.0,
-            "title": "#135 Capturing human moments with AI and Python"
+            "title": "#135 Capturing human moments with AI and Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/134/python-in-climate-science.mp3",
             "published": 1508367600.0,
-            "title": "#134 Python in Climate Science"
+            "title": "#134 Python in Climate Science",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/133/productivity-for-developers.mp3",
             "published": 1507676400.0,
-            "title": "#133 Productivity for developers"
+            "title": "#133 Productivity for developers",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/132/contributing-to-open-source.mp3",
             "published": 1507071600.0,
-            "title": "#132 Contributing to open source"
+            "title": "#132 Contributing to open source",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/131/top-10-machine-learning-libraries.mp3",
             "published": 1506380400.0,
-            "title": "#131 Top 10 machine learning libraries"
+            "title": "#131 Top 10 machine learning libraries",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/130/10-books-python-developers-should-be-reading.mp3",
             "published": 1505775600.0,
-            "title": "#130 10 books Python developers should be reading"
+            "title": "#130 10 books Python developers should be reading",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/129/falcon-the-bare-metal-python-web-framework.mp3",
             "published": 1505343600.0,
-            "title": "#129 Falcon: The bare-metal Python web framework"
+            "title": "#129 Falcon: The bare-metal Python web framework",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/128/pythonic-networks-with-napalm.mp3",
             "published": 1504738800.0,
-            "title": "#128 Pythonic Networks with NAPALM"
+            "title": "#128 Pythonic Networks with NAPALM",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/127/shipping-software-to-users.mp3",
             "published": 1504134000.0,
-            "title": "#127 Shipping software to users"
+            "title": "#127 Shipping software to users",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/126/kubernetes-for-pythonistas.mp3",
             "published": 1503356400.0,
-            "title": "#126 Kubernetes for Pythonistas"
+            "title": "#126 Kubernetes for Pythonistas",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/125/django-rest-framework-and-a-new-api-star-is-born.mp3",
             "published": 1502751600.0,
-            "title": "#125 Django REST framework and a new API star is born"
+            "title": "#125 Django REST framework and a new API star is born",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/124/python-for-ai-research.mp3",
             "published": 1502060400.0,
-            "title": "#124 Python for AI research"
+            "title": "#124 Python for AI research",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/123/lessons-from-100-straight-dev-job-interviews.mp3",
             "published": 1501455600.0,
-            "title": "#123 Lessons from 100 straight dev job interviews"
+            "title": "#123 Lessons from 100 straight dev job interviews",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/122/home-assistant-pythonic-home-automation.mp3",
             "published": 1501023600.0,
-            "title": "#122 Home Assistant: Pythonic Home Automation"
+            "title": "#122 Home Assistant: Pythonic Home Automation",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/121/microservices-in-python.mp3",
             "published": 1500418800.0,
-            "title": "#121 Microservices in Python"
+            "title": "#121 Microservices in Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/120/python-in-finance.mp3",
             "published": 1499814000.0,
-            "title": "#120 Python in Finance"
+            "title": "#120 Python in Finance",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/119/python-in-engineering.mp3",
             "published": 1499295600.0,
-            "title": "#119 Python in Engineering"
+            "title": "#119 Python in Engineering",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/118/serverless-software.mp3",
             "published": 1498518000.0,
-            "title": "#118 Serverless software"
+            "title": "#118 Serverless software",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/117/functional-python-with-coconut.mp3",
             "published": 1497999600.0,
-            "title": "#117 Functional Python with Coconut"
+            "title": "#117 Functional Python with Coconut",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/116/10-top-talks-of-pycon-2017-reviewed.mp3",
             "published": 1497222000.0,
-            "title": "#116 10 top talks of PyCon 2017 reviewed"
+            "title": "#116 10 top talks of PyCon 2017 reviewed",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/115/python-for-humans-projects.mp3",
             "published": 1496876400.0,
-            "title": "#115 Python for Humans projects"
+            "title": "#115 Python for Humans projects",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/114/empowering-developers-at-the-hidden-genius-project.mp3",
             "published": 1496098800.0,
-            "title": "#114 Empowering developers at the Hidden Genius project"
+            "title": "#114 Empowering developers at the Hidden Genius project",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/113/dedicated-ai-chips-and-running-old-python-faster-at-intel.mp3",
             "published": 1495839600.0,
-            "title": "#113 Dedicated AI chips and running old Python faster at Intel"
+            "title": "#113 Dedicated AI chips and running old Python faster at Intel",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/112/geeking-out-in-the-golden-years.mp3",
             "published": 1495062000.0,
-            "title": "#112 Geeking out in the golden years"
+            "title": "#112 Geeking out in the golden years",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/111/pythonic-career-advice-and-more.mp3",
             "published": 1494630000.0,
-            "title": "#111 Pythonic Career Advice and More"
+            "title": "#111 Pythonic Career Advice and More",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/110/data-democratization-with-redash.mp3",
             "published": 1493679600.0,
-            "title": "#110 Data Democratization with Redash"
+            "title": "#110 Data Democratization with Redash",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/109/mongodb-applied-design-patterns.mp3",
             "published": 1493420400.0,
-            "title": "#109 MongoDB Applied Design Patterns"
+            "title": "#109 MongoDB Applied Design Patterns",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/108/micropython-and-open-source-hardware-at-adafruit.mp3",
             "published": 1492729200.0,
-            "title": "#108 MicroPython and Open Source Hardware at Adafruit"
+            "title": "#108 MicroPython and Open Source Hardware at Adafruit",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/107/python-concurrency-with-curio.mp3",
             "published": 1492210800.0,
-            "title": "#107 Python concurrency with Curio"
+            "title": "#107 Python concurrency with Curio",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/106/invent-your-own-computer-games-with-python.mp3",
             "published": 1491519600.0,
-            "title": "#106 Invent your own computer games with Python"
+            "title": "#106 Invent your own computer games with Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/105/a-pythonic-database-tour.mp3",
             "published": 1490569200.0,
-            "title": "#105 A Pythonic Database Tour"
+            "title": "#105 A Pythonic Database Tour",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/104/game-theory-in-python.mp3",
             "published": 1490227200.0,
-            "title": "#104 Game Theory in Python"
+            "title": "#104 Game Theory in Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/103/compiling-python-through-pyllvm-and-mongodb-for-data-scientists.mp3",
             "published": 1489622400.0,
-            "title": "#103 Compiling Python through PyLLVM and MongoDB for Data Scientists"
+            "title": "#103 Compiling Python through PyLLVM and MongoDB for Data Scientists",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/102/effective-code-reviews.mp3",
             "published": 1488931200.0,
-            "title": "#102 Effective Code Reviews"
+            "title": "#102 Effective Code Reviews",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/101/adding-a-full-featured-python-environment-to-visual-studio-code.mp3",
             "published": 1488499200.0,
-            "title": "#101 Adding a full featured Python environment to  Visual Studio Code"
+            "title": "#101 Adding a full featured Python environment to  Visual Studio Code",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/100/python-past-present-and-future-with-guido-van-rossum.mp3",
             "published": 1487721600.0,
-            "title": "#100 Python past, present, and future with Guido van Rossum"
+            "title": "#100 Python past, present, and future with Guido van Rossum",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/99/morepath-super-powered-python-web-framework.mp3",
             "published": 1487116800.0,
-            "title": "#99 Morepath: Super Powered Python Web Framework"
+            "title": "#99 Morepath: Super Powered Python Web Framework",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/98/adding-concurrency-to-django-with-django-channels.mp3",
             "published": 1486512000.0,
-            "title": "#98 Adding concurrency to Django with Django Channels"
+            "title": "#98 Adding concurrency to Django with Django Channels",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/97/flask-django-style-with-flask-diamond.mp3",
             "published": 1485993600.0,
-            "title": "#97 Flask, Django style with Flask-Diamond"
+            "title": "#97 Flask, Django style with Flask-Diamond",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/96/exploring-awesome-python.mp3",
             "published": 1485302400.0,
-            "title": "#96 Exploring Awesome Python"
+            "title": "#96 Exploring Awesome Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/95/grumpy-running-python-on-go.mp3",
             "published": 1484697600.0,
-            "title": "#95 Grumpy: Running Python on Go"
+            "title": "#95 Grumpy: Running Python on Go",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/94/guarenteed-packages-via-conda-and-conda-forge.mp3",
             "published": 1484092800.0,
-            "title": "#94 Guarenteed packages via Conda and Conda-Forge"
+            "title": "#94 Guarenteed packages via Conda and Conda-Forge",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/93/spreading-python-through-the-sciences-with-software-carpentry.mp3",
             "published": 1483401600.0,
-            "title": "#93 Spreading Python through the sciences with Software Carpentry"
+            "title": "#93 Spreading Python through the sciences with Software Carpentry",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/92/bonus-python-bytes-crossover-python-3.6-is-going-to-be-awesome-kite-your-friendly-co-developing-ai.mp3",
             "published": 1482969600.0,
-            "title": "#92 Bonus: Python Bytes Crossover: Python 3.6 is going to be awesome, Kite: your friendly co-developing AI"
+            "title": "#92 Bonus: Python Bytes Crossover: Python 3.6 is going to be awesome, Kite: your friendly co-developing AI",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/91/top-10-data-science-stories-of-2016.mp3",
             "published": 1482796800.0,
-            "title": "#91 Top 10 Data Science Stories of 2016"
+            "title": "#91 Top 10 Data Science Stories of 2016",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/90/data-wrangling-with-python.mp3",
             "published": 1482278400.0,
-            "title": "#90 Data Wrangling with Python"
+            "title": "#90 Data Wrangling with Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/89/a-conversation-with-the-chief-data-scientist-of-the-united-states.mp3",
             "published": 1481760000.0,
-            "title": "#89 A conversation with the Chief Data Scientist of the United States"
+            "title": "#89 A conversation with the Chief Data Scientist of the United States",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/88/lightweight-django.mp3",
             "published": 1480982400.0,
-            "title": "#88 Lightweight Django"
+            "title": "#88 Lightweight Django",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/87/ponyorm-the-most-pythonic-orm-yet.mp3",
             "published": 1480377600.0,
-            "title": "#87 PonyORM: The most Pythonic ORM yet?"
+            "title": "#87 PonyORM: The most Pythonic ORM yet?",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/86/python-at-stackoverflow.mp3",
             "published": 1479945600.0,
-            "title": "#86 Python at StackOverflow"
+            "title": "#86 Python at StackOverflow",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/85/parsing-horrible-things-with-python.mp3",
             "published": 1479340800.0,
-            "title": "#85 Parsing horrible things with Python"
+            "title": "#85 Parsing horrible things with Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/84/are-we-failing-to-fund-python-s-core-infrastructure.mp3",
             "published": 1478563200.0,
-            "title": "#84 Are we failing to fund Python's core infrastructure?"
+            "title": "#84 Are we failing to fund Python's core infrastructure?",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/83/python-videos-on-demand-at-pyvideo.mp3",
             "published": 1478044800.0,
-            "title": "#83 Python Videos on Demand at PyVideo"
+            "title": "#83 Python Videos on Demand at PyVideo",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/82/grokking-algorithms-in-python.mp3",
             "published": 1477522800.0,
-            "title": "#82 Grokking Algorithms in Python"
+            "title": "#82 Grokking Algorithms in Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/81/python-and-machine-learning-in-astronomy.mp3",
             "published": 1477004400.0,
-            "title": "#81 Python and Machine Learning in Astronomy"
+            "title": "#81 Python and Machine Learning in Astronomy",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/80/tinydb-a-tiny-document-db-written-in-python.mp3",
             "published": 1476572400.0,
-            "title": "#80 TinyDB: A tiny document db written in Python"
+            "title": "#80 TinyDB: A tiny document db written in Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/79/beeware-python-tools.mp3",
             "published": 1475794800.0,
-            "title": "#79 Beeware Python Tools"
+            "title": "#79 Beeware Python Tools",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/78/how-i-built-an-entire-game-and-toolchain-100-in-python.mp3",
             "published": 1475017200.0,
-            "title": "#78 How I built an entire game and toolchain 100% in Python"
+            "title": "#78 How I built an entire game and toolchain 100% in Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/77/20-python-libraries-you-aren-t-using-but-should.mp3",
             "published": 1474585200.0,
-            "title": "#77 20 Python Libraries You Aren't Using (But Should)"
+            "title": "#77 20 Python Libraries You Aren't Using (But Should)",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/76/renewable-python.mp3",
             "published": 1473894000.0,
-            "title": "#76 Renewable Python"
+            "title": "#76 Renewable Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/75/pythonic-games-at-checkio.mp3",
             "published": 1473375600.0,
-            "title": "#75 Pythonic games at CheckIO"
+            "title": "#75 Pythonic games at CheckIO",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/74/past-present-and-future-of-ironpython.mp3",
             "published": 1472770800.0,
-            "title": "#74 Past, Present, and Future of IronPython"
+            "title": "#74 Past, Present, and Future of IronPython",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/73/machine-learning-at-the-new-microsoft.mp3",
             "published": 1472166000.0,
-            "title": "#73 Machine learning at the new Microsoft"
+            "title": "#73 Machine learning at the new Microsoft",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/72/fashion-driven-open-source-software-at-zalando.mp3",
             "published": 1471561200.0,
-            "title": "#72 Fashion-driven open source software at Zalando"
+            "title": "#72 Fashion-driven open source software at Zalando",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/71/soft-skills-the-software-developer-s-life-manual.mp3",
             "published": 1470870000.0,
-            "title": "#71 Soft Skills: The software developer's life manual"
+            "title": "#71 Soft Skills: The software developer's life manual",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/70/pythonic-cover-songs-at-loudr.mp3",
             "published": 1470351600.0,
-            "title": "#70 Pythonic cover songs at Loudr"
+            "title": "#70 Pythonic cover songs at Loudr",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/69/write-an-excellent-programming-blog.mp3",
             "published": 1469487600.0,
-            "title": "#69 Write an Excellent Programming Blog"
+            "title": "#69 Write an Excellent Programming Blog",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/68/crossing-the-streams-with-podcast.-init.mp3",
             "published": 1468969200.0,
-            "title": "#68 Crossing the streams with Podcast.__init__"
+            "title": "#68 Crossing the streams with Podcast.__init__",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/67/property-based-testing-with-hypothesis.mp3",
             "published": 1468364400.0,
-            "title": "#67 Property-based Testing with Hypothesis"
+            "title": "#67 Property-based Testing with Hypothesis",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/66/faster-python-programs-measure-don-t-guess.mp3",
             "published": 1467846000.0,
-            "title": "#66 Faster Python Programs: Measure, Don't Guess"
+            "title": "#66 Faster Python Programs: Measure, Don't Guess",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/65/jump-on-the-real-time-web-with-rethinkdb.mp3",
             "published": 1467154800.0,
-            "title": "#65 Jump on the real-time web with RethinkDB"
+            "title": "#65 Jump on the real-time web with RethinkDB",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/64/inside-the-python-package-index.mp3",
             "published": 1466722800.0,
-            "title": "#64 Inside the Python Package Index"
+            "title": "#64 Inside the Python Package Index",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/63/validating-python-tests-with-mutation-testing.mp3",
             "published": 1466031600.0,
-            "title": "#63 Validating Python tests with mutation testing"
+            "title": "#63 Validating Python tests with mutation testing",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/62/san-diego-technology-immersion-group-learns-python.mp3",
             "published": 1465254000.0,
-            "title": "#62 San Diego Technology Immersion Group Learns Python"
+            "title": "#62 San Diego Technology Immersion Group Learns Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/61/free-software-free-people.mp3",
             "published": 1464562800.0,
-            "title": "#61 Free software, free people"
+            "title": "#61 Free software, free people",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/60/scaling-python-to-1000-s-of-cores-with-ufora.mp3",
             "published": 1464044400.0,
-            "title": "#60 Scaling Python to 1000's of cores with Ufora"
+            "title": "#60 Scaling Python to 1000's of cores with Ufora",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/59/sagemath-open-source-is-ready-to-compete-in-the-classroom.mp3",
             "published": 1463526000.0,
-            "title": "#59 SageMath - Open source is ready to compete in the classroom"
+            "title": "#59 SageMath - Open source is ready to compete in the classroom",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/58/create-better-python-programs-with-concurrency-libraries-and-patterns.mp3",
             "published": 1462834800.0,
-            "title": "#58 Create better Python programs with concurrency, libraries, and patterns"
+            "title": "#58 Create better Python programs with concurrency, libraries, and patterns",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/57/python-performance-from-the-inside-out-at-intel.mp3",
             "published": 1462402800.0,
-            "title": "#57 Python performance from the inside-out at Intel"
+            "title": "#57 Python performance from the inside-out at Intel",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/56/data-science-from-scratch.mp3",
             "published": 1461711600.0,
-            "title": "#56 Data Science from Scratch"
+            "title": "#56 Data Science from Scratch",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/55/how-our-engineering-environments-are-killing-diversity-and-how-we-can-fix-it.mp3",
             "published": 1461193200.0,
-            "title": "#55 How our engineering environments are killing diversity (and how we can fix it)"
+            "title": "#55 How our engineering environments are killing diversity (and how we can fix it)",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/54/enterprise-software-with-python.mp3",
             "published": 1460588400.0,
-            "title": "#54 Enterprise Software with Python"
+            "title": "#54 Enterprise Software with Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/53/python-in-visual-studio.mp3",
             "published": 1459897200.0,
-            "title": "#53 Python in Visual Studio"
+            "title": "#53 Python in Visual Studio",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/52/eve-online-mmo-game-powered-by-python.mp3",
             "published": 1459036800.0,
-            "title": "#52 EVE Online: MMO game powered by Python"
+            "title": "#52 EVE Online: MMO game powered by Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/51/sigopt-optimizing-everything-with-python.mp3",
             "published": 1458518400.0,
-            "title": "#51 SigOpt: Optimizing Everything with Python"
+            "title": "#51 SigOpt: Optimizing Everything with Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/50/web-scraping-at-scale-with-scrapy-and-scrapinghub.mp3",
             "published": 1458000000.0,
-            "title": "#50 Web scraping at scale with Scrapy and ScrapingHub"
+            "title": "#50 Web scraping at scale with Scrapy and ScrapingHub",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/49/microsoft-s-jit-based-python-project-pyjion.mp3",
             "published": 1457395200.0,
-            "title": "#49 Microsoft's JIT-based Python Project: Pyjion"
+            "title": "#49 Microsoft's JIT-based Python Project: Pyjion",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/48/building-flask-based-web-apps.mp3",
             "published": 1456790400.0,
-            "title": "#48 Building Flask-based Web Apps"
+            "title": "#48 Building Flask-based Web Apps",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/47/python-in-typeface-and-font-development.mp3",
             "published": 1456185600.0,
-            "title": "#47 Python in Typeface and Font Development"
+            "title": "#47 Python in Typeface and Font Development",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/46/python-in-movies-and-entertainment.mp3",
             "published": 1455580800.0,
-            "title": "#46 Python in Movies and Entertainment"
+            "title": "#46 Python in Movies and Entertainment",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/45/the-python-testing-column-now-a-thing.mp3",
             "published": 1454976000.0,
-            "title": "#45 The Python Testing Column, Now a Thing"
+            "title": "#45 The Python Testing Column, Now a Thing",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/44/project-jupyter-and-ipython.mp3",
             "published": 1454371200.0,
-            "title": "#44 Project Jupyter and IPython"
+            "title": "#44 Project Jupyter and IPython",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/43/monitoring-high-performance-python-apps-at-opbeat.mp3",
             "published": 1453766400.0,
-            "title": "#43 Monitoring high performance Python apps at Opbeat"
+            "title": "#43 Monitoring high performance Python apps at Opbeat",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/42/python-in-startups-and-investing.mp3",
             "published": 1453161600.0,
-            "title": "#42 Python in Startups and Investing"
+            "title": "#42 Python in Startups and Investing",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/41/getting-your-first-dev-job-as-a-python-developer-part-2.mp3",
             "published": 1452556800.0,
-            "title": "#41 Getting your first dev job as a Python developer (part 2)"
+            "title": "#41 Getting your first dev job as a Python developer (part 2)",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/40/top-10-data-science-stories-from-2015.mp3",
             "published": 1451347200.0,
-            "title": "#40 Top 10 Data Science Stories from 2015"
+            "title": "#40 Top 10 Data Science Stories from 2015",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/39/getting-your-first-dev-job-as-a-python-developer-part-1.mp3",
             "published": 1450742400.0,
-            "title": "#39 Getting your first dev job as a Python developer (part 1)"
+            "title": "#39 Getting your first dev job as a Python developer (part 1)",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/38/continuous-integration-and-delivery-at-codeship.mp3",
             "published": 1450137600.0,
-            "title": "#38 Continuous Integration and Delivery at Codeship"
+            "title": "#38 Continuous Integration and Delivery at Codeship",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/37/python-cybersecurity-and-penetration-testing.mp3",
             "published": 1449532800.0,
-            "title": "#37 Python Cybersecurity and Penetration Testing"
+            "title": "#37 Python Cybersecurity and Penetration Testing",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/36/python-ides-with-the-pycharm-team.mp3",
             "published": 1448928000.0,
-            "title": "#36 Python IDEs with the PyCharm team"
+            "title": "#36 Python IDEs with the PyCharm team",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/35/turbogears-and-the-future-of-python-web-frameworks.mp3",
             "published": 1448323200.0,
-            "title": "#35 Turbogears and the future of Python web frameworks"
+            "title": "#35 Turbogears and the future of Python web frameworks",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/34/continuum-scientific-python-and-the-business-of-open-source.mp3",
             "published": 1447718400.0,
-            "title": "#34 Continuum: Scientific Python and The Business of Open Source"
+            "title": "#34 Continuum: Scientific Python and The Business of Open Source",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/33/openstack-cloud-computing-built-on-python.mp3",
             "published": 1447113600.0,
-            "title": "#33 OpenStack: Cloud computing built on Python"
+            "title": "#33 OpenStack: Cloud computing built on Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/32/pypy.js-pypy-python-in-your-browser.mp3",
             "published": 1446508800.0,
-            "title": "#32 PyPy.js - PyPy Python in Your Browser"
+            "title": "#32 PyPy.js - PyPy Python in Your Browser",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/31/machine-learning-with-python-and-scikit-learn.mp3",
             "published": 1445904000.0,
-            "title": "#31 Machine Learning with Python and scikit-learn"
+            "title": "#31 Machine Learning with Python and scikit-learn",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/30/python-community-and-python-at-dropbox.mp3",
             "published": 1445295600.0,
-            "title": "#30 Python Community and Python at Dropbox"
+            "title": "#30 Python Community and Python at Dropbox",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/29/python-at-the-large-hadron-collider-and-cern.mp3",
             "published": 1444690800.0,
-            "title": "#29 Python at the Large Hadron Collider and CERN"
+            "title": "#29 Python at the Large Hadron Collider and CERN",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/28/making-python-fast-profiling-python-code.mp3",
             "published": 1444086000.0,
-            "title": "#28 Making Python Fast: Profiling Python Code"
+            "title": "#28 Making Python Fast: Profiling Python Code",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/27/four-years-of-python-for-high-schoolers.mp3",
             "published": 1443481200.0,
-            "title": "#27 Four Years of Python for High Schoolers"
+            "title": "#27 Four Years of Python for High Schoolers",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/26/deploying-python-web-applications-updated.mp3",
             "published": 1442876400.0,
-            "title": "#26 Deploying Python Web Applications (Updated)"
+            "title": "#26 Deploying Python Web Applications (Updated)",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/25/effective-python.mp3",
             "published": 1442271600.0,
-            "title": "#25 Effective Python"
+            "title": "#25 Effective Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/24/fluent-python.mp3",
             "published": 1441666800.0,
-            "title": "#24 Fluent Python"
+            "title": "#24 Fluent Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/23/3d-printing-with-python-at-authentise.mp3",
             "published": 1441062000.0,
-            "title": "#23 3D Printing with Python at Authentise"
+            "title": "#23 3D Printing with Python at Authentise",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/22/cpython-internals-and-learning-python-with-pythontutor.com.mp3",
             "published": 1440457200.0,
-            "title": "#22 CPython Internals and Learning Python with pythontutor.com"
+            "title": "#22 CPython Internals and Learning Python with pythontutor.com",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/21/pypy-the-jit-compiled-python-implementation.mp3",
             "published": 1439852400.0,
-            "title": "#21 PyPy - The JIT Compiled Python Implementation"
+            "title": "#21 PyPy - The JIT Compiled Python Implementation",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/20/interactive-python-and-teaching-python-beyond-text-books.mp3",
             "published": 1439247600.0,
-            "title": "#20 Interactive Python and Teaching Python: Beyond Text Books"
+            "title": "#20 Interactive Python and Teaching Python: Beyond Text Books",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/19/automate-the-boring-stuff-with-python.mp3",
             "published": 1438642800.0,
-            "title": "#19 Automate the Boring Stuff with Python"
+            "title": "#19 Automate the Boring Stuff with Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/18/python-anti-patterns-and-other-mistakes.mp3",
             "published": 1438038000.0,
-            "title": "#18 Python Anti-patterns and other mistakes"
+            "title": "#18 Python Anti-patterns and other mistakes",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/17/python-on-bare-metal-with-micropython.mp3",
             "published": 1437433200.0,
-            "title": "#17 Python on bare metal with MicroPython"
+            "title": "#17 Python on bare metal with MicroPython",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/16/python-at-netflix.mp3",
             "published": 1436828400.0,
-            "title": "#16 Python at Netflix"
+            "title": "#16 Python at Netflix",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/15/python-at-spotify-psf-and-pyladies.mp3",
             "published": 1436223600.0,
-            "title": "#15 Python at Spotify, PSF, and PyLadies"
+            "title": "#15 Python at Spotify, PSF, and PyLadies",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/14/moving-from-php-to-python-3-with-patreon.mp3",
             "published": 1435618800.0,
-            "title": "#14 Moving from PHP to Python 3 with Patreon"
+            "title": "#14 Moving from PHP to Python 3 with Patreon",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/13/flask-web-framework-and-much-much-more.mp3",
             "published": 1435014000.0,
-            "title": "#13 Flask web framework and much, much more"
+            "title": "#13 Flask web framework and much, much more",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/12/deep-dive-into-modules-and-packages.mp3",
             "published": 1434409200.0,
-            "title": "#12 Deep Dive into Modules and Packages"
+            "title": "#12 Deep Dive into Modules and Packages",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/11/pyimagesearch-and-computer-vision.mp3",
             "published": 1433804400.0,
-            "title": "#11 PyImageSearch and Computer Vision"
+            "title": "#11 PyImageSearch and Computer Vision",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/10/bringing-python-to-the-masses-with-hosting-and-devops-at-pythonanywhere.mp3",
             "published": 1433199600.0,
-            "title": "#10 Bringing Python to the Masses with Hosting and DevOps at PythonAnywhere"
+            "title": "#10 Bringing Python to the Masses with Hosting and DevOps at PythonAnywhere",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/9/docker-for-the-python-developer.mp3",
             "published": 1432594800.0,
-            "title": "#9 Docker for the Python Developer"
+            "title": "#9 Docker for the Python Developer",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/8/teaching-python-at-grok-learning-and-classrooms.mp3",
             "published": 1431990000.0,
-            "title": "#8 Teaching Python at Grok Learning and Classrooms"
+            "title": "#8 Teaching Python at Grok Learning and Classrooms",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/7/robot-operating-system-ros-and-rospy.mp3",
             "published": 1431385200.0,
-            "title": "#7 Robot Operating System (ROS) and ROSPy"
+            "title": "#7 Robot Operating System (ROS) and ROSPy",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/6/requests-pycon-and-python-s-future.mp3",
             "published": 1430780400.0,
-            "title": "#6 Requests, PyCon, and Python's future"
+            "title": "#6 Requests, PyCon, and Python's future",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/5/sqlalchemy-and-data-access-in-python.mp3",
             "published": 1430175600.0,
-            "title": "#5 SQLAlchemy and data access in Python"
+            "title": "#5 SQLAlchemy and data access in Python",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/4/enterprise-python-and-large-scale-projects.mp3",
             "published": 1429743600.0,
-            "title": "#4 Enterprise Python and Large-Scale Projects"
+            "title": "#4 Enterprise Python and Large-Scale Projects",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/3/pyramid-web-framework.mp3",
             "published": 1429138800.0,
-            "title": "#3 Pyramid Web Framework"
+            "title": "#3 Pyramid Web Framework",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/2/python-and-mongodb.mp3",
             "published": 1428361200.0,
-            "title": "#2 Python and MongoDB"
+            "title": "#2 Python and MongoDB",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/1/eve-restful-apis-for-humans.mp3",
             "published": 1427756400.0,
-            "title": "#1 EVE - RESTful APIs for humans"
+            "title": "#1 EVE - RESTful APIs for humans",
+            "listened": false
         },
         {
-            "listened": false,
             "downloaded": false,
             "url": "https://talkpython.fm/episodes/download/0/introducing-the-show.mp3",
             "published": 1426896000.0,
-            "title": "#0 Introducing the show!"
+            "title": "#0 Introducing the show!",
+            "listened": false
         }
     ],
-    "url": "https://talkpython.fm/episodes/rss",
-    "title": "Talk Python To Me - Python conversations for passionate developers",
     "shortname": "talkpython"
 }
