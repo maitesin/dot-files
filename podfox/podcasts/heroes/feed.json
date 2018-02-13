@@ -2,48 +2,55 @@
     "episodes": [
         {
             "listened": false,
+            "url": "https://tracking.feedpress.it/link/18442/8257010/beffda00.mp3",
+            "title": "DevOps_Tear Down That Wall",
+            "published": 1518472800.0,
+            "downloaded": true
+        },
+        {
+            "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8106515/acf5928d.mp3",
             "title": "The Agile_Revolution",
-            "downloaded": true,
-            "published": 1517263200.0
+            "published": 1517263200.0,
+            "downloaded": true
         },
         {
             "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
             "title": "OS Wars_part 1",
-            "downloaded": true,
-            "published": 1516053660.0
+            "published": 1516053660.0,
+            "downloaded": true
         },
         {
             "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
             "title": "OS Wars_part 2: Rise of Linux",
-            "downloaded": true,
-            "published": 1516053660.0
+            "published": 1516053660.0,
+            "downloaded": true
         },
         {
             "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
             "title": "OS Wars_part 2: Rise of Linux",
-            "downloaded": true,
-            "published": 1516053600.0
+            "published": 1516053600.0,
+            "downloaded": true
         },
         {
             "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
             "title": "OS Wars_part 1",
-            "downloaded": true,
-            "published": 1516053600.0
+            "published": 1516053600.0,
+            "downloaded": true
         },
         {
             "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/7582651/3def9db9.mp3",
             "title": "Preview_CLH",
-            "downloaded": false,
-            "published": 1512108000.0
+            "published": 1512108000.0,
+            "downloaded": false
         }
     ],
-    "title": "Command Line Heroes",
     "shortname": "heroes",
+    "title": "Command Line Heroes",
     "url": "https://feeds.pacific-content.com/commandlineheroes"
 }
