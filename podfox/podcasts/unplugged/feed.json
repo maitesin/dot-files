@@ -1,7 +1,4 @@
 {
-    "shortname": "unplugged",
-    "title": "LINUX Unplugged Podcast",
-    "url": "http://feeds.feedburner.com/linuxunplugged",
     "episodes": [
         {
             "downloaded": true,
@@ -1655,5 +1652,8 @@
             "title": "Too Much Choice | LU1",
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LINUXUN-001-mp3.mp3"
         }
-    ]
+    ],
+    "title": "LINUX Unplugged Podcast",
+    "shortname": "unplugged",
+    "url": "http://feeds.feedburner.com/linuxunplugged"
 }
