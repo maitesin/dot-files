@@ -1,56 +1,56 @@
 {
-    "shortname": "heroes",
     "url": "https://feeds.pacific-content.com/commandlineheroes",
+    "shortname": "heroes",
     "title": "Command Line Heroes",
     "episodes": [
         {
+            "published": 1518472800.0,
+            "downloaded": true,
+            "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8257010/beffda00.mp3",
-            "downloaded": true,
-            "title": "DevOps_Tear Down That Wall",
-            "listened": false,
-            "published": 1518472800.0
+            "title": "DevOps_Tear Down That Wall"
         },
         {
+            "published": 1517263200.0,
+            "downloaded": true,
+            "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8106515/acf5928d.mp3",
-            "downloaded": true,
-            "title": "The Agile_Revolution",
-            "listened": false,
-            "published": 1517263200.0
+            "title": "The Agile_Revolution"
         },
         {
+            "published": 1516053660.0,
+            "downloaded": true,
+            "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
-            "downloaded": true,
-            "title": "OS Wars_part 1",
-            "listened": false,
-            "published": 1516053660.0
+            "title": "OS Wars_part 1"
         },
         {
+            "published": 1516053660.0,
+            "downloaded": true,
+            "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
-            "downloaded": true,
-            "title": "OS Wars_part 2: Rise of Linux",
-            "listened": false,
-            "published": 1516053660.0
+            "title": "OS Wars_part 2: Rise of Linux"
         },
         {
+            "published": 1516053600.0,
+            "downloaded": true,
+            "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
-            "downloaded": true,
-            "title": "OS Wars_part 2: Rise of Linux",
-            "listened": false,
-            "published": 1516053600.0
+            "title": "OS Wars_part 2: Rise of Linux"
         },
         {
+            "published": 1516053600.0,
+            "downloaded": true,
+            "listened": false,
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
-            "downloaded": true,
-            "title": "OS Wars_part 1",
-            "listened": false,
-            "published": 1516053600.0
+            "title": "OS Wars_part 1"
         },
         {
-            "url": "https://tracking.feedpress.it/link/18442/7582651/3def9db9.mp3",
+            "published": 1512108000.0,
             "downloaded": false,
-            "title": "Preview_CLH",
             "listened": false,
-            "published": 1512108000.0
+            "url": "https://tracking.feedpress.it/link/18442/7582651/3def9db9.mp3",
+            "title": "Preview_CLH"
         }
     ]
 }
