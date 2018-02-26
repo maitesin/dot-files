@@ -1,6 +1,5 @@
 {
     "title": "TechSNAP MP3",
-    "url": "http://feeds.feedburner.com/techsnapmp3",
     "episodes": [
         {
             "title": "Episode 357: The Return of Spectre",
@@ -2299,5 +2298,6 @@
             "published": 1417726739.0
         }
     ],
-    "shortname": "techsnap"
+    "shortname": "techsnap",
+    "url": "http://feeds.feedburner.com/techsnapmp3"
 }
