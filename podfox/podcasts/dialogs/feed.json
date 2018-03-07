@@ -4,17 +4,17 @@
     "episodes": [
         {
             "published": 1514077305.0,
+            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_2.mp3?dest-id=563719",
             "downloaded": false,
             "title": "Hacker Dialogues 2",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_2.mp3?dest-id=563719"
+            "listened": false
         },
         {
             "published": 1503655159.0,
+            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_1_podcast_full_newhacker_dialogues_1.1.mp3?dest-id=563719",
             "downloaded": false,
             "title": "Hacker Dialogues 1",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_1_podcast_full_newhacker_dialogues_1.1.mp3?dest-id=563719"
+            "listened": false
         }
     ],
     "url": "http://hackerdialogues.libsyn.com/rss"
