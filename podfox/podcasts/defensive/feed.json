@@ -1,1428 +1,1435 @@
 {
-    "shortname": "defensive",
-    "url": "http://defensivesecurity.org/feed/podcast/",
     "title": "Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec",
+    "url": "http://defensivesecurity.org/feed/podcast/",
+    "shortname": "defensive",
     "episodes": [
         {
-            "published": 1519084601.0,
+            "title": "Defensive Security Podcast Episode 212",
+            "published": 1520901563.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_212.mp3",
             "downloaded": true,
+            "listened": false
+        },
+        {
             "title": "Defensive Security Podcast Episode 211",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_211.mp3"
+            "published": 1519084601.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_211.mp3",
+            "downloaded": true,
+            "listened": false
         },
         {
-            "published": 1517275440.0,
-            "downloaded": true,
             "title": "Defensive Security Podcast Episode 210",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_210.mp3"
-        },
-        {
-            "published": 1516157367.0,
+            "published": 1517275440.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_210.mp3",
             "downloaded": true,
+            "listened": false
+        },
+        {
             "title": "Defensive Security Podcast Episode 209",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_209.mp3"
+            "published": 1516157367.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_209.mp3",
+            "downloaded": true,
+            "listened": false
         },
         {
-            "published": 1514647835.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 208",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_208.mp3"
+            "published": 1514647835.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_208.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1513217730.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 207",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_207.mp3"
+            "published": 1513217730.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_207.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1512437954.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 206",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_206.mp3"
+            "published": 1512437954.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_206.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1510593886.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 205",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_205.mp3"
+            "published": 1510593886.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_205.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1509937066.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 204",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_204.mp3"
+            "published": 1509937066.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_204.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1508116723.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 203",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_203.mp3"
+            "published": 1508116723.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_203.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1506903741.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 202",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_202.mp3"
+            "published": 1506903741.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_202.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1505092822.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 201",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_201.mp3"
+            "published": 1505092822.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_201.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1504046962.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 200",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_200.mp3"
+            "published": 1504046962.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_200.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1502674039.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 199",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_199.mp3"
+            "published": 1502674039.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_199.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1502063760.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 198",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_198.mp3"
+            "published": 1502063760.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_198.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1500928151.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 197",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_197.mp3"
+            "published": 1500928151.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_197.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1499814789.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 196",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_196.mp3"
+            "published": 1499814789.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_196.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1498520157.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 195",
-            "listened": false,
-            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_195.mp3"
+            "published": 1498520157.0,
+            "url": "https://infosec.engineering/media/defensive_security_podcast_episode_195.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1498092321.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 194",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/06/defensive-security-podcast-episode-194.mp3"
+            "published": 1498092321.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/06/defensive-security-podcast-episode-194.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1497304575.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 193",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/06/defensive-security-podcast-episode-193.mp3"
+            "published": 1497304575.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/06/defensive-security-podcast-episode-193.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1496783437.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 192",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/06/defensive-security-podcast-episode-192.mp3"
+            "published": 1496783437.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/06/defensive-security-podcast-episode-192.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1495723565.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 191",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/05/Defensive-security-podcast-episode-191.mp3"
+            "published": 1495723565.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/05/Defensive-security-podcast-episode-191.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1494456973.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 190",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/05/defensive-security-podcast-episode-190.mp3"
+            "published": 1494456973.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/05/defensive-security-podcast-episode-190.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1493077895.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 189",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/04/defensive-security-podcast-episode-189.mp3"
+            "published": 1493077895.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/04/defensive-security-podcast-episode-189.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1492463231.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 188",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/04/Defensive-security-podcast-episode-188.mp3"
+            "published": 1492463231.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/04/Defensive-security-podcast-episode-188.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1490733716.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 187",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/03/Defensive-security-podcast-episode-187.mp3"
+            "published": 1490733716.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/03/Defensive-security-podcast-episode-187.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1489454898.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 186",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/03/Defensive-security-podcast-episode-186.mp3"
+            "published": 1489454898.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/03/Defensive-security-podcast-episode-186.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1488245191.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 185",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/02/Defensive-security-podcast-episode-185.mp3"
+            "published": 1488245191.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/02/Defensive-security-podcast-episode-185.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1487627746.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 184",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/02/defensive-security-podcast-episode-184.mp3"
+            "published": 1487627746.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/02/defensive-security-podcast-episode-184.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1487039732.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 183",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/02/defensive-security-podcast-episode-183.mp3"
+            "published": 1487039732.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/02/defensive-security-podcast-episode-183.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1485139557.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 182",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/01/defensive-security-podcast-episode-182.mp3"
+            "published": 1485139557.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/01/defensive-security-podcast-episode-182.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1483929333.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 181",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2017/01/defensive-security-podcast-episode-181.mp3"
+            "published": 1483929333.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2017/01/defensive-security-podcast-episode-181.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1482198424.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 180",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2016/12/defensive-security-podcast-episode-180.mp3"
+            "published": 1482198424.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2016/12/defensive-security-podcast-episode-180.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1482104873.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 179",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2016/12/defensive-security-podcast-episode-179.mp3"
+            "published": 1482104873.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2016/12/defensive-security-podcast-episode-179.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1480302114.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 178",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-178.mp3"
+            "published": 1480302114.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-178.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1479091881.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 177",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-177.mp3"
+            "published": 1479091881.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-177.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1478485671.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 176",
-            "listened": false,
-            "url": "http://defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-176.mp3"
+            "published": 1478485671.0,
+            "url": "http://defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-176.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1478093623.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 175",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-175.mp3"
+            "published": 1478093623.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/11/defensive-security-podcast-episode-175.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1477273265.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 174",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/10/defensive-security-podcast-episode-174.mp3"
+            "published": 1477273265.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/10/defensive-security-podcast-episode-174.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1476628930.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 173",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/10/defensive-security-podcast-episode-173.mp3"
+            "published": 1476628930.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/10/defensive-security-podcast-episode-173.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1475535478.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 172",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/10/defensive-security-podcast-episode-172.mp3"
+            "published": 1475535478.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/10/defensive-security-podcast-episode-172.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1474499676.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 171",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/09/defensive-security-podcast-episode-171.mp3"
+            "published": 1474499676.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/09/defensive-security-podcast-episode-171.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1473621567.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 170",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/09/defensive-security-podcast-episode-170.mp3"
+            "published": 1473621567.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/09/defensive-security-podcast-episode-170.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1472554375.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 169",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/08/defensive-security-podcast-episode-169.mp3"
+            "published": 1472554375.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/08/defensive-security-podcast-episode-169.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1471818319.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 168",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/08/defensive-security-podcast-episode-168-1.mp3"
+            "published": 1471818319.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/08/defensive-security-podcast-episode-168-1.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1471214815.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 167",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/08/defensive-security-podcast-episode-167.mp3"
+            "published": 1471214815.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/08/defensive-security-podcast-episode-167.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1469403421.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 166",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/07/defensive-security-podcast-episode-166.mp3"
+            "published": 1469403421.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/07/defensive-security-podcast-episode-166.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1468791801.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 165",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/07/defensive-security-podcast-episode-165.mp3"
+            "published": 1468791801.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/07/defensive-security-podcast-episode-165.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1467245643.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 164",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/06/defensive-security-podcast-episode-164.mp3"
+            "published": 1467245643.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/06/defensive-security-podcast-episode-164.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1466377774.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 163",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/06/defensive-security-podcast-episode-163.mp3"
+            "published": 1466377774.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/06/defensive-security-podcast-episode-163.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1465166382.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 162",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/06/defensive-security-podcast-episode-162.mp3"
+            "published": 1465166382.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/06/defensive-security-podcast-episode-162.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1464042334.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 161",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/05/defensive-security-podcast-episode-161.mp3"
+            "published": 1464042334.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/05/defensive-security-podcast-episode-161.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1463612013.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 160",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/05/defensive-security-podcast-episode-160.mp3"
+            "published": 1463612013.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/05/defensive-security-podcast-episode-160.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1462228458.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 159",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/05/defensive-security-podcast-episode-159.mp3"
+            "published": 1462228458.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/05/defensive-security-podcast-episode-159.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1461803582.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 158",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-158.mp3"
+            "published": 1461803582.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-158.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1461021071.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 157",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-157.mp3"
+            "published": 1461021071.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-157.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1460508135.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 156",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-156.mp3"
+            "published": 1460508135.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-156.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1459811718.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 155",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-155.mp3"
+            "published": 1459811718.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/04/defensive-security-podcast-episode-155.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1459208913.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 154",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/03/defensive-security-podcast-episode-154.mp3"
+            "published": 1459208913.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/03/defensive-security-podcast-episode-154.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1458042059.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 153",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/03/defensive-security-podcast-episode-153.mp3"
+            "published": 1458042059.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/03/defensive-security-podcast-episode-153.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1457316275.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 152",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/03/defensive-security-podcast-episode-152.mp3"
+            "published": 1457316275.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/03/defensive-security-podcast-episode-152.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1456700427.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 151",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-151.mp3"
+            "published": 1456700427.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-151.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1456439928.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 150",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-150.mp3"
+            "published": 1456439928.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-150.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1455591704.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 149",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-149.mp3"
+            "published": 1455591704.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-149.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1455150923.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 148",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-148.mp3"
+            "published": 1455150923.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/02/defensive-security-podcast-episode-148.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1454291918.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 147",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-147.mp3"
+            "published": 1454291918.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-147.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1453859080.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 146",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-146.mp3"
+            "published": 1453859080.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-146.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1453334767.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 145",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-145.mp3"
+            "published": 1453334767.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-145.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1451862437.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 144",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-144.mp3"
+            "published": 1451862437.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-144.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1451861041.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 143",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-143.mp3"
+            "published": 1451861041.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2016/01/defensive-security-podcast-episode-143.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1450044757.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 142",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/12/defensive-security-podcast-episode-142.mp3"
+            "published": 1450044757.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/12/defensive-security-podcast-episode-142.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1449438924.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 141",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/12/defensive-security-podcast-episode-141.mp3"
+            "published": 1449438924.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/12/defensive-security-podcast-episode-141.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1448504530.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 140",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/11/defensive-security-podcast-episode-140.mp3"
+            "published": 1448504530.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/11/defensive-security-podcast-episode-140.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1447638992.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 139",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/11/defensive-security-podcast-episode-139.mp3"
+            "published": 1447638992.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/11/defensive-security-podcast-episode-139.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1447026082.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 138",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/11/defensive-security-podcast-episode-138.mp3"
+            "published": 1447026082.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/11/defensive-security-podcast-episode-138.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1445822862.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 137",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-137.mp3"
+            "published": 1445822862.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-137.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1445386168.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 136",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-136.mp3"
+            "published": 1445386168.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-136.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1444775286.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 135",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-135.mp3"
+            "published": 1444775286.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-135.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1444002576.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 134",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-134.mp3"
+            "published": 1444002576.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/10/defensive-security-podcast-episode-134.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1443573292.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 133",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-133.mp3"
+            "published": 1443573292.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-133.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1443488207.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 132",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-132.mp3"
+            "published": 1443488207.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-132.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1442796289.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 131",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-131.mp3"
+            "published": 1442796289.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-131.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1442016011.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 130",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-130.mp3"
+            "published": 1442016011.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/09/defensive-security-podcast-episode-130.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1440538052.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 129",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-129.mp3"
+            "published": 1440538052.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-129.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1440458172.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 128",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-128.mp3"
+            "published": 1440458172.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-128.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1439254757.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 127",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-127.mp3"
+            "published": 1439254757.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-127.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1438557917.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 126",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-126.mp3"
+            "published": 1438557917.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/08/defensive-security-podcast-episode-126.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1437957153.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 125",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-125.mp3"
+            "published": 1437957153.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-125.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1437346352.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 124",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-124.mp3"
+            "published": 1437346352.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-124.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1436743869.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 123",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-123.mp3"
+            "published": 1436743869.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-123.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1436402332.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 122",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-122.mp3"
+            "published": 1436402332.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/07/defensive-security-podcast-episode-122.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1435663534.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 121",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/06/defensive-security-podcast-episode-121.mp3"
+            "published": 1435663534.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/06/defensive-security-podcast-episode-121.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1435020565.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 120",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/06/defensive-security-podcast-episode-120.mp3"
+            "published": 1435020565.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/06/defensive-security-podcast-episode-120.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1434323533.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 119",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/06/defensive-security-podcast-episode-119.mp3"
+            "published": 1434323533.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/06/defensive-security-podcast-episode-119.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1432690157.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 118",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/05/defensive-security-podcast-episode-118.mp3"
+            "published": 1432690157.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/05/defensive-security-podcast-episode-118.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1431913555.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 117",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/05/defensive-security-podcast-episode-117.mp3"
+            "published": 1431913555.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/05/defensive-security-podcast-episode-117.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1431310349.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 116",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/05/defensive-security-podcast-episode-116.mp3"
+            "published": 1431310349.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/05/defensive-security-podcast-episode-116.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1430178725.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 115",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-115.mp3"
+            "published": 1430178725.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-115.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1429488131.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 114",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-114.mp3"
+            "published": 1429488131.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-114.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1428871080.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 113",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-113.mp3"
+            "published": 1428871080.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-113.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1428369093.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 112",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-112.mp3"
+            "published": 1428369093.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/04/defensive-security-podcast-episode-112.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1427761115.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 111",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-111.mp3"
+            "published": 1427761115.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-111.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1427248668.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 110",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-110.mp3"
+            "published": 1427248668.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-110.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1426646024.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 109",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-109.mp3"
+            "published": 1426646024.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-109.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1425952915.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 108",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-108.mp3"
+            "published": 1425952915.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/03/defensive-security-podcast-episode-108.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1425179048.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 107",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-107.mp3"
+            "published": 1425179048.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-107.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1424051659.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 106",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-106.mp3"
+            "published": 1424051659.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-106.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1423445888.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 105",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-105.mp3"
+            "published": 1423445888.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-105.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1422834360.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 104",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-104.mp3"
+            "published": 1422834360.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/02/defensive-security-podcast-episode-104.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1422237925.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 103",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-103.mp3"
+            "published": 1422237925.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-103.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1421632132.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 102",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-102.mp3"
+            "published": 1421632132.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-102.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1421286789.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 101",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-101.mp3"
+            "published": 1421286789.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-101.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1420597941.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 100",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-100.mp3"
+            "published": 1420597941.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2015/01/defensive-security-podcast-episode-100.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1419905847.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 99",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-99.mp3"
+            "published": 1419905847.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-99.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1419299804.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 98",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-98.mp3"
+            "published": 1419299804.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-98.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1418960141.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 97",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-97.mp3"
+            "published": 1418960141.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-97.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1418092851.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 96",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-96.mp3"
+            "published": 1418092851.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-96.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1417663097.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 95",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-95.mp3"
+            "published": 1417663097.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/12/defensive-security-podcast-episode-95.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1416883473.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 94",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-94.mp3"
+            "published": 1416883473.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-94.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1416278284.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 93",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-93.mp3"
+            "published": 1416278284.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-93.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1415672354.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 92",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-92.mp3"
+            "published": 1415672354.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-92.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1415066744.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 91",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-91.mp3"
+            "published": 1415066744.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/11/defensive-security-podcast-episode-91.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1414463533.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 90",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-90.mp3"
+            "published": 1414463533.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-90.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1413853364.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 89",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-89.mp3"
+            "published": 1413853364.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-89.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1413422664.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 88",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-88.mp3"
+            "published": 1413422664.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-88.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1412727800.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 87",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-87.mp3"
+            "published": 1412727800.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/10/defensive-security-podcast-episode-87.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1412038187.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 86",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-86.mp3"
+            "published": 1412038187.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-86.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1411520134.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 85",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-85.mp3"
+            "published": 1411520134.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-85.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1410829585.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 84",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-84.mp3"
+            "published": 1410829585.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-84.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1410222226.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 83",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-83.mp3"
+            "published": 1410222226.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-83.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1409874788.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 82",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-82.mp3"
+            "published": 1409874788.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/09/defensive-security-podcast-episode-82.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1409100416.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 81",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-81.mp3"
+            "published": 1409100416.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-81.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1408408768.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 80",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-80.mp3"
+            "published": 1408408768.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-80.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1407805219.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 79",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-79.mp3"
+            "published": 1407805219.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-79.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1407198658.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 78",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-78.mp3"
+            "published": 1407198658.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/08/defensive-security-podcast-episode-78.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1405991449.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 77",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/07/defensive-security-podcast-episode-77.mp3"
+            "published": 1405991449.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/07/defensive-security-podcast-episode-77.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1405560239.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 76",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/07/defensive-security-podcast-episode-76.mp3"
+            "published": 1405560239.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/07/defensive-security-podcast-episode-76.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1404780316.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 75",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/07/defensive-security-podcast-episode-75.mp3"
+            "published": 1404780316.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/07/defensive-security-podcast-episode-75.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1404177129.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 74",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-74.mp3"
+            "published": 1404177129.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-74.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1403658085.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 73",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-73.mp3"
+            "published": 1403658085.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-73.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1403050604.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 72",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-72.mp3"
+            "published": 1403050604.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-72.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1402451046.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 71",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-71.mp3"
+            "published": 1402451046.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-71.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1401844694.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 70",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-70.mp3"
+            "published": 1401844694.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/06/defensive-security-podcast-episode-70.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1401407916.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 69",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-69.mp3"
+            "published": 1401407916.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-69.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1400634230.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 68",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-68.mp3"
+            "published": 1400634230.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-68.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1400032809.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 67",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-67.mp3"
+            "published": 1400032809.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-67.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1399420912.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 66",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-66.mp3"
+            "published": 1399420912.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/05/defensive-security-podcast-episode-66.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1398824087.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 65",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-65.mp3"
+            "published": 1398824087.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-65.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1398130614.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 64",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-64.mp3"
+            "published": 1398130614.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-64.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1397614130.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 63",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-63.mp3"
+            "published": 1397614130.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-63.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1396915644.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 62",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-62.mp3"
+            "published": 1396915644.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-62.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1396380789.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 61",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-61.mp3"
+            "published": 1396380789.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/04/defensive-security-podcast-episode-61.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1395801008.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 60",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-60.mp3"
+            "published": 1395801008.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-60.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1395103984.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 59",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-59.mp3"
+            "published": 1395103984.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-59.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1394497964.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 58",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-58.mp3"
+            "published": 1394497964.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-58.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1393896648.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 57",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-57.mp3"
+            "published": 1393896648.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/03/defensive-security-podcast-episode-57.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1393291885.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 56",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-56.mp3"
+            "published": 1393291885.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-56.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1392774419.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 55",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-55.mp3"
+            "published": 1392774419.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-55.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1392170223.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 54",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-54.mp3"
+            "published": 1392170223.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-54.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1391479751.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 53",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-53.mp3"
+            "published": 1391479751.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/02/defensive-security-podcast-episode-53.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1391048514.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 52",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-52.mp3"
+            "published": 1391048514.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-52.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1390353816.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 51",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-51.mp3"
+            "published": 1390353816.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-51.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1389667593.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 50",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-50.mp3"
+            "published": 1389667593.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-50.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1389061535.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 49",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-49.mp3"
+            "published": 1389061535.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2014/01/defensive-security-podcast-episode-49.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1388459752.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 48",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-48.mp3"
+            "published": 1388459752.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-48.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1387247485.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 47",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-47.mp3"
+            "published": 1387247485.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-47.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1386727213.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 46",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-46.mp3"
+            "published": 1386727213.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-46.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1386036709.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 45",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-45.mp3"
+            "published": 1386036709.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/12/defensive-security-podcast-episode-45.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1385345879.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 44",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-44.mp3"
+            "published": 1385345879.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-44.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1384826939.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 43",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-43.mp3"
+            "published": 1384826939.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-43.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1384220925.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 42",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-42.mp3"
+            "published": 1384220925.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-42.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1383617946.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 41",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-41.mp3"
+            "published": 1383617946.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/11/defensive-security-podcast-episode-41.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1383010285.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 40",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-40.mp3"
+            "published": 1383010285.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-40.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1382401241.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 39",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-39.mp3"
+            "published": 1382401241.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-39.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1381797358.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 38",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-38.mp3"
+            "published": 1381797358.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-38.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1381321737.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 37",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-37.mp3"
+            "published": 1381321737.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/10/defensive-security-podcast-episode-37.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1379899672.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 36",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-36.mp3"
+            "published": 1379899672.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-36.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1379290799.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 35",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-35.mp3"
+            "published": 1379290799.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-35.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1378778207.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 34",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-34.mp3"
+            "published": 1378778207.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-34.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1378127621.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 33",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-33.mp3"
+            "published": 1378127621.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/09/defensive-security-podcast-episode-33.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1377474149.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 32",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-32.mp3"
+            "published": 1377474149.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-32.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1376869187.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 31",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-31.mp3"
+            "published": 1376869187.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-31.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1376266289.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 30",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-30.mp3"
+            "published": 1376266289.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-30.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1375634703.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 29",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-29.mp3"
+            "published": 1375634703.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/08/defensive-security-podcast-episode-29.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1374978984.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 28",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-28.mp3"
+            "published": 1374978984.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-28.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1374433184.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 27",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-27.mp3"
+            "published": 1374433184.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-27.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1373780149.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 26",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-26.mp3"
+            "published": 1373780149.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-26.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1373248202.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 25",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-25.mp3"
+            "published": 1373248202.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/07/defensive-security-podcast-episode-25.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1372639799.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 24",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-24.mp3"
+            "published": 1372639799.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-24.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1372071017.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 23",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-23.mp3"
+            "published": 1372071017.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-23.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1371433585.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 22",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-22.mp3"
+            "published": 1371433585.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-22.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1370821017.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 21",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-21.mp3"
+            "published": 1370821017.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-21.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1370222443.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 20",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-20.mp3"
+            "published": 1370222443.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/06/defensive-security-podcast-episode-20.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1369012391.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 19",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/05/defensive-security-podcast-episode-19.mp3"
+            "published": 1369012391.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/05/defensive-security-podcast-episode-19.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1368408352.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 18",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/05/defensive-security-podcast-episode-18.mp3"
+            "published": 1368408352.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/05/defensive-security-podcast-episode-18.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1367803252.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 17",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/05/defensive-security-podcast-episode-17.mp3"
+            "published": 1367803252.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/05/defensive-security-podcast-episode-17.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1367370240.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 16",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episode-16.mp3"
+            "published": 1367370240.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episode-16.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1366588054.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 15",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episode-15.mp3"
+            "published": 1366588054.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episode-15.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1366079394.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 14",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episide-14.mp3"
+            "published": 1366079394.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episide-14.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1365417056.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 13",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episode-13.mp3"
+            "published": 1365417056.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/04/defensive-security-podcast-episode-13.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1364155447.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 12",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-episode-12.mp3"
+            "published": 1364155447.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-episode-12.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1363544022.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 11",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-episode-11.mp3"
+            "published": 1363544022.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-episode-11.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1362942218.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 10",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-episode-10.mp3"
+            "published": 1362942218.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-episode-10.mp3",
+            "downloaded": false,
+            "listened": false
         },
         {
-            "published": 1362337501.0,
-            "downloaded": false,
             "title": "Defensive Security Podcast Episode 9",
-            "listened": false,
-            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-podcast-episode-9.mp3"
+            "published": 1362337501.0,
+            "url": "http://www.defensivesecurity.org/wp-content/uploads/2013/03/defensive-security-podcast-episode-9.mp3",
+            "downloaded": false,
+            "listened": false
         }
     ]
 }

@@ -1,1680 +1,1680 @@
 {
-    "shortname": "unplugged",
-    "url": "http://feeds.feedburner.com/linuxunplugged",
-    "title": "LINUX Unplugged Podcast",
     "episodes": [
         {
-            "published": 1520368089.0,
-            "downloaded": true,
             "title": "Selling Out for Open Source | LUP 239",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0239.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0239.mp3",
+            "published": 1520368089.0,
+            "downloaded": true
         },
         {
-            "published": 1519766490.0,
-            "downloaded": true,
             "title": "It's All Wimpy's Fault | LUP 238",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0238.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0238.mp3",
+            "published": 1519766490.0,
+            "downloaded": true
         },
         {
-            "published": 1519169760.0,
-            "downloaded": true,
             "title": "One Ping Only | LUP 237",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0237.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0237.mp3",
+            "published": 1519169760.0,
+            "downloaded": true
         },
         {
-            "published": 1518554483.0,
-            "downloaded": true,
             "title": "Microsoft\u2019s Big Secret | LUP 236",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0236.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0236.mp3",
+            "published": 1518554483.0,
+            "downloaded": true
         },
         {
-            "published": 1517952977.0,
-            "downloaded": true,
             "title": "Atomic Neon Kool-Aid  | LUP 235",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0235.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0235.mp3",
+            "published": 1517952977.0,
+            "downloaded": true
         },
         {
-            "published": 1517360059.0,
-            "downloaded": true,
             "title": "Behind Canonical\u2019s Curtain | LUP 234",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0234.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0234.mp3",
+            "published": 1517360059.0,
+            "downloaded": true
         },
         {
-            "published": 1516745046.0,
-            "downloaded": true,
             "title": "Living Inside the Shell | LUP 233",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0233.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0233.mp3",
+            "published": 1516745046.0,
+            "downloaded": true
         },
         {
-            "published": 1516134482.0,
-            "downloaded": true,
             "title": "The Secret to Future Linux Success | LUP 232",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0232.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0232.mp3",
+            "published": 1516134482.0,
+            "downloaded": true
         },
         {
-            "published": 1515530010.0,
-            "downloaded": true,
             "title": "Most Expensive Linux Distro Ever | LUP 231",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0231.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0231.mp3",
+            "published": 1515530010.0,
+            "downloaded": true
         },
         {
-            "published": 1514935105.0,
-            "downloaded": true,
             "title": "Invest In Popcorn | LUP 230",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0230.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0230.mp3",
+            "published": 1514935105.0,
+            "downloaded": true
         },
         {
-            "published": 1514312998.0,
-            "downloaded": true,
             "title": "Taste of Linux 2017 | LUP 229",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0229.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0229.mp3",
+            "published": 1514312998.0,
+            "downloaded": true
         },
         {
-            "published": 1513713849.0,
-            "downloaded": true,
             "title": "rm -rf 2017 | LUP 228",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0228.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0228.mp3",
+            "published": 1513713849.0,
+            "downloaded": true
         },
         {
-            "published": 1513215104.0,
-            "downloaded": true,
             "title": "Peer Pressure | LUP 227",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0227.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0227.mp3",
+            "published": 1513215104.0,
+            "downloaded": true
         },
         {
-            "published": 1512507480.0,
-            "downloaded": true,
             "title": "Bitcoin for Linux Users | LUP 226",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0226.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0226.mp3",
+            "published": 1512507480.0,
+            "downloaded": true
         },
         {
-            "published": 1511914628.0,
-            "downloaded": true,
             "title": "Hacking the Community | LUP 225",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0225.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0225.mp3",
+            "published": 1511914628.0,
+            "downloaded": true
         },
         {
-            "published": 1511324097.0,
-            "downloaded": true,
             "title": "No Escape from Google | LUP 224",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0224.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0224.mp3",
+            "published": 1511324097.0,
+            "downloaded": true
         },
         {
-            "published": 1510713443.0,
-            "downloaded": true,
             "title": "Fedora\u2019s New Trick | LUP 223",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0223.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0223.mp3",
+            "published": 1510713443.0,
+            "downloaded": true
         },
         {
-            "published": 1510080416.0,
-            "downloaded": true,
             "title": "A Community Divided | LUP 222",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0222.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0222.mp3",
+            "published": 1510080416.0,
+            "downloaded": true
         },
         {
-            "published": 1509490184.0,
-            "downloaded": false,
             "title": "Ubuntu A-Team | LUP 221",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0221.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0221.mp3",
+            "published": 1509490184.0,
+            "downloaded": false
         },
         {
-            "published": 1508876187.0,
-            "downloaded": false,
             "title": "Remotely Useful | LUP 220",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0220.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0220.mp3",
+            "published": 1508876187.0,
+            "downloaded": false
         },
         {
-            "published": 1508268064.0,
-            "downloaded": false,
             "title": "Ubuntu\u2019s New Era | LUP 219",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0219.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0219.mp3",
+            "published": 1508268064.0,
+            "downloaded": false
         },
         {
-            "published": 1507681590.0,
-            "downloaded": false,
             "title": "The Purism Redemption | LUP 218",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0218.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0218.mp3",
+            "published": 1507681590.0,
+            "downloaded": false
         },
         {
-            "published": 1507066296.0,
-            "downloaded": false,
             "title": "That One Time, At Ubuntu Camp | LUP 217",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0217.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0217.mp3",
+            "published": 1507066296.0,
+            "downloaded": false
         },
         {
-            "published": 1506466183.0,
-            "downloaded": false,
             "title": "Open Source Is Hard | LUP 216",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0216.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0216.mp3",
+            "published": 1506466183.0,
+            "downloaded": false
         },
         {
-            "published": 1505848334.0,
-            "downloaded": false,
             "title": "Pulse of PipeWire | LUP 215",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0215.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0215.mp3",
+            "published": 1505848334.0,
+            "downloaded": false
         },
         {
-            "published": 1505251482.0,
-            "downloaded": false,
             "title": "Hacking Devices with Kali Linux | LUP 214",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0214.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0214.mp3",
+            "published": 1505251482.0,
+            "downloaded": false
         },
         {
-            "published": 1504641447.0,
-            "downloaded": false,
             "title": "Gnome Does it Again | LUP 213",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0213.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0213.mp3",
+            "published": 1504641447.0,
+            "downloaded": false
         },
         {
-            "published": 1504037730.0,
-            "downloaded": false,
             "title": "The Free Phone Nightmare | LUP 212",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0212.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0212.mp3",
+            "published": 1504037730.0,
+            "downloaded": false
         },
         {
-            "published": 1503427555.0,
-            "downloaded": false,
             "title": "Forks Done Right | LUP 211",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0211.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0211.mp3",
+            "published": 1503427555.0,
+            "downloaded": false
         },
         {
-            "published": 1502834603.0,
-            "downloaded": false,
             "title": "Total Solus Eclipse | LUP 210",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0210.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0210.mp3",
+            "published": 1502834603.0,
+            "downloaded": false
         },
         {
-            "published": 1502227766.0,
-            "downloaded": false,
             "title": "LILO and Slack(ware) | LUP 209",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0209.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0209.mp3",
+            "published": 1502227766.0,
+            "downloaded": false
         },
         {
-            "published": 1501621428.0,
-            "downloaded": false,
             "title": "The Stallman Line | LUP 208",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0208.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0208.mp3",
+            "published": 1501621428.0,
+            "downloaded": false
         },
         {
-            "published": 1501017996.0,
-            "downloaded": false,
             "title": "Return Of The Distrohopper | LUP 207",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0207.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0207.mp3",
+            "published": 1501017996.0,
+            "downloaded": false
         },
         {
-            "published": 1500417779.0,
-            "downloaded": false,
             "title": "Beardy McBeardface | LUP 206",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0206.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0206.mp3",
+            "published": 1500417779.0,
+            "downloaded": false
         },
         {
-            "published": 1499807594.0,
-            "downloaded": false,
             "title": "A Fitting Fedora | LUP 205",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0205.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0205.mp3",
+            "published": 1499807594.0,
+            "downloaded": false
         },
         {
-            "published": 1499208481.0,
-            "downloaded": false,
             "title": "Awkward Distro Puberty | LUP 204",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0204.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0204.mp3",
+            "published": 1499208481.0,
+            "downloaded": false
         },
         {
-            "published": 1498594587.0,
-            "downloaded": false,
             "title": "MATEs Wayland MIR-acle | LUP 203",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0203.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0203.mp3",
+            "published": 1498594587.0,
+            "downloaded": false
         },
         {
-            "published": 1497984354.0,
-            "downloaded": false,
             "title": "Halls of Endless Linux | LUP 202",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0202.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0202.mp3",
+            "published": 1497984354.0,
+            "downloaded": false
         },
         {
-            "published": 1497377248.0,
-            "downloaded": false,
             "title": "Turbo Mode Ikey | LUP 201",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0201.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0201.mp3",
+            "published": 1497377248.0,
+            "downloaded": false
         },
         {
-            "published": 1496780960.0,
-            "downloaded": false,
             "title": "Gnome in the Shell | LUP 200",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0200.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0200.mp3",
+            "published": 1496780960.0,
+            "downloaded": false
         },
         {
-            "published": 1496171726.0,
-            "downloaded": false,
             "title": "No Samba No Cry | LUP 199",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0199.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0199.mp3",
+            "published": 1496171726.0,
+            "downloaded": false
         },
         {
-            "published": 1495563072.0,
-            "downloaded": false,
             "title": "Magic Device Cloud | LUP 198",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0198.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0198.mp3",
+            "published": 1495563072.0,
+            "downloaded": false
         },
         {
-            "published": 1494967890.0,
-            "downloaded": false,
             "title": "That New User Smell | LUP 197",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0197.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0197.mp3",
+            "published": 1494967890.0,
+            "downloaded": false
         },
         {
-            "published": 1494357294.0,
-            "downloaded": false,
             "title": "Orange is the new Red (Hat) | LUP 196",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0196.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0196.mp3",
+            "published": 1494357294.0,
+            "downloaded": false
         },
         {
-            "published": 1493775085.0,
-            "downloaded": false,
             "title": "Rub a Dub Grub | LUP 195",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0195.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0195.mp3",
+            "published": 1493775085.0,
+            "downloaded": false
         },
         {
-            "published": 1493153451.0,
-            "downloaded": false,
             "title": "Internet of Troubles | LUP 194",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0194.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0194.mp3",
+            "published": 1493153451.0,
+            "downloaded": false
         },
         {
-            "published": 1492540624.0,
-            "downloaded": false,
             "title": "Ubuntu's Bare Gnome | LUP 193",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0193.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0193.mp3",
+            "published": 1492540624.0,
+            "downloaded": false
         },
         {
-            "published": 1491953544.0,
-            "downloaded": false,
             "title": "Home Sweet Gnome | LUP 192",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0192.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0192.mp3",
+            "published": 1491953544.0,
+            "downloaded": false
         },
         {
-            "published": 1491344124.0,
-            "downloaded": false,
             "title": "What\u2019s a Distro? | LUP 191",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0191.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0191.mp3",
+            "published": 1491344124.0,
+            "downloaded": false
         },
         {
-            "published": 1490731237.0,
-            "downloaded": false,
             "title": "Boot Free or Die Tryin\u2019 | LUP 190",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0190.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0190.mp3",
+            "published": 1490731237.0,
+            "downloaded": false
         },
         {
-            "published": 1490126905.0,
-            "downloaded": false,
             "title": "Das Boot Manager | LUP 189",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0189.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0189.mp3",
+            "published": 1490126905.0,
+            "downloaded": false
         },
         {
-            "published": 1489518575.0,
-            "downloaded": false,
             "title": "Celebrating Linux on Pi Day | LUP 188",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0188.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0188.mp3",
+            "published": 1489518575.0,
+            "downloaded": false
         },
         {
-            "published": 1488917546.0,
-            "downloaded": false,
             "title": "CIA's Dank Trojans | LUP 187",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0187.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0187.mp3",
+            "published": 1488917546.0,
+            "downloaded": false
         },
         {
-            "published": 1488311849.0,
-            "downloaded": false,
             "title": "AWS Loses Its ShIOT | LUP 186",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0186.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0186.mp3",
+            "published": 1488311849.0,
+            "downloaded": false
         },
         {
-            "published": 1487710545.0,
-            "downloaded": false,
             "title": "Plasma Injection | LUP 185",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0185.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0185.mp3",
+            "published": 1487710545.0,
+            "downloaded": false
         },
         {
-            "published": 1487101919.0,
-            "downloaded": false,
             "title": "Chilling with Kylin | LUP 184",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0184.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0184.mp3",
+            "published": 1487101919.0,
+            "downloaded": false
         },
         {
-            "published": 1486500905.0,
-            "downloaded": false,
             "title": "Niche Distros Need Not Apply | LUP 183",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0183.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0183.mp3",
+            "published": 1486500905.0,
+            "downloaded": false
         },
         {
-            "published": 1485893851.0,
-            "downloaded": false,
             "title": "Death by Download | LUP 182",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0182.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0182.mp3",
+            "published": 1485893851.0,
+            "downloaded": false
         },
         {
-            "published": 1485289830.0,
-            "downloaded": false,
             "title": "A Brisk MATE for Solus | LUP 181",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0181.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0181.mp3",
+            "published": 1485289830.0,
+            "downloaded": false
         },
         {
-            "published": 1484683371.0,
-            "downloaded": false,
             "title": "The Theory of Liri | LUP 180",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0180.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0180.mp3",
+            "published": 1484683371.0,
+            "downloaded": false
         },
         {
-            "published": 1484078341.0,
-            "downloaded": false,
             "title": "Project Sputnik Interview | LUP 179",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0179.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0179.mp3",
+            "published": 1484078341.0,
+            "downloaded": false
         },
         {
-            "published": 1483484815.0,
-            "downloaded": false,
             "title": "Big Sister is Watching | LUP 178",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0178.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0178.mp3",
+            "published": 1483484815.0,
+            "downloaded": false
         },
         {
-            "published": 1482850660.0,
-            "downloaded": false,
             "title": "The Many Faces of Linux | LUP 177",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0177.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0177.mp3",
+            "published": 1482850660.0,
+            "downloaded": false
         },
         {
-            "published": 1482277241.0,
-            "downloaded": false,
             "title": "Shell-Shocked 2016 | LUP 176",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0176.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0176.mp3",
+            "published": 1482277241.0,
+            "downloaded": false
         },
         {
-            "published": 1481664563.0,
-            "downloaded": false,
             "title": "Best of MATEs | LUP 175",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0175.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0175.mp3",
+            "published": 1481664563.0,
+            "downloaded": false
         },
         {
-            "published": 1481064919.0,
-            "downloaded": false,
             "title": "Mesh of Thoughts | LUP 174",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0174.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0174.mp3",
+            "published": 1481064919.0,
+            "downloaded": false
         },
         {
-            "published": 1480470407.0,
-            "downloaded": false,
             "title": "Upgrade vs Nuke 'n Pave | LUP 173",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0173.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0173.mp3",
+            "published": 1480470407.0,
+            "downloaded": false
         },
         {
-            "published": 1479850999.0,
-            "downloaded": false,
             "title": "It's Not X, It's Wayland | LUP 172",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0172.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0172.mp3",
+            "published": 1479850999.0,
+            "downloaded": false
         },
         {
-            "published": 1479243957.0,
-            "downloaded": false,
             "title": "Uncontained Human Error | LUP 171",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0171.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0171.mp3",
+            "published": 1479243957.0,
+            "downloaded": false
         },
         {
-            "published": 1478650012.0,
-            "downloaded": false,
             "title": "Nano Users Unite | LUP 170",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0170.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0170.mp3",
+            "published": 1478650012.0,
+            "downloaded": false
         },
         {
-            "published": 1478031914.0,
-            "downloaded": false,
             "title": "Apple's Out Of Touch Bar | LUP 169",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0169.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0169.mp3",
+            "published": 1478031914.0,
+            "downloaded": false
         },
         {
-            "published": 1477427652.0,
-            "downloaded": false,
             "title": "Linux Shadow Force | LUP 168",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0168.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0168.mp3",
+            "published": 1477427652.0,
+            "downloaded": false
         },
         {
-            "published": 1476821732.0,
-            "downloaded": false,
             "title": "Livepatch Bait & Switch | LUP 167",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0167.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0167.mp3",
+            "published": 1476821732.0,
+            "downloaded": false
         },
         {
-            "published": 1476213172.0,
-            "downloaded": false,
             "title": "Linux Winter Developments | LUP 166",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0166.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0166.mp3",
+            "published": 1476213172.0,
+            "downloaded": false
         },
         {
-            "published": 1475606517.0,
-            "downloaded": false,
             "title": "In OpenDaylight | LUP 165",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0165.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0165.mp3",
+            "published": 1475606517.0,
+            "downloaded": false
         },
         {
-            "published": 1475028852.0,
-            "downloaded": false,
             "title": "Dial Up Linux | LUP 164",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0164.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0164.mp3",
+            "published": 1475028852.0,
+            "downloaded": false
         },
         {
-            "published": 1474399343.0,
-            "downloaded": false,
             "title": "Games of Linux Future | LUP 163",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0163.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0163.mp3",
+            "published": 1474399343.0,
+            "downloaded": false
         },
         {
-            "published": 1473803810.0,
-            "downloaded": false,
             "title": "Linux Flying High | LUP 162",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0162.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0162.mp3",
+            "published": 1473803810.0,
+            "downloaded": false
         },
         {
-            "published": 1473184917.0,
-            "downloaded": false,
             "title": "A Real Pain in the Flash | LUP 161",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0161.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0161.mp3",
+            "published": 1473184917.0,
+            "downloaded": false
         },
         {
-            "published": 1472591657.0,
-            "downloaded": false,
             "title": "Binary Decisions | LUP 160",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0160.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0160.mp3",
+            "published": 1472591657.0,
+            "downloaded": false
         },
         {
-            "published": 1471990522.0,
-            "downloaded": false,
             "title": "All Wimpy's Vault! | LUP 159",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0159.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0159.mp3",
+            "published": 1471990522.0,
+            "downloaded": false
         },
         {
-            "published": 1471376924.0,
-            "downloaded": false,
             "title": "Happy Birthday Debian | LUP 158",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0158.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0158.mp3",
+            "published": 1471376924.0,
+            "downloaded": false
         },
         {
-            "published": 1470770468.0,
-            "downloaded": false,
             "title": "SSH: Heaven or Shell | LUP 157",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0157.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0157.mp3",
+            "published": 1470770468.0,
+            "downloaded": false
         },
         {
-            "published": 1470169635.0,
-            "downloaded": false,
             "title": "Your Media Just Got Served | LUP 156",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0156.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0156.mp3",
+            "published": 1470169635.0,
+            "downloaded": false
         },
         {
-            "published": 1469563325.0,
-            "downloaded": false,
             "title": "Snappy Collaboration | LUP 155",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0155.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0155.mp3",
+            "published": 1469563325.0,
+            "downloaded": false
         },
         {
-            "published": 1468956063.0,
-            "downloaded": false,
             "title": "Pragmatic Idealism | LUP 154",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0154.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0154.mp3",
+            "published": 1468956063.0,
+            "downloaded": false
         },
         {
-            "published": 1468355898.0,
-            "downloaded": false,
             "title": "One NAT to Rule Them | LUP 153",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0153.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0153.mp3",
+            "published": 1468355898.0,
+            "downloaded": false
         },
         {
-            "published": 1467747836.0,
-            "downloaded": false,
             "title": "To .NET or to .NOT? | LUP 152",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0152.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0152.mp3",
+            "published": 1467747836.0,
+            "downloaded": false
         },
         {
-            "published": 1467142127.0,
-            "downloaded": false,
             "title": "Universal Divide | LUP 151",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0151.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0151.mp3",
+            "published": 1467142127.0,
+            "downloaded": false
         },
         {
-            "published": 1466536756.0,
-            "downloaded": false,
             "title": "War of the Packages | LUP 150",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0150.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0150.mp3",
+            "published": 1466536756.0,
+            "downloaded": false
         },
         {
-            "published": 1465929743.0,
-            "downloaded": false,
             "title": "Snaps are Go! | LUP 149",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0149.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0149.mp3",
+            "published": 1465929743.0,
+            "downloaded": false
         },
         {
-            "published": 1465323525.0,
-            "downloaded": false,
             "title": "Mind on my Cloud & Cloud on my Mind | LUP 148",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0148.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0148.mp3",
+            "published": 1465323525.0,
+            "downloaded": false
         },
         {
-            "published": 1464731591.0,
-            "downloaded": false,
             "title": "The Talking Gnome | LUP 147",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0147.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0147.mp3",
+            "published": 1464731591.0,
+            "downloaded": false
         },
         {
-            "published": 1464117210.0,
-            "downloaded": false,
             "title": "Snap, Flaps & Package Drops | LUP 146",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0146.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0146.mp3",
+            "published": 1464117210.0,
+            "downloaded": false
         },
         {
-            "published": 1463512537.0,
-            "downloaded": false,
             "title": "BuzzwordFS | LUP 145",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0145.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0145.mp3",
+            "published": 1463512537.0,
+            "downloaded": false
         },
         {
-            "published": 1462905818.0,
-            "downloaded": false,
             "title": "Flavorless Mint | LUP 144",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0144.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0144.mp3",
+            "published": 1462905818.0,
+            "downloaded": false
         },
         {
-            "published": 1462302359.0,
-            "downloaded": false,
             "title": "Can't Contain Linux | LUP 143",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0143.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0143.mp3",
+            "published": 1462302359.0,
+            "downloaded": false
         },
         {
-            "published": 1461701897.0,
-            "downloaded": false,
             "title": "Long Term Disappointment | LUP 142",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0142.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0142.mp3",
+            "published": 1461701897.0,
+            "downloaded": false
         },
         {
-            "published": 1461099262.0,
-            "downloaded": false,
             "title": "16.04 and Shut Your Face | LUP 141",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0141.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0141.mp3",
+            "published": 1461099262.0,
+            "downloaded": false
         },
         {
-            "published": 1460486585.0,
-            "downloaded": false,
             "title": "Blame Popey for ZFS | LUP 140",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0140.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0140.mp3",
+            "published": 1460486585.0,
+            "downloaded": false
         },
         {
-            "published": 1459882023.0,
-            "downloaded": false,
             "title": "Virtual Bondage | LUP 139",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0139.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0139.mp3",
+            "published": 1459882023.0,
+            "downloaded": false
         },
         {
-            "published": 1459276997.0,
-            "downloaded": false,
             "title": "Better than Linux | LUP 138",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0138.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0138.mp3",
+            "published": 1459276997.0,
+            "downloaded": false
         },
         {
-            "published": 1458677676.0,
-            "downloaded": false,
             "title": "Kool as Breeze KDE | LUP 137",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0137.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0137.mp3",
+            "published": 1458677676.0,
+            "downloaded": false
         },
         {
-            "published": 1458072057.0,
-            "downloaded": false,
             "title": "There's a Snap for That | LUP 136",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0136.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0136.mp3",
+            "published": 1458072057.0,
+            "downloaded": false
         },
         {
-            "published": 1457463311.0,
-            "downloaded": false,
             "title": "Microsoft's SeQueL to Linux | LUP 135",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0135.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0135.mp3",
+            "published": 1457463311.0,
+            "downloaded": false
         },
         {
-            "published": 1456862389.0,
-            "downloaded": false,
             "title": "Pi 3: The Next Generation | LUP 134",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0134.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0134.mp3",
+            "published": 1456862389.0,
+            "downloaded": false
         },
         {
-            "published": 1456251925.0,
-            "downloaded": false,
             "title": "Apollo Has Landed | LUP 133",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0133.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0133.mp3",
+            "published": 1456251925.0,
+            "downloaded": false
         },
         {
-            "published": 1455649411.0,
-            "downloaded": false,
             "title": "Librem 15 is FAN-tastic! | LUP 132",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0132.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0132.mp3",
+            "published": 1455649411.0,
+            "downloaded": false
         },
         {
-            "published": 1455047233.0,
-            "downloaded": false,
             "title": "Terminal Tackle Box | LUP 131",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0131.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0131.mp3",
+            "published": 1455047233.0,
+            "downloaded": false
         },
         {
-            "published": 1454440237.0,
-            "downloaded": false,
             "title": "The Six Rings of Ubuntu | LUP 130",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0130.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0130.mp3",
+            "published": 1454440237.0,
+            "downloaded": false
         },
         {
-            "published": 1453837052.0,
-            "downloaded": false,
             "title": "Shaky Linux Foundations | LUP 129",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0129.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0129.mp3",
+            "published": 1453837052.0,
+            "downloaded": false
         },
         {
-            "published": 1453238531.0,
-            "downloaded": false,
             "title": "Is that a server in your pocket? | LUP 128",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0128.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0128.mp3",
+            "published": 1453238531.0,
+            "downloaded": false
         },
         {
-            "published": 1452625957.0,
-            "downloaded": false,
             "title": "Sorry, I don't do Windows | LUP 127",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0127.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0127.mp3",
+            "published": 1452625957.0,
+            "downloaded": false
         },
         {
-            "published": 1452022702.0,
-            "downloaded": false,
             "title": "Mycroft Action Show | LUP 126",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0126.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0126.mp3",
+            "published": 1452022702.0,
+            "downloaded": false
         },
         {
-            "published": 1451414813.0,
-            "downloaded": false,
             "title": "Slaving for Red Star OS | LUP 125",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0125.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0125.mp3",
+            "published": 1451414813.0,
+            "downloaded": false
         },
         {
-            "published": 1450778535.0,
-            "downloaded": false,
             "title": "Linux\u2019s Amazing Year | LUP 124",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0124.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0124.mp3",
+            "published": 1450778535.0,
+            "downloaded": false
         },
         {
-            "published": 1450212293.0,
-            "downloaded": false,
             "title": "Mycroft and Chilli | LUP 123",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0123.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0123.mp3",
+            "published": 1450212293.0,
+            "downloaded": false
         },
         {
-            "published": 1449606641.0,
-            "downloaded": false,
             "title": "Thunderclouds around Thunderbird | LUP 122",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0122.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0122.mp3",
+            "published": 1449606641.0,
+            "downloaded": false
         },
         {
-            "published": 1448999547.0,
-            "downloaded": false,
             "title": "Raspberry Pi Does What? | LUP 121",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0121.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0121.mp3",
+            "published": 1448999547.0,
+            "downloaded": false
         },
         {
-            "published": 1448396825.0,
-            "downloaded": false,
             "title": "Budgie Jumping | LUP 120",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0120.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0120.mp3",
+            "published": 1448396825.0,
+            "downloaded": false
         },
         {
-            "published": 1447836899.0,
-            "downloaded": false,
             "title": "What\u2019s Up Docker? | LUP 119",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0119.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0119.mp3",
+            "published": 1447836899.0,
+            "downloaded": false
         },
         {
-            "published": 1447185724.0,
-            "downloaded": false,
             "title": "Leaping Over Tumbleweed | LUP 118",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0118.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0118.mp3",
+            "published": 1447185724.0,
+            "downloaded": false
         },
         {
-            "published": 1446576931.0,
-            "downloaded": false,
             "title": "Does Slack MatterMost? | LUP 117",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0117.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0117.mp3",
+            "published": 1446576931.0,
+            "downloaded": false
         },
         {
-            "published": 1445971491.0,
-            "downloaded": false,
             "title": "What's New MATE | LUP 116",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0116.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0116.mp3",
+            "published": 1445971491.0,
+            "downloaded": false
         },
         {
-            "published": 1445365649.0,
-            "downloaded": false,
             "title": "Open Production | LUP 115",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0115.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0115.mp3",
+            "published": 1445365649.0,
+            "downloaded": false
         },
         {
-            "published": 1444766654.0,
-            "downloaded": false,
             "title": "KDE Connect All the Things | LUP 114",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0114.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0114.mp3",
+            "published": 1444766654.0,
+            "downloaded": false
         },
         {
-            "published": 1444153032.0,
-            "downloaded": false,
             "title": "Kernel of Truth | LUP 113",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0113.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0113.mp3",
+            "published": 1444153032.0,
+            "downloaded": false
         },
         {
-            "published": 1443605239.0,
-            "downloaded": false,
             "title": "Open Source Power Outlets | LUP 112",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0112.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0112.mp3",
+            "published": 1443605239.0,
+            "downloaded": false
         },
         {
-            "published": 1443004686.0,
-            "downloaded": false,
             "title": "Completely Unplugged | LUP 111",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0111.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0111.mp3",
+            "published": 1443004686.0,
+            "downloaded": false
         },
         {
-            "published": 1442425108.0,
-            "downloaded": false,
             "title": "Return of the Localhost | LUP 110",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0110.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0110.mp3",
+            "published": 1442425108.0,
+            "downloaded": false
         },
         {
-            "published": 1441731827.0,
-            "downloaded": false,
             "title": "Who Will Build The Builders | LUP 109",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0109.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0109.mp3",
+            "published": 1441731827.0,
+            "downloaded": false
         },
         {
-            "published": 1441125003.0,
-            "downloaded": false,
             "title": "Insecurity by Design | LUP 108",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0108.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0108.mp3",
+            "published": 1441125003.0,
+            "downloaded": false
         },
         {
-            "published": 1440528126.0,
-            "downloaded": false,
             "title": "Freedom Isn't Free | LUP 107",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0107.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0107.mp3",
+            "published": 1440528126.0,
+            "downloaded": false
         },
         {
-            "published": 1439967159.0,
-            "downloaded": false,
             "title": "Connecting the Docks | LUP 106",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0106.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0106.mp3",
+            "published": 1439967159.0,
+            "downloaded": false
         },
         {
-            "published": 1439317282.0,
-            "downloaded": false,
             "title": "Vulkan the Metal Slayer | LUP 105",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0105.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0105.mp3",
+            "published": 1439317282.0,
+            "downloaded": false
         },
         {
-            "published": 1438802831.0,
-            "downloaded": false,
             "title": "Miles of WiFi | LUP 104",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0104.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0104.mp3",
+            "published": 1438802831.0,
+            "downloaded": false
         },
         {
-            "published": 1438106123.0,
-            "downloaded": false,
             "title": "OSCON Secret Sauce | LUP 103",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0103.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0103.mp3",
+            "published": 1438106123.0,
+            "downloaded": false
         },
         {
-            "published": 1437420690.0,
-            "downloaded": false,
             "title": "Canonical, Dell & AMD Games | LUP 102",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0102.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0102.mp3",
+            "published": 1437420690.0,
+            "downloaded": false
         },
         {
-            "published": 1436896872.0,
-            "downloaded": false,
             "title": "Will Flash Be Trashed? | LUP 101",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0101.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0101.mp3",
+            "published": 1436896872.0,
+            "downloaded": false
         },
         {
-            "published": 1436286253.0,
-            "downloaded": false,
             "title": "Still Minty Fresh | LUP 100",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0100.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0100.mp3",
+            "published": 1436286253.0,
+            "downloaded": false
         },
         {
-            "published": 1435687598.0,
-            "downloaded": false,
             "title": "Finger on the Pulse of Video | LUP 99",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0099.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0099.mp3",
+            "published": 1435687598.0,
+            "downloaded": false
         },
         {
-            "published": 1435084518.0,
-            "downloaded": false,
             "title": "Not OK Google | LUP 98",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0098.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0098.mp3",
+            "published": 1435084518.0,
+            "downloaded": false
         },
         {
-            "published": 1434488288.0,
-            "downloaded": false,
             "title": "Better Open Source Options | LUP 97",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0097.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0097.mp3",
+            "published": 1434488288.0,
+            "downloaded": false
         },
         {
-            "published": 1433871418.0,
-            "downloaded": false,
             "title": "Fedora's Bright Future | LUP 96",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0096.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0096.mp3",
+            "published": 1433871418.0,
+            "downloaded": false
         },
         {
-            "published": 1433174937.0,
-            "downloaded": false,
             "title": "Disjunctive Normal Fedora | LUP 95",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0095.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0095.mp3",
+            "published": 1433174937.0,
+            "downloaded": false
         },
         {
-            "published": 1432663759.0,
-            "downloaded": false,
             "title": "11 Years of Linux Benchmarking | LUP 94",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0094.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0094.mp3",
+            "published": 1432663759.0,
+            "downloaded": false
         },
         {
-            "published": 1432056743.0,
-            "downloaded": false,
             "title": "Rollback Romanticism | LUP 93",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0093.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0093.mp3",
+            "published": 1432056743.0,
+            "downloaded": false
         },
         {
-            "published": 1431458775.0,
-            "downloaded": false,
             "title": "Linux Wife, Happy Life. | LUP 92",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0092.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0092.mp3",
+            "published": 1431458775.0,
+            "downloaded": false
         },
         {
-            "published": 1430847020.0,
-            "downloaded": false,
             "title": "Open Source Kollaboration | LUP 91",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0091.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0091.mp3",
+            "published": 1430847020.0,
+            "downloaded": false
         },
         {
-            "published": 1430248868.0,
-            "downloaded": false,
             "title": "How The Fest Was Fun | LUP 90",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0090.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0090.mp3",
+            "published": 1430248868.0,
+            "downloaded": false
         },
         {
-            "published": 1429641021.0,
-            "downloaded": false,
             "title": "Oh Deere, RMS was Right | LUP 89",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0089.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0089.mp3",
+            "published": 1429641021.0,
+            "downloaded": false
         },
         {
-            "published": 1429038565.0,
-            "downloaded": false,
             "title": "Churning Over Btrfs | LUP 88",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0088.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0088.mp3",
+            "published": 1429038565.0,
+            "downloaded": false
         },
         {
-            "published": 1428429691.0,
-            "downloaded": false,
             "title": "btrfs Meltdown | LUP 87",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0087b.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0087b.mp3",
+            "published": 1428429691.0,
+            "downloaded": false
         },
         {
-            "published": 1427822138.0,
-            "downloaded": false,
             "title": "Evolve Your OS | LUP 86",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0086.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0086.mp3",
+            "published": 1427822138.0,
+            "downloaded": false
         },
         {
-            "published": 1427221787.0,
-            "downloaded": false,
             "title": "Give the Kids Linux | LUP 85",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0085.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0085.mp3",
+            "published": 1427221787.0,
+            "downloaded": false
         },
         {
-            "published": 1426617621.0,
-            "downloaded": false,
             "title": "On the Verge of Convergence | LUP 84",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0084.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0084.mp3",
+            "published": 1426617621.0,
+            "downloaded": false
         },
         {
-            "published": 1426016838.0,
-            "downloaded": false,
             "title": "Numixing Fedora | LUP 83",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0083.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0083.mp3",
+            "published": 1426016838.0,
+            "downloaded": false
         },
         {
-            "published": 1425411852.0,
-            "downloaded": false,
             "title": "Ubuntu MATE Gets Legit | LUP 82",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0082.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0082.mp3",
+            "published": 1425411852.0,
+            "downloaded": false
         },
         {
-            "published": 1424761415.0,
-            "downloaded": false,
             "title": "Unplugging the Past | LUP 81",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0081.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0081.mp3",
+            "published": 1424761415.0,
+            "downloaded": false
         },
         {
-            "published": 1424196954.0,
-            "downloaded": false,
             "title": "ARMed with Arch | LUP 80",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0080.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0080.mp3",
+            "published": 1424196954.0,
+            "downloaded": false
         },
         {
-            "published": 1423591245.0,
-            "downloaded": false,
             "title": "Ubuntu Calling | LUP 79",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0079.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0079.mp3",
+            "published": 1423591245.0,
+            "downloaded": false
         },
         {
-            "published": 1422988675.0,
-            "downloaded": false,
             "title": "Straight Outta FOSDEM | LUP 78",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0078.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0078.mp3",
+            "published": 1422988675.0,
+            "downloaded": false
         },
         {
-            "published": 1422380613.0,
-            "downloaded": false,
             "title": "Vivaldi, The Fourth Browser | LUP 77",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0077.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0077.mp3",
+            "published": 1422380613.0,
+            "downloaded": false
         },
         {
-            "published": 1421781286.0,
-            "downloaded": false,
             "title": "Building a Better Gnome | LUP 76",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0076.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0076.mp3",
+            "published": 1421781286.0,
+            "downloaded": false
         },
         {
-            "published": 1421181657.0,
-            "downloaded": false,
             "title": "Obviously Linux's Fault | LUP 75",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0075b.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0075b.mp3",
+            "published": 1421181657.0,
+            "downloaded": false
         },
         {
-            "published": 1420576674.0,
-            "downloaded": false,
             "title": "Proprietary Exodus | LUP 74",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0074.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0074.mp3",
+            "published": 1420576674.0,
+            "downloaded": false
         },
         {
-            "published": 1419966627.0,
-            "downloaded": false,
             "title": "Predicting 2015 | LUP 73",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0073.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0073.mp3",
+            "published": 1419966627.0,
+            "downloaded": false
         },
         {
-            "published": 1419335958.0,
-            "downloaded": false,
             "title": "Best of LUP 2014 | LUP 72",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0072.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0072.mp3",
+            "published": 1419335958.0,
+            "downloaded": false
         },
         {
-            "published": 1418760101.0,
-            "downloaded": false,
             "title": "Fedora Takes the Lead | LUP 71",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0071.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0071.mp3",
+            "published": 1418760101.0,
+            "downloaded": false
         },
         {
-            "published": 1418163800.0,
-            "downloaded": false,
             "title": "Next Gen Fedora | LUP 70",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0070.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0070.mp3",
+            "published": 1418163800.0,
+            "downloaded": false
         },
         {
-            "published": 1417549658.0,
-            "downloaded": false,
             "title": "Perfect Linux Laptop | LUP 69",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0069.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0069.mp3",
+            "published": 1417549658.0,
+            "downloaded": false
         },
         {
-            "published": 1416937076.0,
-            "downloaded": false,
             "title": "Linux Powered Schools | LUP 68",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0068.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0068.mp3",
+            "published": 1416937076.0,
+            "downloaded": false
         },
         {
-            "published": 1416335486.0,
-            "downloaded": false,
             "title": "Debian Community Divided | LUP 67",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0067b.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0067b.mp3",
+            "published": 1416335486.0,
+            "downloaded": false
         },
         {
-            "published": 1415739651.0,
-            "downloaded": false,
             "title": "Firefox gets Unplugged | LUP 66",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0066.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0066.mp3",
+            "published": 1415739651.0,
+            "downloaded": false
         },
         {
-            "published": 1415127829.0,
-            "downloaded": false,
             "title": "OpenSUSE Followup | LINUX Unplugged 65",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0065.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0065.mp3",
+            "published": 1415127829.0,
+            "downloaded": false
         },
         {
-            "published": 1414522754.0,
-            "downloaded": false,
             "title": "SeaGL & OLF Roundup | LINUX Unplugged 64",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0064.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0064.mp3",
+            "published": 1414522754.0,
+            "downloaded": false
         },
         {
-            "published": 1413915178.0,
-            "downloaded": false,
             "title": "For Forks Sake | LUP 63",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0063.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0063.mp3",
+            "published": 1413915178.0,
+            "downloaded": false
         },
         {
-            "published": 1413306373.0,
-            "downloaded": false,
             "title": "Unifying Linux Software | LUP 62",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0062.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0062.mp3",
+            "published": 1413306373.0,
+            "downloaded": false
         },
         {
-            "published": 1412713547.0,
-            "downloaded": false,
             "title": "Don\u2019t Feed the Soap Opera | LUP 61",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0061.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0061.mp3",
+            "published": 1412713547.0,
+            "downloaded": false
         },
         {
-            "published": 1412098428.0,
-            "downloaded": false,
             "title": "Calm Before the Storm | LINUX Unplugged 60",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0060.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0060.mp3",
+            "published": 1412098428.0,
+            "downloaded": false
         },
         {
-            "published": 1411492056.0,
-            "downloaded": false,
             "title": "Dead Desktop Walking | LUP 59",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0059.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0059.mp3",
+            "published": 1411492056.0,
+            "downloaded": false
         },
         {
-            "published": 1410892311.0,
-            "downloaded": false,
             "title": "Cult of Community | LUP 58",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0058.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0058.mp3",
+            "published": 1410892311.0,
+            "downloaded": false
         },
         {
-            "published": 1410285218.0,
-            "downloaded": false,
             "title": "systemd Haters Busted | LUP 57",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0057.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0057.mp3",
+            "published": 1410285218.0,
+            "downloaded": false
         },
         {
-            "published": 1409683626.0,
-            "downloaded": false,
             "title": "One Packager for All | LUP 56",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0056.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0056.mp3",
+            "published": 1409683626.0,
+            "downloaded": false
         },
         {
-            "published": 1409076978.0,
-            "downloaded": false,
             "title": "LinuxCon 2014 Unplugged | LUP 55",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0055.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0055.mp3",
+            "published": 1409076978.0,
+            "downloaded": false
         },
         {
-            "published": 1408469888.0,
-            "downloaded": false,
             "title": "Microsoft's Munich Man | LINUX Unplugged 54",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0054.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0054.mp3",
+            "published": 1408469888.0,
+            "downloaded": false
         },
         {
-            "published": 1407871658.0,
-            "downloaded": false,
             "title": "Ubuntu with Rodent | LUP 53",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0053.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0053.mp3",
+            "published": 1407871658.0,
+            "downloaded": false
         },
         {
-            "published": 1407259170.0,
-            "downloaded": false,
             "title": "CRUX Interview | LUP 52",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0052.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0052.mp3",
+            "published": 1407259170.0,
+            "downloaded": false
         },
         {
-            "published": 1406658317.0,
-            "downloaded": false,
             "title": "OSCON Behind The Story | LUP 51",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0051.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0051.mp3",
+            "published": 1406658317.0,
+            "downloaded": false
         },
         {
-            "published": 1406020896.0,
-            "downloaded": false,
             "title": "Linux Look-Back | LUP 50",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0050.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0050.mp3",
+            "published": 1406020896.0,
+            "downloaded": false
         },
         {
-            "published": 1405447931.0,
-            "downloaded": false,
             "title": "Rapid Fire Journalism | LINUX Unplugged 49",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0049.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0049.mp3",
+            "published": 1405447931.0,
+            "downloaded": false
         },
         {
-            "published": 1404841739.0,
-            "downloaded": false,
             "title": "KaOS Theory | LUP 48",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0048.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0048.mp3",
+            "published": 1404841739.0,
+            "downloaded": false
         },
         {
-            "published": 1404236180.0,
-            "downloaded": false,
             "title": "Desktopaholics Anonymous  | LUP 47",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0047.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0047.mp3",
+            "published": 1404236180.0,
+            "downloaded": false
         },
         {
-            "published": 1403627474.0,
-            "downloaded": false,
             "title": "SouthEast LinuxFest Unplugged | LUP 46",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0046.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0046.mp3",
+            "published": 1403627474.0,
+            "downloaded": false
         },
         {
-            "published": 1403016375.0,
-            "downloaded": false,
             "title": "The Triple-Boot Phone | LUP 45",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0045.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0045.mp3",
+            "published": 1403016375.0,
+            "downloaded": false
         },
         {
-            "published": 1402416188.0,
-            "downloaded": false,
             "title": "Bedrock: A New Paradigm | LUP 44",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0044.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0044.mp3",
+            "published": 1402416188.0,
+            "downloaded": false
         },
         {
-            "published": 1401814955.0,
-            "downloaded": false,
             "title": "Mint 17: Fresh or Stagnant? | LUP 43",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0043.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0043.mp3",
+            "published": 1401814955.0,
+            "downloaded": false
         },
         {
-            "published": 1401208485.0,
-            "downloaded": false,
             "title": "Fine Wine or Sour Ports | LUP 42",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0042.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0042.mp3",
+            "published": 1401208485.0,
+            "downloaded": false
         },
         {
-            "published": 1400604766.0,
-            "downloaded": false,
             "title": "Arch\u2019s Uprising | LUP 41",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0041.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0041.mp3",
+            "published": 1400604766.0,
+            "downloaded": false
         },
         {
-            "published": 1400005409.0,
-            "downloaded": false,
             "title": "Developers Get Qt | LUP 40",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0040.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0040.mp3",
+            "published": 1400005409.0,
+            "downloaded": false
         },
         {
-            "published": 1399397494.0,
-            "downloaded": false,
             "title": "Fragmentation Timebomb | LUP 39",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0039.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0039.mp3",
+            "published": 1399397494.0,
+            "downloaded": false
         },
         {
-            "published": 1398790369.0,
-            "downloaded": false,
             "title": "The Rest of the Fest | LUP 38",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0038.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0038.mp3",
+            "published": 1398790369.0,
+            "downloaded": false
         },
         {
-            "published": 1398187119.0,
-            "downloaded": false,
             "title": "Client Side Drama | LUP 37",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0037.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0037.mp3",
+            "published": 1398187119.0,
+            "downloaded": false
         },
         {
-            "published": 1397576237.0,
-            "downloaded": false,
             "title": "Beware of Underdog | LUP 36",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0036-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0036-mp3.mp3",
+            "published": 1397576237.0,
+            "downloaded": false
         },
         {
-            "published": 1396974565.0,
-            "downloaded": false,
             "title": "Windows eXPired | LUP 35",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0035-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0035-mp3.mp3",
+            "published": 1396974565.0,
+            "downloaded": false
         },
         {
-            "published": 1396384603.0,
-            "downloaded": false,
             "title": "Drive-By Advice | LUP 34",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0034-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0034-mp3.mp3",
+            "published": 1396384603.0,
+            "downloaded": false
         },
         {
-            "published": 1395771286.0,
-            "downloaded": false,
             "title": "Graphical Civil War | LUP 33",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0033-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0033-mp3.mp3",
+            "published": 1395771286.0,
+            "downloaded": false
         },
         {
-            "published": 1395175379.0,
-            "downloaded": false,
             "title": "Do Me a SolydXK | LUP 32",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0032-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0032-mp3.mp3",
+            "published": 1395175379.0,
+            "downloaded": false
         },
         {
-            "published": 1394559755.0,
-            "downloaded": false,
             "title": "Ubuntu Punching Bag | LUP 31",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0031-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0031-mp3.mp3",
+            "published": 1394559755.0,
+            "downloaded": false
         },
         {
-            "published": 1393952947.0,
-            "downloaded": false,
             "title": "Talkin' Tox | LUP 30",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0030-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0030-mp3.mp3",
+            "published": 1393952947.0,
+            "downloaded": false
         },
         {
-            "published": 1393349151.0,
-            "downloaded": false,
             "title": "The Klementine Squeeze | LUP 29",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0029-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0029-mp3.mp3",
+            "published": 1393349151.0,
+            "downloaded": false
         },
         {
-            "published": 1392746594.0,
-            "downloaded": false,
             "title": "Neckbeard Entitlement Factor | LUP 28",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0028-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0028-mp3.mp3",
+            "published": 1392746594.0,
+            "downloaded": false
         },
         {
-            "published": 1392140411.0,
-            "downloaded": false,
             "title": "Debian's systemd Decision | LUP 27",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/201402.jb-dl.cdn.scaleengine.net/linuxun/2014/audio/lup-0027-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/201402.jb-dl.cdn.scaleengine.net/linuxun/2014/audio/lup-0027-mp3.mp3",
+            "published": 1392140411.0,
+            "downloaded": false
         },
         {
-            "published": 1391536673.0,
-            "downloaded": false,
             "title": "MATE Mythbusting | LUP 26",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0026-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0026-mp3.mp3",
+            "published": 1391536673.0,
+            "downloaded": false
         },
         {
-            "published": 1390948197.0,
-            "downloaded": false,
             "title": "Culture of Shiny | LUP 25",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0025-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0025-mp3.mp3",
+            "published": 1390948197.0,
+            "downloaded": false
         },
         {
-            "published": 1390325594.0,
-            "downloaded": false,
             "title": "FUD for Thought | LUP 24",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0024-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0024-mp3.mp3",
+            "published": 1390325594.0,
+            "downloaded": false
         },
         {
-            "published": 1389726105.0,
-            "downloaded": false,
             "title": "Google Invades Your Nest |  LUP 23",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0023-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0023-mp3.mp3",
+            "published": 1389726105.0,
+            "downloaded": false
         },
         {
-            "published": 1389114336.0,
-            "downloaded": false,
             "title": "Hurd Mentality | LUP 22",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0022-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0022-mp3.mp3",
+            "published": 1389114336.0,
+            "downloaded": false
         },
         {
-            "published": 1388513021.0,
-            "downloaded": false,
             "title": "Unplugging 2013 | LUP 21",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0021-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0021-mp3.mp3",
+            "published": 1388513021.0,
+            "downloaded": false
         },
         {
-            "published": 1387877220.0,
-            "downloaded": false,
             "title": "Fidel Chromecastro | LUP 20",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0020-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0020-mp3.mp3",
+            "published": 1387877220.0,
+            "downloaded": false
         },
         {
-            "published": 1387299959.0,
-            "downloaded": false,
             "title": "Fixing Linux Support | LUP 19",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0019-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0019-mp3.mp3",
+            "published": 1387299959.0,
+            "downloaded": false
         },
         {
-            "published": 1386701374.0,
-            "downloaded": false,
             "title": "Hugs for LUGs | LUP 18",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0018-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0018-mp3.mp3",
+            "published": 1386701374.0,
+            "downloaded": false
         },
         {
-            "published": 1386141587.0,
-            "downloaded": false,
             "title": "Swap It Outta Here | LUP 17",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0017-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0017-mp3.mp3",
+            "published": 1386141587.0,
+            "downloaded": false
         },
         {
-            "published": 1385489236.0,
-            "downloaded": false,
             "title": "Meet the Dockers | LUP 16",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0016-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0016-mp3.mp3",
+            "published": 1385489236.0,
+            "downloaded": false
         },
         {
-            "published": 1384890491.0,
-            "downloaded": false,
             "title": "Don\u2019t Switch to Linux | LUP 15",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0015-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0015-mp3.mp3",
+            "published": 1384890491.0,
+            "downloaded": false
         },
         {
-            "published": 1384273829.0,
-            "downloaded": false,
             "title": "Negative in the Practical Dimension | LUP 14",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0014-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0014-mp3.mp3",
+            "published": 1384273829.0,
+            "downloaded": false
         },
         {
-            "published": 1383670941.0,
-            "downloaded": false,
             "title": "Dark Mail: A New Hope | LINUX Unplugged 13",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0013-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0013-mp3.mp3",
+            "published": 1383670941.0,
+            "downloaded": false
         },
         {
-            "published": 1383067305.0,
-            "downloaded": false,
             "title": "Debating Debian Decisions | LINUX Unplugged 12",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0012-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0012-mp3.mp3",
+            "published": 1383067305.0,
+            "downloaded": false
         },
         {
-            "published": 1382461553.0,
-            "downloaded": false,
             "title": "Bankrupt Linux News | LINUX Unplugged 11",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0011-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0011-mp3.mp3",
+            "published": 1382461553.0,
+            "downloaded": false
         },
         {
-            "published": 1381852759.0,
-            "downloaded": false,
             "title": "The Ubuntu Hangover | LINUX Unplugged 10",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0010-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0010-mp3.mp3",
+            "published": 1381852759.0,
+            "downloaded": false
         },
         {
-            "published": 1381251428.0,
-            "downloaded": false,
             "title": "The Ubuntu Situation | LINUX Unplugged 9",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0009-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0009-mp3.mp3",
+            "published": 1381251428.0,
+            "downloaded": false
         },
         {
-            "published": 1380644416.0,
-            "downloaded": false,
             "title": "Cloud Guilt | LINUX Unplugged 8",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0008-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0008-mp3.mp3",
+            "published": 1380644416.0,
+            "downloaded": false
         },
         {
-            "published": 1380040639.0,
-            "downloaded": false,
             "title": "Full SteamOS Ahead | LUP 7",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-007-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-007-mp3.mp3",
+            "published": 1380040639.0,
+            "downloaded": false
         },
         {
-            "published": 1379437578.0,
-            "downloaded": false,
             "title": "The Android Problem | LINUX Unplugged 6",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/LUN-006-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/LUN-006-mp3.mp3",
+            "published": 1379437578.0,
+            "downloaded": false
         },
         {
-            "published": 1378829656.0,
-            "downloaded": false,
             "title": "Wrath of Linus | LINUX Unplugged 5",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/LUN-005-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/LUN-005-mp3.mp3",
+            "published": 1378829656.0,
+            "downloaded": false
         },
         {
-            "published": 1378228744.0,
-            "downloaded": false,
             "title": "Are Linux Users Cheap? | LINUX Unplugged 4",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/LUN-004-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/LUN-004-mp3.mp3",
+            "published": 1378228744.0,
+            "downloaded": false
         },
         {
-            "published": 1377538077.0,
-            "downloaded": false,
             "title": "Go Dock Yourself | LINUX Unplugged 3",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LUN-003-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LUN-003-mp3.mp3",
+            "published": 1377538077.0,
+            "downloaded": false
         },
         {
-            "published": 1376935092.0,
-            "downloaded": false,
             "title": "Edge of Failure | LINUX Unplugged 2",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LUN-002-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LUN-002-mp3.mp3",
+            "published": 1376935092.0,
+            "downloaded": false
         },
         {
-            "published": 1376330739.0,
-            "downloaded": false,
             "title": "Too Much Choice | LU1",
             "listened": false,
-            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LINUXUN-001-mp3.mp3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LINUXUN-001-mp3.mp3",
+            "published": 1376330739.0,
+            "downloaded": false
         }
-    ]
+    ],
+    "shortname": "unplugged",
+    "title": "LINUX Unplugged Podcast",
+    "url": "http://feeds.feedburner.com/linuxunplugged"
 }
