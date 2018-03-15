@@ -1,63 +1,63 @@
 {
-    "episodes": [
-        {
-            "title": "008 - T0015! Part 0x1",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_8.mp3?dest-id=552832",
-            "published": 1520579435.0,
-            "downloaded": true
-        },
-        {
-            "title": "007 -Candy Coated",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832",
-            "published": 1514962863.0,
-            "downloaded": true
-        },
-        {
-            "title": "006 -   Marketing Via Stickers",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832",
-            "published": 1512531587.0,
-            "downloaded": false
-        },
-        {
-            "title": "005 - Circuits That Go Nowhere",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_5.mp3?dest-id=552832",
-            "published": 1509929618.0,
-            "downloaded": false
-        },
-        {
-            "title": "004 - 0x0FF the Rails",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_4.mp3?dest-id=552832",
-            "published": 1507864639.0,
-            "downloaded": false
-        },
-        {
-            "title": "003 - Barbies and Keyboards",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode3.mp3?dest-id=552832",
-            "published": 1505683517.0,
-            "downloaded": false
-        },
-        {
-            "title": "002 - Cheap And Easy",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/episode_002.mp3?dest-id=552832",
-            "published": 1504061116.0,
-            "downloaded": false
-        },
-        {
-            "title": "001 - Success!",
-            "listened": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode1.mp3?dest-id=552832",
-            "published": 1502762913.0,
-            "downloaded": false
-        }
-    ],
+    "url": "http://reverseengineering.libsyn.com/rss",
     "shortname": "reverse",
     "title": "Unnamed Reverse Engineering Podcast",
-    "url": "http://reverseengineering.libsyn.com/rss"
+    "episodes": [
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_8.mp3?dest-id=552832",
+            "published": 1520579435.0,
+            "listened": false,
+            "downloaded": true,
+            "title": "008 - T0015! Part 0x1"
+        },
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832",
+            "published": 1514962863.0,
+            "listened": false,
+            "downloaded": true,
+            "title": "007 -Candy Coated"
+        },
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832",
+            "published": 1512531587.0,
+            "listened": false,
+            "downloaded": false,
+            "title": "006 -   Marketing Via Stickers"
+        },
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_5.mp3?dest-id=552832",
+            "published": 1509929618.0,
+            "listened": false,
+            "downloaded": false,
+            "title": "005 - Circuits That Go Nowhere"
+        },
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_4.mp3?dest-id=552832",
+            "published": 1507864639.0,
+            "listened": false,
+            "downloaded": false,
+            "title": "004 - 0x0FF the Rails"
+        },
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode3.mp3?dest-id=552832",
+            "published": 1505683517.0,
+            "listened": false,
+            "downloaded": false,
+            "title": "003 - Barbies and Keyboards"
+        },
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_002.mp3?dest-id=552832",
+            "published": 1504061116.0,
+            "listened": false,
+            "downloaded": false,
+            "title": "002 - Cheap And Easy"
+        },
+        {
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode1.mp3?dest-id=552832",
+            "published": 1502762913.0,
+            "listened": false,
+            "downloaded": false,
+            "title": "001 - Success!"
+        }
+    ]
 }
