@@ -1,504 +1,504 @@
 {
-    "url": "http://www.newrustacean.com/feed.xml",
-    "shortname": "newrust",
     "title": "New Rustacean",
+    "shortname": "newrust",
     "episodes": [
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_24.mp3",
+            "title": "News: Rust 1.24",
             "published": 1519936652.0,
             "listened": false,
-            "downloaded": true,
-            "title": "News: Rust 1.24"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_24.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk/serde.mp3",
+            "title": "CYSK: Serde",
             "published": 1518276266.0,
             "listened": false,
-            "downloaded": true,
-            "title": "CYSK: Serde"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk/serde.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e022.mp3",
+            "title": "e023: Send and Sync",
             "published": 1517431500.0,
             "listened": false,
-            "downloaded": true,
-            "title": "e023: Send and Sync"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e022.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/diesel_1_0/part_2.mp3",
+            "title": "Interview \u2013 Diesel 1.0, with Sean Griffin \u2013 Part 2",
             "published": 1516551923.0,
             "listened": false,
-            "downloaded": true,
-            "title": "Interview \u2013 Diesel 1.0, with Sean Griffin \u2013 Part 2"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/diesel_1_0/part_2.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/diesel_1_0/part_1.mp3",
+            "title": "Interview \u2013 Diesel 1.0, with Sean Griffin \u2013 Part 1",
             "published": 1515847800.0,
             "listened": false,
-            "downloaded": true,
-            "title": "Interview \u2013 Diesel 1.0, with Sean Griffin \u2013 Part 1"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/diesel_1_0/part_1.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_23.mp3",
+            "title": "News: Rust 1.23",
             "published": 1515187800.0,
             "listened": false,
-            "downloaded": true,
-            "title": "News: Rust 1.23"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_23.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/irr_2017/matt_gathu.mp3",
+            "title": "Increasing Rust's Reach: Matt Gathu",
             "published": 1514649600.0,
             "listened": false,
-            "downloaded": true,
-            "title": "Increasing Rust's Reach: Matt Gathu"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/irr_2017/matt_gathu.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/irr_2017/lee_baillie.mp3",
+            "title": "Increasing Rust's Reach: Lee Baillie",
             "published": 1514295316.0,
             "listened": false,
-            "downloaded": true,
-            "title": "Increasing Rust's Reach: Lee Baillie"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/irr_2017/lee_baillie.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/irr_2017/anna_liao.mp3",
+            "title": "Increasing Rust's Reach: Anna Liao",
             "published": 1513807200.0,
             "listened": false,
-            "downloaded": true,
-            "title": "Increasing Rust's Reach: Anna Liao"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/irr_2017/anna_liao.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/katie_nolan.mp3",
+            "title": "RBR 2017: Katie Nolan",
             "published": 1513324001.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Katie Nolan"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/katie_nolan.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/ben_beckwith.mp3",
+            "title": "RBR 2017: Ben Beckwith",
             "published": 1513275980.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Ben Beckwith"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/ben_beckwith.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/andrew_hobden.mp3",
+            "title": "RBR 2017: Andrew Hobden",
             "published": 1513182000.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Andrew Hobden"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/andrew_hobden.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/parry_wilcox.mp3",
+            "title": "RBR 2017: Parry Wilcox",
             "published": 1513062327.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Parry Wilcox"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/parry_wilcox.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/matthias_endler.mp3",
+            "title": "RBR 2017: Matthias Endler",
             "published": 1513014653.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Matthias Endler"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/matthias_endler.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/ben_striegel.mp3",
+            "title": "RBR 2017: Ben Striegel",
             "published": 1512893705.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Ben Striegel"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/ben_striegel.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/holden_marcsisin.mp3",
+            "title": "RBR 2017: Holden Marcsisin",
             "published": 1512810900.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Holden Marcsisin"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/holden_marcsisin.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/esty_thomas.mp3",
+            "title": "RBR 2017: Esty Thomas",
             "published": 1512674100.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Esty Thomas"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/esty_thomas.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/thomas_gideon.mp3",
+            "title": "RBR 2017: Thomas Gideon",
             "published": 1512577800.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Thomas Gideon"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/thomas_gideon.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/tom_kriezkowski.mp3",
+            "title": "RBR 2017: Tom Kriezkowski",
             "published": 1511712865.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Tom Kriezkowski"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/tom_kriezkowski.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_21_1_22.mp3",
+            "title": "News: Rust 1.21 and 1.22",
             "published": 1511531244.0,
             "listened": false,
-            "downloaded": true,
-            "title": "News: Rust 1.21 and 1.22"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_21_1_22.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/jess_saxeter.mp3",
+            "title": "RBR 2017: Jess Saxeter",
             "published": 1511096400.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Jess Saxeter"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/jess_saxeter.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/pete_lyons.mp3",
+            "title": "RBR 2017: Pete Lyons",
             "published": 1511013302.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Pete Lyons"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/pete_lyons.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/arun_kulshreshtha.mp3",
+            "title": "RBR 2017: Arun Kulsheshthra",
             "published": 1510689771.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Arun Kulsheshthra"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/arun_kulshreshtha.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/anthony_deschamps.mp3",
+            "title": "RBR 2017: Anthony Deschamps",
             "published": 1510606956.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Anthony Deschamps"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/anthony_deschamps.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/colin_dean.mp3",
+            "title": "RBR 2017: Colin Dean",
             "published": 1510406568.0,
             "listened": false,
-            "downloaded": true,
-            "title": "RBR 2017: Colin Dean"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview/rbr_2017/colin_dean.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta/_2.mp3",
+            "title": "Meta 2: Two milestones",
             "published": 1506327635.0,
             "listened": false,
-            "downloaded": true,
-            "title": "Meta 2: Two milestones"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta/_2.mp3",
+            "downloaded": true
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta/_2.mp3",
+            "title": "Meta 2: Two milestones",
             "published": 1506320435.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Meta 2: Two milestones"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta/_2.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk/rayon.mp3",
+            "title": "CYSK: Rayon",
             "published": 1505568300.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: Rayon"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk/rayon.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk/rayon.mp3",
+            "title": "CYSK: Rayon",
             "published": 1505561100.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: Rayon"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk/rayon.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_20.mp3",
+            "title": "News: Rust 1.20",
             "published": 1504215000.0,
             "listened": false,
-            "downloaded": false,
-            "title": "News: Rust 1.20"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_20.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_20.mp3",
+            "title": "News: Rust 1.20",
             "published": 1504207800.0,
             "listened": false,
-            "downloaded": false,
-            "title": "News: Rust 1.20"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_20.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_9.mp3",
+            "title": "Bonus 9: Open source is mostly just normal people",
             "published": 1502697600.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 9: Open source is mostly just normal people"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_9.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_9.mp3",
+            "title": "Bonus 9: Open source is mostly just normal people",
             "published": 1502690400.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 9: Open source is mostly just normal people"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_9.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e021.mp3",
+            "title": "e021: Keeping your types under cover",
             "published": 1500320100.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e021: Keeping your types under cover"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e021.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e021.mp3",
+            "title": "e021: Keeping your types under cover",
             "published": 1500312900.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e021: Keeping your types under cover"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e021.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_3.mp3",
+            "title": "News 3: Increasing Rust's Reach",
             "published": 1499180400.0,
             "listened": false,
-            "downloaded": false,
-            "title": "News 3: Increasing Rust's Reach"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_3.mp3",
+            "title": "News 3: Increasing Rust's Reach",
             "published": 1499173200.0,
             "listened": false,
-            "downloaded": false,
-            "title": "News 3: Increasing Rust's Reach"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_rocket.mp3",
+            "title": "CYSK: Rocket",
             "published": 1498856400.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: Rocket"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_rocket.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_rocket.mp3",
+            "title": "CYSK: Rocket",
             "published": 1498849200.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: Rocket"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_rocket.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_3.mp3",
+            "title": "Interview 4 \u2013 Jonathan Turner: Part 3",
             "published": 1497710850.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 4 \u2013 Jonathan Turner: Part 3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_3.mp3",
+            "title": "Interview 4 \u2013 Jonathan Turner: Part 3",
             "published": 1497703650.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 4 \u2013 Jonathan Turner: Part 3"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_2.mp3",
+            "title": "Interview 4 \u2013 Jonathan Turner: Part 2",
             "published": 1496158588.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 4 \u2013 Jonathan Turner: Part 2"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_2.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_2.mp3",
+            "title": "Interview 4 \u2013 Jonathan Turner: Part 2",
             "published": 1496151388.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 4 \u2013 Jonathan Turner: Part 2"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_2.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_1.mp3",
+            "title": "Interview 4 \u2013 Jonathan Turner: Part 1",
             "published": 1493586786.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 4 \u2013 Jonathan Turner: Part 1"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_1.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_1.mp3",
+            "title": "Interview 4 \u2013 Jonathan Turner: Part 1",
             "published": 1493579586.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 4 \u2013 Jonathan Turner: Part 1"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_4_part_1.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_3.mp3",
+            "title": "CYSK: RLS",
             "published": 1492521457.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: RLS"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_3.mp3",
+            "title": "CYSK: RLS",
             "published": 1492514257.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: RLS"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e020.mp3",
+            "title": "e020: Putting code in its place",
             "published": 1491053913.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e020: Putting code in its place"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e020.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e020.mp3",
+            "title": "e020: Putting code in its place",
             "published": 1491046713.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e020: Putting code in its place"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e020.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_8.mp3",
+            "title": "Bonus 8: Giving back (by teaching)",
             "published": 1489921200.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 8: Giving back (by teaching)"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_8.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_8.mp3",
+            "title": "Bonus 8: Giving back (by teaching)",
             "published": 1489914000.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 8: Giving back (by teaching)"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_8.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e019.mp3",
+            "title": "e019: Let's `Clone` a `Cow`",
             "published": 1488302400.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e019: Let's `Clone` a `Cow`"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e019.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e019.mp3",
+            "title": "e019: Let's `Clone` a `Cow`",
             "published": 1488295200.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e019: Let's `Clone` a `Cow`"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e019.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_2.mp3",
+            "title": "CYSK: clap",
             "published": 1487108011.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: clap"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_2.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_2.mp3",
+            "title": "CYSK: clap",
             "published": 1487100811.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: clap"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/cysk_2.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e018.mp3",
+            "title": "e018: `Borrow`, `AsRef`, `Deref`: my head hurts now",
             "published": 1485887543.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e018: `Borrow`, `AsRef`, `Deref`: my head hurts now"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e018.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e018.mp3",
+            "title": "e018: `Borrow`, `AsRef`, `Deref`: my head hurts now",
             "published": 1485880343.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e018: `Borrow`, `AsRef`, `Deref`: my head hurts now"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e018.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/csyk_1.mp3",
+            "title": "CYSK: quick-xml",
             "published": 1483952601.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: quick-xml"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/csyk_1.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/csyk_1.mp3",
+            "title": "CYSK: quick-xml",
             "published": 1483945401.0,
             "listened": false,
-            "downloaded": false,
-            "title": "CYSK: quick-xml"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/csyk_1.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_2.mp3",
+            "title": "News 2: Let's talk roadmap!",
             "published": 1483020000.0,
             "listened": false,
-            "downloaded": false,
-            "title": "News 2: Let's talk roadmap!"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_2.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_2.mp3",
+            "title": "News 2: Let's talk roadmap!",
             "published": 1483012800.0,
             "listened": false,
-            "downloaded": false,
-            "title": "News 2: Let's talk roadmap!"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news_2.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta_1.mp3",
+            "title": "Meta 1 \u2013 Slowing Down",
             "published": 1478957216.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Meta 1 \u2013 Slowing Down"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta_1.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta_1.mp3",
+            "title": "Meta 1 \u2013 Slowing Down",
             "published": 1478950016.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Meta 1 \u2013 Slowing Down"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/meta_1.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_3.mp3",
+            "title": "Interview 3 \u2013 Carol (Nichols || Goulding)",
             "published": 1475218800.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 3 \u2013 Carol (Nichols || Goulding)"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_3.mp3",
+            "title": "Interview 3 \u2013 Carol (Nichols || Goulding)",
             "published": 1475211600.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Interview 3 \u2013 Carol (Nichols || Goulding)"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/interview_3.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_7.mp3",
+            "title": "Bonus 7: Katas\u2014or: learning by doing",
             "published": 1473511819.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 7: Katas\u2014or: learning by doing"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_7.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_7.mp3",
+            "title": "Bonus 7: Katas\u2014or: learning by doing",
             "published": 1473504619.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 7: Katas\u2014or: learning by doing"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_7.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_6.mp3",
+            "title": "Bonus 6: It doesn\u2018t have to be sexy",
             "published": 1471691743.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 6: It doesn\u2018t have to be sexy"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_6.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_6.mp3",
+            "title": "Bonus 6: It doesn\u2018t have to be sexy",
             "published": 1471684543.0,
             "listened": false,
-            "downloaded": false,
-            "title": "Bonus 6: It doesn\u2018t have to be sexy"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/bonus_6.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e017.mp3",
+            "title": "e017: Point me where I need to go",
             "published": 1470670500.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e017: Point me where I need to go"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e017.mp3",
+            "downloaded": false
         },
         {
-            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e017.mp3",
+            "title": "e017: Point me where I need to go",
             "published": 1470663300.0,
             "listened": false,
-            "downloaded": false,
-            "title": "e017: Point me where I need to go"
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e017.mp3",
+            "downloaded": false
         }
-    ]
+    ],
+    "url": "http://www.newrustacean.com/feed.xml"
 }
