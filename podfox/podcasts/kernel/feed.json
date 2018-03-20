@@ -1,315 +1,315 @@
 {
     "url": "http://jcm.libsyn.com/rss",
+    "shortname": "kernel",
+    "title": "Linux Kernel Podcast",
     "episodes": [
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170707.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 2017/07/07",
+            "listened": false,
             "published": 1499410408.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170514.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 2017/05/14",
+            "listened": false,
             "published": 1494817879.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170427.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 2017/04/27",
+            "listened": false,
             "published": 1493303660.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170419.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 2017/04/19",
+            "listened": false,
             "published": 1492672821.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170411.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 2017/04/11",
+            "listened": false,
             "published": 1491893397.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170404v2.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Linux Kernel Podcast for 2017/04/04",
+            "listened": false,
             "published": 1491372890.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170328v2.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Linux Kernel Podcast for 2017/03/28",
+            "listened": false,
             "published": 1490716903.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170321.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Linux Kernel Podcast for 2017/03/21",
+            "listened": false,
             "published": 1490111037.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170313.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 20170313",
+            "listened": false,
             "published": 1489493061.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170306.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 20170306",
+            "listened": false,
             "published": 1488761132.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170228.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 20170227",
+            "listened": false,
             "published": 1488268336.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/20170220.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "Kernel Podcast for 20170220",
+            "listened": false,
             "published": 1487621798.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090614.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/14 Linux Kernel Podcast",
+            "listened": false,
             "published": 1245100800.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090610.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/10 Linux Kernel Podcast",
+            "listened": false,
             "published": 1244782380.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090609.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/09 Linux Kernel Podcast",
+            "listened": false,
             "published": 1244700180.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090608.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/08 Linux Kernel Podcast",
+            "listened": false,
             "published": 1244522280.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090607.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/07 Linux Kernel Podcast",
+            "listened": false,
             "published": 1244502900.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090604.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/04 Linux Kernel Podcast",
+            "listened": false,
             "published": 1244187900.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090603.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/03 Linux Kernel Podcast",
+            "listened": false,
             "published": 1244083860.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090602.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/02 Linux Kernel Podcast",
+            "listened": false,
             "published": 1244071680.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090601.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/06/01 Linux Kernel Podcast",
+            "listened": false,
             "published": 1243901460.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090531.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/31 Linux Kernel Podcast",
+            "listened": false,
             "published": 1243825920.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090528.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/28 Linux Kernel Podcast",
+            "listened": false,
             "published": 1243608180.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090527.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/27 Linux Kernel Podcast",
+            "listened": false,
             "published": 1243518660.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090526.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/26 Linux Kernel Podcast",
+            "listened": false,
             "published": 1243429020.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090525.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/25 US Memorial Day Weekend Linux Kernel Podcast",
+            "listened": false,
             "published": 1243420860.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090521.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/21 Linux Kernel Podcast",
+            "listened": false,
             "published": 1243023720.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090520.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/20 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242887640.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090519.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/19 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242800700.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090518.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/18 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242723660.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090517.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/17 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242656580.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090515.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/15 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242481260.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090514.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/14 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242364500.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090513.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/13 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242278100.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090512.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/12 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242191760.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090511.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/11 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242101640.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090510.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/10 Linux Kernel Podcast",
+            "listened": false,
             "published": 1242019680.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090509.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/09 Linux Kernel Podcast",
+            "listened": false,
             "published": 1241918280.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090508.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/08 Linux Kernel Podcast",
+            "listened": false,
             "published": 1241851560.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090507.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/07 Linux Kernel Podcast",
+            "listened": false,
             "published": 1241762160.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090506.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/06 Linux Kernel Podcast",
+            "listened": false,
             "published": 1241676480.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090505.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/05 Linux Kernel Podcast",
+            "listened": false,
             "published": 1241628300.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090504.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/04 Linux Kernel Podcast",
+            "listened": false,
             "published": 1241628300.0
         },
         {
-            "downloaded": false,
             "url": "http://traffic.libsyn.com/jcm/linux_kernel_podcast_20090503.mp3?dest-id=14586",
-            "listened": false,
+            "downloaded": false,
             "title": "2009/05/03 Linux Kernel Podcast",
+            "listened": false,
             "published": 1241627460.0
         }
-    ],
-    "title": "Linux Kernel Podcast",
-    "shortname": "kernel"
+    ]
 }

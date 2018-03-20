@@ -1,5 +1,6 @@
 {
     "url": "http://www.newrustacean.com/feed.xml",
+    "shortname": "newrust",
     "title": "New Rustacean",
     "episodes": [
         {
@@ -506,6 +507,5 @@
             "listened": false,
             "published": 1470663300.0
         }
-    ],
-    "shortname": "newrust"
+    ]
 }
