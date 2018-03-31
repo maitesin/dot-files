@@ -1,4 +1,4 @@
-dot-files
-=========
+Configuration files
+===================
 
-My personal configuration files in my linux desktop (Openbox and Xmonad)
+My personal configuration files for my UNIX system
