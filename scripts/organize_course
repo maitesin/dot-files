@@ -1,0 +1,26 @@
+#!/usr/bin/env python3
+
+import os
+import sys
+
+def main():
+    files = get_course_files()
+    modules = get_modules_list(files)
+    for module in modules:
+        print("Create folder:", module)
+        #os.mkdir(module)
+
+
+def get_course_files():
+    exclude = os.path.basename(sys.argv[0])
+    return [file for file in os.listdir(".") if file != exclude]
+
+def get_modules_list(files):
+    modules = set()
+    for file in files:
+        name_parts = os.path.splitext(file)[0].split('-')
+        modules.add(name_parts[-2])
+    return list(modules)
+
+if __name__ == "__main__":
+    main()
