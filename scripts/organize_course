@@ -10,16 +10,26 @@ def main():
         print("Create folder:", module)
         #os.mkdir(module)
 
-
 def get_course_files():
     exclude = os.path.basename(sys.argv[0])
     return [file for file in os.listdir(".") if file != exclude]
 
+def get_module(file):
+    return os.path.splitext(file)[0].split('-')[-2]
+
+def get_reproduction_number(file):
+    return os.path.splitext(file)[0].split('-')[-1]
+
+def move_reproduction_number_at_the_beginning(file):
+    name, ext = os.path.splitext(file)
+    repr = name.split('-')[-1]
+    new_name = '-'.join([repr, name.split('-')[:-1]])
+    return '.'.join([new_name, ext])
+
 def get_modules_list(files):
     modules = set()
     for file in files:
-        name_parts = os.path.splitext(file)[0].split('-')
-        modules.add(name_parts[-2])
+        modules.add(get_module(file))
     return list(modules)
 
 if __name__ == "__main__":
