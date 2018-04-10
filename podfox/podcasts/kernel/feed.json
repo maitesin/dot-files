@@ -1,6 +1,5 @@
 {
     "url": "http://jcm.libsyn.com/rss",
-    "shortname": "kernel",
     "episodes": [
         {
             "listened": false,
@@ -311,5 +310,6 @@
             "title": "2009/05/03 Linux Kernel Podcast"
         }
     ],
-    "title": "Linux Kernel Podcast"
+    "title": "Linux Kernel Podcast",
+    "shortname": "kernel"
 }

@@ -1,6 +1,5 @@
 {
     "url": "https://feeds.pacific-content.com/commandlineheroes",
-    "shortname": "heroes",
     "episodes": [
         {
             "listened": false,
@@ -73,5 +72,6 @@
             "title": "Preview_CLH"
         }
     ],
-    "title": "Command Line Heroes"
+    "title": "Command Line Heroes",
+    "shortname": "heroes"
 }

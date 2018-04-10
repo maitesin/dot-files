@@ -1,6 +1,5 @@
 {
     "url": "http://hackerdialogues.libsyn.com/rss",
-    "shortname": "dialogs",
     "episodes": [
         {
             "listened": false,
@@ -24,5 +23,6 @@
             "title": "Hacker Dialogues 1"
         }
     ],
-    "title": "Hacker Dialogues"
+    "title": "Hacker Dialogues",
+    "shortname": "dialogs"
 }

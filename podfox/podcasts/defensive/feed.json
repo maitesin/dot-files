@@ -1,5 +1,4 @@
 {
-    "shortname": "defensive",
     "url": "http://defensivesecurity.org/feed/podcast/",
     "episodes": [
         {
@@ -1445,5 +1444,6 @@
             "title": "Defensive Security Podcast Episode 9"
         }
     ],
-    "title": "Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec"
+    "title": "Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec",
+    "shortname": "defensive"
 }

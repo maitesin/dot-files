@@ -1,6 +1,5 @@
 {
     "url": "http://feeds.feedburner.com/linuxunplugged",
-    "shortname": "unplugged",
     "episodes": [
         {
             "listened": false,
@@ -3377,5 +3376,6 @@
             "title": "Episode 1: Too Much Choice | LU1"
         }
     ],
-    "title": "LINUX Unplugged Podcast"
+    "title": "LINUX Unplugged Podcast",
+    "shortname": "unplugged"
 }

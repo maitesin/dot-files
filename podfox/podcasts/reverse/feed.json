@@ -1,6 +1,5 @@
 {
     "url": "http://reverseengineering.libsyn.com/rss",
-    "shortname": "reverse",
     "episodes": [
         {
             "listened": false,
@@ -59,5 +58,6 @@
             "title": "001 - Success!"
         }
     ],
-    "title": "Unnamed Reverse Engineering Podcast"
+    "title": "Unnamed Reverse Engineering Podcast",
+    "shortname": "reverse"
 }
