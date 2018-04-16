@@ -1,28 +1,28 @@
 {
-    "url": "http://hackerdialogues.libsyn.com/rss",
+    "title": "Hacker Dialogues",
+    "shortname": "dialogs",
     "episodes": [
         {
-            "listened": false,
-            "published": 1520605267.0,
-            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_3.mp3?dest-id=563719",
             "downloaded": true,
-            "title": "Hacker Dialogues 3"
+            "title": "Hacker Dialogues 3",
+            "published": 1520605267.0,
+            "listened": false,
+            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_3.mp3?dest-id=563719"
         },
         {
-            "listened": false,
+            "downloaded": false,
+            "title": "Hacker Dialogues 2",
             "published": 1514077305.0,
-            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_2.mp3?dest-id=563719",
-            "downloaded": false,
-            "title": "Hacker Dialogues 2"
+            "listened": false,
+            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_2.mp3?dest-id=563719"
         },
         {
-            "listened": false,
-            "published": 1503655159.0,
-            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_1_podcast_full_newhacker_dialogues_1.1.mp3?dest-id=563719",
             "downloaded": false,
-            "title": "Hacker Dialogues 1"
+            "title": "Hacker Dialogues 1",
+            "published": 1503655159.0,
+            "listened": false,
+            "url": "http://traffic.libsyn.com/hackerdialogues/Hacker_Dialogues_Episode_1_podcast_full_newhacker_dialogues_1.1.mp3?dest-id=563719"
         }
     ],
-    "title": "Hacker Dialogues",
-    "shortname": "dialogs"
+    "url": "http://hackerdialogues.libsyn.com/rss"
 }
