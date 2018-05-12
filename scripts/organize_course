@@ -7,8 +7,7 @@ def main():
     files = get_course_files()
     modules = get_modules_list(files)
     for module in modules:
-        print("Create folder:", module)
-        #os.mkdir(module)
+        move_module_files(module, files)
 
 def get_course_files():
     exclude = os.path.basename(sys.argv[0])
@@ -20,17 +19,37 @@ def get_module(file):
 def get_reproduction_number(file):
     return os.path.splitext(file)[0].split('-')[-1]
 
-def move_reproduction_number_at_the_beginning(file):
-    name, ext = os.path.splitext(file)
-    repr = name.split('-')[-1]
-    new_name = '-'.join([repr, name.split('-')[:-1]])
-    return '.'.join([new_name, ext])
+def get_extension_name(file):
+    return os.path.splitext(file)[1]
+
+def get_video_name(file):
+    leftiest_space = file.rfind(' ')
+    end_name = file.find('-', leftiest_space if leftiest_space != -1 else 0)
+    return file[:end_name]
+
+def pretty_file_name(file):
+    ext = get_extension_name(file)
+    rep = get_reproduction_number(file)
+    name = get_video_name(file)
+    return ''.join(['-'.join([rep, name]), ext])
+
+def pretty_module_name(module):
+    number = int(module[1:])
+    return 'Module_{:02d}'.format(number)
 
 def get_modules_list(files):
     modules = set()
     for file in files:
         modules.add(get_module(file))
     return list(modules)
+
+def get_module_files(module, files):
+    return [file for file in files if module == get_module(file)]
+
+def move_module_files(module, files):
+    os.mkdir(pretty_module_name(module))
+    for file in get_module_files(module, files):
+        os.rename(file, os.path.join(pretty_module_name(module), pretty_file_name(file)))
 
 if __name__ == "__main__":
     main()
