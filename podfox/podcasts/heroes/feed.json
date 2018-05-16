@@ -1,77 +1,77 @@
 {
-    "title": "Command Line Heroes",
-    "shortname": "heroes",
     "url": "https://feeds.pacific-content.com/commandlineheroes",
+    "shortname": "heroes",
+    "title": "Command Line Heroes",
     "episodes": [
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1522098000.0,
             "title": "Days of Future_Open",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8676494/8a8244c8.mp3",
-            "published": 1522098000.0
+            "url": "https://tracking.feedpress.it/link/18442/8676494/8a8244c8.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1520892000.0,
             "title": "Crack the Cloud_Open",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8535221/83bb194b.mp3",
-            "published": 1520892000.0
+            "url": "https://tracking.feedpress.it/link/18442/8535221/83bb194b.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1519682400.0,
             "title": "The Containers_Derby",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8401094/3aed4d5c.mp3",
-            "published": 1519682400.0
+            "url": "https://tracking.feedpress.it/link/18442/8401094/3aed4d5c.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1518472800.0,
             "title": "DevOps_Tear Down That Wall",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8257010/beffda00.mp3",
-            "published": 1518472800.0
+            "url": "https://tracking.feedpress.it/link/18442/8257010/beffda00.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1517263200.0,
             "title": "The Agile_Revolution",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8106515/acf5928d.mp3",
-            "published": 1517263200.0
+            "url": "https://tracking.feedpress.it/link/18442/8106515/acf5928d.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1516053660.0,
             "title": "OS Wars_part 1",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
-            "published": 1516053660.0
+            "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1516053660.0,
             "title": "OS Wars_part 2: Rise of Linux",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
-            "published": 1516053660.0
+            "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1516053600.0,
             "title": "OS Wars_part 2: Rise of Linux",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
-            "published": 1516053600.0
+            "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3"
         },
         {
+            "downloaded": true,
+            "listened": false,
+            "published": 1516053600.0,
             "title": "OS Wars_part 1",
-            "downloaded": true,
-            "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
-            "published": 1516053600.0
+            "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3"
         },
         {
-            "title": "Preview_CLH",
             "downloaded": false,
             "listened": false,
-            "url": "https://tracking.feedpress.it/link/18442/7582651/3def9db9.mp3",
-            "published": 1512108000.0
+            "published": 1512108000.0,
+            "title": "Preview_CLH",
+            "url": "https://tracking.feedpress.it/link/18442/7582651/3def9db9.mp3"
         }
     ]
 }
