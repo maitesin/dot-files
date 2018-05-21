@@ -14,8 +14,8 @@ set softtabstop=2
 set shiftwidth=2
 set expandtab        " expand tabs to spaces
 " wrap lines at 80 chars
-set colorcolumn=80
-set textwidth=80
+" set colorcolumn=80
+" set textwidth=80
 " turn line numbers on
 set relativenumber number
 " highlight matching braces
