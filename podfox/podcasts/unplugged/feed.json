@@ -1,3416 +1,3416 @@
 {
+    "url": "http://feeds.feedburner.com/linuxunplugged",
     "episodes": [
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1525838400.0,
             "title": "Episode 248: Contain All The Things",
+            "published": 1525838400.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/953278e5-4970-4b31-a985-81c9bad3f58b.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1525186800.0,
             "title": "Episode 247: Year of the Linux Desktop \ud83d\ude0e",
+            "published": 1525186800.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e6a0d2a9-413f-4877-b998-d82084f958bd.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1524585600.0,
             "title": "Episode 246: The Bionic Bet",
+            "published": 1524585600.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/591ef0f6-bc22-4fe0-84f9-16c075164a90.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1523980800.0,
             "title": "Episode 245: Microsoft of Things",
+            "published": 1523980800.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d39fbeb3-7109-49a7-b881-21e51a8f179a.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1523390400.0,
             "title": "Episode 244: Plasma Predicament",
+            "published": 1523390400.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/621e9715-631c-4240-bb9d-f2052bc3b657.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1522166400.0,
             "title": "Episode 242: Debian on the Fly",
+            "published": 1522166400.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/444d0467-bae0-45fd-91a9-28f87fc9da1b.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1521572400.0,
             "title": "Episode 241: Snitching on SCaLE",
+            "published": 1521572400.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/7ce762ee-8d7c-4e12-91e1-ca6244546091.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1520991912.0,
             "title": "Why This Theme Won\u2019t Work | LUP 240",
+            "published": 1520991912.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0240.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1520991912.0,
             "title": "Episode 240: Why This Theme Won\u2019t Work | LUP 240",
+            "published": 1520991912.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c4cba638-893e-422d-b168-1b909579b17b.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1520368089.0,
             "title": "Selling Out for Open Source | LUP 239",
+            "published": 1520368089.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0239.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1520368089.0,
             "title": "Episode 239: Selling Out for Open Source | LUP 239",
+            "published": 1520368089.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/161b1c01-7c71-416f-a077-e366c9015efd.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1519766490.0,
             "title": "It's All Wimpy's Fault | LUP 238",
+            "published": 1519766490.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0238.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1519766490.0,
             "title": "Episode 238: It's All Wimpy's Fault | LUP 238",
+            "published": 1519766490.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5783a9a4-eda0-4c87-adec-f96c1e13ad27.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1519169760.0,
             "title": "One Ping Only | LUP 237",
+            "published": 1519169760.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0237.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1519169760.0,
             "title": "Episode 237: One Ping Only | LUP 237",
+            "published": 1519169760.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9b5ef4f4-82a5-4093-93f1-a61d64726f34.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1518554483.0,
             "title": "Microsoft\u2019s Big Secret | LUP 236",
+            "published": 1518554483.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0236.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1518554483.0,
             "title": "Episode 236: Microsoft\u2019s Big Secret | LUP 236",
+            "published": 1518554483.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/53aa4ee0-39ff-4f58-b90e-87f51332f06b.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1517952977.0,
             "title": "Atomic Neon Kool-Aid  | LUP 235",
+            "published": 1517952977.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0235.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1517952977.0,
             "title": "Episode 235: Atomic Neon Kool-Aid  | LUP 235",
+            "published": 1517952977.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4c61b175-a6c4-4e8f-8f04-a7f2859e9db9.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1517360059.0,
             "title": "Behind Canonical\u2019s Curtain | LUP 234",
+            "published": 1517360059.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0234.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1517360059.0,
             "title": "Episode 234: Behind Canonical\u2019s Curtain | LUP 234",
+            "published": 1517360059.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/de8e4926-1b88-47b2-9ef6-1d6833cc9b87.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1516745046.0,
             "title": "Living Inside the Shell | LUP 233",
+            "published": 1516745046.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0233.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1516745046.0,
             "title": "Episode 233: Living Inside the Shell | LUP 233",
+            "published": 1516745046.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c1dd7613-b986-43c6-bc76-c84364f33b43.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1516134482.0,
             "title": "The Secret to Future Linux Success | LUP 232",
+            "published": 1516134482.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0232.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1516134482.0,
             "title": "Episode 232: The Secret to Future Linux Success | LUP 232",
+            "published": 1516134482.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1f62f016-7576-4425-bde0-88542f501c19.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1515530010.0,
             "title": "Most Expensive Linux Distro Ever | LUP 231",
+            "published": 1515530010.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0231.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1515530010.0,
             "title": "Episode 231: Most Expensive Linux Distro Ever | LUP 231",
+            "published": 1515530010.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5d45043f-e9a7-49e4-8688-928d05d15198.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1514935105.0,
             "title": "Invest In Popcorn | LUP 230",
+            "published": 1514935105.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0230.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1514935105.0,
             "title": "Episode 230: Invest In Popcorn | LUP 230",
+            "published": 1514935105.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/03fe2394-a892-41f8-a159-95da8a7a6e8e.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1514312998.0,
             "title": "Taste of Linux 2017 | LUP 229",
+            "published": 1514312998.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0229.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1514312998.0,
             "title": "Episode 229: Taste of Linux 2017 | LUP 229",
+            "published": 1514312998.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0e3699ad-47d4-476a-8329-2983e7ca994d.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1513713849.0,
             "title": "rm -rf 2017 | LUP 228",
+            "published": 1513713849.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0228.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1513713849.0,
             "title": "Episode 228: rm -rf 2017 | LUP 228",
+            "published": 1513713849.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/cca5cd86-ce54-4048-ab58-5bf23fcb298c.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1513215104.0,
             "title": "Peer Pressure | LUP 227",
+            "published": 1513215104.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0227.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1513215104.0,
             "title": "Episode 227: Peer Pressure | LUP 227",
+            "published": 1513215104.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/77283f41-982a-43c6-a11f-903392ed7cf2.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1512507480.0,
             "title": "Bitcoin for Linux Users | LUP 226",
+            "published": 1512507480.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0226.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1512507480.0,
             "title": "Episode 226: Bitcoin for Linux Users | LUP 226",
+            "published": 1512507480.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/24094c50-1d77-4cc4-a1d2-a402940c86f4.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1511914628.0,
             "title": "Hacking the Community | LUP 225",
+            "published": 1511914628.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0225.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1511914628.0,
             "title": "Episode 225: Hacking the Community | LUP 225",
+            "published": 1511914628.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/975e60dd-7480-44d1-9699-6149f7fc6165.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1511324097.0,
             "title": "No Escape from Google | LUP 224",
+            "published": 1511324097.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0224.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1511324097.0,
             "title": "Episode 224: No Escape from Google | LUP 224",
+            "published": 1511324097.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/cb10170f-fa40-488a-bf26-32eb71e1fc47.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1510713443.0,
             "title": "Fedora\u2019s New Trick | LUP 223",
+            "published": 1510713443.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0223.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1510713443.0,
             "title": "Episode 223: Fedora\u2019s New Trick | LUP 223",
+            "published": 1510713443.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/235dd39b-08da-488c-a593-5b692f40e93f.mp3"
         },
         {
             "downloaded": true,
-            "listened": false,
-            "published": 1510080416.0,
             "title": "A Community Divided | LUP 222",
+            "published": 1510080416.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0222.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1510080416.0,
             "title": "Episode 222: A Community Divided | LUP 222",
+            "published": 1510080416.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/84f3b772-2518-4e8b-8ee3-8a6af2a1a692.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1509490184.0,
             "title": "Ubuntu A-Team | LUP 221",
+            "published": 1509490184.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0221.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1509490184.0,
             "title": "Episode 221: Ubuntu A-Team | LUP 221",
+            "published": 1509490184.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f306f0ba-e5ac-48da-900f-f090b43f17ba.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1508876187.0,
             "title": "Remotely Useful | LUP 220",
+            "published": 1508876187.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0220.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1508876187.0,
             "title": "Episode 220: Remotely Useful | LUP 220",
+            "published": 1508876187.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/05ef7a98-a13e-4870-b518-0e5034ff72ea.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1508268064.0,
             "title": "Ubuntu\u2019s New Era | LUP 219",
+            "published": 1508268064.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0219.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1508268064.0,
             "title": "Episode 219: Ubuntu\u2019s New Era | LUP 219",
+            "published": 1508268064.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b356231a-1d75-47c1-bbde-3af9e84e8c5e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1507681590.0,
             "title": "The Purism Redemption | LUP 218",
+            "published": 1507681590.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0218.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1507681590.0,
             "title": "Episode 218: The Purism Redemption | LUP 218",
+            "published": 1507681590.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6a15cc9b-f8e6-4a28-8684-3cd7557d9ec3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1507066296.0,
             "title": "That One Time, At Ubuntu Camp | LUP 217",
+            "published": 1507066296.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0217.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1507066296.0,
             "title": "Episode 217: That One Time, At Ubuntu Camp | LUP 217",
+            "published": 1507066296.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/152f8fe3-a8ff-4f0a-ac8c-80ae0c4edb00.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1506466183.0,
             "title": "Open Source Is Hard | LUP 216",
+            "published": 1506466183.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0216.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1506466183.0,
             "title": "Episode 216: Open Source Is Hard | LUP 216",
+            "published": 1506466183.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/feaa1732-be96-4d28-a732-0a016b92e5b8.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1505848334.0,
             "title": "Pulse of PipeWire | LUP 215",
+            "published": 1505848334.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0215.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1505848334.0,
             "title": "Episode 215: Pulse of PipeWire | LUP 215",
+            "published": 1505848334.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/13cfe017-3e0f-40bf-8568-646a365413f1.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1505251482.0,
             "title": "Hacking Devices with Kali Linux | LUP 214",
+            "published": 1505251482.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0214.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1505251482.0,
             "title": "Episode 214: Hacking Devices with Kali Linux | LUP 214",
+            "published": 1505251482.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/24a3567e-bf40-4f8e-9e03-28802ccfc28b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1504641447.0,
             "title": "Gnome Does it Again | LUP 213",
+            "published": 1504641447.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0213.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1504641447.0,
             "title": "Episode 213: Gnome Does it Again | LUP 213",
+            "published": 1504641447.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b1df5abf-b2b3-4f82-880f-837eef3e4f44.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1504037730.0,
             "title": "The Free Phone Nightmare | LUP 212",
+            "published": 1504037730.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0212.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1504037730.0,
             "title": "Episode 212: The Free Phone Nightmare | LUP 212",
+            "published": 1504037730.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b3d240e7-b76b-4c93-8fc7-26e4436de067.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1503427555.0,
             "title": "Forks Done Right | LUP 211",
+            "published": 1503427555.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0211.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1503427555.0,
             "title": "Episode 211: Forks Done Right | LUP 211",
+            "published": 1503427555.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3a4844ad-7a80-4718-a6c6-519cb8ad9948.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1502834603.0,
             "title": "Total Solus Eclipse | LUP 210",
+            "published": 1502834603.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0210.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1502834603.0,
             "title": "Episode 210: Total Solus Eclipse | LUP 210",
+            "published": 1502834603.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9f03a643-fd6a-455d-88a0-09c774350424.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1502227766.0,
             "title": "LILO and Slack(ware) | LUP 209",
+            "published": 1502227766.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0209.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1502227766.0,
             "title": "Episode 209: LILO and Slack(ware) | LUP 209",
+            "published": 1502227766.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6faddf60-a32c-44ee-bb82-4d32d4d43e15.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1501621428.0,
             "title": "The Stallman Line | LUP 208",
+            "published": 1501621428.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0208.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1501621428.0,
             "title": "Episode 208: The Stallman Line | LUP 208",
+            "published": 1501621428.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/38591453-84aa-4860-bbb3-5ccedd7d2118.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1501017996.0,
             "title": "Return Of The Distrohopper | LUP 207",
+            "published": 1501017996.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0207.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1501017996.0,
             "title": "Episode 207: Return Of The Distrohopper | LUP 207",
+            "published": 1501017996.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/7895985b-fdcd-4daf-928c-99e72da61504.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1500417779.0,
             "title": "Beardy McBeardface | LUP 206",
+            "published": 1500417779.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0206.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1500417779.0,
             "title": "Episode 206: Beardy McBeardface | LUP 206",
+            "published": 1500417779.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4747470f-f571-4ffa-9fb3-6d2cccb08ce3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1499807594.0,
             "title": "A Fitting Fedora | LUP 205",
+            "published": 1499807594.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0205.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1499807594.0,
             "title": "Episode 205: A Fitting Fedora | LUP 205",
+            "published": 1499807594.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ece116c7-0ceb-497e-a0ca-e18ad5e790e3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1499208481.0,
             "title": "Awkward Distro Puberty | LUP 204",
+            "published": 1499208481.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0204.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1499208481.0,
             "title": "Episode 204: Awkward Distro Puberty | LUP 204",
+            "published": 1499208481.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c3916c70-ba57-421b-8594-61de8b288091.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1498594587.0,
             "title": "MATEs Wayland MIR-acle | LUP 203",
+            "published": 1498594587.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0203.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1498594587.0,
             "title": "Episode 203: MATEs Wayland MIR-acle | LUP 203",
+            "published": 1498594587.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/26106dcf-d71d-4913-b1c0-a580d6e1ba8f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1497984354.0,
             "title": "Halls of Endless Linux | LUP 202",
+            "published": 1497984354.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0202.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1497984354.0,
             "title": "Episode 202: Halls of Endless Linux | LUP 202",
+            "published": 1497984354.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/8d068faa-f873-45aa-9b1a-9ee75bf7ee17.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1497377248.0,
             "title": "Turbo Mode Ikey | LUP 201",
+            "published": 1497377248.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0201.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1497377248.0,
             "title": "Episode 201: Turbo Mode Ikey | LUP 201",
+            "published": 1497377248.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/cadae5e8-ef84-42df-ac32-f5ee4714f9c4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1496780960.0,
             "title": "Gnome in the Shell | LUP 200",
+            "published": 1496780960.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0200.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1496780960.0,
             "title": "Episode 200: Gnome in the Shell | LUP 200",
+            "published": 1496780960.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b99c9f59-969f-41af-8836-16dac36c20b7.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1496171726.0,
             "title": "No Samba No Cry | LUP 199",
+            "published": 1496171726.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0199.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1496171726.0,
             "title": "Episode 199: No Samba No Cry | LUP 199",
+            "published": 1496171726.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/537004e8-80a6-4359-aeb4-ac8d881ffc92.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1495563072.0,
             "title": "Magic Device Cloud | LUP 198",
+            "published": 1495563072.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0198.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1495563072.0,
             "title": "Episode 198: Magic Device Cloud | LUP 198",
+            "published": 1495563072.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d2b5220d-7707-4433-b012-88ba86b9ed13.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1494967890.0,
             "title": "That New User Smell | LUP 197",
+            "published": 1494967890.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0197.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1494967890.0,
             "title": "Episode 197: That New User Smell | LUP 197",
+            "published": 1494967890.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/503f2e9a-70b8-44f4-bc99-96c1fb07ec6a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1494357294.0,
             "title": "Orange is the new Red (Hat) | LUP 196",
+            "published": 1494357294.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0196.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1494357294.0,
             "title": "Episode 196: Orange is the new Red (Hat) | LUP 196",
+            "published": 1494357294.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/28c47a8e-3037-4d6a-b334-19433552f72a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1493775085.0,
             "title": "Rub a Dub Grub | LUP 195",
+            "published": 1493775085.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0195.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1493775085.0,
             "title": "Episode 195: Rub a Dub Grub | LUP 195",
+            "published": 1493775085.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/19f902b0-326e-4401-947f-311a91d1971e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1493153451.0,
             "title": "Internet of Troubles | LUP 194",
+            "published": 1493153451.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0194.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1493153451.0,
             "title": "Episode 194: Internet of Troubles | LUP 194",
+            "published": 1493153451.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b92f98ec-d6e0-4d01-b72c-c4f3297c2c19.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1492540624.0,
             "title": "Ubuntu's Bare Gnome | LUP 193",
+            "published": 1492540624.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0193.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1492540624.0,
             "title": "Episode 193: Ubuntu's Bare Gnome | LUP 193",
+            "published": 1492540624.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/13382a5e-bd4b-4a6f-aa48-9ffc0c9717e9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1491953544.0,
             "title": "Home Sweet Gnome | LUP 192",
+            "published": 1491953544.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0192.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1491953544.0,
             "title": "Episode 192: Home Sweet Gnome | LUP 192",
+            "published": 1491953544.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1717c7c3-5b8c-40dd-9a83-2e46c5525b65.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1491344124.0,
             "title": "What\u2019s a Distro? | LUP 191",
+            "published": 1491344124.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0191.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1491344124.0,
             "title": "Episode 191: What\u2019s a Distro? | LUP 191",
+            "published": 1491344124.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/8725ed6a-295e-4828-8b8e-3404dbec8a13.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1490731237.0,
             "title": "Boot Free or Die Tryin\u2019 | LUP 190",
+            "published": 1490731237.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0190.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1490731237.0,
             "title": "Episode 190: Boot Free or Die Tryin\u2019 | LUP 190",
+            "published": 1490731237.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c6c02895-6bd4-46de-a2e9-e1989dc46770.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1490126905.0,
             "title": "Das Boot Manager | LUP 189",
+            "published": 1490126905.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0189.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1490126905.0,
             "title": "Episode 189: Das Boot Manager | LUP 189",
+            "published": 1490126905.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c1a3e398-495c-4f45-84fd-3e12f8a57a52.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1489518575.0,
             "title": "Celebrating Linux on Pi Day | LUP 188",
+            "published": 1489518575.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0188.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1489518575.0,
             "title": "Episode 188: Celebrating Linux on Pi Day | LUP 188",
+            "published": 1489518575.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/556368d7-f721-4178-a58d-067c2b9650c4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1488917546.0,
             "title": "CIA's Dank Trojans | LUP 187",
+            "published": 1488917546.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0187.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1488917546.0,
             "title": "Episode 187: CIA's Dank Trojans | LUP 187",
+            "published": 1488917546.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b1c7942a-d4fb-4574-97fc-699649878761.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1488311849.0,
             "title": "AWS Loses Its ShIOT | LUP 186",
+            "published": 1488311849.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0186.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1488311849.0,
             "title": "Episode 186: AWS Loses Its ShIOT | LUP 186",
+            "published": 1488311849.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/81063c73-beaa-4192-ab02-04697f10098f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1487710545.0,
             "title": "Plasma Injection | LUP 185",
+            "published": 1487710545.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0185.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1487710545.0,
             "title": "Episode 185: Plasma Injection | LUP 185",
+            "published": 1487710545.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/654d71f5-2d57-4899-a0d9-8d1b51d9b8fd.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1487101919.0,
             "title": "Chilling with Kylin | LUP 184",
+            "published": 1487101919.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0184.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1487101919.0,
             "title": "Episode 184: Chilling with Kylin | LUP 184",
+            "published": 1487101919.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5cf31f0f-cb1b-49d0-87ac-51b09e34ceb9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1486500905.0,
             "title": "Niche Distros Need Not Apply | LUP 183",
+            "published": 1486500905.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0183.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1486500905.0,
             "title": "Episode 183: Niche Distros Need Not Apply | LUP 183",
+            "published": 1486500905.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/8b0208cd-8fcf-4ee3-97db-d6f8bee5ee90.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1485893851.0,
             "title": "Death by Download | LUP 182",
+            "published": 1485893851.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0182.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1485893851.0,
             "title": "Episode 182: Death by Download | LUP 182",
+            "published": 1485893851.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/495632a6-867e-4cf5-a053-94b1be3ed31b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1485289830.0,
             "title": "A Brisk MATE for Solus | LUP 181",
+            "published": 1485289830.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0181.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1485289830.0,
             "title": "Episode 181: A Brisk MATE for Solus | LUP 181",
+            "published": 1485289830.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e3ff8dba-63d9-4f3a-bb7c-1925bd1a3b54.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1484683371.0,
             "title": "The Theory of Liri | LUP 180",
+            "published": 1484683371.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0180.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1484683371.0,
             "title": "Episode 180: The Theory of Liri | LUP 180",
+            "published": 1484683371.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0404019d-f2f5-469c-85b5-f46737ba79d5.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1484078341.0,
             "title": "Project Sputnik Interview | LUP 179",
+            "published": 1484078341.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0179.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1484078341.0,
             "title": "Episode 179: Project Sputnik Interview | LUP 179",
+            "published": 1484078341.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/94931cd1-0f4f-43f9-83be-42d5d4afb515.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1483484815.0,
             "title": "Big Sister is Watching | LUP 178",
+            "published": 1483484815.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0178.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1483484815.0,
             "title": "Episode 178: Big Sister is Watching | LUP 178",
+            "published": 1483484815.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/dd34ba9e-13ee-44d6-af88-15560b7f6e05.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1482850660.0,
             "title": "The Many Faces of Linux | LUP 177",
+            "published": 1482850660.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0177.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1482850660.0,
             "title": "Episode 177: The Many Faces of Linux | LUP 177",
+            "published": 1482850660.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9b228c82-efb5-47e4-b292-7bdc40414aeb.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1482277241.0,
             "title": "Shell-Shocked 2016 | LUP 176",
+            "published": 1482277241.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0176.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1482277241.0,
             "title": "Episode 176: Shell-Shocked 2016 | LUP 176",
+            "published": 1482277241.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a6cfd628-efc6-4ba9-a431-36b22b11dcaa.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1481664563.0,
             "title": "Best of MATEs | LUP 175",
+            "published": 1481664563.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0175.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1481664563.0,
             "title": "Episode 175: Best of MATEs | LUP 175",
+            "published": 1481664563.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/dc864fed-9c19-4fa0-8f79-59019aa3981d.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1481064919.0,
             "title": "Mesh of Thoughts | LUP 174",
+            "published": 1481064919.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0174.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1481064919.0,
             "title": "Episode 174: Mesh of Thoughts | LUP 174",
+            "published": 1481064919.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c32c285e-99a4-4826-a6d2-66620335c8c9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1480470407.0,
             "title": "Upgrade vs Nuke 'n Pave | LUP 173",
+            "published": 1480470407.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0173.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1480470407.0,
             "title": "Episode 173: Upgrade vs Nuke 'n Pave | LUP 173",
+            "published": 1480470407.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/32f6a15c-9af1-41c9-9402-79ebe83811af.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1479850999.0,
             "title": "It's Not X, It's Wayland | LUP 172",
+            "published": 1479850999.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0172.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1479850999.0,
             "title": "Episode 172: It's Not X, It's Wayland | LUP 172",
+            "published": 1479850999.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3b4ec845-0466-4fb9-a6f9-6d82978548cc.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1479243957.0,
             "title": "Uncontained Human Error | LUP 171",
+            "published": 1479243957.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0171.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1479243957.0,
             "title": "Episode 171: Uncontained Human Error | LUP 171",
+            "published": 1479243957.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/feddc66f-c496-4a78-9a6d-066a22defa3b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1478650012.0,
             "title": "Nano Users Unite | LUP 170",
+            "published": 1478650012.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0170.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1478650012.0,
             "title": "Episode 170: Nano Users Unite | LUP 170",
+            "published": 1478650012.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/445db5fa-ab52-410e-ba5f-97f3187763fc.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1478031914.0,
             "title": "Apple's Out Of Touch Bar | LUP 169",
+            "published": 1478031914.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0169.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1478031914.0,
             "title": "Episode 169: Apple's Out Of Touch Bar | LUP 169",
+            "published": 1478031914.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b6b47b89-9254-46bd-b0bc-9dd03bca6f08.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1477427652.0,
             "title": "Linux Shadow Force | LUP 168",
+            "published": 1477427652.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0168.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1477427652.0,
             "title": "Episode 168: Linux Shadow Force | LUP 168",
+            "published": 1477427652.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/20f5bed2-b003-41a4-acfb-9536201dd01b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1476821732.0,
             "title": "Livepatch Bait & Switch | LUP 167",
+            "published": 1476821732.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0167.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1476821732.0,
             "title": "Episode 167: Livepatch Bait & Switch | LUP 167",
+            "published": 1476821732.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/8f4b6b09-08cc-4183-a942-42358a6f0ab0.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1476213172.0,
             "title": "Linux Winter Developments | LUP 166",
+            "published": 1476213172.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0166.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1476213172.0,
             "title": "Episode 166: Linux Winter Developments | LUP 166",
+            "published": 1476213172.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c49f0d03-8b54-44ac-9fcf-bae2f184851e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1475606517.0,
             "title": "In OpenDaylight | LUP 165",
+            "published": 1475606517.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0165.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1475606517.0,
             "title": "Episode 165: In OpenDaylight | LUP 165",
+            "published": 1475606517.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/946ba5d7-c319-42a6-be32-24852c8ec7b7.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1475028852.0,
             "title": "Dial Up Linux | LUP 164",
+            "published": 1475028852.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0164.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1475028852.0,
             "title": "Episode 164: Dial Up Linux | LUP 164",
+            "published": 1475028852.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e1f78b24-6ac3-423b-8620-99cf10c71740.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1474399343.0,
             "title": "Games of Linux Future | LUP 163",
+            "published": 1474399343.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0163.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1474399343.0,
             "title": "Episode 163: Games of Linux Future | LUP 163",
+            "published": 1474399343.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6d24928c-895f-4981-b8dd-9e37b1fa855b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1473803810.0,
             "title": "Linux Flying High | LUP 162",
+            "published": 1473803810.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0162.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1473803810.0,
             "title": "Episode 162: Linux Flying High | LUP 162",
+            "published": 1473803810.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3f520bf2-f6d7-457d-a41d-18090606bb38.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1473184917.0,
             "title": "A Real Pain in the Flash | LUP 161",
+            "published": 1473184917.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0161.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1473184917.0,
             "title": "Episode 161: A Real Pain in the Flash | LUP 161",
+            "published": 1473184917.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/639a0f1f-324e-48ba-a681-01dbe5d4ac75.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1472591657.0,
             "title": "Binary Decisions | LUP 160",
+            "published": 1472591657.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0160.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1472591657.0,
             "title": "Episode 160: Binary Decisions | LUP 160",
+            "published": 1472591657.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/7add494a-84b0-479e-bd95-1830c721471c.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1471990522.0,
             "title": "All Wimpy's Vault! | LUP 159",
+            "published": 1471990522.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0159.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1471990522.0,
             "title": "Episode 159: All Wimpy's Vault! | LUP 159",
+            "published": 1471990522.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f53e2fc7-faeb-493c-aa85-5b1d1240021c.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1471376924.0,
             "title": "Happy Birthday Debian | LUP 158",
+            "published": 1471376924.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0158.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1471376924.0,
             "title": "Episode 158: Happy Birthday Debian | LUP 158",
+            "published": 1471376924.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/db57929b-7054-4975-8c0d-d16e624c0d4a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1470770468.0,
             "title": "SSH: Heaven or Shell | LUP 157",
+            "published": 1470770468.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0157.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1470770468.0,
             "title": "Episode 157: SSH: Heaven or Shell | LUP 157",
+            "published": 1470770468.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d7e5ff12-0f69-4ed7-8260-ded34409f788.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1470169635.0,
             "title": "Your Media Just Got Served | LUP 156",
+            "published": 1470169635.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0156.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1470169635.0,
             "title": "Episode 156: Your Media Just Got Served | LUP 156",
+            "published": 1470169635.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a40a5c83-0535-483b-a0c3-92bfe23bbdc0.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1469563325.0,
             "title": "Snappy Collaboration | LUP 155",
+            "published": 1469563325.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0155.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1469563325.0,
             "title": "Episode 155: Snappy Collaboration | LUP 155",
+            "published": 1469563325.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f52c2f21-eb03-43e8-a826-fade80bfd90e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1468956063.0,
             "title": "Pragmatic Idealism | LUP 154",
+            "published": 1468956063.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0154.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1468956063.0,
             "title": "Episode 154: Pragmatic Idealism | LUP 154",
+            "published": 1468956063.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/69f9f400-1716-4484-a2be-8867d7626fb4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1468355898.0,
             "title": "One NAT to Rule Them | LUP 153",
+            "published": 1468355898.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0153.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1468355898.0,
             "title": "Episode 153: One NAT to Rule Them | LUP 153",
+            "published": 1468355898.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0eaa1c1d-8e04-479d-bf38-8bd20068f9cb.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1467747836.0,
             "title": "To .NET or to .NOT? | LUP 152",
+            "published": 1467747836.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0152.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1467747836.0,
             "title": "Episode 152: To .NET or to .NOT? | LUP 152",
+            "published": 1467747836.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1b90cb83-32b6-4571-bafc-4a1b20b9a37c.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1467142127.0,
             "title": "Universal Divide | LUP 151",
+            "published": 1467142127.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0151.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1467142127.0,
             "title": "Episode 151: Universal Divide | LUP 151",
+            "published": 1467142127.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b5b730ad-9843-4cd7-adfd-1973d60d8765.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1466536756.0,
             "title": "War of the Packages | LUP 150",
+            "published": 1466536756.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0150.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1466536756.0,
             "title": "Episode 150: War of the Packages | LUP 150",
+            "published": 1466536756.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9ebed571-0f7d-4b40-a163-470e97d3f716.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1465929743.0,
             "title": "Snaps are Go! | LUP 149",
+            "published": 1465929743.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0149.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1465929743.0,
             "title": "Episode 149: Snaps are Go! | LUP 149",
+            "published": 1465929743.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/8bc2e8ca-829e-463b-b854-a175cc38df3d.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1465323525.0,
             "title": "Mind on my Cloud & Cloud on my Mind | LUP 148",
+            "published": 1465323525.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0148.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1465323525.0,
             "title": "Episode 148: Mind on my Cloud & Cloud on my Mind | LUP 148",
+            "published": 1465323525.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d8ef8b62-92bd-4eae-8a81-4209cfb09fb8.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1464731591.0,
             "title": "The Talking Gnome | LUP 147",
+            "published": 1464731591.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0147.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1464731591.0,
             "title": "Episode 147: The Talking Gnome | LUP 147",
+            "published": 1464731591.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/344ced79-c951-4ecd-bf1c-0ae39103efb8.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1464117210.0,
             "title": "Snap, Flaps & Package Drops | LUP 146",
+            "published": 1464117210.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0146.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1464117210.0,
             "title": "Episode 146: Snap, Flaps & Package Drops | LUP 146",
+            "published": 1464117210.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3ae610a6-256b-4fda-95db-b3a925aee0d5.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1463512537.0,
             "title": "BuzzwordFS | LUP 145",
+            "published": 1463512537.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0145.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1463512537.0,
             "title": "Episode 145: BuzzwordFS | LUP 145",
+            "published": 1463512537.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fdf59183-1390-4836-a60e-db6511d474fe.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1462905818.0,
             "title": "Flavorless Mint | LUP 144",
+            "published": 1462905818.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0144.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1462905818.0,
             "title": "Episode 144: Flavorless Mint | LUP 144",
+            "published": 1462905818.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/87a182e5-0eb8-46f2-b2e9-0f9b6c4f5471.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1462302359.0,
             "title": "Can't Contain Linux | LUP 143",
+            "published": 1462302359.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0143.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1462302359.0,
             "title": "Episode 143: Can't Contain Linux | LUP 143",
+            "published": 1462302359.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b745d6a8-47e9-4862-8b1a-8b00150b5fd9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1461701897.0,
             "title": "Long Term Disappointment | LUP 142",
+            "published": 1461701897.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0142.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1461701897.0,
             "title": "Episode 142: Long Term Disappointment | LUP 142",
+            "published": 1461701897.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/568133e9-4a0a-4063-b2f9-d90476872879.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1461099262.0,
             "title": "16.04 and Shut Your Face | LUP 141",
+            "published": 1461099262.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0141.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1461099262.0,
             "title": "Episode 141: 16.04 and Shut Your Face | LUP 141",
+            "published": 1461099262.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3b3c4540-fd63-40b7-9583-3ec5d838f55a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1460486585.0,
             "title": "Blame Popey for ZFS | LUP 140",
+            "published": 1460486585.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0140.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1460486585.0,
             "title": "Episode 140: Blame Popey for ZFS | LUP 140",
+            "published": 1460486585.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/67f26f16-76d9-4ddc-af7a-138742b67e0d.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1459882023.0,
             "title": "Virtual Bondage | LUP 139",
+            "published": 1459882023.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0139.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1459882023.0,
             "title": "Episode 139: Virtual Bondage | LUP 139",
+            "published": 1459882023.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/02b3a79f-ccef-4d5a-bbbe-81c7fcfd701e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1459276997.0,
             "title": "Better than Linux | LUP 138",
+            "published": 1459276997.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0138.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1459276997.0,
             "title": "Episode 138: Better than Linux | LUP 138",
+            "published": 1459276997.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/72922dfe-508f-4348-81c0-5f605a6658de.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1458677676.0,
             "title": "Kool as Breeze KDE | LUP 137",
+            "published": 1458677676.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0137.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1458677676.0,
             "title": "Episode 137: Kool as Breeze KDE | LUP 137",
+            "published": 1458677676.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fe0088c8-5092-47b2-867b-a4eca053c7e9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1458072057.0,
             "title": "There's a Snap for That | LUP 136",
+            "published": 1458072057.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0136.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1458072057.0,
             "title": "Episode 136: There's a Snap for That | LUP 136",
+            "published": 1458072057.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d1e8e04f-a533-44a6-8f43-ef774a9a75c4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1457463311.0,
             "title": "Microsoft's SeQueL to Linux | LUP 135",
+            "published": 1457463311.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0135.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1457463311.0,
             "title": "Episode 135: Microsoft's SeQueL to Linux | LUP 135",
+            "published": 1457463311.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3fdfc2a7-52b2-4c3f-8be0-b22430eb1c77.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1456862389.0,
             "title": "Pi 3: The Next Generation | LUP 134",
+            "published": 1456862389.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0134.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1456862389.0,
             "title": "Episode 134: Pi 3: The Next Generation | LUP 134",
+            "published": 1456862389.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/17c22bb0-4b39-4521-8b43-e871c87d4964.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1456251925.0,
             "title": "Apollo Has Landed | LUP 133",
+            "published": 1456251925.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0133.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1456251925.0,
             "title": "Episode 133: Apollo Has Landed | LUP 133",
+            "published": 1456251925.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5c11f2f1-dcb6-4906-bb50-dc42c6edaef4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1455649411.0,
             "title": "Librem 15 is FAN-tastic! | LUP 132",
+            "published": 1455649411.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0132.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1455649411.0,
             "title": "Episode 132: Librem 15 is FAN-tastic! | LUP 132",
+            "published": 1455649411.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/7209a504-c35f-42df-8146-6b81e23f1d03.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1455047233.0,
             "title": "Terminal Tackle Box | LUP 131",
+            "published": 1455047233.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0131.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1455047233.0,
             "title": "Episode 131: Terminal Tackle Box | LUP 131",
+            "published": 1455047233.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4bc081a9-e232-4b12-8a34-b1fa08ada992.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1454440237.0,
             "title": "The Six Rings of Ubuntu | LUP 130",
+            "published": 1454440237.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0130.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1454440237.0,
             "title": "Episode 130: The Six Rings of Ubuntu | LUP 130",
+            "published": 1454440237.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/45669120-77bf-49d7-9dfe-f401a5815365.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1453837052.0,
             "title": "Shaky Linux Foundations | LUP 129",
+            "published": 1453837052.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0129.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1453837052.0,
             "title": "Episode 129: Shaky Linux Foundations | LUP 129",
+            "published": 1453837052.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/aed27f73-7979-4000-ba28-d856f0bfa549.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1453238531.0,
             "title": "Is that a server in your pocket? | LUP 128",
+            "published": 1453238531.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0128.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1453238531.0,
             "title": "Episode 128: Is that a server in your pocket? | LUP 128",
+            "published": 1453238531.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/55ff65f0-291d-42b7-8c75-78f32a81d002.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1452625957.0,
             "title": "Sorry, I don't do Windows | LUP 127",
+            "published": 1452625957.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0127.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1452625957.0,
             "title": "Episode 127: Sorry, I don't do Windows | LUP 127",
+            "published": 1452625957.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5653561f-b7eb-4fa7-b832-0542c407996f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1452022702.0,
             "title": "Mycroft Action Show | LUP 126",
+            "published": 1452022702.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0126.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1452022702.0,
             "title": "Episode 126: Mycroft Action Show | LUP 126",
+            "published": 1452022702.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/75870503-6cd6-40cc-8626-f91b587b577b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1451414813.0,
             "title": "Slaving for Red Star OS | LUP 125",
+            "published": 1451414813.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0125.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1451414813.0,
             "title": "Episode 125: Slaving for Red Star OS | LUP 125",
+            "published": 1451414813.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ebfa852f-ee06-431a-9b4f-9845bf930074.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1450778535.0,
             "title": "Linux\u2019s Amazing Year | LUP 124",
+            "published": 1450778535.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0124.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1450778535.0,
             "title": "Episode 124: Linux\u2019s Amazing Year | LUP 124",
+            "published": 1450778535.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d0b46aa4-d951-4458-b617-cd94ab188fe8.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1450212293.0,
             "title": "Mycroft and Chilli | LUP 123",
+            "published": 1450212293.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0123.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1450212293.0,
             "title": "Episode 123: Mycroft and Chilli | LUP 123",
+            "published": 1450212293.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1c3bbd23-5d24-4fea-99a7-cb3c99c12d6b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1449606641.0,
             "title": "Thunderclouds around Thunderbird | LUP 122",
+            "published": 1449606641.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0122.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1449606641.0,
             "title": "Episode 122: Thunderclouds around Thunderbird | LUP 122",
+            "published": 1449606641.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/69bd5f26-baf0-4f31-a30f-629c20c8323f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1448999547.0,
             "title": "Raspberry Pi Does What? | LUP 121",
+            "published": 1448999547.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0121.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1448999547.0,
             "title": "Episode 121: Raspberry Pi Does What? | LUP 121",
+            "published": 1448999547.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/36ef3a07-4897-4d48-ad54-c866e53a29cd.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1448396825.0,
             "title": "Budgie Jumping | LUP 120",
+            "published": 1448396825.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0120.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1448396825.0,
             "title": "Episode 120: Budgie Jumping | LUP 120",
+            "published": 1448396825.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1cd65c60-b080-4eef-93bc-d4bdc69df730.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1447836899.0,
             "title": "What\u2019s Up Docker? | LUP 119",
+            "published": 1447836899.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0119.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1447836899.0,
             "title": "Episode 119: What\u2019s Up Docker? | LUP 119",
+            "published": 1447836899.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5ea4f5f6-d8ef-4f2a-8839-f82ac60d8acf.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1447185724.0,
             "title": "Leaping Over Tumbleweed | LUP 118",
+            "published": 1447185724.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0118.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1447185724.0,
             "title": "Episode 118: Leaping Over Tumbleweed | LUP 118",
+            "published": 1447185724.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e4371be4-9f1c-4d4c-9e41-4d3eb79faff4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1446576931.0,
             "title": "Does Slack MatterMost? | LUP 117",
+            "published": 1446576931.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0117.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1446576931.0,
             "title": "Episode 117: Does Slack MatterMost? | LUP 117",
+            "published": 1446576931.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f644c71a-7006-4bc6-a49e-dce5e2923434.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1445971491.0,
             "title": "What's New MATE | LUP 116",
+            "published": 1445971491.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0116.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1445971491.0,
             "title": "Episode 116: What's New MATE | LUP 116",
+            "published": 1445971491.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/50b8a699-5bfc-40e1-99b0-c12c3c0a5511.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1445365649.0,
             "title": "Open Production | LUP 115",
+            "published": 1445365649.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0115.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1445365649.0,
             "title": "Episode 115: Open Production | LUP 115",
+            "published": 1445365649.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/288f2221-e2be-4ea8-8002-96f37785fb19.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1444766654.0,
             "title": "KDE Connect All the Things | LUP 114",
+            "published": 1444766654.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0114.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1444766654.0,
             "title": "Episode 114: KDE Connect All the Things | LUP 114",
+            "published": 1444766654.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/90dfc5c8-cfa2-410b-9d66-fcceee5437b9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1444153032.0,
             "title": "Kernel of Truth | LUP 113",
+            "published": 1444153032.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0113.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1444153032.0,
             "title": "Episode 113: Kernel of Truth | LUP 113",
+            "published": 1444153032.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c2cf7200-1225-4db9-a4ce-8ed5cc023505.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1443605239.0,
             "title": "Open Source Power Outlets | LUP 112",
+            "published": 1443605239.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0112.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1443605239.0,
             "title": "Episode 112: Open Source Power Outlets | LUP 112",
+            "published": 1443605239.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c26738ff-da19-4a41-a8b8-54ce4bc05265.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1443004686.0,
             "title": "Completely Unplugged | LUP 111",
+            "published": 1443004686.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0111.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1443004686.0,
             "title": "Episode 111: Completely Unplugged | LUP 111",
+            "published": 1443004686.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c792df50-3edc-422f-bd00-3ece20920c29.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1442425108.0,
             "title": "Return of the Localhost | LUP 110",
+            "published": 1442425108.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0110.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1442425108.0,
             "title": "Episode 110: Return of the Localhost | LUP 110",
+            "published": 1442425108.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fe791ba4-91b7-4415-930c-7a5546721568.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1441731827.0,
             "title": "Who Will Build The Builders | LUP 109",
+            "published": 1441731827.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0109.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1441731827.0,
             "title": "Episode 109: Who Will Build The Builders | LUP 109",
+            "published": 1441731827.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3ca82487-9846-4298-888f-af57863a3027.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1441125003.0,
             "title": "Insecurity by Design | LUP 108",
+            "published": 1441125003.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0108.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1441125003.0,
             "title": "Episode 108: Insecurity by Design | LUP 108",
+            "published": 1441125003.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a581b796-3545-41f7-8b78-18a3d9c10ee9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1440528126.0,
             "title": "Freedom Isn't Free | LUP 107",
+            "published": 1440528126.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0107.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1440528126.0,
             "title": "Episode 107: Freedom Isn't Free | LUP 107",
+            "published": 1440528126.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ed92ad74-33dd-4f42-803d-b8c012b6fdf9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1439967159.0,
             "title": "Connecting the Docks | LUP 106",
+            "published": 1439967159.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0106.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1439967159.0,
             "title": "Episode 106: Connecting the Docks | LUP 106",
+            "published": 1439967159.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c1f05b90-548e-4f1b-9a42-1357ac812b98.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1439317282.0,
             "title": "Vulkan the Metal Slayer | LUP 105",
+            "published": 1439317282.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0105.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1439317282.0,
             "title": "Episode 105: Vulkan the Metal Slayer | LUP 105",
+            "published": 1439317282.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a1f00d6a-3718-41f6-b56a-6cd33e0b4eae.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1438802831.0,
             "title": "Miles of WiFi | LUP 104",
+            "published": 1438802831.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0104.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1438802831.0,
             "title": "Episode 104: Miles of WiFi | LUP 104",
+            "published": 1438802831.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/cd8ec549-761c-4791-a93c-be41c84fe0f5.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1438106123.0,
             "title": "OSCON Secret Sauce | LUP 103",
+            "published": 1438106123.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0103.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1438106123.0,
             "title": "Episode 103: OSCON Secret Sauce | LUP 103",
+            "published": 1438106123.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/bfd09d5f-3e9b-4722-827a-57e46fc8feab.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1437420690.0,
             "title": "Canonical, Dell & AMD Games | LUP 102",
+            "published": 1437420690.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0102.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1437420690.0,
             "title": "Episode 102: Canonical, Dell & AMD Games | LUP 102",
+            "published": 1437420690.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2243be38-dbb3-43a3-9ccb-9b5d5629b6ef.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1436896872.0,
             "title": "Will Flash Be Trashed? | LUP 101",
+            "published": 1436896872.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0101.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1436896872.0,
             "title": "Episode 101: Will Flash Be Trashed? | LUP 101",
+            "published": 1436896872.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0784ff70-fe3e-4cc4-9967-df09bdcbf9e5.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1436286253.0,
             "title": "Still Minty Fresh | LUP 100",
+            "published": 1436286253.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0100.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1436286253.0,
             "title": "Episode 100: Still Minty Fresh | LUP 100",
+            "published": 1436286253.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/8ad8be16-62a7-4eff-9dd5-c11d33723573.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1435687598.0,
             "title": "Finger on the Pulse of Video | LUP 99",
+            "published": 1435687598.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0099.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1435687598.0,
             "title": "Episode 99: Finger on the Pulse of Video | LUP 99",
+            "published": 1435687598.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/774a33f5-aa1b-4902-af51-8478a384626c.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1435084518.0,
             "title": "Not OK Google | LUP 98",
+            "published": 1435084518.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0098.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1435084518.0,
             "title": "Episode 98: Not OK Google | LUP 98",
+            "published": 1435084518.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/05f40f2a-32f2-4bba-81b0-e2fc7b03ea82.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1434488288.0,
             "title": "Better Open Source Options | LUP 97",
+            "published": 1434488288.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0097.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1434488288.0,
             "title": "Episode 97: Better Open Source Options | LUP 97",
+            "published": 1434488288.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/30f97316-32e3-4b2e-b437-f68c1d76da0f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1433871418.0,
             "title": "Fedora's Bright Future | LUP 96",
+            "published": 1433871418.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0096.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1433871418.0,
             "title": "Episode 96: Fedora's Bright Future | LUP 96",
+            "published": 1433871418.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2bdcbac5-890d-40a9-a018-feb987835498.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1433174937.0,
             "title": "Disjunctive Normal Fedora | LUP 95",
+            "published": 1433174937.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0095.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1433174937.0,
             "title": "Episode 95: Disjunctive Normal Fedora | LUP 95",
+            "published": 1433174937.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1565553a-7ef9-4cac-8aad-5068674ffe79.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1432663759.0,
             "title": "11 Years of Linux Benchmarking | LUP 94",
+            "published": 1432663759.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0094.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1432663759.0,
             "title": "Episode 94: 11 Years of Linux Benchmarking | LUP 94",
+            "published": 1432663759.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/cde8b219-f6ec-4ba2-aab4-9b0400efd76b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1432056743.0,
             "title": "Rollback Romanticism | LUP 93",
+            "published": 1432056743.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0093.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1432056743.0,
             "title": "Episode 93: Rollback Romanticism | LUP 93",
+            "published": 1432056743.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/52c09d98-8764-4ca6-afa1-e87fa54e4e12.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1431458775.0,
             "title": "Linux Wife, Happy Life. | LUP 92",
+            "published": 1431458775.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0092.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1431458775.0,
             "title": "Episode 92: Linux Wife, Happy Life. | LUP 92",
+            "published": 1431458775.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fcdb35e3-e0a7-4e54-b01b-e4da8baf3c9d.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1430847020.0,
             "title": "Open Source Kollaboration | LUP 91",
+            "published": 1430847020.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0091.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1430847020.0,
             "title": "Episode 91: Open Source Kollaboration | LUP 91",
+            "published": 1430847020.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fb562aa3-7a14-4fdb-8682-daf37e979fe5.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1430248868.0,
             "title": "How The Fest Was Fun | LUP 90",
+            "published": 1430248868.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0090.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1430248868.0,
             "title": "Episode 90: How The Fest Was Fun | LUP 90",
+            "published": 1430248868.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c47beddc-74af-45bb-a9f5-47b96fba53cb.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1429641021.0,
             "title": "Oh Deere, RMS was Right | LUP 89",
+            "published": 1429641021.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0089.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1429641021.0,
             "title": "Episode 89: Oh Deere, RMS was Right | LUP 89",
+            "published": 1429641021.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/22d37f82-21eb-481f-8982-0d620e01770f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1429038565.0,
             "title": "Churning Over Btrfs | LUP 88",
+            "published": 1429038565.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0088.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1429038565.0,
             "title": "Episode 88: Churning Over Btrfs | LUP 88",
+            "published": 1429038565.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3842eed5-b902-4f4e-9fdd-193d444f3dc2.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1428429691.0,
             "title": "btrfs Meltdown | LUP 87",
+            "published": 1428429691.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0087b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1428429691.0,
             "title": "Episode 87: btrfs Meltdown | LUP 87",
+            "published": 1428429691.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ba90ee77-2376-4750-8d2d-ed577706cbf8.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1427822138.0,
             "title": "Evolve Your OS | LUP 86",
+            "published": 1427822138.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0086.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1427822138.0,
             "title": "Episode 86: Evolve Your OS | LUP 86",
+            "published": 1427822138.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/55875252-2e1c-4458-8574-c145a54d1165.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1427221787.0,
             "title": "Give the Kids Linux | LUP 85",
+            "published": 1427221787.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0085.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1427221787.0,
             "title": "Episode 85: Give the Kids Linux | LUP 85",
+            "published": 1427221787.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/158ca78e-da07-420d-9f67-a4d722cb4503.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1426617621.0,
             "title": "On the Verge of Convergence | LUP 84",
+            "published": 1426617621.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0084.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1426617621.0,
             "title": "Episode 84: On the Verge of Convergence | LUP 84",
+            "published": 1426617621.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1de68b74-2324-4d34-8268-eebed570a8e4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1426016838.0,
             "title": "Numixing Fedora | LUP 83",
+            "published": 1426016838.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0083.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1426016838.0,
             "title": "Episode 83: Numixing Fedora | LUP 83",
+            "published": 1426016838.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/be8dbd6e-c612-4446-a803-32685befb5d6.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1425411852.0,
             "title": "Ubuntu MATE Gets Legit | LUP 82",
+            "published": 1425411852.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0082.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1425411852.0,
             "title": "Episode 82: Ubuntu MATE Gets Legit | LUP 82",
+            "published": 1425411852.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9ecabed9-235f-410f-ba67-9882103daaab.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1424761415.0,
             "title": "Unplugging the Past | LUP 81",
+            "published": 1424761415.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0081.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1424761415.0,
             "title": "Episode 81: Unplugging the Past | LUP 81",
+            "published": 1424761415.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/036a764a-b3a2-4cde-a0ee-d5d8bf581663.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1424196954.0,
             "title": "ARMed with Arch | LUP 80",
+            "published": 1424196954.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0080.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1424196954.0,
             "title": "Episode 80: ARMed with Arch | LUP 80",
+            "published": 1424196954.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2459fd1b-fc88-488a-a431-04f527cdffda.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1423591245.0,
             "title": "Ubuntu Calling | LUP 79",
+            "published": 1423591245.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0079.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1423591245.0,
             "title": "Episode 79: Ubuntu Calling | LUP 79",
+            "published": 1423591245.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/005a97d0-0506-4580-b300-191d3b26aece.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1422988675.0,
             "title": "Straight Outta FOSDEM | LUP 78",
+            "published": 1422988675.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0078.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1422988675.0,
             "title": "Episode 78: Straight Outta FOSDEM | LUP 78",
+            "published": 1422988675.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3446d803-0de3-4f08-b739-44a141f354a8.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1422380613.0,
             "title": "Vivaldi, The Fourth Browser | LUP 77",
+            "published": 1422380613.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0077.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1422380613.0,
             "title": "Episode 77: Vivaldi, The Fourth Browser | LUP 77",
+            "published": 1422380613.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0e2555f9-fc10-41f2-90bf-ce9a541c640a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1421781286.0,
             "title": "Building a Better Gnome | LUP 76",
+            "published": 1421781286.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0076.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1421781286.0,
             "title": "Episode 76: Building a Better Gnome | LUP 76",
+            "published": 1421781286.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4639cf37-e8b9-4aa4-a51c-3690ac0b8202.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1421181657.0,
             "title": "Obviously Linux's Fault | LUP 75",
+            "published": 1421181657.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0075b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1421181657.0,
             "title": "Episode 75: Obviously Linux's Fault | LUP 75",
+            "published": 1421181657.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/863605bd-dd1f-48e2-bcdb-8491d896e2e4.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1420576674.0,
             "title": "Proprietary Exodus | LUP 74",
+            "published": 1420576674.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0074.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1420576674.0,
             "title": "Episode 74: Proprietary Exodus | LUP 74",
+            "published": 1420576674.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5d031920-ab6d-4c84-9f9c-d610cf3d550c.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1419966627.0,
             "title": "Predicting 2015 | LUP 73",
+            "published": 1419966627.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0073.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1419966627.0,
             "title": "Episode 73: Predicting 2015 | LUP 73",
+            "published": 1419966627.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/33c1aec5-cfa2-40bc-a504-6c886e3fd785.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1419335958.0,
             "title": "Best of LUP 2014 | LUP 72",
+            "published": 1419335958.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0072.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1419335958.0,
             "title": "Episode 72: Best of LUP 2014 | LUP 72",
+            "published": 1419335958.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/23c313f3-14a7-40f3-a9a8-ca2503ec06f1.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1418760101.0,
             "title": "Fedora Takes the Lead | LUP 71",
+            "published": 1418760101.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0071.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1418760101.0,
             "title": "Episode 71: Fedora Takes the Lead | LUP 71",
+            "published": 1418760101.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e61e4a66-6e47-46fe-abfa-cf2c2ecd8e0c.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1418163800.0,
             "title": "Next Gen Fedora | LUP 70",
+            "published": 1418163800.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0070.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1418163800.0,
             "title": "Episode 70: Next Gen Fedora | LUP 70",
+            "published": 1418163800.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d2895745-3e99-46f5-af48-0a90a5b9b759.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1417549658.0,
             "title": "Perfect Linux Laptop | LUP 69",
+            "published": 1417549658.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0069.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1417549658.0,
             "title": "Episode 69: Perfect Linux Laptop | LUP 69",
+            "published": 1417549658.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/aebffe59-1f20-4b67-a092-4197c3795f50.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1416937076.0,
             "title": "Linux Powered Schools | LUP 68",
+            "published": 1416937076.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0068.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1416937076.0,
             "title": "Episode 68: Linux Powered Schools | LUP 68",
+            "published": 1416937076.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5430cce0-b8ce-4551-a850-11bf2b25b69a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1416335486.0,
             "title": "Debian Community Divided | LUP 67",
+            "published": 1416335486.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0067b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1416335486.0,
             "title": "Episode 67: Debian Community Divided | LUP 67",
+            "published": 1416335486.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9412cc59-6243-4677-a06f-032f4b6447e0.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1415739651.0,
             "title": "Firefox gets Unplugged | LUP 66",
+            "published": 1415739651.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0066.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1415739651.0,
             "title": "Episode 66: Firefox gets Unplugged | LUP 66",
+            "published": 1415739651.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c4bdc530-524f-4bd4-8f53-c40217346801.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1415127829.0,
             "title": "OpenSUSE Followup | LINUX Unplugged 65",
+            "published": 1415127829.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0065.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1415127829.0,
             "title": "Episode 65: OpenSUSE Followup | LINUX Unplugged 65",
+            "published": 1415127829.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2a585b1a-37da-4112-b521-2f4298bcb6d7.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1414522754.0,
             "title": "SeaGL & OLF Roundup | LINUX Unplugged 64",
+            "published": 1414522754.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0064.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1414522754.0,
             "title": "Episode 64: SeaGL & OLF Roundup | LINUX Unplugged 64",
+            "published": 1414522754.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4396f7d8-6dd8-40e7-a80d-4926ce168bb6.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1413915178.0,
             "title": "For Forks Sake | LUP 63",
+            "published": 1413915178.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0063.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1413915178.0,
             "title": "Episode 63: For Forks Sake | LUP 63",
+            "published": 1413915178.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c25d9142-8efa-49c5-991c-a2918bd5d62c.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1413306373.0,
             "title": "Unifying Linux Software | LUP 62",
+            "published": 1413306373.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0062.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1413306373.0,
             "title": "Episode 62: Unifying Linux Software | LUP 62",
+            "published": 1413306373.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d3b1a0cc-a211-4bc9-aeb1-45adc7d1ce34.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1412713547.0,
             "title": "Don\u2019t Feed the Soap Opera | LUP 61",
+            "published": 1412713547.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0061.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1412713547.0,
             "title": "Episode 61: Don\u2019t Feed the Soap Opera | LUP 61",
+            "published": 1412713547.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2d3f2af3-d432-4b4b-a6b5-3f01dc4ee538.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1412098428.0,
             "title": "Calm Before the Storm | LINUX Unplugged 60",
+            "published": 1412098428.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0060.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1412098428.0,
             "title": "Episode 60: Calm Before the Storm | LINUX Unplugged 60",
+            "published": 1412098428.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a0813820-33bf-467d-b5eb-640bc3b555ce.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1411492056.0,
             "title": "Dead Desktop Walking | LUP 59",
+            "published": 1411492056.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0059.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1411492056.0,
             "title": "Episode 59: Dead Desktop Walking | LUP 59",
+            "published": 1411492056.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e505415c-22fa-4534-a164-f43addac7d1d.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1410892311.0,
             "title": "Cult of Community | LUP 58",
+            "published": 1410892311.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0058.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1410892311.0,
             "title": "Episode 58: Cult of Community | LUP 58",
+            "published": 1410892311.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/7dd180e5-3538-4e4e-b617-669d5ea3a1b2.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1410285218.0,
             "title": "systemd Haters Busted | LUP 57",
+            "published": 1410285218.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0057.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1410285218.0,
             "title": "Episode 57: systemd Haters Busted | LUP 57",
+            "published": 1410285218.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a5c08407-7398-451c-9682-29e2868a2424.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1409683626.0,
             "title": "One Packager for All | LUP 56",
+            "published": 1409683626.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0056.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1409683626.0,
             "title": "Episode 56: One Packager for All | LUP 56",
+            "published": 1409683626.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/7e1f51d6-dd44-44e6-9879-9ccc8a5add24.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1409076978.0,
             "title": "LinuxCon 2014 Unplugged | LUP 55",
+            "published": 1409076978.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0055.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1409076978.0,
             "title": "Episode 55: LinuxCon 2014 Unplugged | LUP 55",
+            "published": 1409076978.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f57e8664-c3bb-4ad6-a289-440895101a0b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1408469888.0,
             "title": "Microsoft's Munich Man | LINUX Unplugged 54",
+            "published": 1408469888.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0054.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1408469888.0,
             "title": "Episode 54: Microsoft's Munich Man | LINUX Unplugged 54",
+            "published": 1408469888.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/67abd8a0-82db-4edc-87f2-81324ae9b8ad.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1407871658.0,
             "title": "Ubuntu with Rodent | LUP 53",
+            "published": 1407871658.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0053.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1407871658.0,
             "title": "Episode 53: Ubuntu with Rodent | LUP 53",
+            "published": 1407871658.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/60f30944-7f93-495d-9339-da06675f8ff2.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1407259170.0,
             "title": "CRUX Interview | LUP 52",
+            "published": 1407259170.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0052.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1407259170.0,
             "title": "Episode 52: CRUX Interview | LUP 52",
+            "published": 1407259170.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3b3ca600-759c-4f01-8b46-45ba6f733368.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1406658317.0,
             "title": "OSCON Behind The Story | LUP 51",
+            "published": 1406658317.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0051.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1406658317.0,
             "title": "Episode 51: OSCON Behind The Story | LUP 51",
+            "published": 1406658317.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/011ef9df-864a-4cac-8665-7fa4cd0d4ffb.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1406020896.0,
             "title": "Linux Look-Back | LUP 50",
+            "published": 1406020896.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0050.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1406020896.0,
             "title": "Episode 50: Linux Look-Back | LUP 50",
+            "published": 1406020896.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2d1ee101-1c37-4f22-83fc-4b7f10117575.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1405447931.0,
             "title": "Rapid Fire Journalism | LINUX Unplugged 49",
+            "published": 1405447931.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0049.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1405447931.0,
             "title": "Episode 49: Rapid Fire Journalism | LINUX Unplugged 49",
+            "published": 1405447931.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f0bb6d33-3396-4f47-9580-308777b08e26.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1404841739.0,
             "title": "KaOS Theory | LUP 48",
+            "published": 1404841739.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0048.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1404841739.0,
             "title": "Episode 48: KaOS Theory | LUP 48",
+            "published": 1404841739.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6db68f45-e470-4a69-8358-5ea41b014ca6.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1404236180.0,
             "title": "Desktopaholics Anonymous  | LUP 47",
+            "published": 1404236180.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0047.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1404236180.0,
             "title": "Episode 47: Desktopaholics Anonymous  | LUP 47",
+            "published": 1404236180.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5ae628ab-3079-4768-bc85-00b04f4829b8.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1403627474.0,
             "title": "SouthEast LinuxFest Unplugged | LUP 46",
+            "published": 1403627474.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0046.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1403627474.0,
             "title": "Episode 46: SouthEast LinuxFest Unplugged | LUP 46",
+            "published": 1403627474.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b64e9168-bc12-43bc-bc1d-60f883204173.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1403016375.0,
             "title": "The Triple-Boot Phone | LUP 45",
+            "published": 1403016375.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0045.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1403016375.0,
             "title": "Episode 45: The Triple-Boot Phone | LUP 45",
+            "published": 1403016375.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3c8e70d6-f86d-4358-b11a-2634dd7fbc73.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1402416188.0,
             "title": "Bedrock: A New Paradigm | LUP 44",
+            "published": 1402416188.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0044.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1402416188.0,
             "title": "Episode 44: Bedrock: A New Paradigm | LUP 44",
+            "published": 1402416188.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ec8e3919-7175-441f-9d19-ba07eaa13c11.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1401814955.0,
             "title": "Mint 17: Fresh or Stagnant? | LUP 43",
+            "published": 1401814955.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0043.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1401814955.0,
             "title": "Episode 43: Mint 17: Fresh or Stagnant? | LUP 43",
+            "published": 1401814955.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/94890e98-6f7d-40d4-aef3-5fcbd23858aa.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1401208485.0,
             "title": "Fine Wine or Sour Ports | LUP 42",
+            "published": 1401208485.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0042.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1401208485.0,
             "title": "Episode 42: Fine Wine or Sour Ports | LUP 42",
+            "published": 1401208485.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4d957cdf-c4bd-41a1-89c8-b72afaa22990.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1400604766.0,
             "title": "Arch\u2019s Uprising | LUP 41",
+            "published": 1400604766.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0041.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1400604766.0,
             "title": "Episode 41: Arch\u2019s Uprising | LUP 41",
+            "published": 1400604766.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f1f323f4-1178-41ca-9b7f-5e86e14d35f2.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1400005409.0,
             "title": "Developers Get Qt | LUP 40",
+            "published": 1400005409.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0040.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1400005409.0,
             "title": "Episode 40: Developers Get Qt | LUP 40",
+            "published": 1400005409.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/73cb4518-85bd-4302-94f4-520aff0d1565.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1399397494.0,
             "title": "Fragmentation Timebomb | LUP 39",
+            "published": 1399397494.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0039.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1399397494.0,
             "title": "Episode 39: Fragmentation Timebomb | LUP 39",
+            "published": 1399397494.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1d5e0314-f631-44b1-a9f6-e5cb421f041e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1398790369.0,
             "title": "The Rest of the Fest | LUP 38",
+            "published": 1398790369.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0038.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1398790369.0,
             "title": "Episode 38: The Rest of the Fest | LUP 38",
+            "published": 1398790369.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c6d456b5-07f7-4c9a-b05e-caa5d01b5f66.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1398187119.0,
             "title": "Client Side Drama | LUP 37",
+            "published": 1398187119.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0037.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1398187119.0,
             "title": "Episode 37: Client Side Drama | LUP 37",
+            "published": 1398187119.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a15a49f1-4487-483b-8d63-1936b275342a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1397576237.0,
             "title": "Beware of Underdog | LUP 36",
+            "published": 1397576237.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0036-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1397576237.0,
             "title": "Episode 36: Beware of Underdog | LUP 36",
+            "published": 1397576237.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a2fc8069-98fa-46e9-824e-fdad3a672d9f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1396974565.0,
             "title": "Windows eXPired | LUP 35",
+            "published": 1396974565.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0035-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1396974565.0,
             "title": "Episode 35: Windows eXPired | LUP 35",
+            "published": 1396974565.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fcf7a4b3-0a7d-438e-9223-bf6690a0d707.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1396384603.0,
             "title": "Drive-By Advice | LUP 34",
+            "published": 1396384603.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0034-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1396384603.0,
             "title": "Episode 34: Drive-By Advice | LUP 34",
+            "published": 1396384603.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fea0b80b-666a-487e-8f37-3165c2c19ad2.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1395771286.0,
             "title": "Graphical Civil War | LUP 33",
+            "published": 1395771286.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0033-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1395771286.0,
             "title": "Episode 33: Graphical Civil War | LUP 33",
+            "published": 1395771286.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5b3f2027-0c15-46f7-998e-bddaf384e095.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1395175379.0,
             "title": "Do Me a SolydXK | LUP 32",
+            "published": 1395175379.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0032-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1395175379.0,
             "title": "Episode 32: Do Me a SolydXK | LUP 32",
+            "published": 1395175379.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0f776007-73f1-42d8-8d8c-ca52b50539e6.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1394559755.0,
             "title": "Ubuntu Punching Bag | LUP 31",
+            "published": 1394559755.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0031-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1394559755.0,
             "title": "Episode 31: Ubuntu Punching Bag | LUP 31",
+            "published": 1394559755.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/46e0ac03-2bb1-4f03-ab03-36f890458de7.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1393952947.0,
             "title": "Talkin' Tox | LUP 30",
+            "published": 1393952947.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0030-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1393952947.0,
             "title": "Episode 30: Talkin' Tox | LUP 30",
+            "published": 1393952947.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/27f00c7d-0730-412c-9134-31d711dc7273.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1393349151.0,
             "title": "The Klementine Squeeze | LUP 29",
+            "published": 1393349151.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0029-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1393349151.0,
             "title": "Episode 29: The Klementine Squeeze | LUP 29",
+            "published": 1393349151.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/16307c11-2366-4ef5-ad97-85e0984e3df3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1392746594.0,
             "title": "Neckbeard Entitlement Factor | LUP 28",
+            "published": 1392746594.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0028-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1392746594.0,
             "title": "Episode 28: Neckbeard Entitlement Factor | LUP 28",
+            "published": 1392746594.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c0e97ea6-db26-46a5-b468-9cb22c00c6bd.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1392140411.0,
             "title": "Debian's systemd Decision | LUP 27",
+            "published": 1392140411.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/201402.jb-dl.cdn.scaleengine.net/linuxun/2014/audio/lup-0027-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1392140411.0,
             "title": "Episode 27: Debian's systemd Decision | LUP 27",
+            "published": 1392140411.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0222894a-af76-49ca-8f4e-1feb8c1a2a8b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1391536673.0,
             "title": "MATE Mythbusting | LUP 26",
+            "published": 1391536673.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0026-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1391536673.0,
             "title": "Episode 26: MATE Mythbusting | LUP 26",
+            "published": 1391536673.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3188d693-9518-4c39-b694-9c2458378f74.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1390948197.0,
             "title": "Culture of Shiny | LUP 25",
+            "published": 1390948197.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0025-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1390948197.0,
             "title": "Episode 25: Culture of Shiny | LUP 25",
+            "published": 1390948197.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2b406ed3-bdb6-424c-bc5d-b24186640b39.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1390325594.0,
             "title": "FUD for Thought | LUP 24",
+            "published": 1390325594.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0024-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1390325594.0,
             "title": "Episode 24: FUD for Thought | LUP 24",
+            "published": 1390325594.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/55e3d9bf-bf7e-4e44-b204-917f5f579df1.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1389726105.0,
             "title": "Google Invades Your Nest |  LUP 23",
+            "published": 1389726105.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0023-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1389726105.0,
             "title": "Episode 23: Google Invades Your Nest |  LUP 23",
+            "published": 1389726105.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/bb441dc3-5a8f-47ed-b993-d7c5b471da71.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1389114336.0,
             "title": "Hurd Mentality | LUP 22",
+            "published": 1389114336.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0022-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1389114336.0,
             "title": "Episode 22: Hurd Mentality | LUP 22",
+            "published": 1389114336.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c8ba17b5-9871-49ed-9f71-92fdcfbc3090.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1388513021.0,
             "title": "Unplugging 2013 | LUP 21",
+            "published": 1388513021.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0021-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1388513021.0,
             "title": "Episode 21: Unplugging 2013 | LUP 21",
+            "published": 1388513021.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d9526de8-0860-46fa-a3fe-f4fea35d2ead.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1387877220.0,
             "title": "Fidel Chromecastro | LUP 20",
+            "published": 1387877220.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0020-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1387877220.0,
             "title": "Episode 20: Fidel Chromecastro | LUP 20",
+            "published": 1387877220.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b77cc996-f349-4e59-930a-e9484286799b.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1387299959.0,
             "title": "Fixing Linux Support | LUP 19",
+            "published": 1387299959.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0019-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1387299959.0,
             "title": "Episode 19: Fixing Linux Support | LUP 19",
+            "published": 1387299959.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e19d36b2-3968-40e1-8898-9e36bf76fce6.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1386701374.0,
             "title": "Hugs for LUGs | LUP 18",
+            "published": 1386701374.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0018-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1386701374.0,
             "title": "Episode 18: Hugs for LUGs | LUP 18",
+            "published": 1386701374.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/71aa938c-cb8c-4fd7-929c-7f13370d144f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1386141587.0,
             "title": "Swap It Outta Here | LUP 17",
+            "published": 1386141587.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0017-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1386141587.0,
             "title": "Episode 17: Swap It Outta Here | LUP 17",
+            "published": 1386141587.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9451c089-8e83-4b00-a0e1-345b6657165d.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1385489236.0,
             "title": "Meet the Dockers | LUP 16",
+            "published": 1385489236.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0016-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1385489236.0,
             "title": "Episode 16: Meet the Dockers | LUP 16",
+            "published": 1385489236.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/268263d4-5196-4c62-806c-3539f1abcbcf.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1384890491.0,
             "title": "Don\u2019t Switch to Linux | LUP 15",
+            "published": 1384890491.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0015-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1384890491.0,
             "title": "Episode 15: Don\u2019t Switch to Linux | LUP 15",
+            "published": 1384890491.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/852dc641-e2ea-43f4-b37e-bf5e16b5a2d9.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1384273829.0,
             "title": "Negative in the Practical Dimension | LUP 14",
+            "published": 1384273829.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0014-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1384273829.0,
             "title": "Episode 14: Negative in the Practical Dimension | LUP 14",
+            "published": 1384273829.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/085aeb84-1172-41c4-916d-2535c9c64143.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1383670941.0,
             "title": "Dark Mail: A New Hope | LINUX Unplugged 13",
+            "published": 1383670941.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0013-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1383670941.0,
             "title": "Episode 13: Dark Mail: A New Hope | LINUX Unplugged 13",
+            "published": 1383670941.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f9703a4c-6d21-4072-b0bb-22e66c6799fe.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1383067305.0,
             "title": "Debating Debian Decisions | LINUX Unplugged 12",
+            "published": 1383067305.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0012-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1383067305.0,
             "title": "Episode 12: Debating Debian Decisions | LINUX Unplugged 12",
+            "published": 1383067305.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1f61f375-168b-4e3a-9653-ea7b9d94522e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1382461553.0,
             "title": "Bankrupt Linux News | LINUX Unplugged 11",
+            "published": 1382461553.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-0011-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1382461553.0,
             "title": "Episode 11: Bankrupt Linux News | LINUX Unplugged 11",
+            "published": 1382461553.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5d04bc49-e58b-4723-9de7-c46a22cfda18.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1381852759.0,
             "title": "The Ubuntu Hangover | LINUX Unplugged 10",
+            "published": 1381852759.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/lup-0010-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1381852759.0,
             "title": "Episode 10: The Ubuntu Hangover | LINUX Unplugged 10",
+            "published": 1381852759.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/50b20229-5bca-40b0-a41e-1653d5b9c944.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1381251428.0,
             "title": "The Ubuntu Situation | LINUX Unplugged 9",
+            "published": 1381251428.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0009-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1381251428.0,
             "title": "Episode 9: The Ubuntu Situation | LINUX Unplugged 9",
+            "published": 1381251428.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/aad35150-8c84-4dd5-af96-3389c0a4a15a.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1380644416.0,
             "title": "Cloud Guilt | LINUX Unplugged 8",
+            "published": 1380644416.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/lup-0008-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1380644416.0,
             "title": "Episode 8: Cloud Guilt | LINUX Unplugged 8",
+            "published": 1380644416.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2c84cd55-770f-46aa-b6db-a04c36dd3230.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1380040639.0,
             "title": "Full SteamOS Ahead | LUP 7",
+            "published": 1380040639.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/lup-007-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1380040639.0,
             "title": "Episode 7: Full SteamOS Ahead | LUP 7",
+            "published": 1380040639.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6e780749-1f06-4a76-9cbf-20a237d9e25e.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1379437578.0,
             "title": "The Android Problem | LINUX Unplugged 6",
+            "published": 1379437578.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/LUN-006-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1379437578.0,
             "title": "Episode 6: The Android Problem | LINUX Unplugged 6",
+            "published": 1379437578.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e0b1f8fb-8cf8-430c-a0cc-566cd0dc4f46.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1378829656.0,
             "title": "Wrath of Linus | LINUX Unplugged 5",
+            "published": 1378829656.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jupiterbroadcasting/LUN-005-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1378829656.0,
             "title": "Episode 5: Wrath of Linus | LINUX Unplugged 5",
+            "published": 1378829656.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4d4aec7d-8e40-413d-8b40-5a13d486af67.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1378228744.0,
             "title": "Are Linux Users Cheap? | LINUX Unplugged 4",
+            "published": 1378228744.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jnite/LUN-004-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1378228744.0,
             "title": "Episode 4: Are Linux Users Cheap? | LINUX Unplugged 4",
+            "published": 1378228744.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1add9de6-cb29-4014-baba-93b536643e1f.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1377538077.0,
             "title": "Go Dock Yourself | LINUX Unplugged 3",
+            "published": 1377538077.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LUN-003-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1377538077.0,
             "title": "Episode 3: Go Dock Yourself | LINUX Unplugged 3",
+            "published": 1377538077.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f8abfef2-b513-4d6f-9002-4c501ef44d93.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1376935092.0,
             "title": "Edge of Failure | LINUX Unplugged 2",
+            "published": 1376935092.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LUN-002-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1376935092.0,
             "title": "Episode 2: Edge of Failure | LINUX Unplugged 2",
+            "published": 1376935092.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/63e86860-d797-491a-93d3-d1ef0746dc97.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1376330739.0,
             "title": "Too Much Choice | LU1",
+            "published": 1376330739.0,
+            "listened": false,
             "url": "http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/jbmirror/LINUXUN-001-mp3.mp3"
         },
         {
             "downloaded": false,
-            "listened": false,
-            "published": 1376330739.0,
             "title": "Episode 1: Too Much Choice | LU1",
+            "published": 1376330739.0,
+            "listened": false,
             "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1c572137-1d75-4eb6-a07b-0bd4859d6e1a.mp3"
         }
     ],
-    "title": "LINUX Unplugged Podcast",
-    "url": "http://feeds.feedburner.com/linuxunplugged",
-    "shortname": "unplugged"
+    "shortname": "unplugged",
+    "title": "LINUX Unplugged Podcast"
 }
