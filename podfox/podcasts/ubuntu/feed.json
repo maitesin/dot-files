@@ -1,4 +1,5 @@
 {
+    "title": "Ubuntu Podcast",
     "url": "http://ubuntupodcast.org/feed/podcast/",
     "episodes": [
         {
@@ -1003,6 +1004,5 @@
             "title": "S08E01 \u2013 Breaking Wind Part 1 - Ubuntu Podcast"
         }
     ],
-    "shortname": "ubuntu",
-    "title": "Ubuntu Podcast"
+    "shortname": "ubuntu"
 }
