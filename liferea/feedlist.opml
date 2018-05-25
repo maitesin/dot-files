@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Blogs" text="Blogs" description="Blogs" type="folder" id="cmcdhxn" sortColumn="time" expanded="true">
+      <outline title="Oscar Forner's personal website" text="Oscar Forner's personal website" description="Oscar Forner's personal website" type="rss" id="qnsmbbw" sortColumn="time" xmlUrl="https://oscarforner.com/rss" htmlUrl="http://oscarforner.com/rss/" updateInterval="-1" collapsed="true"/>
+      <outline title="ASM" text="ASM" description="ASM" type="folder" id="puurxva" sortColumn="time" expanded="true">
+        <outline title="sloc++;" text="sloc++;" description="sloc++;" type="rss" id="rgehkrf" sortColumn="time" xmlUrl="https://haneefmubarak.com/rss/" htmlUrl="https://haneefmubarak.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Unikernels" text="Unikernels" description="Unikernels" type="atom" id="msjnwal" sortColumn="time" xmlUrl="http://unikernel.org/atom.xml" htmlUrl="http://unikernel.org/" updateInterval="-1" collapsed="true"/>
+        <outline title="UIC Academy" text="UIC Academy" description="UIC Academy" type="rss" id="govuabt" sortColumn="time" xmlUrl="https://quequero.org/feed/" htmlUrl="https://quequero.org" updateInterval="-1" collapsed="true"/>
+        <outline title="ARM Ninja" text="ARM Ninja" description="ARM Ninja" type="atom" id="nngtwmw" sortColumn="time" xmlUrl="http://arm.ninja/atom.xml" htmlUrl="http://arm.ninja/" updateInterval="-1" collapsed="true"/>
+        <outline title="Azeria Labs" text="Azeria Labs" description="Azeria Labs" type="rss" id="jrbaabd" sortColumn="time" xmlUrl="https://azeria-labs.com/feed/" htmlUrl="https://azeria-labs.com" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Linux" text="Linux" description="Linux" type="folder" id="wyjprim" sortColumn="time" collapsed="true">
+        <outline title="Julia Evans" text="Julia Evans" description="Julia Evans" type="atom" id="cgindpw" sortColumn="time" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca" updateInterval="-1" collapsed="true"/>
+        <outline title="Blog | Javier Martinez Canillas" text="Blog | Javier Martinez Canillas" description="Blog | Javier Martinez Canillas" type="rss" id="qgelmhq" sortColumn="time" xmlUrl="https://blog.dowhile0.org/feed/" htmlUrl="https://blog.dowhile0.org" updateInterval="-1" collapsed="true"/>
+        <outline title="Linux Audit" text="Linux Audit" description="Linux Audit" type="rss" id="ojhnlla" sortColumn="time" xmlUrl="https://linux-audit.com/feed/" htmlUrl="https://linux-audit.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Blog &#x2013; Sysdig" text="Blog &#x2013; Sysdig" description="Blog &#x2013; Sysdig" type="rss" id="cpwdwdx" sortColumn="time" xmlUrl="https://sysdig.com/blog/feed/" htmlUrl="https://sysdig.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Brendan Gregg's Blog" text="Brendan Gregg's Blog" description="Brendan Gregg's Blog" type="rss" id="cmesjka" sortColumn="time" xmlUrl="http://www.brendangregg.com/blog/rss.xml" htmlUrl="http://www.brendangregg.com/blog" updateInterval="-1" collapsed="true"/>
+        <outline title="Jovica Ilic" text="Jovica Ilic" description="Jovica Ilic" type="rss" id="cixlkni" sortColumn="time" xmlUrl="https://jovicailic.org/feed/" htmlUrl="https://jovicailic.org" updateInterval="-1" collapsed="true"/>
+        <outline title="/home/ankit" text="/home/ankit" description="/home/ankit" type="atom" id="cnndwgv" sortColumn="time" xmlUrl="https://goyalankit.com/feed.xml" htmlUrl="https://goyalankit.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Own your bits" text="Own your bits" description="Own your bits" type="rss" id="iiimxmw" sortColumn="time" xmlUrl="https://ownyourbits.com/feed/" htmlUrl="https://ownyourbits.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Linux.com - Tutorials" text="Linux.com - Tutorials" description="Linux.com - Tutorials" type="rss" id="ojntlpe" sortColumn="time" xmlUrl="https://www.linux.com/feeds/tutorials/rss" htmlUrl="https://www.linux.com/feeds/tutorials/rss" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Compiler" text="Compiler" description="Compiler" type="folder" id="sblwwxe" sortColumn="time" expanded="true">
+        <outline title="LLVM+Clang" text="LLVM+Clang" description="LLVM+Clang" type="folder" id="ytjlsns" sortColumn="time" expanded="true">
+          <outline title="Jonas Devlieghere" text="Jonas Devlieghere" description="Jonas Devlieghere" type="rss" id="ifehcvb" sortColumn="time" xmlUrl="https://jonasdevlieghere.com/rss/" htmlUrl="https://jonasdevlieghere.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="Embedded in Academia" text="Embedded in Academia" description="Embedded in Academia" type="rss" id="ojktowy" sortColumn="time" xmlUrl="https://blog.regehr.org/feed" htmlUrl="https://blog.regehr.org" updateInterval="-1" collapsed="true"/>
+          <outline title="Adrian Sampson" text="Adrian Sampson" description="Adrian Sampson" type="atom" id="fnjkeeh" sortColumn="time" xmlUrl="http://www.cs.cornell.edu/~asampson/blog.xml" htmlUrl="http://www.cs.cornell.edu/~asampson/" updateInterval="-1" collapsed="true"/>
+          <outline title="LLVM Project Blog" text="LLVM Project Blog" description="LLVM Project Blog" type="atom" id="dknkrcx" sortColumn="time" xmlUrl="http://blog.llvm.org/feeds/posts/default" htmlUrl="http://blog.llvm.org/" updateInterval="-1" collapsed="true"/>
+          <outline title="Duskborn" text="Duskborn" description="Duskborn" type="rss" id="ngugqco" sortColumn="time" xmlUrl="http://www.duskborn.com/feed/" htmlUrl="http://www.duskborn.com" updateInterval="-1" collapsed="true"/>
+        </outline>
+        <outline title="Wilfred Hughes::Blog" text="Wilfred Hughes::Blog" description="Wilfred Hughes::Blog" type="rss" id="cnjvefh" sortColumn="time" xmlUrl="http://www.wilfred.me.uk/rss.xml" htmlUrl="http://www.wilfred.me.uk/" updateInterval="-1" collapsed="true"/>
+        <outline title="null program" text="null program" description="null program" type="atom" id="rldpidl" sortColumn="time" xmlUrl="http://nullprogram.com/feed/" htmlUrl="http://nullprogram.com" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Tech" text="Tech" description="Tech" type="folder" id="ukbnocb" sortColumn="time" expanded="true">
+        <outline title="DutchCoders" text="DutchCoders" description="DutchCoders" type="rss" id="rnqbjfk" sortColumn="time" xmlUrl="http://blog.dutchcoders.io/rss/" htmlUrl="http://blog.dutchcoders.io/" updateInterval="-1" collapsed="true"/>
+        <outline title="matt.sh" text="matt.sh" description="matt.sh" type="rss" id="gurqbqw" sortColumn="time" xmlUrl="https://matt.sh/.rss" htmlUrl="https://matt.sh/" updateInterval="-1" collapsed="true"/>
+        <outline title="Ochronus onLine" text="Ochronus onLine" description="Ochronus onLine" type="atom" id="pmhrtwl" sortColumn="time" xmlUrl="https://ochronus.com/atom.xml" htmlUrl="https://ochronus.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Say what?" text="Say what?" description="Say what?" type="atom" id="eriuyxa" sortColumn="time" xmlUrl="http://www.kfirlavi.com/atom.xml" htmlUrl="http://www.kfirlavi.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Brian Caffey" text="Brian Caffey" description="Brian Caffey" type="rss" id="wcixael" sortColumn="time" xmlUrl="https://briancaffey.github.io/feed" htmlUrl="https://briancaffey.github.io/" updateInterval="-1" collapsed="true"/>
+        <outline title="OSS Blog" text="OSS Blog" description="OSS Blog" type="rss" id="paxygrh" sortColumn="time" xmlUrl="https://www.ossblog.org/feed/" htmlUrl="https://www.ossblog.org" updateInterval="-1" collapsed="true"/>
+        <outline title="Blog# Blog &#xB7; Dmitry Frank" text="Blog# Blog &#xB7; Dmitry Frank" description="Blog# Blog &#xB7; Dmitry Frank" type="rss" id="nflkygf" sortColumn="time" xmlUrl="https://dmitryfrank.com/lib/plugins/feed/feed.php?plugin=blog&amp;fn=getBlog&amp;ns=blog&amp;title=Blog" htmlUrl="https://dmitryfrank.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Opensource.com" text="Opensource.com" description="Opensource.com" type="rss" id="obpxape" sortColumn="time" xmlUrl="https://opensource.com/feed" htmlUrl="https://opensource.com/frontpage" updateInterval="-1" collapsed="true"/>
+        <outline title="Michael Snoyman's blog" text="Michael Snoyman's blog" description="Michael Snoyman's blog" type="atom" id="mhgfixv" sortColumn="time" xmlUrl="https://www.snoyman.com/feed" htmlUrl="https://www.snoyman.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="The DEV Community" text="The DEV Community" description="The DEV Community" type="rss" id="ggdlkyx" sortColumn="time" xmlUrl="https://dev.to/rss" htmlUrl="https://dev.to" updateInterval="-1" collapsed="true"/>
+        <outline title="good coders code, great coders reuse" text="good coders code, great coders reuse" description="good coders code, great coders reuse" type="atom" id="akcbxsa" sortColumn="time" xmlUrl="http://feeds2.feedburner.com/catonmat" htmlUrl="http://www.catonmat.net" updateInterval="-1" collapsed="true"/>
+        <outline title="codemiller" text="codemiller" description="codemiller" type="atom" id="igudbov" sortColumn="time" xmlUrl="http://www.codemiller.com/atom.xml" htmlUrl="http://www.codemiller.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="Haskell for all" text="Haskell for all" description="Haskell for all" type="atom" id="vikydsj" sortColumn="time" xmlUrl="http://www.haskellforall.com/atom.xml" htmlUrl="http://www.haskellforall.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="The musings of bluz71" text="The musings of bluz71" description="The musings of bluz71" type="atom" id="lteldwb" sortColumn="time" xmlUrl="https://bluz71.github.io/feed" htmlUrl="https://bluz71.github.io/" updateInterval="-1" collapsed="true"/>
+        <outline title="Nicole Orchard" text="Nicole Orchard" description="Nicole Orchard" type="rss" id="fxbpwqe" sortColumn="time" xmlUrl="https://nicoleorchard.com/feed" htmlUrl="https://nicoleorchard.com" updateInterval="-1" collapsed="true"/>
+        <outline title="A CODER'S JOURNEY" text="A CODER'S JOURNEY" description="A CODER'S JOURNEY" type="rss" id="oplrvph" sortColumn="time" xmlUrl="http://www.acodersjourney.com/feed/" htmlUrl="http://www.acodersjourney.com" updateInterval="-1" collapsed="true"/>
+        <outline title="[RSS/Feed] nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" text="[RSS/Feed] nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" description="[RSS/Feed] nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" type="atom" id="fvjmlgx" sortColumn="time" xmlUrl="https://www.cyberciti.biz/atom-n-free/atom.xml" htmlUrl="https://www.cyberciti.biz/" updateInterval="-1" collapsed="true"/>
+        <outline title="Let's Build a Simple Database" text="Let's Build a Simple Database" description="Let's Build a Simple Database" type="rss" id="nueprnr" sortColumn="time" xmlUrl="https://cstack.github.io/db_tutorial/feed.xml" htmlUrl="https://cstack.github.io/db_tutorial" updateInterval="-1" collapsed="true"/>
+        <outline title="daniel.haxx.se" text="daniel.haxx.se" description="daniel.haxx.se" type="rss" id="cseyqvr" sortColumn="time" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" updateInterval="-1" collapsed="true"/>
+        <outline title="Page Fault Blog" text="Page Fault Blog" description="Page Fault Blog" type="rss" id="nssbgkh" sortColumn="time" xmlUrl="https://pagefault.blog/feed/" htmlUrl="https://pagefault.blog" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Security" text="Security" description="Security" type="folder" id="xchefnu" sortColumn="time" expanded="true">
+        <outline title="Bit Rot" text="Bit Rot" description="Bit Rot" type="rss" id="xkajjdn" sortColumn="time" xmlUrl="https://bitrot.sh/index.xml" htmlUrl="https://bitrot.sh/" updateInterval="-1" collapsed="true"/>
+        <outline title="Dhaval Kapil" text="Dhaval Kapil" description="Dhaval Kapil" type="atom" id="siiubbm" sortColumn="time" xmlUrl="https://dhavalkapil.com/atom.xml" htmlUrl="https://dhavalkapil.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="The Official Radare Blog" text="The Official Radare Blog" description="The Official Radare Blog" type="rss" id="vfnwrdc" sortColumn="time" xmlUrl="http://radare.today/index.xml" htmlUrl="http://radare.today/" updateInterval="-1" collapsed="true"/>
+        <outline title="sploitF-U-N" text="sploitF-U-N" description="sploitF-U-N" type="rss" id="dpgmked" sortColumn="time" xmlUrl="https://sploitfun.wordpress.com/feed/" htmlUrl="https://sploitfun.wordpress.com" updateInterval="-1" collapsed="true"/>
+        <outline title="Megabeets" text="Megabeets" description="Megabeets" type="rss" id="knvgjtm" sortColumn="time" xmlUrl="https://www.megabeets.net/feed/" htmlUrl="https://www.megabeets.net" updateInterval="-1" collapsed="true"/>
+        <outline title="Project Zero" text="Project Zero" description="Project Zero" type="atom" id="cvpdixu" sortColumn="time" xmlUrl="https://googleprojectzero.blogspot.co.uk/atom.xml" htmlUrl="https://googleprojectzero.blogspot.com/" updateInterval="-1" collapsed="true"/>
+        <outline title="dabooze" text="dabooze" description="dabooze" type="rss" id="obysnon" sortColumn="time" xmlUrl="https://dilsec.com/feed/" htmlUrl="https://dilsec.com" updateInterval="-1" collapsed="true"/>
+        <outline title="New Subscription" text="New Subscription" description="New Subscription" id="hbwrfyi" sortColumn="time" xmlUrl="https://blog.ropnop.com/rss/" htmlUrl="" updateInterval="-1" collapsed="true"/>
+        <outline title="Securelist - Kaspersky Lab&#x2019;s cyberthreat research and reports" text="Securelist - Kaspersky Lab&#x2019;s cyberthreat research and reports" description="Securelist - Kaspersky Lab&#x2019;s cyberthreat research and reports" type="rss" id="hokgdmy" sortColumn="time" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com" updateInterval="-1" collapsed="true"/>
+        <outline title="SensePost" text="SensePost" description="SensePost" type="rss" id="nbpfias" sortColumn="time" xmlUrl="https://sensepost.com/rss.xml" htmlUrl="https://sensepost.com/rss.xml" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="K8s" text="K8s" description="K8s" type="folder" id="pwnomsl" sortColumn="time" expanded="true">
+        <outline title="Kubernetes &#x2013; Production-Grade Container Orchestration" text="Kubernetes &#x2013; Production-Grade Container Orchestration" description="Kubernetes &#x2013; Production-Grade Container Orchestration" type="rss" id="cghihyd" sortColumn="time" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="BSD" text="BSD" description="BSD" type="folder" id="prdhqox" sortColumn="time" expanded="true">
+        <outline title="" text="" description="" type="atom" id="jtfyebw" sortColumn="time" xmlUrl="https://cooltrainer.org/atom.xml" htmlUrl="https://cooltrainer.org/" updateInterval="-1" collapsed="true"/>
+        <outline title="joshua stein: Writings" text="joshua stein: Writings" description="joshua stein: Writings" type="rss" id="hrscgbi" sortColumn="time" xmlUrl="https://jcs.org/rss/writings" htmlUrl="https://jcs.org/writings/" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Programming" text="Programming" description="Programming" type="folder" id="aomehby" sortColumn="time" expanded="true">
+        <outline title="C++" text="C++" description="C++" type="folder" id="tvowesa" sortColumn="time" expanded="true">
+          <outline title="Andrzej's C++ blog" text="Andrzej's C++ blog" description="Andrzej's C++ blog" type="rss" id="agmayuf" sortColumn="time" xmlUrl="https://akrzemi1.wordpress.com/feed/" htmlUrl="https://akrzemi1.wordpress.com" updateInterval="-1" collapsed="true"/>
+          <outline title="From Mordor, with love" text="From Mordor, with love" description="From Mordor, with love" type="atom" id="hubbjcj" sortColumn="time" xmlUrl="http://templated-thoughts.blogspot.com/feeds/posts/default" htmlUrl="http://templated-thoughts.blogspot.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="Modernes C++ - ModernesCpp.com" text="Modernes C++ - ModernesCpp.com" description="Modernes C++ - ModernesCpp.com" type="rss" id="pqgmmga" sortColumn="time" xmlUrl="http://www.modernescpp.com/index.php?format=feed&amp;type=rss" htmlUrl="http://www.modernescpp.com" updateInterval="-1" collapsed="true"/>
+          <outline title="Growing up" text="Growing up" description="Growing up" type="rss" id="dmkkrbo" sortColumn="time" xmlUrl="https://marcoarena.wordpress.com/feed/" htmlUrl="https://marcoarena.wordpress.com" updateInterval="-1" collapsed="true"/>
+          <outline title="Shahar Mike's Web Spot" text="Shahar Mike's Web Spot" description="Shahar Mike's Web Spot" type="rss" id="iweygyo" sortColumn="time" xmlUrl="https://shaharmike.com/index.xml" htmlUrl="https://shaharmike.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="Probably Dance" text="Probably Dance" description="Probably Dance" type="rss" id="rakaxar" sortColumn="time" xmlUrl="https://probablydance.com/feed/" htmlUrl="https://probablydance.com" updateInterval="-1" collapsed="true"/>
+          <outline title="It's compiling." text="It's compiling." description="It's compiling." type="rss" id="lbopfpo" sortColumn="time" xmlUrl="http://itscompiling.eu/feed/" htmlUrl="http://itscompiling.eu" updateInterval="-1" collapsed="true"/>
+          <outline title="Bartek's coding blog" text="Bartek's coding blog" description="Bartek's coding blog" type="atom" id="sutwhoe" sortColumn="time" xmlUrl="http://feeds.feedburner.com/codeandgraphics" htmlUrl="https://www.bfilipek.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="Haitham Gad's Blog" text="Haitham Gad's Blog" description="Haitham Gad's Blog" type="atom" id="daubers" sortColumn="time" xmlUrl="https://hgad.net/feed" htmlUrl="https://hgad.net" updateInterval="-1" collapsed="true"/>
+          <outline title="Simplify C++!" text="Simplify C++!" description="Simplify C++!" type="rss" id="kwcrpmj" sortColumn="time" xmlUrl="https://arne-mertz.de/feed/" htmlUrl="https://arne-mertz.de" updateInterval="-1" collapsed="true"/>
+          <outline title="Victor Laskin's Blog" text="Victor Laskin's Blog" description="Victor Laskin's Blog" type="rss" id="anafvno" sortColumn="time" xmlUrl="http://vitiy.info/feed/" htmlUrl="http://vitiy.info" updateInterval="-1" collapsed="true"/>
+          <outline title="Preshing on Programming" text="Preshing on Programming" description="Preshing on Programming" type="atom" id="txndwli" sortColumn="time" xmlUrl="http://preshing.com/feed" htmlUrl="http://preshing.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="Andreas Herrmann" text="Andreas Herrmann" description="Andreas Herrmann" type="atom" id="uurdubn" sortColumn="time" xmlUrl="http://aherrmann.github.io/atom.xml" htmlUrl="http://aherrmann.github.io" updateInterval="-1" collapsed="true"/>
+          <outline title="New Subscription" text="New Subscription" description="New Subscription" id="lgffkeu" sortColumn="time" xmlUrl="http://manu343726.github.io/feed.xml" htmlUrl="" updateInterval="-1" collapsed="true"/>
+          <outline title="Krister Walfridsson&#x2019;s blog" text="Krister Walfridsson&#x2019;s blog" description="Krister Walfridsson&#x2019;s blog" type="atom" id="keyclrp" sortColumn="time" xmlUrl="http://feeds.feedburner.com/KristerWalfridssonsBlog" htmlUrl="https://kristerw.blogspot.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="C++ While True" text="C++ While True" description="C++ While True" type="rss" id="bdijmqf" sortColumn="time" xmlUrl="http://larshagencpp.github.io/feed" htmlUrl="http://larshagencpp.github.io" updateInterval="-1" collapsed="true"/>
+          <outline title="Fluent C++" text="Fluent C++" description="Fluent C++" type="rss" id="ogxpihl" sortColumn="time" xmlUrl="https://www.fluentcpp.com/feed/" htmlUrl="https://www.fluentcpp.com" updateInterval="-1" collapsed="true"/>
+          <outline title="Diusrex" text="Diusrex" description="Diusrex" type="rss" id="nwlvlft" sortColumn="time" xmlUrl="http://www.diusrex.com/feed/" htmlUrl="http://www.diusrex.com" updateInterval="-1" collapsed="true"/>
+          <outline title="KDAB Blogs &#x2013; KDAB" text="KDAB Blogs &#x2013; KDAB" description="KDAB Blogs &#x2013; KDAB" type="rss" id="aljwesm" sortColumn="time" xmlUrl="https://www.kdab.com/category/blogs/feed/" htmlUrl="https://www.kdab.com" updateInterval="-1" collapsed="true"/>
+          <outline title="Simon Brand" text="Simon Brand" description="Simon Brand" type="rss" id="pnlpjxm" sortColumn="time" xmlUrl="https://blog.tartanllama.xyz/feed.xml" htmlUrl="https://blog.tartanllama.xyz/" updateInterval="-1" collapsed="true"/>
+          <outline title="Jackie Kay" text="Jackie Kay" description="Jackie Kay" type="rss" id="kewmjem" sortColumn="time" xmlUrl="http://jackieokay.com/feed.xml" htmlUrl="http://jackieokay.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="Gordon Brown onC++, Gamedev, Heterogeneous Computing" text="Gordon Brown onC++, Gamedev, Heterogeneous Computing" description="Gordon Brown onC++, Gamedev, Heterogeneous Computing" type="rss" id="efemknq" sortColumn="time" xmlUrl="http://www.aerialmantis.co.uk/feed" htmlUrl="https://aerialmantis.github.io/" updateInterval="-1" collapsed="true"/>
+          <outline title="vittorio romeo's website" text="vittorio romeo's website" description="vittorio romeo's website" type="rss" id="amwtnlb" sortColumn="time" xmlUrl="https://vittorioromeo.info/index.rss" htmlUrl="http://vittorioromeo.info" updateInterval="-1" collapsed="true"/>
+          <outline title="About The Little I know" text="About The Little I know" description="About The Little I know" type="atom" id="sopntvj" sortColumn="time" xmlUrl="http://ariasalpablo.blogspot.co.uk/atom.xml" htmlUrl="http://ariasalpablo.blogspot.com/" updateInterval="-1" collapsed="true"/>
+          <outline title="Marius Bancila's Blog" text="Marius Bancila's Blog" description="Marius Bancila's Blog" type="rss" id="okbncpt" sortColumn="time" xmlUrl="https://mariusbancila.ro/blog/feed/" htmlUrl="https://mariusbancila.ro/blog" updateInterval="-1" collapsed="true"/>
+        </outline>
+        <outline title="Go" text="Go" description="Go" type="folder" id="ibtahpk" sortColumn="time" collapsed="true">
+          <outline title="Segment Blog" text="Segment Blog" description="Segment Blog" type="atom" id="conmogb" sortColumn="time" xmlUrl="https://segment.com/blog/atom.xml" htmlUrl="https://segment.com/blog/atom.xml" updateInterval="-1" collapsed="true"/>
+          <outline title="Melvin Vivas" text="Melvin Vivas" description="Melvin Vivas" type="rss" id="qnvligd" sortColumn="time" xmlUrl="https://www.melvinvivas.com/rss/" htmlUrl="https://localhost:2368/" updateInterval="-1" collapsed="true"/>
+        </outline>
+        <outline title="Rust" text="Rust" description="Rust" type="folder" id="vpslhyu" sortColumn="time" expanded="true">
+          <outline title="Embedded in Rust" text="Embedded in Rust" description="Embedded in Rust" type="rss" id="ausispo" sortColumn="time" xmlUrl="http://blog.japaric.io/index.xml" htmlUrl="http://blog.japaric.io/" updateInterval="-1" collapsed="true"/>
+          <outline title="Ralf's Ramblings" text="Ralf's Ramblings" description="Ralf's Ramblings" type="atom" id="wftwpnu" sortColumn="time" xmlUrl="https://www.ralfj.de/blog/feed.xml" htmlUrl="https://www.ralfj.de/blog/" updateInterval="-1" collapsed="true"/>
+          <outline title="Pascal's Scribbles" text="Pascal's Scribbles" description="Pascal's Scribbles" type="rss" id="ovjeddq" sortColumn="time" xmlUrl="https://deterministic.space/feed.xml" htmlUrl="https://deterministic.space/" updateInterval="-1" collapsed="true"/>
+          <outline title="Yet Another Embedded Software Developer" text="Yet Another Embedded Software Developer" description="Yet Another Embedded Software Developer" type="rss" id="ijcnctu" sortColumn="time" xmlUrl="https://ithinuel.me/feed.xml" htmlUrl="http://ithinuel.me/" updateInterval="-1" collapsed="true"/>
+        </outline>
+        <outline title="Python" text="Python" description="Python" type="folder" id="jcpgdlc" sortColumn="time" collapsed="true">
+          <outline title="Full Stack Python" text="Full Stack Python" description="Full Stack Python" type="rss" id="elmyqol" sortColumn="time" xmlUrl="https://www.fullstackpython.com/feed" htmlUrl="https://www.fullstackpython.com/" updateInterval="-1" collapsed="true"/>
+        </outline>
+      </outline>
+    </outline>
+    <outline title="Comics" text="Comics" description="Comics" type="folder" id="rponiln" sortColumn="time" expanded="true">
+      <outline title="xkcd" text="xkcd" description="xkcd" type="atom" id="qdehweg" sortColumn="time" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="News" text="News" description="News" type="folder" id="prxskqp" sortColumn="time" expanded="true">
+      <outline title="Linux" text="Linux" description="Linux" type="folder" id="khvbocn" sortColumn="time" expanded="true">
+        <outline title="Linux, GNU/Linux, free software..." text="Linux, GNU/Linux, free software..." description="Linux, GNU/Linux, free software..." type="atom" id="kupylvt" sortColumn="time" xmlUrl="https://www.reddit.com/r/linux/.rss" htmlUrl="https://www.reddit.com/r/linux/" updateInterval="-1" collapsed="true"/>
+      </outline>
+      <outline title="Hacker News" text="Hacker News" description="Hacker News" type="rss" id="jpcvcrg" sortColumn="time" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/" updateInterval="-1" collapsed="true"/>
+      <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" id="spcupfy" sortColumn="time" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com" updateInterval="-1" collapsed="true"/>
+      <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" id="shlcgar" sortColumn="time" xmlUrl="http://slashdot.org/slashdot.rss" htmlUrl="https://slashdot.org/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Open Source" text="Open Source" description="Open Source" type="folder" id="tnbfntr" sortColumn="time" expanded="true">
+      <outline title="Liferea Blog" text="Liferea Blog" description="Liferea Blog" type="rss" id="qjqryea" sortColumn="time" xmlUrl="http://feeds.feedburner.com/LifereaBlog" htmlUrl="http://lzone.de/liferea/blog/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Unread" text="Unread" description="Unread" type="vfolder" id="yjgvkhs" sortColumn="time" matchType="any" collapsed="true">
+      <outline type="rule" text="Read status" rule="unread" value="" additive="true"/>
+    </outline>
+    <outline title="Important" text="Important" description="Important" type="vfolder" id="nytrgam" sortColumn="time" matchType="any" collapsed="true">
+      <outline type="rule" text="Flag status" rule="flagged" value="" additive="true"/>
+    </outline>
+  </body>
+</opml>
