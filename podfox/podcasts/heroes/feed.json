@@ -1,77 +1,77 @@
 {
+    "url": "https://feeds.pacific-content.com/commandlineheroes",
+    "title": "Command Line Heroes",
+    "shortname": "heroes",
     "episodes": [
         {
-            "downloaded": true,
+            "published": 1522098000.0,
             "url": "https://tracking.feedpress.it/link/18442/8676494/8a8244c8.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "Days of Future_Open",
-            "published": 1522098000.0
+            "title": "Days of Future_Open"
         },
         {
-            "downloaded": true,
+            "published": 1520892000.0,
             "url": "https://tracking.feedpress.it/link/18442/8535221/83bb194b.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "Crack the Cloud_Open",
-            "published": 1520892000.0
+            "title": "Crack the Cloud_Open"
         },
         {
-            "downloaded": true,
+            "published": 1519682400.0,
             "url": "https://tracking.feedpress.it/link/18442/8401094/3aed4d5c.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "The Containers_Derby",
-            "published": 1519682400.0
+            "title": "The Containers_Derby"
         },
         {
-            "downloaded": true,
+            "published": 1518472800.0,
             "url": "https://tracking.feedpress.it/link/18442/8257010/beffda00.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "DevOps_Tear Down That Wall",
-            "published": 1518472800.0
+            "title": "DevOps_Tear Down That Wall"
         },
         {
-            "downloaded": true,
+            "published": 1517263200.0,
             "url": "https://tracking.feedpress.it/link/18442/8106515/acf5928d.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "The Agile_Revolution",
-            "published": 1517263200.0
+            "title": "The Agile_Revolution"
         },
         {
-            "downloaded": true,
+            "published": 1516053660.0,
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "OS Wars_part 1",
-            "published": 1516053660.0
+            "title": "OS Wars_part 1"
         },
         {
-            "downloaded": true,
+            "published": 1516053660.0,
             "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "OS Wars_part 2: Rise of Linux",
-            "published": 1516053660.0
+            "title": "OS Wars_part 2: Rise of Linux"
         },
         {
-            "downloaded": true,
+            "published": 1516053600.0,
             "url": "https://tracking.feedpress.it/link/18442/8049594/2199861a.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "OS Wars_part 2: Rise of Linux",
-            "published": 1516053600.0
+            "title": "OS Wars_part 2: Rise of Linux"
         },
         {
-            "downloaded": true,
+            "published": 1516053600.0,
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3",
+            "downloaded": true,
             "listened": false,
-            "title": "OS Wars_part 1",
-            "published": 1516053600.0
+            "title": "OS Wars_part 1"
         },
         {
-            "downloaded": false,
+            "published": 1512108000.0,
             "url": "https://tracking.feedpress.it/link/18442/7582651/3def9db9.mp3",
+            "downloaded": false,
             "listened": false,
-            "title": "Preview_CLH",
-            "published": 1512108000.0
+            "title": "Preview_CLH"
         }
-    ],
-    "url": "https://feeds.pacific-content.com/commandlineheroes",
-    "shortname": "heroes",
-    "title": "Command Line Heroes"
+    ]
 }
