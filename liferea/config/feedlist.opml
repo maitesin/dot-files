@@ -56,6 +56,7 @@
         <outline title="Let's Build a Simple Database" text="Let's Build a Simple Database" description="Let's Build a Simple Database" type="rss" id="nueprnr" sortColumn="time" xmlUrl="https://cstack.github.io/db_tutorial/feed.xml" htmlUrl="https://cstack.github.io/db_tutorial" updateInterval="-1" collapsed="true"/>
         <outline title="daniel.haxx.se" text="daniel.haxx.se" description="daniel.haxx.se" type="rss" id="cseyqvr" sortColumn="time" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" updateInterval="-1" collapsed="true"/>
         <outline title="Page Fault Blog" text="Page Fault Blog" description="Page Fault Blog" type="rss" id="nssbgkh" sortColumn="time" xmlUrl="https://pagefault.blog/feed/" htmlUrl="https://pagefault.blog" updateInterval="-1" collapsed="true"/>
+        <outline title="Mozilla Hacks &#x2013; the Web developer blog" text="Mozilla Hacks &#x2013; the Web developer blog" description="Mozilla Hacks &#x2013; the Web developer blog" type="rss" id="usfmyxu" sortColumn="time" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org" updateInterval="-1" collapsed="true"/>
       </outline>
       <outline title="Security" text="Security" description="Security" type="folder" id="xchefnu" sortColumn="time" expanded="true">
         <outline title="Bit Rot" text="Bit Rot" description="Bit Rot" type="rss" id="xkajjdn" sortColumn="time" xmlUrl="https://bitrot.sh/index.xml" htmlUrl="https://bitrot.sh/" updateInterval="-1" collapsed="true"/>
