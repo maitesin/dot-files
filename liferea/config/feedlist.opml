@@ -128,7 +128,6 @@
       </outline>
       <outline title="Hacker News" text="Hacker News" description="Hacker News" type="rss" id="jpcvcrg" sortColumn="time" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/" updateInterval="-1" collapsed="true"/>
       <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" id="spcupfy" sortColumn="time" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com" updateInterval="-1" collapsed="true"/>
-      <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" id="shlcgar" sortColumn="time" xmlUrl="http://slashdot.org/slashdot.rss" htmlUrl="https://slashdot.org/" updateInterval="-1" collapsed="true"/>
     </outline>
     <outline title="Open Source" text="Open Source" description="Open Source" type="folder" id="tnbfntr" sortColumn="time" expanded="true">
       <outline title="Liferea Blog" text="Liferea Blog" description="Liferea Blog" type="rss" id="qjqryea" sortColumn="time" xmlUrl="http://feeds.feedburner.com/LifereaBlog" htmlUrl="http://lzone.de/liferea/blog/" updateInterval="-1" collapsed="true"/>
