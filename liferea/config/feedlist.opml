@@ -57,6 +57,7 @@
         <outline title="daniel.haxx.se" text="daniel.haxx.se" description="daniel.haxx.se" type="rss" id="cseyqvr" sortColumn="time" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog" updateInterval="-1" collapsed="true"/>
         <outline title="Page Fault Blog" text="Page Fault Blog" description="Page Fault Blog" type="rss" id="nssbgkh" sortColumn="time" xmlUrl="https://pagefault.blog/feed/" htmlUrl="https://pagefault.blog" updateInterval="-1" collapsed="true"/>
         <outline title="Mozilla Hacks &#x2013; the Web developer blog" text="Mozilla Hacks &#x2013; the Web developer blog" description="Mozilla Hacks &#x2013; the Web developer blog" type="rss" id="usfmyxu" sortColumn="time" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org" updateInterval="-1" collapsed="true"/>
+        <outline title="Denis Bakhvalov" text="Denis Bakhvalov" description="Denis Bakhvalov" type="atom" id="eupcsim" sortColumn="time" xmlUrl="https://dendibakh.github.io/feed.xml" htmlUrl="https://dendibakh.github.io/" updateInterval="-1" collapsed="true"/>
       </outline>
       <outline title="Security" text="Security" description="Security" type="folder" id="xchefnu" sortColumn="time" expanded="true">
         <outline title="Bit Rot" text="Bit Rot" description="Bit Rot" type="rss" id="xkajjdn" sortColumn="time" xmlUrl="https://bitrot.sh/index.xml" htmlUrl="https://bitrot.sh/" updateInterval="-1" collapsed="true"/>
@@ -114,6 +115,7 @@
           <outline title="Ralf's Ramblings" text="Ralf's Ramblings" description="Ralf's Ramblings" type="atom" id="wftwpnu" sortColumn="time" xmlUrl="https://www.ralfj.de/blog/feed.xml" htmlUrl="https://www.ralfj.de/blog/" updateInterval="-1" collapsed="true"/>
           <outline title="Pascal's Scribbles" text="Pascal's Scribbles" description="Pascal's Scribbles" type="rss" id="ovjeddq" sortColumn="time" xmlUrl="https://deterministic.space/feed.xml" htmlUrl="https://deterministic.space/" updateInterval="-1" collapsed="true"/>
           <outline title="Yet Another Embedded Software Developer" text="Yet Another Embedded Software Developer" description="Yet Another Embedded Software Developer" type="rss" id="ijcnctu" sortColumn="time" xmlUrl="https://ithinuel.me/feed.xml" htmlUrl="http://ithinuel.me/" updateInterval="-1" collapsed="true"/>
+          <outline title="Ivan Dubrov" text="Ivan Dubrov" description="Ivan Dubrov" type="atom" id="qktrkhy" sortColumn="time" xmlUrl="https://idubrov.github.io/feed.xml" htmlUrl="https://idubrov.github.io/" updateInterval="-1" collapsed="true"/>
         </outline>
         <outline title="Python" text="Python" description="Python" type="folder" id="jcpgdlc" sortColumn="time" expanded="true">
           <outline title="Full Stack Python" text="Full Stack Python" description="Full Stack Python" type="rss" id="elmyqol" sortColumn="time" xmlUrl="https://www.fullstackpython.com/feed" htmlUrl="https://www.fullstackpython.com/" updateInterval="-1" collapsed="true"/>
