@@ -1,77 +1,77 @@
 {
     "title": "Unnamed Reverse Engineering Podcast",
-    "shortname": "reverse",
-    "url": "http://reverseengineering.libsyn.com/rss",
     "episodes": [
         {
-            "listened": false,
+            "published": 1526347663.0,
             "title": "010 - T0015! Part 0x3 - Debug Interfaces",
+            "listened": false,
             "downloaded": true,
-            "url": "http://traffic.libsyn.com/reverseengineering/unnamed_RE_010.mp3?dest-id=552832",
-            "published": 1526347663.0
+            "url": "http://traffic.libsyn.com/reverseengineering/unnamed_RE_010.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1523758535.0,
             "title": "009 - T0015! Part 0x2: All Ur sigs R belong to uS.",
+            "listened": false,
             "downloaded": true,
-            "url": "http://traffic.libsyn.com/reverseengineering/episode9.mp3?dest-id=552832",
-            "published": 1523758535.0
+            "url": "http://traffic.libsyn.com/reverseengineering/episode9.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1520579435.0,
             "title": "008 - T0015! Part 0x1",
+            "listened": false,
             "downloaded": true,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_8.mp3?dest-id=552832",
-            "published": 1520579435.0
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_8.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1514962863.0,
             "title": "007 -Candy Coated",
+            "listened": false,
             "downloaded": true,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832",
-            "published": 1514962863.0
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1512531587.0,
             "title": "006 -   Marketing Via Stickers",
+            "listened": false,
             "downloaded": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832",
-            "published": 1512531587.0
+            "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1509929618.0,
             "title": "005 - Circuits That Go Nowhere",
+            "listened": false,
             "downloaded": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_5.mp3?dest-id=552832",
-            "published": 1509929618.0
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_5.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1507864639.0,
             "title": "004 - 0x0FF the Rails",
+            "listened": false,
             "downloaded": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode_4.mp3?dest-id=552832",
-            "published": 1507864639.0
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_4.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1505683517.0,
             "title": "003 - Barbies and Keyboards",
+            "listened": false,
             "downloaded": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode3.mp3?dest-id=552832",
-            "published": 1505683517.0
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode3.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1504061116.0,
             "title": "002 - Cheap And Easy",
+            "listened": false,
             "downloaded": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/episode_002.mp3?dest-id=552832",
-            "published": 1504061116.0
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_002.mp3?dest-id=552832"
         },
         {
-            "listened": false,
+            "published": 1502762913.0,
             "title": "001 - Success!",
+            "listened": false,
             "downloaded": false,
-            "url": "http://traffic.libsyn.com/reverseengineering/Episode1.mp3?dest-id=552832",
-            "published": 1502762913.0
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode1.mp3?dest-id=552832"
         }
-    ]
+    ],
+    "shortname": "reverse",
+    "url": "http://reverseengineering.libsyn.com/rss"
 }

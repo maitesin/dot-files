@@ -1,4 +1,6 @@
 {
+    "shortname": "newrust",
+    "title": "New Rustacean",
     "episodes": [
         {
             "published": 1527800027.0,
@@ -533,7 +535,5 @@
             "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e017.mp3"
         }
     ],
-    "shortname": "newrust",
-    "title": "New Rustacean",
     "url": "http://www.newrustacean.com/feed.xml"
 }
