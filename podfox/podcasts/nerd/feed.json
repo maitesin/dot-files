@@ -1,392 +1,399 @@
 {
-    "shortname": "nerd",
+    "title": "The Full Nerd",
+    "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "listened": false,
+            "title": "Episode 55: 32-core Threadripper 2, no GeForce for you & more - Live from Computex 2018",
+            "published": 1528313315.0,
+            "downloaded": true,
+            "url": "http://feeds.soundcloud.com/stream/454775160-thefullnerd-episode-55-32-core-threadripper-2-no-geforce-for-you-more-live-from-computex-2018.mp3"
+        },
+        {
+            "listened": false,
+            "title": "Episode 54: Computex predictions, Optane RAM, cooled HP headset, and Q&A",
             "published": 1527799200.0,
-            "url": "http://feeds.soundcloud.com/stream/451953168-thefullnerd-ep-54-computex-predictions-optane-ram-cooled-hp-headset-and-qa.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 54: Computex predictions, Optane RAM, cooled HP headset, and Q&A"
+            "url": "http://feeds.soundcloud.com/stream/451953168-thefullnerd-ep-54-computex-predictions-optane-ram-cooled-hp-headset-and-qa.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 53: Razer Blade & Core X, NZXT H500i, 3GB GTX 1050, new CPU flaw?",
             "published": 1527199164.0,
-            "url": "http://feeds.soundcloud.com/stream/448763958-thefullnerd-episode-53-razer-blade-core-x-nzxt-h500i-3gb-gtx-1050-new-cpu-flaw.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 53: Razer Blade & Core X, NZXT H500i, 3GB GTX 1050, new CPU flaw?"
+            "url": "http://feeds.soundcloud.com/stream/448763958-thefullnerd-episode-53-razer-blade-core-x-nzxt-h500i-3gb-gtx-1050-new-cpu-flaw.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 52: Z390 Chipset, Coffee Lake H vs Kaby Lake G, and Corsair 1000D case",
             "published": 1526584612.0,
-            "url": "http://feeds.soundcloud.com/stream/445502337-thefullnerd-episode-52-z390-chipset-coffee-lake-h-vs-kaby-lake-g-and-corsair-1000d-case.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 52: Z390 Chipset, Coffee Lake H vs Kaby Lake G, and Corsair 1000D case"
+            "url": "http://feeds.soundcloud.com/stream/445502337-thefullnerd-episode-52-z390-chipset-coffee-lake-h-vs-kaby-lake-g-and-corsair-1000d-case.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 51: Nvidia's GPP is dead, G-Sync HDR is here, CPU roadmaps have leaked, and Q&A",
             "published": 1525988968.0,
-            "url": "http://feeds.soundcloud.com/stream/442335066-thefullnerd-episode-51-nvidias-gpp-is-dead-g-sync-hdr-is-here-cpu-roadmaps-have-leaked-and-qa.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 51: Nvidia's GPP is dead, G-Sync HDR is here, CPU roadmaps have leaked, and Q&A"
+            "url": "http://feeds.soundcloud.com/stream/442335066-thefullnerd-episode-51-nvidias-gpp-is-dead-g-sync-hdr-is-here-cpu-roadmaps-have-leaked-and-qa.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 50: Intel's 10nm delay, Intel poaches AMD gurus, and extensive Q&A",
             "published": 1525205325.0,
-            "url": "http://feeds.soundcloud.com/stream/437984313-thefullnerd-episode-50-intels-10nm-delay-intel-poaches-amd-gurus-and-extensive-qa.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 50: Intel's 10nm delay, Intel poaches AMD gurus, and extensive Q&A"
+            "url": "http://feeds.soundcloud.com/stream/437984313-thefullnerd-episode-50-intels-10nm-delay-intel-poaches-amd-gurus-and-extensive-qa.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 49: Samsung 970 Pro review, FreeSync 2 & PC HDR, AMD Gaming Crates, and more",
             "published": 1524687471.0,
-            "url": "http://feeds.soundcloud.com/stream/435168096-thefullnerd-episode-49-samsung-970-pro-review-freesync-2-pc-hdr-amd-gaming-crates-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 49: Samsung 970 Pro review, FreeSync 2 & PC HDR, AMD Gaming Crates, and more"
+            "url": "http://feeds.soundcloud.com/stream/435168096-thefullnerd-episode-49-samsung-970-pro-review-freesync-2-pc-hdr-amd-gaming-crates-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 48: 2nd Gen Ryzen reviews are out, AMD takes on Nvidia's GPP, and more",
             "published": 1524262386.0,
-            "url": "http://feeds.soundcloud.com/stream/432837300-thefullnerd-episode-48-2nd-gen-ryzen-reviews-are-out-amd-takes-on-nvidias-gpp-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 48: 2nd Gen Ryzen reviews are out, AMD takes on Nvidia's GPP, and more"
+            "url": "http://feeds.soundcloud.com/stream/432837300-thefullnerd-episode-48-2nd-gen-ryzen-reviews-are-out-amd-takes-on-nvidias-gpp-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 47: 2nd-gen Ryzen Q&A with AMD SVP Jim Anderson",
             "published": 1524139204.0,
-            "url": "http://feeds.soundcloud.com/stream/431209944-thefullnerd-episode-47-2nd-gen-ryzen-qa-with-amd-svp-jim-anderson.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 47: 2nd-gen Ryzen Q&A with AMD SVP Jim Anderson"
+            "url": "http://feeds.soundcloud.com/stream/431209944-thefullnerd-episode-47-2nd-gen-ryzen-qa-with-amd-svp-jim-anderson.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 46: 2nd Gen Ryzen revealed! Is Kaby Lake G really Vega? Radeon RX 500X GPUs",
             "published": 1523651237.0,
-            "url": "http://feeds.soundcloud.com/stream/429353157-thefullnerd-episode-46-2nd-gen-ryzen-revealed-is-kaby-lake-g-really-vega-radeon-rx-500x-gpus.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 46: 2nd Gen Ryzen revealed! Is Kaby Lake G really Vega? Radeon RX 500X GPUs"
+            "url": "http://feeds.soundcloud.com/stream/429353157-thefullnerd-episode-46-2nd-gen-ryzen-revealed-is-kaby-lake-g-really-vega-radeon-rx-500x-gpus.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 45: Intel Core i9 for Laptops, Hades Canyon NUC, and More",
             "published": 1522782454.0,
-            "url": "http://feeds.soundcloud.com/stream/424329567-thefullnerd-episode-45-intel-core-i9-for-laptops-hades-canyon-nuc-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 45: Intel Core i9 for Laptops, Hades Canyon NUC, and More"
+            "url": "http://feeds.soundcloud.com/stream/424329567-thefullnerd-episode-45-intel-core-i9-for-laptops-hades-canyon-nuc-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Zen+ Rumors, Dell XPS Review, the Future of Graphics, and More | The Full Nerd Ep. 44",
             "published": 1522261652.0,
-            "url": "http://feeds.soundcloud.com/stream/421472241-thefullnerd-zen-rumors-dell-xps-review-the-future-of-graphics-and-more-the-full-nerd-ep-44.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Zen+ Rumors, Dell XPS Review, the Future of Graphics, and More | The Full Nerd Ep. 44"
+            "url": "http://feeds.soundcloud.com/stream/421472241-thefullnerd-zen-rumors-dell-xps-review-the-future-of-graphics-and-more-the-full-nerd-ep-44.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 43: Kyle Bennett from HardOCP joins us to talk about Nvidia's Geforce Partnership Program",
             "published": 1520970687.0,
-            "url": "http://feeds.soundcloud.com/stream/413193756-thefullnerd-episode-43-kyle-bennett-from-hardocp-joins-us-to-talk-about-nvidias-controversial-geforce-partnership-program.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 43: Kyle Bennett from HardOCP joins us to talk about Nvidia's Geforce Partnership Program"
+            "url": "http://feeds.soundcloud.com/stream/413193756-thefullnerd-episode-43-kyle-bennett-from-hardocp-joins-us-to-talk-about-nvidias-controversial-geforce-partnership-program.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 42: Upcoming Windows 10 Features, Windows As A Service, Cloud Gaming and more",
             "published": 1520371918.0,
-            "url": "http://feeds.soundcloud.com/stream/409700043-thefullnerd-episode-42-upcoming-windows-10-features-windows-as-a-service-cloud-gaming-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 42: Upcoming Windows 10 Features, Windows As A Service, Cloud Gaming and more"
+            "url": "http://feeds.soundcloud.com/stream/409700043-thefullnerd-episode-42-upcoming-windows-10-features-windows-as-a-service-cloud-gaming-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 41: Will APUs stay relevant? Plus: Nvidia rumors, Spectre/Meltdown updates, Q&A",
             "published": 1519162317.0,
-            "url": "http://feeds.soundcloud.com/stream/402672957-thefullnerd-episode-41-will-apus-stay-relevant-plus-nvidia-rumors-spectremeltdown-updates-qa.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 41: Will APUs stay relevant? Plus: Nvidia rumors, Spectre/Meltdown updates, Q&A"
+            "url": "http://feeds.soundcloud.com/stream/402672957-thefullnerd-episode-41-will-apus-stay-relevant-plus-nvidia-rumors-spectremeltdown-updates-qa.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 40: The GPU Crisis Special! What we know, what gaming PCs to buy, and the future",
             "published": 1517953870.0,
-            "url": "http://feeds.soundcloud.com/stream/395532171-thefullnerd-episode-40-the-gpu-crisis-special-what-we-know-what-gaming-pcs-to-buy-and-the-future.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 40: The GPU Crisis Special! What we know, what gaming PCs to buy, and the future"
+            "url": "http://feeds.soundcloud.com/stream/395532171-thefullnerd-episode-40-the-gpu-crisis-special-what-we-know-what-gaming-pcs-to-buy-and-the-future.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 39: Everything you need to know about Meltown/Spectre and GPU price increases",
             "published": 1516398399.0,
-            "url": "http://feeds.soundcloud.com/stream/386174288-thefullnerd-episode-39-everything-you-need-to-know-about-meltownspectre-and-gpu-price-increases.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 39: Everything you need to know about Meltown/Spectre and GPU price increases"
+            "url": "http://feeds.soundcloud.com/stream/386174288-thefullnerd-episode-39-everything-you-need-to-know-about-meltownspectre-and-gpu-price-increases.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 38: Intel/AMD chip, AMD news deluge, Nvidia's BFGD, and our CES 2018 top picks",
             "published": 1515709686.0,
-            "url": "http://feeds.soundcloud.com/stream/382239254-thefullnerd-episode-38-intelamd-chip-amd-news-deluge-nvidias-bfgd-and-our-ces-2018-top-picks.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 38: Intel/AMD chip, AMD news deluge, Nvidia's BFGD, and our CES 2018 top picks"
+            "url": "http://feeds.soundcloud.com/stream/382239254-thefullnerd-episode-38-intelamd-chip-amd-news-deluge-nvidias-bfgd-and-our-ces-2018-top-picks.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 37: The Reckoning Edition",
             "published": 1513721743.0,
-            "url": "http://feeds.soundcloud.com/stream/371856635-thefullnerd-episode-37-the-reckoning-edition.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 37: The Reckoning Edition"
+            "url": "http://feeds.soundcloud.com/stream/371856635-thefullnerd-episode-37-the-reckoning-edition.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 36: The Full Nerd Awards - Best PC Hardware of 2017",
             "published": 1512510864.0,
-            "url": "http://feeds.soundcloud.com/stream/365490848-thefullnerd-episode-36-the-full-nerd-awards-best-pc-hardware-of-2017.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 36: The Full Nerd Awards - Best PC Hardware of 2017"
+            "url": "http://feeds.soundcloud.com/stream/365490848-thefullnerd-episode-36-the-full-nerd-awards-best-pc-hardware-of-2017.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 35: Intel loves AMD, Radeon's boss joins Intel, and your questions",
             "published": 1510349767.0,
-            "url": "http://feeds.soundcloud.com/stream/353989457-thefullnerd-episode-35-intel-loves-amd-radeons-boss-joins-intel-and-your-questions.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 35: Intel loves AMD, Radeon's boss joins Intel, and your questions"
+            "url": "http://feeds.soundcloud.com/stream/353989457-thefullnerd-episode-35-intel-loves-amd-radeons-boss-joins-intel-and-your-questions.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 34: GeForce GTX 1070 Ti Review, Kaby Lake Refresh, Ryzen 7 mobile and Optane",
             "published": 1509750281.0,
-            "url": "http://feeds.soundcloud.com/stream/350842741-thefullnerd-episode-34-geforce-gtx-1070-ti-review-kaby-lake-refresh-ryzen-7-mobile-and-optane.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 34: GeForce GTX 1070 Ti Review, Kaby Lake Refresh, Ryzen 7 mobile and Optane"
+            "url": "http://feeds.soundcloud.com/stream/350842741-thefullnerd-episode-34-geforce-gtx-1070-ti-review-kaby-lake-refresh-ryzen-7-mobile-and-optane.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 33: Intel Coffee Lake Core i7-8700K reviewed and the fall gaming harvest is here!",
             "published": 1507324195.0,
-            "url": "http://feeds.soundcloud.com/stream/345697964-thefullnerd-episode-33-intel-coffee-lake-core-i7-8700k-reviewed-and-the-fall-gaming-harvest-is-here.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 33: Intel Coffee Lake Core i7-8700K reviewed and the fall gaming harvest is here!"
+            "url": "http://feeds.soundcloud.com/stream/345697964-thefullnerd-episode-33-intel-coffee-lake-core-i7-8700k-reviewed-and-the-fall-gaming-harvest-is-here.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 32: Core i9 18-core review, live 16-core battle vs Threadripper, and Coffee Lake details",
             "published": 1506370021.0,
-            "url": "http://feeds.soundcloud.com/stream/344009614-thefullnerd-episode-32-core-i9-18-core-review-live-16-core-battle-vs-threadripper-and-coffee-lake-details.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 32: Core i9 18-core review, live 16-core battle vs Threadripper, and Coffee Lake details"
+            "url": "http://feeds.soundcloud.com/stream/344009614-thefullnerd-episode-32-core-i9-18-core-review-live-16-core-battle-vs-threadripper-and-coffee-lake-details.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 31: the state of 4k gaming, Intel's 4 player VR box, our upcoming PC builds, and more",
             "published": 1505170689.0,
-            "url": "http://feeds.soundcloud.com/stream/341957280-thefullnerd-episode-31-the-state-of-4k-gaming-intels-4-player-vr-box-our-upcoming-pc-builds-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 31: the state of 4k gaming, Intel's 4 player VR box, our upcoming PC builds, and more"
+            "url": "http://feeds.soundcloud.com/stream/341957280-thefullnerd-episode-31-the-state-of-4k-gaming-intels-4-player-vr-box-our-upcoming-pc-builds-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 30: Vega Review, Intel's new \"8th gen\" CPU and we talk Threadripper Build",
             "published": 1503956102.0,
-            "url": "http://feeds.soundcloud.com/stream/339909216-thefullnerd-episode-30-vega-review-intels-new-8th-gen-cpu-and-we-talk-threadripper-build.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 30: Vega Review, Intel's new \"8th gen\" CPU and we talk Threadripper Build"
+            "url": "http://feeds.soundcloud.com/stream/339909216-thefullnerd-episode-30-vega-review-intels-new-8th-gen-cpu-and-we-talk-threadripper-build.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 29: Threadripper reviewed and benchmarked, full Core i9 details, and 8th Gen Intel Eclipse",
             "published": 1502396715.0,
-            "url": "http://feeds.soundcloud.com/stream/337350146-thefullnerd-episode-29-threadripper-reviewed-and-benchmarked-full-core-i9-details-and-8th-gen-intel-eclipse.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 29: Threadripper reviewed and benchmarked, full Core i9 details, and 8th Gen Intel Eclipse"
+            "url": "http://feeds.soundcloud.com/stream/337350146-thefullnerd-episode-29-threadripper-reviewed-and-benchmarked-full-core-i9-details-and-8th-gen-intel-eclipse.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 28: AMD's Vega finally arrives, a cheap threadripper and questions answered",
             "published": 1501532644.0,
-            "url": "http://feeds.soundcloud.com/stream/335701792-thefullnerd-episode-28-amds-vega-finally-arrives-a-cheap-threadripper-and-questions-answered.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 28: AMD's Vega finally arrives, a cheap threadripper and questions answered"
+            "url": "http://feeds.soundcloud.com/stream/335701792-thefullnerd-episode-28-amds-vega-finally-arrives-a-cheap-threadripper-and-questions-answered.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 27: Threadripper mysteries, Ryzen 3 released, and plenty of cpu box talk",
             "published": 1501276310.0,
-            "url": "http://feeds.soundcloud.com/stream/335296498-thefullnerd-episode-27-threadripper-mysteries-ryzen-3-released-and-plenty-of-cpu-box-talk.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 27: Threadripper mysteries, Ryzen 3 released, and plenty of cpu box talk"
+            "url": "http://feeds.soundcloud.com/stream/335296498-thefullnerd-episode-27-threadripper-mysteries-ryzen-3-released-and-plenty-of-cpu-box-talk.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 26: Threadripper pricing! AMD's ultimate budget chip, and is Vega heading for a fall?",
             "published": 1500407566.0,
-            "url": "http://feeds.soundcloud.com/stream/333773109-thefullnerd-episode-26-threadripper-pricing-amds-ultimate-budget-chip-and-and-is-vega-heading-for-a-fall.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 26: Threadripper pricing! AMD's ultimate budget chip, and is Vega heading for a fall?"
+            "url": "http://feeds.soundcloud.com/stream/333773109-thefullnerd-episode-26-threadripper-pricing-amds-ultimate-budget-chip-and-and-is-vega-heading-for-a-fall.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 25: Core i9 review, new Sound Blaster X, Xbox One X PC build, and your burning questions",
             "published": 1497999167.0,
-            "url": "http://feeds.soundcloud.com/stream/329126141-thefullnerd-episode-25-core-i9-review-new-sound-blaster-x-xbox-one-x-pc-build-and-your-burning-questions.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 25: Core i9 review, new Sound Blaster X, Xbox One X PC build, and your burning questions"
+            "url": "http://feeds.soundcloud.com/stream/329126141-thefullnerd-episode-25-core-i9-review-new-sound-blaster-x-xbox-one-x-pc-build-and-your-burning-questions.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 24: The core wars are upon us with the Core i9 vs Threadripper",
             "published": 1496693340.0,
-            "url": "http://feeds.soundcloud.com/stream/326318689-thefullnerd-episode-24-the-core-wars-are-upon-us-with-the-core-i9-vs-threadripper.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 24: The core wars are upon us with the Core i9 vs Threadripper"
+            "url": "http://feeds.soundcloud.com/stream/326318689-thefullnerd-episode-24-the-core-wars-are-upon-us-with-the-core-i9-vs-threadripper.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 23: Vega is here, Threadripper announced, and what's the deal with Core i9?",
             "published": 1495228761.0,
-            "url": "http://feeds.soundcloud.com/stream/323469977-thefullnerd-episode-23-vega-is-here-threadripper-announced-and-whats-the-deal-with-core-i9.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 23: Vega is here, Threadripper announced, and what's the deal with Core i9?"
+            "url": "http://feeds.soundcloud.com/stream/323469977-thefullnerd-episode-23-vega-is-here-threadripper-announced-and-whats-the-deal-with-core-i9.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 22: Surface Laptop, AMD puts ads in drivers, AIB vs. Stock GPU coolers, and more.",
             "published": 1493760019.0,
-            "url": "http://feeds.soundcloud.com/stream/320571303-thefullnerd-episode-22-surface-laptop-amd-puts-ads-in-drivers-aib-vs-stock-gpu-coolers-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 22: Surface Laptop, AMD puts ads in drivers, AIB vs. Stock GPU coolers, and more."
+            "url": "http://feeds.soundcloud.com/stream/320571303-thefullnerd-episode-22-surface-laptop-amd-puts-ads-in-drivers-aib-vs-stock-gpu-coolers-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 21: Radeon 500-series, Ryzen 5 and an overclocked GeForce GTX 1080 Ti!",
             "published": 1492807277.0,
-            "url": "http://feeds.soundcloud.com/stream/318861206-thefullnerd-episode-21-radeon-500-series-ryzen-5-and-an-overclocked-geforce-gtx-1080-ti.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 21: Radeon 500-series, Ryzen 5 and an overclocked GeForce GTX 1080 Ti!"
+            "url": "http://feeds.soundcloud.com/stream/318861206-thefullnerd-episode-21-radeon-500-series-ryzen-5-and-an-overclocked-geforce-gtx-1080-ti.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 20: Titan Xp rules all, Ryzen performance gets better, Optane is boring, and Xbox Scorpio",
             "published": 1491598460.0,
-            "url": "http://feeds.soundcloud.com/stream/316632820-thefullnerd-episode-20-titan-xp-rules-all-ryzen-performance-gets-better-optane-is-boring-and-xbox-scorpio.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 20: Titan Xp rules all, Ryzen performance gets better, Optane is boring, and Xbox Scorpio"
+            "url": "http://feeds.soundcloud.com/stream/316632820-thefullnerd-episode-20-titan-xp-rules-all-ryzen-performance-gets-better-optane-is-boring-and-xbox-scorpio.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 19: Nvidia GTX 1080 Ti, AMD Ryzen 5, Intel Optane, and more",
             "published": 1490128221.0,
-            "url": "http://feeds.soundcloud.com/stream/313659067-thefullnerd-episode-19-nvidia-gtx-1080-ti-amd-ryzen-5-intel-optane-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 19: Nvidia GTX 1080 Ti, AMD Ryzen 5, Intel Optane, and more"
+            "url": "http://feeds.soundcloud.com/stream/313659067-thefullnerd-episode-19-nvidia-gtx-1080-ti-amd-ryzen-5-intel-optane-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 18: Ryzen reviews are (finally) here and the Ultimate Geforce has landed!",
             "published": 1488571433.0,
-            "url": "http://feeds.soundcloud.com/stream/310567837-thefullnerd-episode-18-ryzen-reviews-are-finally-here-and-the-ultimate-geforce-has-landed.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 18: Ryzen reviews are (finally) here and the Ultimate Geforce has landed!"
+            "url": "http://feeds.soundcloud.com/stream/310567837-thefullnerd-episode-18-ryzen-reviews-are-finally-here-and-the-ultimate-geforce-has-landed.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 17: Vega, GeForce GTX 1080 Ti, Ryzen benchmarks and GDC Preview",
             "published": 1487371635.0,
-            "url": "http://feeds.soundcloud.com/stream/308283169-thefullnerd-episode-17-vega-geforce-gtx-1080-ti-ryzen-benchmarks-and-gdc-preview.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 17: Vega, GeForce GTX 1080 Ti, Ryzen benchmarks and GDC Preview"
+            "url": "http://feeds.soundcloud.com/stream/308283169-thefullnerd-episode-17-vega-geforce-gtx-1080-ti-ryzen-benchmarks-and-gdc-preview.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 16: PC audio blowout with Ryan Schlieper from Creative Labs",
             "published": 1486505982.0,
-            "url": "http://feeds.soundcloud.com/stream/306613697-thefullnerd-episode-16-pc-audio-blowout-with-ryan-schlieper-from-creative-labs.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 16: PC audio blowout with Ryan Schlieper from Creative Labs"
+            "url": "http://feeds.soundcloud.com/stream/306613697-thefullnerd-episode-16-pc-audio-blowout-with-ryan-schlieper-from-creative-labs.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 15: Nvidia Shield, Geforce Now VS Geforce Now, Core i5 love (or hate), and more.",
             "published": 1485298052.0,
-            "url": "http://feeds.soundcloud.com/stream/304358484-thefullnerd-episode-15-nvidia-shield-geforce-now-vs-geforce-now-core-i5-love-or-hate-and-more.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 15: Nvidia Shield, Geforce Now VS Geforce Now, Core i5 love (or hate), and more."
+            "url": "http://feeds.soundcloud.com/stream/304358484-thefullnerd-episode-15-nvidia-shield-geforce-now-vs-geforce-now-core-i5-love-or-hate-and-more.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 14: Moar Ryzen, CES PC trends, exotic laptops",
             "published": 1484089663.0,
-            "url": "http://feeds.soundcloud.com/stream/301942670-thefullnerd-episode-14-moar-ryzen-ces-pc-trends-exotic-laptops.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 14: Moar Ryzen, CES PC trends, exotic laptops"
+            "url": "http://feeds.soundcloud.com/stream/301942670-thefullnerd-episode-14-moar-ryzen-ces-pc-trends-exotic-laptops.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 13: Predictions for 2017",
             "published": 1484087547.0,
-            "url": "http://feeds.soundcloud.com/stream/301937768-thefullnerd-episode-13-predictions-for-2017.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 13: Predictions for 2017"
+            "url": "http://feeds.soundcloud.com/stream/301937768-thefullnerd-episode-13-predictions-for-2017.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 12: The Full Nerd Awards",
             "published": 1480538553.0,
-            "url": "http://feeds.soundcloud.com/stream/295597157-thefullnerd-episode-12-the-full-nerd-awards.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 12: The Full Nerd Awards"
+            "url": "http://feeds.soundcloud.com/stream/295597157-thefullnerd-episode-12-the-full-nerd-awards.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 11: Cheap PC buying tips, 8-core AMD Zen for $300?! and PS4 Pro vs. PC",
             "published": 1479254886.0,
-            "url": "http://feeds.soundcloud.com/stream/293223430-thefullnerd-episode-11-cheap-pc-buying-tips-8-core-amd-zen-for-300-and-ps4-pro-vs-pc.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 11: Cheap PC buying tips, 8-core AMD Zen for $300?! and PS4 Pro vs. PC"
+            "url": "http://feeds.soundcloud.com/stream/293223430-thefullnerd-episode-11-cheap-pc-buying-tips-8-core-amd-zen-for-300-and-ps4-pro-vs-pc.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 10:  Tom Petersen of Nvidia talks G-Sync, SLI, VR and the future of PC gaming",
             "published": 1478042594.0,
-            "url": "http://feeds.soundcloud.com/stream/291040690-thefullnerd-episode-10-tom-petersen-of-nvidia-talks-g-sync-sli-vr-and-the-future-of-pc-gaming.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 10:  Tom Petersen of Nvidia talks G-Sync, SLI, VR and the future of PC gaming"
+            "url": "http://feeds.soundcloud.com/stream/291040690-thefullnerd-episode-10-tom-petersen-of-nvidia-talks-g-sync-sli-vr-and-the-future-of-pc-gaming.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 9: $110 GeForce card, Razer Blade Pro, Battlefield 1 and mechanical keyboard showdown",
             "published": 1477084582.0,
-            "url": "http://feeds.soundcloud.com/stream/289373611-thefullnerd-episode-9-110-geforce-card-razer-blade-pro-battlefield-1-and-mechanical-keyboard-showdown.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 9: $110 GeForce card, Razer Blade Pro, Battlefield 1 and mechanical keyboard showdown"
+            "url": "http://feeds.soundcloud.com/stream/289373611-thefullnerd-episode-9-110-geforce-card-razer-blade-pro-battlefield-1-and-mechanical-keyboard-showdown.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 8: $500 PC build challenge, gaming laptops and 4K gaming",
             "published": 1475175643.0,
-            "url": "http://feeds.soundcloud.com/stream/285315196-thefullnerd-episode-8-500-pc-build-challenge-gaming-laptops-and-4k-gaming.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 8: $500 PC build challenge, gaming laptops and 4K gaming"
+            "url": "http://feeds.soundcloud.com/stream/285315196-thefullnerd-episode-8-500-pc-build-challenge-gaming-laptops-and-4k-gaming.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 7: AMD Zen price predictions, PlayStation 4 Pro vs. PC and what's the best GPU?",
             "published": 1473797943.0,
-            "url": "http://feeds.soundcloud.com/stream/282776801-thefullnerd-episode-7-amd-zen-price-predictions-playstation-4-pro-vs-pc-and-whats-the-best-gpu.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 7: AMD Zen price predictions, PlayStation 4 Pro vs. PC and what's the best GPU?"
+            "url": "http://feeds.soundcloud.com/stream/282776801-thefullnerd-episode-7-amd-zen-price-predictions-playstation-4-pro-vs-pc-and-whats-the-best-gpu.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 6: Titan X Pascal, FragBox 2, RX 460, RX 470 and gaming headsets",
             "published": 1470176928.0,
-            "url": "http://feeds.soundcloud.com/stream/276560526-thefullnerd-episode-6-titan-x-pascal-rx-460-rx-470-and-gaming-headsets.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 6: Titan X Pascal, FragBox 2, RX 460, RX 470 and gaming headsets"
+            "url": "http://feeds.soundcloud.com/stream/276560526-thefullnerd-episode-6-titan-x-pascal-rx-460-rx-470-and-gaming-headsets.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 5: Kaby Lake-X, Skylake-X, Budget GPU catfight and the world's largest hard drive",
             "published": 1468970969.0,
-            "url": "http://feeds.soundcloud.com/stream/274466418-thefullnerd-episode-5-kaby-lake-x-skylake-x-budget-gpu-catfight-and-the-worlds-largest-hard-drive.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 5: Kaby Lake-X, Skylake-X, Budget GPU catfight and the world's largest hard drive"
+            "url": "http://feeds.soundcloud.com/stream/274466418-thefullnerd-episode-5-kaby-lake-x-skylake-x-budget-gpu-catfight-and-the-worlds-largest-hard-drive.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 4: GeForce GTX 1060, Radeon RX480 and Budget PC Builds",
             "published": 1468254121.0,
-            "url": "http://feeds.soundcloud.com/stream/273178492-thefullnerd-episode-4-geforce-gtx-1060-radeon-rx480.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 4: GeForce GTX 1060, Radeon RX480 and Budget PC Builds"
+            "url": "http://feeds.soundcloud.com/stream/273178492-thefullnerd-episode-4-geforce-gtx-1060-radeon-rx480.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 3: Special guest Will Smith, a $500 eSports PC and a bunch of old games.",
             "published": 1466701741.0,
-            "url": "http://feeds.soundcloud.com/stream/270528239-thefullnerd-episode-2.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 3: Special guest Will Smith, a $500 eSports PC and a bunch of old games."
+            "url": "http://feeds.soundcloud.com/stream/270528239-thefullnerd-episode-2.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 2: Intel's 10-core Broadwell-E and AMD's Radeon RX480",
             "published": 1465251904.0,
-            "url": "http://feeds.soundcloud.com/stream/267886958-thefullnerd-episode-2-intels-10-core-broadwell-e-and-amds-radeon-rx480.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 2: Intel's 10-core Broadwell-E and AMD's Radeon RX480"
+            "url": "http://feeds.soundcloud.com/stream/267886958-thefullnerd-episode-2-intels-10-core-broadwell-e-and-amds-radeon-rx480.mp3"
         },
         {
+            "listened": false,
+            "title": "Episode 1: Intel's bad-ass Skull Canyon, GeForce GTX 1070 vs. 1080",
             "published": 1464195964.0,
-            "url": "http://feeds.soundcloud.com/stream/265888239-thefullnerd-episode-1-intel-bad-ass-skull-canyon-geforce-gtx-1070-vs-1080.mp3",
-            "listened": false,
             "downloaded": false,
-            "title": "Episode 1: Intel's bad-ass Skull Canyon, GeForce GTX 1070 vs. 1080"
+            "url": "http://feeds.soundcloud.com/stream/265888239-thefullnerd-episode-1-intel-bad-ass-skull-canyon-geforce-gtx-1070-vs-1080.mp3"
         },
         {
-            "published": 1463003989.0,
-            "url": "http://feeds.soundcloud.com/stream/263686810-thefullnerd-the-full-nerd-episode-0-geforce-gtx-1080-battlefield-1-and-is-it-safe-to-build-a-pc.mp3",
             "listened": false,
+            "title": "Episode 0: GeForce GTX 1080, Battlefield 1!? and is it safe to build a PC?",
+            "published": 1463003989.0,
             "downloaded": false,
-            "title": "Episode 0: GeForce GTX 1080, Battlefield 1!? and is it safe to build a PC?"
+            "url": "http://feeds.soundcloud.com/stream/263686810-thefullnerd-the-full-nerd-episode-0-geforce-gtx-1080-battlefield-1-and-is-it-safe-to-build-a-pc.mp3"
         }
     ],
-    "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
-    "title": "The Full Nerd"
+    "shortname": "nerd"
 }
