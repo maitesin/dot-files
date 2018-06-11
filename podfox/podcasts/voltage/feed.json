@@ -1,805 +1,805 @@
 {
-    "shortname": "voltage",
-    "url": "https://badvoltage.org/feed/mp3/",
     "episodes": [
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x32.mp3",
             "downloaded": false,
             "title": "2\u00d732: IO, IO, It\u2019s Off To Work We Go",
-            "published": 1526628439.0
+            "published": 1526628439.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x32.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x31.mp3",
             "downloaded": false,
             "title": "2\u00d731: Just In Case Delivery",
-            "published": 1525327141.0
+            "published": 1525327141.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x31.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x30.mp3",
             "downloaded": false,
             "title": "2\u00d730: Accidental Loot",
-            "published": 1524133935.0
+            "published": 1524133935.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x30.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x29.mp3",
             "downloaded": false,
             "title": "2\u00d729: Extra Meaty Skid",
-            "published": 1522915669.0
+            "published": 1522915669.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x29.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x28.mp3",
             "downloaded": false,
             "title": "2\u00d728: Renamed to Spectre",
-            "published": 1521714809.0
+            "published": 1521714809.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x28.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x27.mp3",
             "downloaded": false,
             "title": "2\u00d727: Much Furdo About Nothing",
-            "published": 1519637759.0
+            "published": 1519637759.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x27.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x26.mp3",
             "downloaded": false,
             "title": "2\u00d726: Shining Emerald City",
-            "published": 1518098713.0
+            "published": 1518098713.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x26.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x25.mp3",
             "downloaded": false,
             "title": "2\u00d725: The First 17 Pages",
-            "published": 1516889431.0
+            "published": 1516889431.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x25.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x24.mp3",
             "downloaded": false,
             "title": "2\u00d724: They Weren\u2019t That Shiny Anyway",
-            "published": 1515505523.0
+            "published": 1515505523.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x24.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x23.mp3",
             "downloaded": false,
             "title": "2\u00d723: Twenty Months He Will Bleed The Lands",
-            "published": 1513253145.0
+            "published": 1513253145.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x23.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x22.mp3",
             "downloaded": false,
             "title": "2\u00d722: Known to be Carcinogenic",
-            "published": 1510831373.0
+            "published": 1510831373.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x22.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x21.mp3",
             "downloaded": false,
             "title": "2\u00d721: A Roomba for Companionship",
-            "published": 1509613738.0
+            "published": 1509613738.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x21.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x20.mp3",
             "downloaded": false,
             "title": "2\u00d720: Over a Ton of Window",
-            "published": 1508427121.0
+            "published": 1508427121.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x20.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x19.mp3",
             "downloaded": false,
             "title": "2\u00d719: Machine Learning",
-            "published": 1507281044.0
+            "published": 1507281044.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x19.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x18.mp3",
             "downloaded": false,
             "title": "2\u00d718: Before the Music",
-            "published": 1506021618.0
+            "published": 1506021618.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x18.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x17.mp3",
             "downloaded": false,
             "title": "2\u00d717: Nihil sub sole novum",
-            "published": 1504770905.0
+            "published": 1504770905.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x17.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x16.mp3",
             "downloaded": false,
             "title": "2\u00d716: Indeskribable",
-            "published": 1503562287.0
+            "published": 1503562287.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x16.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x15.mp3",
             "downloaded": false,
             "title": "2\u00d715: One Mouse in a Row",
-            "published": 1502344697.0
+            "published": 1502344697.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x15.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x14.mp3",
             "downloaded": false,
             "title": "2\u00d714: Continuous Partial Affection",
-            "published": 1501171263.0
+            "published": 1501171263.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x14.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x13.mp3",
             "downloaded": false,
             "title": "2\u00d713: Built With Alien Technology",
-            "published": 1499959408.0
+            "published": 1499959408.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x13.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x12.mp3",
             "downloaded": false,
             "title": "2\u00d712: Infinite Loop of Hack Back",
-            "published": 1498721946.0
+            "published": 1498721946.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x12.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x11.mp3",
             "downloaded": false,
             "title": "2\u00d711: Alexa play the Bad Voltage podcast",
-            "published": 1497532405.0
+            "published": 1497532405.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x11.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x10.mp3",
             "downloaded": false,
             "title": "2\u00d710: Rainbows and Unicorns",
-            "published": 1495090094.0
+            "published": 1495090094.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x10.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x09.mp3",
             "downloaded": false,
             "title": "2\u00d709: Visible Private Network",
-            "published": 1493883551.0
+            "published": 1493883551.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x09.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x08.mp3",
             "downloaded": false,
             "title": "2\u00d708: Pique Oil",
-            "published": 1492674177.0
+            "published": 1492674177.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x08.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x07.mp3",
             "downloaded": false,
             "title": "2\u00d707: Exercise in Futility",
-            "published": 1491463356.0
+            "published": 1491463356.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x07.mp3"
         },
         {
             "listened": false,
-            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x06.mp3",
             "downloaded": false,
             "title": "2\u00d706: Cinderella Voltage",
-            "published": 1490267176.0
+            "published": 1490267176.0,
+            "url": "https://audio.lugradio.org/badvoltage/Bad%20Voltage%202x06.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x05.mp3",
             "downloaded": false,
             "title": "2\u00d705: Bad Voltage Live at SCaLE 15x",
-            "published": 1490004741.0
+            "published": 1490004741.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x05.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x04.mp3",
             "downloaded": false,
             "title": "2\u00d704: Pie In The Hold",
-            "published": 1487844832.0
+            "published": 1487844832.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x04.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x03.mp3",
             "downloaded": false,
             "title": "2\u00d703: And Those Who Dig",
-            "published": 1486638901.0
+            "published": 1486638901.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x03.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x02.mp3",
             "downloaded": false,
             "title": "2\u00d702: Failed to Capture",
-            "published": 1485423802.0
+            "published": 1485423802.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x02.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x01.mp3",
             "downloaded": false,
             "title": "2\u00d701: He Grew Whiskers",
-            "published": 1484161961.0
+            "published": 1484161961.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x01.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x82.mp3",
             "downloaded": false,
             "title": "1\u00d782: Didn\u2019t They Do Well",
-            "published": 1482443085.0
+            "published": 1482443085.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x82.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x81.mp3",
             "downloaded": false,
             "title": "1\u00d781: The Bad Voltage Holiday Gift Guide 2016",
-            "published": 1481623094.0
+            "published": 1481623094.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x81.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x80.mp3",
             "downloaded": false,
             "title": "1\u00d780: The Two-Percenters",
-            "published": 1480582583.0
+            "published": 1480582583.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x80.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x79.mp3",
             "downloaded": false,
             "title": "1\u00d779: Who Watches the Undertakers",
-            "published": 1479398100.0
+            "published": 1479398100.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x79.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x78.mp3",
             "downloaded": false,
             "title": "1\u00d778: A Different Kind of Duction",
-            "published": 1478171406.0
+            "published": 1478171406.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x78.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x77.mp3",
             "downloaded": false,
             "title": "1\u00d777: Wax Cylinder Coming Soon",
-            "published": 1476953563.0
+            "published": 1476953563.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x77.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x76.mp3",
             "downloaded": false,
             "title": "1\u00d776: Bd Vltg",
-            "published": 1476516221.0
+            "published": 1476516221.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x76.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x75.mp3",
             "downloaded": false,
             "title": "1\u00d775: Surround Meatballs",
-            "published": 1474533933.0
+            "published": 1474533933.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x75.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x74.mp3",
             "downloaded": false,
             "title": "1\u00d774: Google Minus",
-            "published": 1473339520.0
+            "published": 1473339520.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x74.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x73.mp3",
             "downloaded": false,
             "title": "1\u00d773: DEET Ox",
-            "published": 1470921507.0
+            "published": 1470921507.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x73.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x72.mp3",
             "downloaded": false,
             "title": "1\u00d772: Walking into Trees",
-            "published": 1469693906.0
+            "published": 1469693906.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x72.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x71.mp3",
             "downloaded": false,
             "title": "1\u00d771: Divisions",
-            "published": 1468486677.0
+            "published": 1468486677.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x71.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x70.mp3",
             "downloaded": false,
             "title": "1\u00d770: Delicious Amorphous Tech Bubble",
-            "published": 1467297864.0
+            "published": 1467297864.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x70.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x69.mp3",
             "downloaded": false,
             "title": "1\u00d769: Bill and Ted and Jeremy and Bryan and Jono and Stuart\u2019s Excellent Adventure",
-            "published": 1466081862.0
+            "published": 1466081862.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x69.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x68.mp3",
             "downloaded": false,
             "title": "1\u00d768: Nor is this",
-            "published": 1464884415.0
+            "published": 1464884415.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x68.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x67.mp3",
             "downloaded": false,
             "title": "1\u00d767: This is not a show",
-            "published": 1464273919.0
+            "published": 1464273919.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x67.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x66.mp3",
             "downloaded": false,
             "title": "1\u00d766: Perchance to Dream",
-            "published": 1462433363.0
+            "published": 1462433363.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x66.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x65.mp3",
             "downloaded": false,
             "title": "1\u00d765: Soft Bricking",
-            "published": 1461222545.0
+            "published": 1461222545.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x65.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x64.mp3",
             "downloaded": false,
             "title": "1\u00d764: Windows Subsystem for Podcasts",
-            "published": 1460017876.0
+            "published": 1460017876.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x64.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x63.mp3",
             "downloaded": false,
             "title": "1\u00d763: Single Point of Weather",
-            "published": 1458813498.0
+            "published": 1458813498.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x63.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x62.mp3",
             "downloaded": false,
             "title": "1\u00d762: My District Wins",
-            "published": 1457603326.0
+            "published": 1457603326.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x62.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x61.mp3",
             "downloaded": false,
             "title": "1\u00d761: Head Boiling",
-            "published": 1456390101.0
+            "published": 1456390101.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x61.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x60.mp3",
             "downloaded": false,
             "title": "1\u00d760: New Again",
-            "published": 1455271703.0
+            "published": 1455271703.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x60.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x59.mp3",
             "downloaded": false,
             "title": "1\u00d759: Bad Voltage Live at SCaLE 14x",
-            "published": 1454324230.0
+            "published": 1454324230.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x59.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x58.mp3",
             "downloaded": false,
             "title": "1\u00d758: Nappy Hue Year",
-            "published": 1452764832.0
+            "published": 1452764832.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x58.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x57.mp3",
             "downloaded": false,
             "title": "1\u00d757: Deck the Blockchains",
-            "published": 1451549576.0
+            "published": 1451549576.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x57.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x56.mp3",
             "downloaded": false,
             "title": "1\u00d756: Moon Pigeons",
-            "published": 1450345596.0
+            "published": 1450345596.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x56.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x55.mp3",
             "downloaded": false,
             "title": "1\u00d755: Faster than Lightning",
-            "published": 1449225860.0
+            "published": 1449225860.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x55.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x54.mp3",
             "downloaded": false,
             "title": "1\u00d754: The Trolley Problem",
-            "published": 1447406767.0
+            "published": 1447406767.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x54.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x53.mp3",
             "downloaded": false,
             "title": "1\u00d753: They\u2019ve Got A Flamethrower",
-            "published": 1446110985.0
+            "published": 1446110985.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x53.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x52.mp3",
             "downloaded": false,
             "title": "1\u00d752: Immensely Deft",
-            "published": 1444902571.0
+            "published": 1444902571.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x52.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x51.mp3",
             "downloaded": false,
             "title": "1\u00d751: Bad Voltage Live in Germany 2015",
-            "published": 1444302372.0
+            "published": 1444302372.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x51.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x50.mp3",
             "downloaded": false,
             "title": "1\u00d750: Automated",
-            "published": 1442493144.0
+            "published": 1442493144.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x50.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x49.mp3",
             "downloaded": false,
             "title": "1\u00d749: The Tapas Of All Bananas",
-            "published": 1441273923.0
+            "published": 1441273923.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x49.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x48.mp3",
             "downloaded": false,
             "title": "1\u00d748: Say You Want A Revolution",
-            "published": 1440151951.0
+            "published": 1440151951.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x48.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x47.mp3",
             "downloaded": false,
             "title": "1\u00d747: Box Of Frogs",
-            "published": 1438096162.0
+            "published": 1438096162.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x47.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x46.mp3",
             "downloaded": false,
             "title": "1\u00d746: A Target of Derision",
-            "published": 1436428685.0
+            "published": 1436428685.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x46.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x45.mp3",
             "downloaded": false,
             "title": "1\u00d745: Tons Of It About",
-            "published": 1435231167.0
+            "published": 1435231167.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x45.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x44.mp3",
             "downloaded": false,
             "title": "1\u00d744: A Boot Goes In",
-            "published": 1434095879.0
+            "published": 1434095879.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x44.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x43.mp3",
             "downloaded": false,
             "title": "1\u00d743: Got The Om On",
-            "published": 1432801732.0
+            "published": 1432801732.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x43.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x42.mp3",
             "downloaded": false,
             "title": "1\u00d742: The Tee-Remover Machine",
-            "published": 1431587786.0
+            "published": 1431587786.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x42.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x41.mp3",
             "downloaded": false,
             "title": "1\u00d741: Second Lunch is my Favourite Lunch",
-            "published": 1430378785.0
+            "published": 1430378785.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x41.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x40.mp3",
             "downloaded": false,
             "title": "1\u00d740: Zero-Dollar Energy",
-            "published": 1429173557.0
+            "published": 1429173557.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x40.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x39.mp3",
             "downloaded": false,
             "title": "1\u00d739: Ambitious but Rubbish",
-            "published": 1427962977.0
+            "published": 1427962977.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x39.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x38.mp3",
             "downloaded": false,
             "title": "1\u00d738: Easy Being Green",
-            "published": 1426761117.0
+            "published": 1426761117.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x38.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x37.mp3",
             "downloaded": false,
             "title": "1\u00d737: Spooning with Everybody",
-            "published": 1425652510.0
+            "published": 1425652510.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x37.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x36.mp3",
             "downloaded": false,
             "title": "1\u00d736: Bad Voltage Live at SCaLE 2015",
-            "published": 1424985774.0
+            "published": 1424985774.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x36.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x35.mp3",
             "downloaded": false,
             "title": "1\u00d735: One Plug Per Segment",
-            "published": 1423152635.0
+            "published": 1423152635.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x35.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x34.mp3",
             "downloaded": false,
             "title": "1\u00d734: Hidden Cities",
-            "published": 1421925652.0
+            "published": 1421925652.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x34.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x33.mp3",
             "downloaded": false,
             "title": "1\u00d733: Unambiguous Win Condition",
-            "published": 1420714218.0
+            "published": 1420714218.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x33.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x32.mp3",
             "downloaded": false,
             "title": "1\u00d732: A Hannu-pancha-festi-christ-wanzaa-newton-vent Story",
-            "published": 1419330090.0
+            "published": 1419330090.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x32.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x31.mp3",
             "downloaded": false,
             "title": "1\u00d731: Would you do it in the pouch?",
-            "published": 1418304267.0
+            "published": 1418304267.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x31.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x30.mp3",
             "downloaded": false,
             "title": "1\u00d730: He Saved Every One Of Us",
-            "published": 1417095190.0
+            "published": 1417095190.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x30.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x29.mp3",
             "downloaded": false,
             "title": "1\u00d729: Droning On",
-            "published": 1415882807.0
+            "published": 1415882807.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x29.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x28.mp3",
             "downloaded": false,
             "title": "1\u00d728: Everything is Orange",
-            "published": 1414674697.0
+            "published": 1414674697.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x28.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x27.mp3",
             "downloaded": false,
             "title": "1\u00d727: Buffalo Wild Wings Dollars",
-            "published": 1413614946.0
+            "published": 1413614946.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x27.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x26.mp3",
             "downloaded": false,
             "title": "1\u00d726: We Do Get To Make It Up",
-            "published": 1412240759.0
+            "published": 1412240759.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x26.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x25.mp3",
             "downloaded": false,
             "title": "1\u00d725: On a Stick With No Fripperies",
-            "published": 1411099796.0
+            "published": 1411099796.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x25.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x24.mp3",
             "downloaded": false,
             "title": "1\u00d724: Bunch of Sockpuppets",
-            "published": 1409820688.0
+            "published": 1409820688.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x24.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x23.mp3",
             "downloaded": false,
             "title": "1\u00d723: Maybe We Should Have Drill Control",
-            "published": 1408611848.0
+            "published": 1408611848.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x23.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x22.mp3",
             "downloaded": false,
             "title": "1\u00d722: Oval Ted Bag",
-            "published": 1407402154.0
+            "published": 1407402154.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x22.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x21.mp3",
             "downloaded": false,
             "title": "1\u00d721: Everything Old Is Old Again",
-            "published": 1406275397.0
+            "published": 1406275397.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x21.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x20.mp3",
             "downloaded": false,
             "title": "1\u00d720: Private Poetry Slam",
-            "published": 1404999429.0
+            "published": 1404999429.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x20.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x19.mp3",
             "downloaded": false,
             "title": "1\u00d719: Fedora Murder Trial",
-            "published": 1403784429.0
+            "published": 1403784429.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x19.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x18.mp3",
             "downloaded": false,
             "title": "1\u00d718:  Shows Restraint",
-            "published": 1402586190.0
+            "published": 1402586190.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x18.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x17.mp3",
             "downloaded": false,
             "title": "1\u00d717:  Intermission",
-            "published": 1401364038.0
+            "published": 1401364038.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x17.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x16.mp3",
             "downloaded": false,
             "title": "1\u00d716:  Forgotten to be Right",
-            "published": 1400766955.0
+            "published": 1400766955.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x16.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x15.mp3",
             "downloaded": false,
             "title": "1\u00d715:  Why Dear Watson",
-            "published": 1399545529.0
+            "published": 1399545529.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x15.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x14.mp3",
             "downloaded": false,
             "title": "1\u00d714:  Cloudy Donkey Mascots",
-            "published": 1398342551.0
+            "published": 1398342551.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x14.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x13.mp3",
             "downloaded": false,
             "title": "1\u00d713:  Weak Web Bronies",
-            "published": 1397126430.0
+            "published": 1397126430.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x13.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x12.mp3",
             "downloaded": false,
             "title": "1\u00d712:  Concerning Virtual Shower",
-            "published": 1396018017.0
+            "published": 1396018017.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x12.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x11.mp3",
             "downloaded": false,
             "title": "1\u00d711:  Internet of Thugs",
-            "published": 1394670585.0
+            "published": 1394670585.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x11.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x10.mp3",
             "downloaded": false,
             "title": "1\u00d710:  Midnight Throne Travels",
-            "published": 1393509765.0
+            "published": 1393509765.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x10.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x09.mp3",
             "downloaded": false,
             "title": "1\u00d709:  The Starting Pitstop",
-            "published": 1392308166.0
+            "published": 1392308166.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x09.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x08.mp3",
             "downloaded": false,
             "title": "1\u00d708:  We Don\u2019t Need Roads",
-            "published": 1391085992.0
+            "published": 1391085992.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x08.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x07.mp3",
             "downloaded": false,
             "title": "1\u00d707:  Life On Mars",
-            "published": 1389881788.0
+            "published": 1389881788.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x07.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x06.mp3",
             "downloaded": false,
             "title": "1\u00d706: 3D Taco Firepower",
-            "published": 1388800512.0
+            "published": 1388800512.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x06.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x05.mp3",
             "downloaded": false,
             "title": "1\u00d705: Never Gonna Give You Up",
-            "published": 1387464162.0
+            "published": 1387464162.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x05.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x04.mp3",
             "downloaded": false,
             "title": "1\u00d704: Fat Drone Backups",
-            "published": 1386252018.0
+            "published": 1386252018.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x04.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x03.mp3",
             "downloaded": false,
             "title": "1\u00d703: Hear My Lung",
-            "published": 1385046032.0
+            "published": 1385046032.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x03.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x02.mp3",
             "downloaded": false,
             "title": "1\u00d702: Thank God We\u2019re Here",
-            "published": 1383834656.0
+            "published": 1383834656.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x02.mp3"
         },
         {
             "listened": false,
-            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x01.mp3",
             "downloaded": false,
             "title": "1\u00d701: Socially Awkward Headgear",
-            "published": 1382616004.0
+            "published": 1382616004.0,
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%201x01.mp3"
         }
     ],
-    "title": "Bad Voltage"
+    "title": "Bad Voltage",
+    "url": "https://badvoltage.org/feed/mp3/",
+    "shortname": "voltage"
 }

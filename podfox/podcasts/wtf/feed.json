@@ -1,427 +1,455 @@
 {
-    "episodes": [
-        {
-            "published": 1528092000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_921_DAVID_HARBOUR.mp3?dest-id=14434",
-            "title": "Episode 921 - David Harbour",
-            "downloaded": false
-        },
-        {
-            "published": 1527746400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_920_RACHEL_BROSNAHAN.mp3?dest-id=14434",
-            "title": "Episode 920 - Rachel Brosnahan",
-            "downloaded": false
-        },
-        {
-            "published": 1527487200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_919_TOM_PAPA.mp3?dest-id=14434",
-            "title": "Episode 919 - Tom Papa",
-            "downloaded": false
-        },
-        {
-            "published": 1527141600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_918_PAUL_RODRIGUEZ.mp3?dest-id=14434",
-            "title": "Episode 918 - Paul Rodriguez",
-            "downloaded": false
-        },
-        {
-            "published": 1526882400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_917_NEAL_BRENNAN.mp3?dest-id=14434",
-            "title": "Episode 917 - Neal Brennan",
-            "downloaded": false
-        },
-        {
-            "published": 1526536800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_916_MARY_STEENBURGEN.mp3?dest-id=14434",
-            "title": "Episode 916 - Mary Steenburgen",
-            "downloaded": false
-        },
-        {
-            "published": 1526277600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_915_JOSH_BROLIN.mp3?dest-id=14434",
-            "title": "Episode 915 - Josh Brolin",
-            "downloaded": false
-        },
-        {
-            "published": 1525932000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_914_MELISSA_MCCARTHY.mp3?dest-id=14434",
-            "title": "Episode 914 - Melissa McCarthy",
-            "downloaded": false
-        },
-        {
-            "published": 1525672800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_913_RACHEL_BLOOM.mp3?dest-id=14434",
-            "title": "Episode 913 - Rachel Bloom",
-            "downloaded": false
-        },
-        {
-            "published": 1525327200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_912_DREW_CAREY.mp3?dest-id=14434",
-            "title": "Episode 912 - Drew Carey",
-            "downloaded": false
-        },
-        {
-            "published": 1525068000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_911_SCOTT_THOMPSON.mp3?dest-id=14434",
-            "title": "Episode 911 - Scott Thompson / Tom Rhodes",
-            "downloaded": false
-        },
-        {
-            "published": 1524722400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_910_MANDY_STADTMILLER.mp3?dest-id=14434",
-            "title": "Episode 910 - Mandy Stadtmiller",
-            "downloaded": false
-        },
-        {
-            "published": 1524463200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_909_BRADLEY_WHITFORD.mp3?dest-id=14434",
-            "title": "Episode 909 - Bradley Whitford",
-            "downloaded": false
-        },
-        {
-            "published": 1524117600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_908_SAM_TRIPOLI.mp3?dest-id=14434",
-            "title": "Episode 908 - Sam Tripoli",
-            "downloaded": false
-        },
-        {
-            "published": 1523858400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_907_AISHA_TYLER.mp3?dest-id=14434",
-            "title": "Episode 907 - Aisha Tyler / Louie Anderson",
-            "downloaded": false
-        },
-        {
-            "published": 1523512800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_906_HARPER__MUSSELWHITE.mp3?dest-id=14434",
-            "title": "Episode 906 - Ben Harper & Charlie Musselwhite / E of Eels",
-            "downloaded": false
-        },
-        {
-            "published": 1523253600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_905_BILL_SIMMONS.mp3?dest-id=14434",
-            "title": "Episode 905 - Bill Simmons",
-            "downloaded": false
-        },
-        {
-            "published": 1522908000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_904_JASON_ALEXANDER.mp3?dest-id=14434",
-            "title": "Episode 904 - Jason Alexander",
-            "downloaded": false
-        },
-        {
-            "published": 1522648800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_903_NEIL_PATRICK_HARRIS.mp3?dest-id=14434",
-            "title": "Episode 903 - Neil Patrick Harris / Michael Imperioli",
-            "downloaded": false
-        },
-        {
-            "published": 1522303200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_902_THEY_MIGHT_BE_GIANTS.mp3?dest-id=14434",
-            "title": "Episode 902 - They Might Be Giants",
-            "downloaded": false
-        },
-        {
-            "published": 1522044000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_901_SEAN_PENN.mp3?dest-id=14434",
-            "title": "Episode 901 - Sean Penn / Lynn Shelton",
-            "downloaded": false
-        },
-        {
-            "published": 1521702000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_900_NICK_NOLTE.mp3?dest-id=14434",
-            "title": "Episode 900 - Nick Nolte",
-            "downloaded": false
-        },
-        {
-            "published": 1521442800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_899_NELL_SCOVELL.mp3?dest-id=14434",
-            "title": "Episode 899 - Nell Scovell / Bill Hader",
-            "downloaded": false
-        },
-        {
-            "published": 1521097200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_898_DAVID_MAMET.mp3?dest-id=14434",
-            "title": "Episode 898 - David Mamet",
-            "downloaded": false
-        },
-        {
-            "published": 1520838000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_897_TED_DANSON.mp3?dest-id=14434",
-            "title": "Episode 897 - Ted Danson",
-            "downloaded": false
-        },
-        {
-            "published": 1520496000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_896_DAVID_OYELOWO.mp3?dest-id=14434",
-            "title": "Episode 896 - David Oyelowo",
-            "downloaded": false
-        },
-        {
-            "published": 1520236800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_895_SHARON_STONE.mp3?dest-id=14434",
-            "title": "Episode 895 - Sharon Stone",
-            "downloaded": false
-        },
-        {
-            "published": 1519975232.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_REMEMBERING_BARRY_CRIMMINS.mp3?dest-id=14434",
-            "title": "Remembering Barry Crimmins",
-            "downloaded": false
-        },
-        {
-            "published": 1519891200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_894_BILL_JANOVITZ.mp3?dest-id=14434",
-            "title": "Episode 894 - Bill Janovitz / Danny Lobell",
-            "downloaded": false
-        },
-        {
-            "published": 1519632000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_893_JENNIFER_LAWRENCE.mp3?dest-id=14434",
-            "title": "Episode 893 - Jennifer Lawrence",
-            "downloaded": false
-        },
-        {
-            "published": 1519286400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_892_DUNCAN_JONES.mp3?dest-id=14434",
-            "title": "Episode 892 - Duncan Jones / Brendon Small",
-            "downloaded": false
-        },
-        {
-            "published": 1519027200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_891_HEATHER_GRAHAM.mp3?dest-id=14434",
-            "title": "Episode 891 - Heather Graham / Sebastian Maniscalco",
-            "downloaded": false
-        },
-        {
-            "published": 1518681600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_890_GINA_RODRIGUEZ.mp3?dest-id=14434",
-            "title": "Episode 890 - Gina Rodriguez",
-            "downloaded": false
-        },
-        {
-            "published": 1518551032.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_MARTY_ALLEN_2015.mp3?dest-id=14434",
-            "title": "Marty Allen from 2015",
-            "downloaded": false
-        },
-        {
-            "published": 1518422400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_889_ESTHER_POVITSKY.mp3?dest-id=14434",
-            "title": "Episode 889 - Esther Povitsky",
-            "downloaded": false
-        },
-        {
-            "published": 1518076800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_888_TRACY_LETTS.mp3?dest-id=14434",
-            "title": "Episode 888 - Tracy Letts",
-            "downloaded": false
-        },
-        {
-            "published": 1517817600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_887_RIKI_LINDHOME.mp3?dest-id=14434",
-            "title": "Episode 887 - Riki Lindhome / Laurie Kilmartin",
-            "downloaded": false
-        },
-        {
-            "published": 1517472000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_886_EZRA_FURMAN.mp3?dest-id=14434",
-            "title": "Episode 886 - Ezra Furman / David Wain",
-            "downloaded": false
-        },
-        {
-            "published": 1517212800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_885_RITA_MORENO.mp3?dest-id=14434",
-            "title": "Episode 885 - Rita Moreno",
-            "downloaded": false
-        },
-        {
-            "published": 1516867200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_884_DON_WAS.mp3?dest-id=14434",
-            "title": "Episode 884 - Don Was",
-            "downloaded": false
-        },
-        {
-            "published": 1516608000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_883_MACAULAY_CULKIN.mp3?dest-id=14434",
-            "title": "Episode 883 - Macaulay Culkin / Cameron Esposito",
-            "downloaded": false
-        },
-        {
-            "published": 1516262400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_882_DEREK_WATERS.mp3?dest-id=14434",
-            "title": "Episode 882 - Derek Waters",
-            "downloaded": false
-        },
-        {
-            "published": 1516003200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_881_LAURIE_METCALF.mp3?dest-id=14434",
-            "title": "Episode 881 - Laurie Metcalf / Tom Segura",
-            "downloaded": false
-        },
-        {
-            "published": 1515657600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_880_RICHARD_JENKINS.mp3?dest-id=14434",
-            "title": "Episode 880 - Richard Jenkins",
-            "downloaded": false
-        },
-        {
-            "published": 1515398400.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_879_FORTUNE_FEIMSTER.mp3?dest-id=14434",
-            "title": "Episode 879 - Fortune Feimster",
-            "downloaded": false
-        },
-        {
-            "published": 1515052800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_878_TA-NEHISI_COATES.mp3?dest-id=14434",
-            "title": "Episode 878 - Ta-Nehisi Coates",
-            "downloaded": false
-        },
-        {
-            "published": 1514793600.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_877_MARCS_FAMILY.mp3?dest-id=14434",
-            "title": "Episode 877 - Marc's Family",
-            "downloaded": false
-        },
-        {
-            "published": 1514448000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_876_MICHAEL_MARCUS.mp3?dest-id=14434",
-            "title": "Episode 876 - Michael Marcus / Dr. Steve",
-            "downloaded": false
-        },
-        {
-            "published": 1514188800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_875_CHRISTMAS_PAST.mp3?dest-id=14434",
-            "title": "Episode 875 - WTF Shows of Christmas Past",
-            "downloaded": false
-        },
-        {
-            "published": 1513843200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_874_NEAL_PRESTON.mp3?dest-id=14434",
-            "title": "Episode 874 - Neal Preston",
-            "downloaded": false
-        },
-        {
-            "published": 1513584000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_873_STEVEN_VAN_ZANDT.mp3?dest-id=14434",
-            "title": "Episode 873 - Steven Van Zandt",
-            "downloaded": false
-        },
-        {
-            "published": 1509606000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_860_JOHN_HAMMOND.mp3?dest-id=14434",
-            "title": "Episode 860 - John Hammond / Michael Rapaport",
-            "downloaded": false
-        },
-        {
-            "published": 1507348702.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_RALPHIE_MAY_2012.mp3?dest-id=14434",
-            "title": "Ralphie May from 2012",
-            "downloaded": false
-        },
-        {
-            "published": 1507183200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_852_WAITING_FOR_THE_PUNCH.mp3?dest-id=14434",
-            "title": "Episode 852 - Waiting for the Punch",
-            "downloaded": false
-        },
-        {
-            "published": 1506823855.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_MONTY_HALL_2013.mp3?dest-id=14434",
-            "title": "Monty Hall from 2013",
-            "downloaded": false
-        },
-        {
-            "published": 1505615609.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_HARRY_DEAN_STANTON_2014.mp3?dest-id=14434",
-            "title": "Harry Dean Stanton from 2014",
-            "downloaded": false
-        },
-        {
-            "published": 1502344800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_836_MIKE_MACDONALD.mp3?dest-id=14434",
-            "title": "Episode 836 - Mike MacDonald / Jon Ronson",
-            "downloaded": false
-        },
-        {
-            "published": 1435212000.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_614_THE_PRESIDENT_WAS_HERE.mp3?dest-id=14434",
-            "title": "Episode 614 - The President Was Here",
-            "downloaded": false
-        },
-        {
-            "published": 1434952800.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_613_PRESIDENT_BARACK_OBAMA.mp3?dest-id=14434",
-            "title": "Episode 613 - President Barack Obama",
-            "downloaded": false
-        },
-        {
-            "published": 1364227200.0,
-            "listened": false,
-            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_372_ADAM_PARFREY.mp3?dest-id=14434",
-            "title": "Episode 372 - Adam Parfrey",
-            "downloaded": false
-        }
-    ],
     "title": "WTF with Marc Maron Podcast",
     "shortname": "wtf",
+    "episodes": [
+        {
+            "title": "Episode 923 - Bob Balaban",
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_923_BOB_BALABAN.mp3?dest-id=14434",
+            "downloaded": true,
+            "listened": false,
+            "published": 1528696800.0
+        },
+        {
+            "title": "Anthony Bourdain from 2011",
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_ANTHONY_BOURDAIN_2011.mp3?dest-id=14434",
+            "downloaded": true,
+            "listened": false,
+            "published": 1528470754.0
+        },
+        {
+            "listened": false,
+            "published": 1528351200.0,
+            "downloaded": true,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_922_VANESSA_HOLLINGSHEAD.mp3?dest-id=14434",
+            "title": "Episode 922 - Vanessa Hollingshead"
+        },
+        {
+            "listened": false,
+            "published": 1528092000.0,
+            "downloaded": true,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_921_DAVID_HARBOUR.mp3?dest-id=14434",
+            "title": "Episode 921 - David Harbour"
+        },
+        {
+            "listened": false,
+            "published": 1527746400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_920_RACHEL_BROSNAHAN.mp3?dest-id=14434",
+            "title": "Episode 920 - Rachel Brosnahan"
+        },
+        {
+            "listened": false,
+            "published": 1527487200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_919_TOM_PAPA.mp3?dest-id=14434",
+            "title": "Episode 919 - Tom Papa"
+        },
+        {
+            "listened": false,
+            "published": 1527141600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_918_PAUL_RODRIGUEZ.mp3?dest-id=14434",
+            "title": "Episode 918 - Paul Rodriguez"
+        },
+        {
+            "listened": false,
+            "published": 1526882400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_917_NEAL_BRENNAN.mp3?dest-id=14434",
+            "title": "Episode 917 - Neal Brennan"
+        },
+        {
+            "listened": false,
+            "published": 1526536800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_916_MARY_STEENBURGEN.mp3?dest-id=14434",
+            "title": "Episode 916 - Mary Steenburgen"
+        },
+        {
+            "listened": false,
+            "published": 1526277600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_915_JOSH_BROLIN.mp3?dest-id=14434",
+            "title": "Episode 915 - Josh Brolin"
+        },
+        {
+            "listened": false,
+            "published": 1525932000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_914_MELISSA_MCCARTHY.mp3?dest-id=14434",
+            "title": "Episode 914 - Melissa McCarthy"
+        },
+        {
+            "listened": false,
+            "published": 1525672800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_913_RACHEL_BLOOM.mp3?dest-id=14434",
+            "title": "Episode 913 - Rachel Bloom"
+        },
+        {
+            "listened": false,
+            "published": 1525327200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_912_DREW_CAREY.mp3?dest-id=14434",
+            "title": "Episode 912 - Drew Carey"
+        },
+        {
+            "listened": false,
+            "published": 1525068000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_911_SCOTT_THOMPSON.mp3?dest-id=14434",
+            "title": "Episode 911 - Scott Thompson / Tom Rhodes"
+        },
+        {
+            "listened": false,
+            "published": 1524722400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_910_MANDY_STADTMILLER.mp3?dest-id=14434",
+            "title": "Episode 910 - Mandy Stadtmiller"
+        },
+        {
+            "listened": false,
+            "published": 1524463200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_909_BRADLEY_WHITFORD.mp3?dest-id=14434",
+            "title": "Episode 909 - Bradley Whitford"
+        },
+        {
+            "listened": false,
+            "published": 1524117600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_908_SAM_TRIPOLI.mp3?dest-id=14434",
+            "title": "Episode 908 - Sam Tripoli"
+        },
+        {
+            "listened": false,
+            "published": 1523858400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_907_AISHA_TYLER.mp3?dest-id=14434",
+            "title": "Episode 907 - Aisha Tyler / Louie Anderson"
+        },
+        {
+            "listened": false,
+            "published": 1523512800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_906_HARPER__MUSSELWHITE.mp3?dest-id=14434",
+            "title": "Episode 906 - Ben Harper & Charlie Musselwhite / E of Eels"
+        },
+        {
+            "listened": false,
+            "published": 1523253600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_905_BILL_SIMMONS.mp3?dest-id=14434",
+            "title": "Episode 905 - Bill Simmons"
+        },
+        {
+            "listened": false,
+            "published": 1522908000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_904_JASON_ALEXANDER.mp3?dest-id=14434",
+            "title": "Episode 904 - Jason Alexander"
+        },
+        {
+            "listened": false,
+            "published": 1522648800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_903_NEIL_PATRICK_HARRIS.mp3?dest-id=14434",
+            "title": "Episode 903 - Neil Patrick Harris / Michael Imperioli"
+        },
+        {
+            "listened": false,
+            "published": 1522303200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_902_THEY_MIGHT_BE_GIANTS.mp3?dest-id=14434",
+            "title": "Episode 902 - They Might Be Giants"
+        },
+        {
+            "listened": false,
+            "published": 1522044000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_901_SEAN_PENN.mp3?dest-id=14434",
+            "title": "Episode 901 - Sean Penn / Lynn Shelton"
+        },
+        {
+            "listened": false,
+            "published": 1521702000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_900_NICK_NOLTE.mp3?dest-id=14434",
+            "title": "Episode 900 - Nick Nolte"
+        },
+        {
+            "listened": false,
+            "published": 1521442800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_899_NELL_SCOVELL.mp3?dest-id=14434",
+            "title": "Episode 899 - Nell Scovell / Bill Hader"
+        },
+        {
+            "listened": false,
+            "published": 1521097200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_898_DAVID_MAMET.mp3?dest-id=14434",
+            "title": "Episode 898 - David Mamet"
+        },
+        {
+            "listened": false,
+            "published": 1520838000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_897_TED_DANSON.mp3?dest-id=14434",
+            "title": "Episode 897 - Ted Danson"
+        },
+        {
+            "listened": false,
+            "published": 1520496000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_896_DAVID_OYELOWO.mp3?dest-id=14434",
+            "title": "Episode 896 - David Oyelowo"
+        },
+        {
+            "listened": false,
+            "published": 1520236800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_895_SHARON_STONE.mp3?dest-id=14434",
+            "title": "Episode 895 - Sharon Stone"
+        },
+        {
+            "listened": false,
+            "published": 1519975232.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_REMEMBERING_BARRY_CRIMMINS.mp3?dest-id=14434",
+            "title": "Remembering Barry Crimmins"
+        },
+        {
+            "listened": false,
+            "published": 1519891200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_894_BILL_JANOVITZ.mp3?dest-id=14434",
+            "title": "Episode 894 - Bill Janovitz / Danny Lobell"
+        },
+        {
+            "listened": false,
+            "published": 1519632000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_893_JENNIFER_LAWRENCE.mp3?dest-id=14434",
+            "title": "Episode 893 - Jennifer Lawrence"
+        },
+        {
+            "listened": false,
+            "published": 1519286400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_892_DUNCAN_JONES.mp3?dest-id=14434",
+            "title": "Episode 892 - Duncan Jones / Brendon Small"
+        },
+        {
+            "listened": false,
+            "published": 1519027200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_891_HEATHER_GRAHAM.mp3?dest-id=14434",
+            "title": "Episode 891 - Heather Graham / Sebastian Maniscalco"
+        },
+        {
+            "listened": false,
+            "published": 1518681600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_890_GINA_RODRIGUEZ.mp3?dest-id=14434",
+            "title": "Episode 890 - Gina Rodriguez"
+        },
+        {
+            "listened": false,
+            "published": 1518551032.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_MARTY_ALLEN_2015.mp3?dest-id=14434",
+            "title": "Marty Allen from 2015"
+        },
+        {
+            "listened": false,
+            "published": 1518422400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_889_ESTHER_POVITSKY.mp3?dest-id=14434",
+            "title": "Episode 889 - Esther Povitsky"
+        },
+        {
+            "listened": false,
+            "published": 1518076800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_888_TRACY_LETTS.mp3?dest-id=14434",
+            "title": "Episode 888 - Tracy Letts"
+        },
+        {
+            "listened": false,
+            "published": 1517817600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_887_RIKI_LINDHOME.mp3?dest-id=14434",
+            "title": "Episode 887 - Riki Lindhome / Laurie Kilmartin"
+        },
+        {
+            "listened": false,
+            "published": 1517472000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_886_EZRA_FURMAN.mp3?dest-id=14434",
+            "title": "Episode 886 - Ezra Furman / David Wain"
+        },
+        {
+            "listened": false,
+            "published": 1517212800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_885_RITA_MORENO.mp3?dest-id=14434",
+            "title": "Episode 885 - Rita Moreno"
+        },
+        {
+            "listened": false,
+            "published": 1516867200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_884_DON_WAS.mp3?dest-id=14434",
+            "title": "Episode 884 - Don Was"
+        },
+        {
+            "listened": false,
+            "published": 1516608000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_883_MACAULAY_CULKIN.mp3?dest-id=14434",
+            "title": "Episode 883 - Macaulay Culkin / Cameron Esposito"
+        },
+        {
+            "listened": false,
+            "published": 1516262400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_882_DEREK_WATERS.mp3?dest-id=14434",
+            "title": "Episode 882 - Derek Waters"
+        },
+        {
+            "listened": false,
+            "published": 1516003200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_881_LAURIE_METCALF.mp3?dest-id=14434",
+            "title": "Episode 881 - Laurie Metcalf / Tom Segura"
+        },
+        {
+            "listened": false,
+            "published": 1515657600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_880_RICHARD_JENKINS.mp3?dest-id=14434",
+            "title": "Episode 880 - Richard Jenkins"
+        },
+        {
+            "listened": false,
+            "published": 1515398400.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_879_FORTUNE_FEIMSTER.mp3?dest-id=14434",
+            "title": "Episode 879 - Fortune Feimster"
+        },
+        {
+            "listened": false,
+            "published": 1515052800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_878_TA-NEHISI_COATES.mp3?dest-id=14434",
+            "title": "Episode 878 - Ta-Nehisi Coates"
+        },
+        {
+            "listened": false,
+            "published": 1514793600.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_877_MARCS_FAMILY.mp3?dest-id=14434",
+            "title": "Episode 877 - Marc's Family"
+        },
+        {
+            "listened": false,
+            "published": 1514448000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_876_MICHAEL_MARCUS.mp3?dest-id=14434",
+            "title": "Episode 876 - Michael Marcus / Dr. Steve"
+        },
+        {
+            "listened": false,
+            "published": 1514188800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_875_CHRISTMAS_PAST.mp3?dest-id=14434",
+            "title": "Episode 875 - WTF Shows of Christmas Past"
+        },
+        {
+            "listened": false,
+            "published": 1513843200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_874_NEAL_PRESTON.mp3?dest-id=14434",
+            "title": "Episode 874 - Neal Preston"
+        },
+        {
+            "listened": false,
+            "published": 1513584000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_873_STEVEN_VAN_ZANDT.mp3?dest-id=14434",
+            "title": "Episode 873 - Steven Van Zandt"
+        },
+        {
+            "listened": false,
+            "published": 1509606000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_860_JOHN_HAMMOND.mp3?dest-id=14434",
+            "title": "Episode 860 - John Hammond / Michael Rapaport"
+        },
+        {
+            "listened": false,
+            "published": 1507348702.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_RALPHIE_MAY_2012.mp3?dest-id=14434",
+            "title": "Ralphie May from 2012"
+        },
+        {
+            "listened": false,
+            "published": 1507183200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_852_WAITING_FOR_THE_PUNCH.mp3?dest-id=14434",
+            "title": "Episode 852 - Waiting for the Punch"
+        },
+        {
+            "listened": false,
+            "published": 1506823855.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_MONTY_HALL_2013.mp3?dest-id=14434",
+            "title": "Monty Hall from 2013"
+        },
+        {
+            "listened": false,
+            "published": 1505615609.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_HARRY_DEAN_STANTON_2014.mp3?dest-id=14434",
+            "title": "Harry Dean Stanton from 2014"
+        },
+        {
+            "listened": false,
+            "published": 1502344800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_836_MIKE_MACDONALD.mp3?dest-id=14434",
+            "title": "Episode 836 - Mike MacDonald / Jon Ronson"
+        },
+        {
+            "listened": false,
+            "published": 1435212000.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_614_THE_PRESIDENT_WAS_HERE.mp3?dest-id=14434",
+            "title": "Episode 614 - The President Was Here"
+        },
+        {
+            "listened": false,
+            "published": 1434952800.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_613_PRESIDENT_BARACK_OBAMA.mp3?dest-id=14434",
+            "title": "Episode 613 - President Barack Obama"
+        },
+        {
+            "listened": false,
+            "published": 1364227200.0,
+            "downloaded": false,
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_372_ADAM_PARFREY.mp3?dest-id=14434",
+            "title": "Episode 372 - Adam Parfrey"
+        },
+        {
+            "title": "Episode 233 - Anthony Bourdain",
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_233_ANTHONY_BOURDAIN.mp3?dest-id=14434",
+            "downloaded": false,
+            "listened": false,
+            "published": 1323072000.0
+        }
+    ],
     "url": "http://wtfpod.libsyn.com/rss"
 }
