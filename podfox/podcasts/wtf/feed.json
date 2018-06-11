@@ -3,6 +3,20 @@
     "shortname": "wtf",
     "episodes": [
         {
+            "title": "Episode 923 - Bob Balaban",
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_923_BOB_BALABAN.mp3?dest-id=14434",
+            "downloaded": true,
+            "listened": false,
+            "published": 1528696800.0
+        },
+        {
+            "title": "Anthony Bourdain from 2011",
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_ANTHONY_BOURDAIN_2011.mp3?dest-id=14434",
+            "downloaded": true,
+            "listened": false,
+            "published": 1528470754.0
+        },
+        {
             "listened": false,
             "published": 1528351200.0,
             "downloaded": true,
@@ -12,7 +26,7 @@
         {
             "listened": false,
             "published": 1528092000.0,
-            "downloaded": false,
+            "downloaded": true,
             "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_921_DAVID_HARBOUR.mp3?dest-id=14434",
             "title": "Episode 921 - David Harbour"
         },
@@ -428,6 +442,13 @@
             "downloaded": false,
             "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_372_ADAM_PARFREY.mp3?dest-id=14434",
             "title": "Episode 372 - Adam Parfrey"
+        },
+        {
+            "title": "Episode 233 - Anthony Bourdain",
+            "url": "http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_233_ANTHONY_BOURDAIN.mp3?dest-id=14434",
+            "downloaded": false,
+            "listened": false,
+            "published": 1323072000.0
         }
     ],
     "url": "http://wtfpod.libsyn.com/rss"
