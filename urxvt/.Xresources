@@ -1,4 +1,4 @@
-XTerm*faceName: Ubuntu Mono derivative Powerline
+XTerm*faceName: Hack
 xterm*faceSize: 12
 xterm*vt100*geometry: 80x60
 xterm*saveLines: 16384
@@ -8,10 +8,10 @@ xterm*termName: xterm-color
 xterm*eightBitInput: false
 
 ! URxvt font
-URxvt.font:                xft: Ubuntu Mono derivative Powerline:size=13
-URxvt.boldFont:            xft: Ubuntu Mono derivative Powerline:size=13:bold
-URxvt.italicFont:          xft: Ubuntu Mono derivative Powerline:size=13:italic
-URxvt.boldItalicFont:      xft: Ubuntu Mono derivative Powerline:size=13:bold:italic
+URxvt.font:                xft: Hack:size=13
+URxvt.boldFont:            xft: Hack:size=13:bold
+URxvt.italicFont:          xft: Hack:size=13:italic
+URxvt.boldItalicFont:      xft: Hack:size=13:bold:italic
 
 ! URxvt misc
 URxvt.scrollBar: false
