@@ -37,17 +37,15 @@ border-size = 4
 border-color = #00000000
 
 padding-left = 0
-padding-right = 2
+#padding-right = 2
 
-module-margin-left = 1
-module-margin-right = 2
+#module-margin-left = 1
+module-margin-right = 1
 
-font-0 = fixed:pixelsize=10;1
-font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
-font-2 = siji:pixelsize=10;1
-font-3 = Font Awesome:pixelsize=13;3
-font-4 = Font Awesome Solid:pixelsize=13;3
-font-5 = Font Awesome Brands:pixelsize=13;3
+font-0 = "Hack:pixelsize=11;1"
+font-1 = "Font Awesome 5 Free:style=Regular:pixelsize=11;1"
+font-2 = "Font Awesome 5 Free:style=Solid:pixelsize=11;1"
+font-3 = "Font Awesome 5 Brands:pixelsize=11;1"
 
 modules-left = i3
 modules-center = mpd
@@ -179,38 +177,36 @@ type = internal/mpd
 ;label-song-maxlen = 25
 ;label-song-ellipsis = true
 
-format-online = <bar-progress>  <icon-prev> <icon-stop> <toggle> <icon-next>  <label-song>
-format-online-overline = ${root.background}
-format-online-underline = ${root.background}
+format-online = <label-song> <label-time> <bar-progress>  <icon-prev> <icon-seekb> <icon-stop> <toggle> <icon-seekf> <icon-next>  <icon-repeat> <icon-random>
 format-offline = <label-offline>
+format-offline-foreground = #66
 label-offline = mpd is off
 
-icon-play = 
-icon-pause = 
-icon-stop = 
-icon-prev = 
-icon-next = 
-icon-random = 
-icon-repeat = 
+icon-prev = 
+icon-seekb = 
+icon-stop = 
+icon-play = 
+icon-pause = 
+icon-next = 
+icon-seekf = 
 
-toggle-on-foreground =
-toggle-off-foreground = #55
+icon-random = 
+icon-repeat = 
 
-bar-progress-width = 10
-bar-progress-format = %{+o +u}%fill%%{-o -u}%indicator%%{+o +u}%empty%%{-u -o}
-; bar-progress-indicator = |
-bar-progress-indicator = █
-bar-progress-indicator-foreground = #ff
-bar-progress-indicator-font = 3
-; bar-progress-fill = ─
-bar-progress-fill = █
+toggle-on-foreground = #fba922
+toggle-off-foreground = #66
+
+bar-progress-width = 15
+bar-progress-indicator = 
+bar-progress-indicator-foreground = #bb
+bar-progress-fill = ─
 bar-progress-fill-foreground = #bb
 bar-progress-fill-font = 3
-; bar-progress-empty = ─
-bar-progress-empty = ▒
-bar-progress-empty-font = 3
+bar-progress-empty = ─
 bar-progress-empty-foreground = #44
+bar-progress-empty-font = 3
 
+label-time-foreground = #55
 
 [module/xbacklight]
 type = internal/xbacklight
@@ -304,7 +300,7 @@ ramp-signal-foreground = ${colors.foreground-alt}
 
 [module/eth]
 type = internal/network
-interface = enp2s0
+interface = enp0s3
 interval = 3.0
 
 ;format-connected-underline = #55aa55

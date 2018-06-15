@@ -94,15 +94,15 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 set $workspace1 ""
-set $workspace2 ""
+set $workspace2 ""
 set $workspace3 ""
-set $workspace4 ""
-set $workspace5 ""
-set $workspace6 ""
+set $workspace4 ""
+set $workspace5 ""
+set $workspace6 ""
 set $workspace7 ""
-set $workspace8 ""
-set $workspace9 ""
-set $workspace10 ""
+set $workspace8 ""
+set $workspace9 ""
+set $workspace10 ""
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
