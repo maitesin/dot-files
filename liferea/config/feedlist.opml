@@ -45,7 +45,6 @@
         <outline title="Blog# Blog &#xB7; Dmitry Frank" text="Blog# Blog &#xB7; Dmitry Frank" description="Blog# Blog &#xB7; Dmitry Frank" type="rss" id="nflkygf" sortColumn="time" xmlUrl="https://dmitryfrank.com/lib/plugins/feed/feed.php?plugin=blog&amp;fn=getBlog&amp;ns=blog&amp;title=Blog" htmlUrl="https://dmitryfrank.com/" updateInterval="-1" collapsed="true"/>
         <outline title="Opensource.com" text="Opensource.com" description="Opensource.com" type="rss" id="obpxape" sortColumn="time" xmlUrl="https://opensource.com/feed" htmlUrl="https://opensource.com/frontpage" updateInterval="-1" collapsed="true"/>
         <outline title="Michael Snoyman's blog" text="Michael Snoyman's blog" description="Michael Snoyman's blog" type="atom" id="mhgfixv" sortColumn="time" xmlUrl="https://www.snoyman.com/feed" htmlUrl="https://www.snoyman.com/" updateInterval="-1" collapsed="true"/>
-        <outline title="The DEV Community" text="The DEV Community" description="The DEV Community" type="rss" id="ggdlkyx" sortColumn="time" xmlUrl="https://dev.to/rss" htmlUrl="https://dev.to" updateInterval="-1" collapsed="true"/>
         <outline title="good coders code, great coders reuse" text="good coders code, great coders reuse" description="good coders code, great coders reuse" type="atom" id="akcbxsa" sortColumn="time" xmlUrl="http://feeds2.feedburner.com/catonmat" htmlUrl="http://feeds.feedburner.com/catonmat" updateInterval="-1" collapsed="true"/>
         <outline title="codemiller" text="codemiller" description="codemiller" type="atom" id="igudbov" sortColumn="time" xmlUrl="http://www.codemiller.com/atom.xml" htmlUrl="http://www.codemiller.com/" updateInterval="-1" collapsed="true"/>
         <outline title="Haskell for all" text="Haskell for all" description="Haskell for all" type="atom" id="vikydsj" sortColumn="time" xmlUrl="http://www.haskellforall.com/atom.xml" htmlUrl="http://www.haskellforall.com/" updateInterval="-1" collapsed="true"/>
@@ -124,13 +123,6 @@
     </outline>
     <outline title="Comics" text="Comics" description="Comics" type="folder" id="rponiln" sortColumn="time" expanded="true">
       <outline title="xkcd" text="xkcd" description="xkcd" type="atom" id="qdehweg" sortColumn="time" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/" updateInterval="-1" collapsed="true"/>
-    </outline>
-    <outline title="News" text="News" description="News" type="folder" id="prxskqp" sortColumn="time" expanded="true">
-      <outline title="Linux" text="Linux" description="Linux" type="folder" id="khvbocn" sortColumn="time" expanded="true">
-        <outline title="Linux, GNU/Linux, free software..." text="Linux, GNU/Linux, free software..." description="Linux, GNU/Linux, free software..." type="atom" id="kupylvt" sortColumn="time" xmlUrl="https://www.reddit.com/r/linux/.rss" htmlUrl="https://www.reddit.com/r/linux/" updateInterval="-1" collapsed="true"/>
-      </outline>
-      <outline title="Hacker News" text="Hacker News" description="Hacker News" type="rss" id="jpcvcrg" sortColumn="time" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/" updateInterval="-1" collapsed="true"/>
-      <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" id="spcupfy" sortColumn="time" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com" updateInterval="-1" collapsed="true"/>
     </outline>
     <outline title="Open Source" text="Open Source" description="Open Source" type="folder" id="tnbfntr" sortColumn="time" expanded="true">
       <outline title="Liferea Blog" text="Liferea Blog" description="Liferea Blog" type="rss" id="qjqryea" sortColumn="time" xmlUrl="http://feeds.feedburner.com/LifereaBlog" htmlUrl="http://lzone.de/liferea/blog/" updateInterval="-1" collapsed="true"/>
