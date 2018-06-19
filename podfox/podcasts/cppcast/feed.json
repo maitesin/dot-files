@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Rapperswil Trip Report",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-154.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529029290.0
+        },
+        {
             "downloaded": true,
             "title": "Vcpkg with Robert Schumacher",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-153.mp3?dest-id=282890",
