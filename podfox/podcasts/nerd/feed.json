@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 56: The Intel/AMD Core Wars go nuclear, the PC at E3, and more",
+            "url": "http://feeds.soundcloud.com/stream/460682931-thefullnerd-episode-56-the-intelamd-core-wars-go-nuclear-the-pc-at-e3-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529446806.0
+        },
+        {
             "listened": false,
             "title": "Episode 55: 32-core Threadripper 2, no GeForce for you & more - Live from Computex 2018",
             "published": 1528313315.0,

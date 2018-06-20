@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "e024: Traits Deep Dive, Part II",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e024.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529434910.0
+        },
+        {
             "listened": false,
             "downloaded": true,
             "title": "CYSK: The wasm tools",
