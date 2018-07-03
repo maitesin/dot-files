@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#167 Simplifying Python's Async with Trio",
+            "url": "https://talkpython.fm/episodes/download/167/simplifying-python-s-async-with-trio.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530226800.0
+        },
+        {
             "title": "#166 Continuous delivery with Python",
             "url": "https://talkpython.fm/episodes/download/166/continuous-delivery-with-python.mp3",
             "downloaded": true,
