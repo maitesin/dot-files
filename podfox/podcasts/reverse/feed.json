@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "013 - It's Not Magic",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_13.mp3?dest-id=552832",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530710824.0
+        },
+        {
             "title": "012 - Cheese vs. SDR",
             "url": "http://traffic.libsyn.com/reverseengineering/episode_12.mp3?dest-id=552832",
             "downloaded": true,
