@@ -50,11 +50,25 @@
             "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832"
         },
         {
+            "title": "007 - Candy Coated",
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832",
+            "downloaded": false,
+            "listened": false,
+            "published": 1514962863.0
+        },
+        {
             "listened": false,
             "downloaded": false,
             "title": "006 -   Marketing Via Stickers",
             "published": 1512531587.0,
             "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832"
+        },
+        {
+            "title": "006 - Marketing Via Stickers",
+            "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832",
+            "downloaded": false,
+            "listened": false,
+            "published": 1512531587.0
         },
         {
             "listened": false,
