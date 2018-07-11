@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 58: Should you buy a new GPU/CPU right now? And winner of the signed AMD t-shirt!",
+            "url": "http://feeds.soundcloud.com/stream/469969002-thefullnerd-episode-58-should-you-buy-a-new-gpucpu-right-now-and-winner-of-the-signed-amd-t-shirt.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1531255726.0
+        },
+        {
             "title": "Episode 57.5: Why Gordon is wrong, our ultimate battlestations, and BTS of The Full Nerd",
             "url": "http://feeds.soundcloud.com/stream/466898424-thefullnerd-episode-575-why-gordon-is-wrong-our-ultimate-battlestations-and-bts-of-the-full-nerd.mp3",
             "downloaded": true,
