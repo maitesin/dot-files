@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E18 \u2013 Eighteen Summers - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e18/ubuntupodcast_s11e18.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1531400455.0
+        },
+        {
             "title": "S11E17 \u2013 At Seventeen - Ubuntu Podcast",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e17/ubuntupodcast_s11e17.mp3",
             "downloaded": true,
