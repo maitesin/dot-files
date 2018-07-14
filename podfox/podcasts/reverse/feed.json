@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "013 - It's Not Magic",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_13.mp3?dest-id=552832",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530710824.0
+        },
+        {
+            "title": "012 - Cheese vs. SDR",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_12.mp3?dest-id=552832",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530275054.0
+        },
+        {
             "title": "011 - Making Too Many Assumptions",
             "url": "http://traffic.libsyn.com/reverseengineering/Episode_11.mp3?dest-id=552832",
             "downloaded": true,
@@ -36,11 +50,25 @@
             "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832"
         },
         {
+            "title": "007 - Candy Coated",
+            "url": "http://traffic.libsyn.com/reverseengineering/Episode_007-CandyCoated.mp3?dest-id=552832",
+            "downloaded": false,
+            "listened": false,
+            "published": 1514962863.0
+        },
+        {
             "listened": false,
             "downloaded": false,
             "title": "006 -   Marketing Via Stickers",
             "published": 1512531587.0,
             "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832"
+        },
+        {
+            "title": "006 - Marketing Via Stickers",
+            "url": "http://traffic.libsyn.com/reverseengineering/UnRE-006-Marketing_Via_Stickers.mp3?dest-id=552832",
+            "downloaded": false,
+            "listened": false,
+            "published": 1512531587.0
         },
         {
             "listened": false,

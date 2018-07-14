@@ -4,6 +4,34 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E17 \u2013 At Seventeen - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e17/ubuntupodcast_s11e17.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530795618.0
+        },
+        {
+            "title": "S11E16 \u2013 Sixteen Cows - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e16/ubuntupodcast_s11e16.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530190854.0
+        },
+        {
+            "title": "S11E15 \u2013 Fifteen Minutes - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e15/ubuntupodcast_s11e15.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529589708.0
+        },
+        {
+            "title": "S11E14.5 \u2013 Fourteen and a Half Pound Budgie - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e14.5/ubuntupodcast_s11e14.5.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1528981254.0
+        },
+        {
             "listened": false,
             "downloaded": true,
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e14/ubuntupodcast_s11e14.mp3",

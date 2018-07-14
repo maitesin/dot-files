@@ -1,6 +1,27 @@
 {
     "episodes": [
         {
+            "title": "#168 10 Python security holes and how to plug them",
+            "url": "https://talkpython.fm/episodes/download/168/10-python-security-holes-and-how-to-plug-them.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530831600.0
+        },
+        {
+            "title": "#167 Simplifying Python's Async with Trio",
+            "url": "https://talkpython.fm/episodes/download/167/simplifying-python-s-async-with-trio.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530226800.0
+        },
+        {
+            "title": "#166 Continuous delivery with Python",
+            "url": "https://talkpython.fm/episodes/download/166/continuous-delivery-with-python.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1528930800.0
+        },
+        {
             "title": "#165 Python and the blockchain",
             "url": "https://talkpython.fm/episodes/download/165/python-and-the-blockchain.mp3",
             "downloaded": true,

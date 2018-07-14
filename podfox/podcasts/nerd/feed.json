@@ -3,6 +3,27 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 57.5: Why Gordon is wrong, our ultimate battlestations, and BTS of The Full Nerd",
+            "url": "http://feeds.soundcloud.com/stream/466898424-thefullnerd-episode-575-why-gordon-is-wrong-our-ultimate-battlestations-and-bts-of-the-full-nerd.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530645953.0
+        },
+        {
+            "title": "Episode 57: Threadripper 2 rumors & giveaway, Nvidia GTX 1180 rumors, and more",
+            "url": "http://feeds.soundcloud.com/stream/463875408-thefullnerd-episode-57-threadripper-2-rumors-giveaway-nvidia-gtx-1180-rumors-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530045305.0
+        },
+        {
+            "title": "Episode 56: The Intel/AMD Core Wars go nuclear, the PC at E3, and more",
+            "url": "http://feeds.soundcloud.com/stream/460682931-thefullnerd-episode-56-the-intelamd-core-wars-go-nuclear-the-pc-at-e3-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529446806.0
+        },
+        {
             "listened": false,
             "title": "Episode 55: 32-core Threadripper 2, no GeForce for you & more - Live from Computex 2018",
             "published": 1528313315.0,

@@ -1,6 +1,27 @@
 {
     "episodes": [
         {
+            "title": "e025: Traits Deep Dive, Part III",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e025.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530728876.0
+        },
+        {
+            "title": "News: Rust 1.27",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/news/rust_1_27.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530363448.0
+        },
+        {
+            "title": "e024: Traits Deep Dive, Part II",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e024.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529434910.0
+        },
+        {
             "listened": false,
             "downloaded": true,
             "title": "CYSK: The wasm tools",

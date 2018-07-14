@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "2\u00d734: Destroying Angel",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x34.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530197427.0
+        },
+        {
+            "title": "2\u00d733: Visual Github",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x33.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1528971484.0
+        },
+        {
             "listened": false,
             "downloaded": false,
             "title": "2\u00d732: IO, IO, It\u2019s Off To Work We Go",

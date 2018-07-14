@@ -3,6 +3,34 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Modern C++ in Embedded Systems with Michael Caisse",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-157.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530845004.0
+        },
+        {
+            "title": "SG15 Tooling Group with Titus Winters",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-156.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1530240024.0
+        },
+        {
+            "title": "C++ Insights with Andreas Fertig",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-155.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529636201.0
+        },
+        {
+            "title": "Rapperswil Trip Report",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-154.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1529029290.0
+        },
+        {
             "downloaded": true,
             "title": "Vcpkg with Robert Schumacher",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-153.mp3?dest-id=282890",
