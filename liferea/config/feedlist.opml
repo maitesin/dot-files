@@ -33,10 +33,10 @@
           <outline title="Duskborn" text="Duskborn" description="Duskborn" type="rss" id="ngugqco" sortColumn="time" xmlUrl="http://www.duskborn.com/feed/" htmlUrl="http://www.duskborn.com" updateInterval="-1" collapsed="true"/>
         </outline>
         <outline title="Wilfred Hughes::Blog" text="Wilfred Hughes::Blog" description="Wilfred Hughes::Blog" type="rss" id="cnjvefh" sortColumn="time" xmlUrl="http://www.wilfred.me.uk/rss.xml" htmlUrl="http://www.wilfred.me.uk/" updateInterval="-1" collapsed="true"/>
-        <outline title="null program" text="null program" description="null program" type="atom" id="rldpidl" sortColumn="time" xmlUrl="http://nullprogram.com/feed/" htmlUrl="http://nullprogram.com/feed/" updateInterval="-1" collapsed="true"/>
+        <outline title="null program" text="null program" description="null program" type="atom" id="rldpidl" sortColumn="time" xmlUrl="https://nullprogram.com/feed/" htmlUrl="https://nullprogram.com/feed/" updateInterval="-1" collapsed="true"/>
       </outline>
       <outline title="Tech" text="Tech" description="Tech" type="folder" id="ukbnocb" sortColumn="time" expanded="true">
-        <outline title="DutchCoders" text="DutchCoders" description="DutchCoders" type="rss" id="rnqbjfk" sortColumn="time" xmlUrl="http://blog.dutchcoders.io/rss/" htmlUrl="http://blog.dutchcoders.io/" updateInterval="-1" collapsed="true"/>
+        <outline title="DutchCoders" text="DutchCoders" description="DutchCoders" type="rss" id="rnqbjfk" sortColumn="time" xmlUrl="https://blog.dutchcoders.io/rss/" htmlUrl="https://blog.dutchcoders.io/" updateInterval="-1" collapsed="true"/>
         <outline title="matt.sh" text="matt.sh" description="matt.sh" type="rss" id="gurqbqw" sortColumn="time" xmlUrl="https://matt.sh/.rss" htmlUrl="https://matt.sh/" updateInterval="-1" collapsed="true"/>
         <outline title="Ochronus onLine" text="Ochronus onLine" description="Ochronus onLine" type="atom" id="pmhrtwl" sortColumn="time" xmlUrl="https://ochronus.com/atom.xml" htmlUrl="https://ochronus.com/" updateInterval="-1" collapsed="true"/>
         <outline title="Say what?" text="Say what?" description="Say what?" type="atom" id="eriuyxa" sortColumn="time" xmlUrl="http://www.kfirlavi.com/atom.xml" htmlUrl="http://www.kfirlavi.com/" updateInterval="-1" collapsed="true"/>
