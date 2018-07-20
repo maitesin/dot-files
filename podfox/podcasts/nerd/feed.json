@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 59: Steve from Gamers Nexus talks 8086k overclocking and Intel CPU soldering",
+            "url": "http://feeds.soundcloud.com/stream/474100482-thefullnerd-episode-59-steve-from-gamers-nexus-talks-8086k-overclocking-and-intel-cpu-soldering.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1532043670.0
+        },
+        {
             "title": "Episode 58: Should you buy a new GPU/CPU right now? And winner of the signed AMD t-shirt!",
             "url": "http://feeds.soundcloud.com/stream/469969002-thefullnerd-episode-58-should-you-buy-a-new-gpucpu-right-now-and-winner-of-the-signed-amd-t-shirt.mp3",
             "downloaded": true,

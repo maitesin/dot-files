@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Design Patterns in Modern C++ with Dmitri Nesteruk",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-159.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1532051194.0
+        },
+        {
             "title": "Future of 2D Graphics Proposal with Guy Davidson",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-158.mp3?dest-id=282890",
             "downloaded": true,
