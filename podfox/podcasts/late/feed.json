@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Late Night Linux \u2013 Episode 42",
+            "url": "https://podtrac.com/pts/redirect.mp3/media.latenightlinux.com/LNL42.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1532390870.0
+        },
+        {
             "title": "Late Night Linux \u2013 Episode 41",
             "url": "https://podtrac.com/pts/redirect.mp3/media.latenightlinux.com/LNL41.mp3",
             "downloaded": true,
