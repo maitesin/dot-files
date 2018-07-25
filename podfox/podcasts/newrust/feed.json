@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "e026: Functional Programming IDeas",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e026.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1532458926.0
+        },
+        {
             "title": "e025: Traits Deep Dive, Part III",
             "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e025.mp3",
             "downloaded": true,
