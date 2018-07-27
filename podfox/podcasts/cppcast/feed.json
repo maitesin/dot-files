@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Parallel Ranges with Christopher Di Bella",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-160.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1532657811.0
+        },
+        {
             "title": "Design Patterns in Modern C++ with Dmitri Nesteruk",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-159.mp3?dest-id=282890",
             "downloaded": true,
