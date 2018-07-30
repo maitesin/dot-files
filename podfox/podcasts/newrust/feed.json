@@ -8,6 +8,13 @@
             "published": 1532458926.0
         },
         {
+            "title": "e026: Functional Programming Ideas",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e026.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1532458926.0
+        },
+        {
             "title": "e025: Traits Deep Dive, Part III",
             "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e025.mp3",
             "downloaded": true,
@@ -559,6 +566,195 @@
             "title": "e017: Point me where I need to go",
             "published": 1470663300.0,
             "url": "http://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/e017.mp3"
+        },
+        {
+            "title": "e016: RefCells and code smells",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e016.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1469271513.0
+        },
+        {
+            "title": "Interview 2::Part 2 \u2013 Raph Levien",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/interview/2/part_2.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1467650100.0
+        },
+        {
+            "title": "Interview 2::Part 1 \u2013 Raph Levien",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/interview/2/part_1.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1466792811.0
+        },
+        {
+            "title": "e015: Not dumb pointers",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e015.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1466183242.0
+        },
+        {
+            "title": "News 1: One year and counting",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news_1.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1464693205.0
+        },
+        {
+            "title": "Bonus 5: Better than open-source contributions",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/5.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1462819644.0
+        },
+        {
+            "title": "e014: Stringing things along",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e014.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1461611763.0
+        },
+        {
+            "title": "Bonus 4: We can have nice things",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/4.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1461041400.0
+        },
+        {
+            "title": "e013: Staying alive",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e013.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1459788741.0
+        },
+        {
+            "title": "e012: I'm not familiar with that expression",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e012.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1458536400.0
+        },
+        {
+            "title": "e011: Once Upon a Type",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e011.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1457424000.0
+        },
+        {
+            "title": "Interview 1::Part 2 \u2013 Sean Griffin",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/interview/1/part_2.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1456381800.0
+        },
+        {
+            "title": "Interview 1::Part 1 \u2013 Sean Griffin",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/interview/1/part_1.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1455541200.0
+        },
+        {
+            "title": "Bonus 3: Building as a community",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/3.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1454260116.0
+        },
+        {
+            "title": "e010: Macros rule!",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e010.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1453105500.0
+        },
+        {
+            "title": "e009: Composing a Rustic tune",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e009.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1452348011.0
+        },
+        {
+            "title": "e008: Just like something else",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e008.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1451207987.0
+        },
+        {
+            "title": "e007: Testify",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e007.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1450003116.0
+        },
+        {
+            "title": "Bonus 2: Legacy Code",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/2.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1449401034.0
+        },
+        {
+            "title": "Bonus 1: Polyglot Programming Promises and Perils",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/1.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1448443629.0
+        },
+        {
+            "title": "e006: Modularize this!",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e006.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1447662986.0
+        },
+        {
+            "title": "e005: Allocate it where?",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e005.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1446988553.0
+        },
+        {
+            "title": "e004: Functionalized",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e004.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1446151512.0
+        },
+        {
+            "title": "e003: No. more. nulls.",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e003.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1445422212.0
+        },
+        {
+            "title": "e002: Something borrowed, something\u2026 moved?",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e002.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1444591456.0
+        },
+        {
+            "title": "e001: Document All the Things",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e001.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1443877468.0
+        },
+        {
+            "title": "e000: Hello, world!",
+            "url": "http://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e000.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1443111290.0
         }
     ],
     "title": "New Rustacean",

@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "MacBook Pro throttling vs PCs, Core i7 losing hyper-threading rumors, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/477518967-thefullnerd-macbook-pro-throttling-vs-pcs-core-i7-losing-hyper-threading-rumors-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1532704321.0
+        },
+        {
             "title": "Episode 59: Steve from Gamers Nexus talks 8086k overclocking and Intel CPU soldering",
             "url": "http://feeds.soundcloud.com/stream/474100482-thefullnerd-episode-59-steve-from-gamers-nexus-talks-8086k-overclocking-and-intel-cpu-soldering.mp3",
             "downloaded": true,
