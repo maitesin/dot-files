@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 61: Nvidia at Gamescom, AMD B450 boards, Core i9 9900k rumors, and more",
+            "url": "http://feeds.soundcloud.com/stream/479360910-thefullnerd-episode-61-nvidia-at-gamescom-amd-b450-boards-core-i9-9900k-rumors-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533064985.0
+        },
+        {
             "title": "MacBook Pro throttling vs PCs, Core i7 losing hyper-threading rumors, and Q&A",
             "url": "http://feeds.soundcloud.com/stream/477518967-thefullnerd-macbook-pro-throttling-vs-pcs-core-i7-losing-hyper-threading-rumors-and-qa.mp3",
             "downloaded": true,
