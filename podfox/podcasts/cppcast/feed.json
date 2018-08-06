@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Expectations and Exceptions with Simon Brand",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-161.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533262373.0
+        },
+        {
             "title": "Parallel Ranges with Christopher Di Bella",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-160.mp3?dest-id=282890",
             "downloaded": true,

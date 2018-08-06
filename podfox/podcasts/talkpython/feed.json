@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#172 Nuitka: A full Python compiler",
+            "url": "https://talkpython.fm/episodes/download/172/nuitka-a-full-python-compiler.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533078000.0
+        },
+        {
             "title": "#171 1M Jupyter notebooks analyzed",
             "url": "https://talkpython.fm/episodes/download/171/1m-jupyter-notebooks-analyzed.mp3",
             "downloaded": true,
