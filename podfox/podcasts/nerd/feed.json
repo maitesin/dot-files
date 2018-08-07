@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Threadripper 2 launch special with Jim Anderson of AMD | The Full Nerd SE",
+            "url": "http://feeds.soundcloud.com/stream/480769470-thefullnerd-threadripper-2-launch-special-with-jim-anderson-of-amd-the-full-nerd-se.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533556806.0
+        },
+        {
             "title": "Episode 61: Nvidia at Gamescom, AMD B450 boards, Core i9 9900k rumors, and more",
             "url": "http://feeds.soundcloud.com/stream/479360910-thefullnerd-episode-61-nvidia-at-gamescom-amd-b450-boards-core-i9-9900k-rumors-and-more.mp3",
             "downloaded": true,
