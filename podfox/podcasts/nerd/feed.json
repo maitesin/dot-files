@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 62: Threadripper 2 price & clocks, Intel 9000 series leaked, and more",
+            "url": "http://feeds.soundcloud.com/stream/482495073-thefullnerd-episode-62-threadripper-2-price-clocks-intel-9000-series-leaked-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533673903.0
+        },
+        {
             "title": "Threadripper 2 launch special with Jim Anderson of AMD | The Full Nerd SE",
             "url": "http://feeds.soundcloud.com/stream/480769470-thefullnerd-threadripper-2-launch-special-with-jim-anderson-of-amd-the-full-nerd-se.mp3",
             "downloaded": true,

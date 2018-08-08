@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#173 Coming into Python from another Industry (part 1)",
+            "url": "https://talkpython.fm/episodes/download/173/coming-into-python-from-another-industry-part-1.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533596400.0
+        },
+        {
             "title": "#172 Nuitka: A full Python compiler",
             "url": "https://talkpython.fm/episodes/download/172/nuitka-a-full-python-compiler.mp3",
             "downloaded": true,
