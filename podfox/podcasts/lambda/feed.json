@@ -1,0 +1,147 @@
+{
+    "episodes": [
+        {
+            "title": "20: Laziness",
+            "url": "http://feeds.soundcloud.com/stream/460195035-lambda-cast-20-laziness.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1529361956.0
+        },
+        {
+            "title": "19: Starting A Project Functionally",
+            "url": "http://feeds.soundcloud.com/stream/400408620-lambda-cast-starting-a-project-functionally.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1518758919.0
+        },
+        {
+            "title": "18: Monads",
+            "url": "http://feeds.soundcloud.com/stream/356938367-lambda-cast-18-monads.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1510888969.0
+        },
+        {
+            "title": "17: Applicative Functors",
+            "url": "http://feeds.soundcloud.com/stream/339650108-lambda-cast-17-applicative-functors.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1503787095.0
+        },
+        {
+            "title": "16: Functors",
+            "url": "http://feeds.soundcloud.com/stream/334405675-lambda-cast-16-functors.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1500786444.0
+        },
+        {
+            "title": "15: The FP Community",
+            "url": "http://feeds.soundcloud.com/stream/331770087-lambda-cast-the-fp-community.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1499295664.0
+        },
+        {
+            "title": "14: Dynamic and Static Languages",
+            "url": "http://feeds.soundcloud.com/stream/319021514-lambda-cast-14-dynamic-and-static-languages.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1492903295.0
+        },
+        {
+            "title": "13: ADTs",
+            "url": "http://feeds.soundcloud.com/stream/310453560-lambda-cast-13-adts.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1488516175.0
+        },
+        {
+            "title": "12: Monoids",
+            "url": "http://feeds.soundcloud.com/stream/307477984-lambda-cast-12-monoids.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1486974299.0
+        },
+        {
+            "title": "11: Aaron's C# Story",
+            "url": "http://feeds.soundcloud.com/stream/304758285-lambda-cast-aarons-c-story.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1485504114.0
+        },
+        {
+            "title": "10: Partial Application",
+            "url": "http://feeds.soundcloud.com/stream/301167218-lambda-cast-10-partial-application.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1483679645.0
+        },
+        {
+            "title": "9: Polymorphism And Abstraction",
+            "url": "http://feeds.soundcloud.com/stream/298916052-lambda-cast-9-polymorphism-and-abstraction.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1482296163.0
+        },
+        {
+            "title": "8: Morphisms",
+            "url": "http://feeds.soundcloud.com/stream/294634521-lambda-cast-8-morphisms.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1480020769.0
+        },
+        {
+            "title": "7: Recursion",
+            "url": "http://feeds.soundcloud.com/stream/289995263-lambda-cast-7-recursion.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1477444170.0
+        },
+        {
+            "title": "6: Null And Friends",
+            "url": "http://feeds.soundcloud.com/stream/286957714-lambda-cast-6-null-and-friends.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1476086764.0
+        },
+        {
+            "title": "5: Immutability",
+            "url": "http://feeds.soundcloud.com/stream/284647414-lambda-cast-episode-5-immutability.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1474851771.0
+        },
+        {
+            "title": "4: Higher-Order Functions",
+            "url": "http://feeds.soundcloud.com/stream/281301583-lambda-cast-4-higher-order-functions.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1472966152.0
+        },
+        {
+            "title": "3: Why FP?",
+            "url": "http://feeds.soundcloud.com/stream/278205125-lambda-cast-3-why-fp.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1471171775.0
+        },
+        {
+            "title": "2: Overview of Functional Programming part 2",
+            "url": "http://feeds.soundcloud.com/stream/276146572-lambda-cast-2-overview-of-functional-programming-part-2.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1469940833.0
+        },
+        {
+            "title": "1: Overview Of Functional Programming",
+            "url": "http://feeds.soundcloud.com/stream/273126428-lambda-cast-1-overview-of-functional-programming.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1468225499.0
+        }
+    ],
+    "shortname": "lambda",
+    "title": "LambdaCast",
+    "url": "http://feeds.soundcloud.com/users/soundcloud:users:239787249/sounds.rss"
+}
