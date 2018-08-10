@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "The Art of C++ Libraries with Colin Hirsch",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-162.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533868228.0
+        },
+        {
             "title": "Expectations and Exceptions with Simon Brand",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-161.mp3?dest-id=282890",
             "downloaded": true,
