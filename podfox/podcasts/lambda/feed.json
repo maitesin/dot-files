@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "21: Type Parameters",
+            "url": "http://feeds.soundcloud.com/stream/483810060-lambda-cast-21-type-parameters.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1533920525.0
+        },
+        {
             "title": "20: Laziness",
             "url": "http://feeds.soundcloud.com/stream/460195035-lambda-cast-20-laziness.mp3",
             "downloaded": true,
