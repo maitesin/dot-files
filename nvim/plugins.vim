@@ -4,10 +4,8 @@ call plug#begin('~/.local/share/nvim/plugged')
 function! BuildYCM(info)
   if a:info.status == 'installed' || a:info.force
     if system("uname -s") == "OpenBSD\n"
-      :echom "We are on OpenBSD"
       !./install.py --clang-completer --gocode-completer --rust-completer --system-libclang
     else
-      :echom "We are NOT on OpenBSD"
       !./install.py --clang-completer --gocode-completer --rust-completer
     endif
   endif
@@ -22,6 +20,9 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
+
+Plug 'Shougo/denite.nvim', {'do': ':UpdateRemotePlugins'}
+Plug 'neomake/neomake'
 
 " Stuff for the snippets
 Plug 'SirVer/ultisnips'
