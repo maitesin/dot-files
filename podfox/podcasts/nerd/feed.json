@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 64: Nvidia GeForce RTX analysis and PC gear at Gamescom",
+            "url": "http://feeds.soundcloud.com/stream/488728620-thefullnerd-episode-64-nvidia-geforce-rtx-analysis-and-pc-gear-at-gamescom.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1534878206.0
+        },
+        {
             "title": "Episode 63: GeForce GTX 2080 teased and Threadripper 2 review round up",
             "url": "http://feeds.soundcloud.com/stream/485577837-thefullnerd-episode-63-geforce-gtx-2080-teased-and-threadripper-2-review-round-up.mp3",
             "downloaded": true,
