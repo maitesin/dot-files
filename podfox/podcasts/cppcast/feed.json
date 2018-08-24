@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "SYCL with Gordon Brown",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-164.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1535077831.0
+        },
+        {
             "title": "Sourcetrail with Eberhard Gr\u00e4ther",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-163.mp3?dest-id=282890",
             "downloaded": true,
