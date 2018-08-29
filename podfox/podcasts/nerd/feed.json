@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "The RTX story so far, Jim Anderson leaves AMD, Acer Predator X27 review, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/491942604-thefullnerd-the-rtx-story-so-far-jim-anderson-leaves-amd-acer-predator-x27-review-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1535480524.0
+        },
+        {
             "title": "Episode 64: Nvidia GeForce RTX analysis and PC gear at Gamescom",
             "url": "http://feeds.soundcloud.com/stream/488728620-thefullnerd-episode-64-nvidia-geforce-rtx-analysis-and-pc-gear-at-gamescom.mp3",
             "downloaded": true,
