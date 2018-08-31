@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Formal Verification with Matt Fernandez",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-165.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1535683011.0
+        },
+        {
             "title": "SYCL with Gordon Brown",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-164.mp3?dest-id=282890",
             "downloaded": true,
