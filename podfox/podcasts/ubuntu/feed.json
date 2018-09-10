@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E26 \u2013 Twenty-Six Roses - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e26/ubuntupodcast_s11e26.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1536238823.0
+        },
+        {
             "title": "S11E25 \u2013 The Wrong Side of Twenty-Five - Ubuntu Podcast",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e25/ubuntupodcast_s11e25.mp3",
             "downloaded": true,

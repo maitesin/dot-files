@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 66: Threadripper memory bandwidth, Athlon returns, external processors, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/496300935-thefullnerd-episode-66-threadripper-memory-bandwidth-athlon-returns-external-processors-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1536273063.0
+        },
+        {
             "title": "The RTX story so far, Jim Anderson leaves AMD, Acer Predator X27 review, Q&A",
             "url": "http://feeds.soundcloud.com/stream/491942604-thefullnerd-the-rtx-story-so-far-jim-anderson-leaves-amd-acer-predator-x27-review-qa.mp3",
             "downloaded": true,
