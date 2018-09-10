@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Linux Action News 70",
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/bbf4f7c1-324d-4b04-8aaf-d6d88543caa4.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1536498000.0
+        },
+        {
             "title": "Linux Action News 69",
             "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/b87806b4-4273-4a54-bd44-b7cdc6db0229.mp3",
             "downloaded": true,
