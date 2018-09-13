@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "CppQuiz with Anders Knatten",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-167.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1536806002.0
+        },
+        {
             "title": "CppCon Poster Program and Interface Design with Bob Steagall",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-166.mp3?dest-id=282890",
             "downloaded": true,
