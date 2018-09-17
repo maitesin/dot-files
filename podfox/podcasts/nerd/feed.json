@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 67: RTX Turing GPU deep-dive, Nvidia Scanner, No ray traced games at launch?",
+            "url": "http://feeds.soundcloud.com/stream/499990011-thefullnerd-episode-67-rtx-turing-gpu-deep-dive-nvidia-scanner-no-ray-traced-games-at-launch.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1536953222.0
+        },
+        {
             "title": "Episode 66: Threadripper memory bandwidth, Athlon returns, external processors, Q&A",
             "url": "http://feeds.soundcloud.com/stream/496300935-thefullnerd-episode-66-threadripper-memory-bandwidth-athlon-returns-external-processors-qa.mp3",
             "downloaded": true,

@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E27 \u2013 Twenty-Seven Bones - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e27/ubuntupodcast_s11e27.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1536930033.0
+        },
+        {
             "title": "S11E26 \u2013 Twenty-Six Roses - Ubuntu Podcast",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e26/ubuntupodcast_s11e26.mp3",
             "downloaded": true,
