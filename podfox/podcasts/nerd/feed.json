@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 68: RTX 2080 & 2080 Ti review, RTX 2080 or GTX 1080 Ti? Buy a Radeon instead?",
+            "url": "http://feeds.soundcloud.com/stream/502213293-thefullnerd-episode-68-rtx-2080-2080-ti-review-rtx-2080-or-gtx-1080-ti-buy-a-radeon-instead.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1537376946.0
+        },
+        {
             "title": "Episode 67: RTX Turing GPU deep-dive, Nvidia Scanner, No ray traced games at launch?",
             "url": "http://feeds.soundcloud.com/stream/499990011-thefullnerd-episode-67-rtx-turing-gpu-deep-dive-nvidia-scanner-no-ray-traced-games-at-launch.mp3",
             "downloaded": true,
