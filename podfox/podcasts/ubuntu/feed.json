@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E28 \u2013 Twenty-Eight and a Half Wishes - Ubuntu Podcast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e28/ubuntupodcast_s11e28.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1537448413.0
+        },
+        {
             "title": "S11E27 \u2013 Twenty-Seven Bones - Ubuntu Podcast",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e27/ubuntupodcast_s11e27.mp3",
             "downloaded": true,

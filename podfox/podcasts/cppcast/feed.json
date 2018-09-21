@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "CppCon Preview with Bryce Adelstein Lelbach",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-168.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1537494953.0
+        },
+        {
             "title": "CppQuiz with Anders Knatten",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-167.mp3?dest-id=282890",
             "downloaded": true,
