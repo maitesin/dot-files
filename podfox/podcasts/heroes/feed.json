@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Hello, World: Programming Languages for the Polyglot Developer",
+            "url": "https://tracking.feedpress.it/link/18442/10390996/e6ef40b1.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1537743660.0
+        },
+        {
             "title": "Press Start: How gaming shapes development",
             "url": "https://tracking.feedpress.it/link/18442/10285399/196cf4bc.mp3",
             "downloaded": true,

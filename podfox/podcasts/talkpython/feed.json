@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "#179 Python Language Summit 2018",
+            "url": "https://talkpython.fm/episodes/download/179/python-language-summit-2018.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1537916400.0
+        },
+        {
+            "title": "#178 Coverage.py",
+            "url": "https://talkpython.fm/episodes/download/178/coverage.py.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1537484400.0
+        },
+        {
             "title": "#177 Flask goes 1.0",
             "url": "https://talkpython.fm/episodes/download/177/flask-goes-1.0.mp3",
             "downloaded": true,
@@ -289,7 +303,7 @@
         },
         {
             "listened": false,
-            "downloaded": false,
+            "downloaded": true,
             "title": "#136 Secure code lessons from Have I Been Pwned",
             "published": 1509580800.0,
             "url": "https://talkpython.fm/episodes/download/136/secure-code-lessons-from-have-i-been-pwned.mp3"

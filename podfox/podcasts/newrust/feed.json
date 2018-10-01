@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Bonus 11: Burnout",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/burnout.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1537647711.0
+        },
+        {
             "title": "News: Rust 1.28",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_28.mp3",
             "downloaded": true,

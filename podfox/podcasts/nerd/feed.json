@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 69: Intel 9000 series leak, custom RTX 2080 performance, when is a deal a deal?",
+            "url": "http://feeds.soundcloud.com/stream/506152773-thefullnerd-episode-69-intel-9000-series-leak-custom-rtx-2080-performance-when-is-a-deal-a-deal.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1538077262.0
+        },
+        {
             "title": "Episode 68: RTX 2080 & 2080 Ti review, RTX 2080 or GTX 1080 Ti? Buy a Radeon instead?",
             "url": "http://feeds.soundcloud.com/stream/502213293-thefullnerd-episode-68-rtx-2080-2080-ti-review-rtx-2080-or-gtx-1080-ti-buy-a-radeon-instead.mp3",
             "downloaded": true,
