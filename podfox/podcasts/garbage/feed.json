@@ -1,0 +1,315 @@
+{
+    "episodes": [
+        {
+            "title": "garbage[43]: What year is it?",
+            "url": "https://garbage.fm/episodes/garbage43.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1538560800.0
+        },
+        {
+            "title": "garbage[42]: Interview with Purism's Todd Weaver",
+            "url": "https://garbage.fm/episodes/garbage42.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1504252800.0
+        },
+        {
+            "title": "garbage[41]: Interview with Patrick Wildt",
+            "url": "https://garbage.fm/episodes/garbage41.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1503082800.0
+        },
+        {
+            "title": "garbage[40]: Reunion",
+            "url": "https://garbage.fm/episodes/garbage40.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1495652400.0
+        },
+        {
+            "title": "garbage[39]: Provenance",
+            "url": "https://garbage.fm/episodes/garbage39.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1477681200.0
+        },
+        {
+            "title": "garbage[38]: #camperchat",
+            "url": "https://garbage.fm/episodes/garbage38.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1474398000.0
+        },
+        {
+            "title": "garbage[37]: Throttling",
+            "url": "https://garbage.fm/episodes/garbage37.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1470337200.0
+        },
+        {
+            "title": "garbage[36]: ACPI pals",
+            "url": "https://garbage.fm/episodes/garbage36.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1469732400.0
+        },
+        {
+            "title": "garbage[35]: Nothing is more permanent than a temporary solution",
+            "url": "https://garbage.fm/episodes/garbage35.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1469214000.0
+        },
+        {
+            "title": "garbage[34]: Bursting with excitement",
+            "url": "https://garbage.fm/episodes/garbage34.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1468522800.0
+        },
+        {
+            "title": "garbage[33]: Z-Wave of ze future",
+            "url": "https://garbage.fm/episodes/garbage33.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1468004400.0
+        },
+        {
+            "title": "garbage[32]: Monkey in the middle",
+            "url": "https://garbage.fm/episodes/garbage32.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1467313200.0
+        },
+        {
+            "title": "garbage[31]: Pirates of the Corebootean",
+            "url": "https://garbage.fm/episodes/garbage31.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1466708400.0
+        },
+        {
+            "title": "garbage[30]: Adventures at BSDCan",
+            "url": "https://garbage.fm/episodes/garbage30.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1466103600.0
+        },
+        {
+            "title": "garbage[29]: A nice, shiny comment",
+            "url": "https://garbage.fm/episodes/garbage29.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1465498800.0
+        },
+        {
+            "title": "garbage[28]: Running with scissors for a while",
+            "url": "https://garbage.fm/episodes/garbage28.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1464894000.0
+        },
+        {
+            "title": "garbage[27]: All these chat programs suck, I'll create another one",
+            "url": "https://garbage.fm/episodes/garbage27.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1464289200.0
+        },
+        {
+            "title": "garbage[26]: We're not a Linux show, either",
+            "url": "https://garbage.fm/episodes/garbage26.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1463079600.0
+        },
+        {
+            "title": "garbage[25]: Constraints",
+            "url": "https://garbage.fm/episodes/garbage25.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1462474800.0
+        },
+        {
+            "title": "garbage[24]: It's all fun and games until someone's domain gets hurt",
+            "url": "https://garbage.fm/episodes/garbage24.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1461870000.0
+        },
+        {
+            "title": "garbage[23]: High-availability real-time clustering dealy",
+            "url": "https://garbage.fm/episodes/garbage23.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1461265200.0
+        },
+        {
+            "title": "garbage[22]: Potential",
+            "url": "https://garbage.fm/episodes/garbage22.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1460660400.0
+        },
+        {
+            "title": "garbage[21]: Much ado about nothing",
+            "url": "https://garbage.fm/episodes/garbage21.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1460055600.0
+        },
+        {
+            "title": "garbage[20]: OpenBSD 5.9",
+            "url": "https://garbage.fm/episodes/garbage20.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1459537200.0
+        },
+        {
+            "title": "garbage[19]: sched_yield",
+            "url": "https://garbage.fm/episodes/garbage19.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1458849600.0
+        },
+        {
+            "title": "garbage[18]: Pixel C, Raspberry Pi 3",
+            "url": "https://garbage.fm/episodes/garbage18.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1458244800.0
+        },
+        {
+            "title": "garbage[17]: A moment of silence for VAX",
+            "url": "https://garbage.fm/episodes/garbage17.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1457640000.0
+        },
+        {
+            "title": "garbage[16]: You guys got it wrong, your algorithms suck",
+            "url": "https://garbage.fm/episodes/garbage16.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1457121600.0
+        },
+        {
+            "title": "garbage[15]: Compressing with broccoli",
+            "url": "https://garbage.fm/episodes/garbage15.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1456516800.0
+        },
+        {
+            "title": "garbage[14]: Punchy-stabby things",
+            "url": "https://garbage.fm/episodes/garbage14.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1455912000.0
+        },
+        {
+            "title": "garbage[13]: Listener requests",
+            "url": "https://garbage.fm/episodes/garbage13.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1455220800.0
+        },
+        {
+            "title": "garbage[12]: All complaining, all the time",
+            "url": "https://garbage.fm/episodes/garbage12.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1454702400.0
+        },
+        {
+            "title": "garbage[11]: Racing aggressively, with a proper mutex",
+            "url": "https://garbage.fm/episodes/garbage11.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1454097600.0
+        },
+        {
+            "title": "garbage[10]: Interview with Brandon Mercer",
+            "url": "https://garbage.fm/episodes/garbage10.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1453406400.0
+        },
+        {
+            "title": "garbage[9]: Roaming fees",
+            "url": "https://garbage.fm/episodes/garbage9.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1452888000.0
+        },
+        {
+            "title": "garbage[8]: All OpenBSD, all the time",
+            "url": "https://garbage.fm/episodes/garbage8.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1452196800.0
+        },
+        {
+            "title": "garbage[7]: Year-end updates and rants",
+            "url": "https://garbage.fm/episodes/garbage7.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1450468800.0
+        },
+        {
+            "title": "garbage[6]: OpenBSD virtualization, solar-powered battery charging",
+            "url": "https://garbage.fm/episodes/garbage6.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1449864000.0
+        },
+        {
+            "title": "garbage[5]: Web development, thoughts on open source",
+            "url": "https://garbage.fm/episodes/garbage5.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1449259200.0
+        },
+        {
+            "title": "garbage[4]: Earin headphones, encrypting e-mail with reop, ACPI, HiDPI displays",
+            "url": "https://garbage.fm/episodes/garbage4.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1447963200.0
+        },
+        {
+            "title": "garbage[3]: Debugging methods, APU 2",
+            "url": "https://garbage.fm/episodes/garbage3.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1447358400.0
+        },
+        {
+            "title": "garbage[2]: OpenBSD vmm, language choices",
+            "url": "https://garbage.fm/episodes/garbage2.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1446753600.0
+        },
+        {
+            "title": "garbage[1]: ARM Chromebooks",
+            "url": "https://garbage.fm/episodes/garbage1.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1446145200.0
+        },
+        {
+            "title": "garbage[0]: Nexus 5X, cheap laptops, expensive keyboards",
+            "url": "https://garbage.fm/episodes/garbage0.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1445536800.0
+        }
+    ],
+    "shortname": "garbage",
+    "title": "Garbage",
+    "url": "https://garbage.fm/episodes.rss"
+}
