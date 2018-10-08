@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Defensive Security Podcast Episode 226",
+            "url": "https://media.defensivesecurity.org/defensive_security_podcast_episode_226.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1538960004.0
+        },
+        {
             "title": "Defensive Security Podcast Episode 225",
             "url": "https://infosec.engineering/media/defensive_security_podcast_episode_225.mp3",
             "downloaded": true,
