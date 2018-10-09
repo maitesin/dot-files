@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Special Edition: Intel talks 9th Gen & and 'The worlds best gaming CPU'",
+            "url": "http://feeds.soundcloud.com/stream/511340070-thefullnerd-special-edition-intel-talks-9th-gen-and-the-worlds-best-gaming-cpu.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1539016461.0
+        },
+        {
             "title": "Episode 70: New Surface devices, Windows 10 October 2018 Update, and more",
             "url": "http://feeds.soundcloud.com/stream/509663217-thefullnerd-episode-70-new-surface-devices-windows-10-october-2018-update-and-more.mp3",
             "downloaded": true,

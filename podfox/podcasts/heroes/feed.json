@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Ready to Commit: Contributing to Open Source",
+            "url": "https://tracking.feedpress.it/link/18442/10519585/ae4cf641.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1539039720.0
+        },
+        {
             "title": "Hello, World: Programming Languages for the Polyglot Developer",
             "url": "https://tracking.feedpress.it/link/18442/10390996/e6ef40b1.mp3",
             "downloaded": true,
