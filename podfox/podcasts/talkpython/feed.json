@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#181 30 amazing Python projects",
+            "url": "https://talkpython.fm/episodes/download/181/30-amazing-python-projects.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1539298800.0
+        },
+        {
             "title": "#180 What's new in Python 3.7 and beyond",
             "url": "https://talkpython.fm/episodes/download/180/what-s-new-in-python-3.7-and-beyond.mp3",
             "downloaded": true,

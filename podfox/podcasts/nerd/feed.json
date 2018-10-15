@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 71: Core i9-9900K, benchmarking controversy, adios mainstream hyperthreading?",
+            "url": "http://feeds.soundcloud.com/stream/512980620-thefullnerd-episode-71-core-i9-9900k-benchmarking-controversy-adios-mainstream-hyperthreading.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1539289982.0
+        },
+        {
             "title": "Special Edition: Intel talks 9th Gen & and 'The worlds best gaming CPU'",
             "url": "http://feeds.soundcloud.com/stream/511340070-thefullnerd-special-edition-intel-talks-9th-gen-and-the-worlds-best-gaming-cpu.mp3",
             "downloaded": true,
