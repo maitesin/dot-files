@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Compile Time Regular Expressions with Hana Dus\u00edkov\u00e1",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-171.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1539913696.0
+        },
+        {
             "title": "WebAssembly and nxxm with Damien Buhl",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-170.mp3?dest-id=282890",
             "downloaded": true,
