@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Fail Better: Embracing Failure",
+            "url": "https://tracking.feedpress.it/link/18442/10632742/fce7f007.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1540249260.0
+        },
+        {
             "title": "Ready to Commit: Contributing to Open Source",
             "url": "https://tracking.feedpress.it/link/18442/10519585/ae4cf641.mp3",
             "downloaded": true,
