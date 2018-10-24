@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 73: Core i9-9900K performance, Intel cancels 10nm?? Q&A",
+            "url": "http://feeds.soundcloud.com/stream/518825775-thefullnerd-episode-73-core-i9-9900k-performance-intel-cancels-10nm-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1540321198.0
+        },
+        {
             "title": "Episode 72: RTX 2070 review, PT's controversial CPU benchmarks revised, and more",
             "url": "http://feeds.soundcloud.com/stream/515288325-thefullnerd-episode-72-rtx-2070-review-pts-controversial-cpu-benchmarks-revised-and-more.mp3",
             "downloaded": true,
