@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#183 Qt for Python",
+            "url": "https://talkpython.fm/episodes/download/183/qt-for-python.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1540335600.0
+        },
+        {
             "title": "#182 Picture Python at Shutterfly",
             "url": "https://talkpython.fm/episodes/download/182/picture-python-at-shutterfly.mp3",
             "downloaded": true,
