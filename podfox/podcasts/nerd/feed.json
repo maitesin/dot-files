@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Special edition: Intel talks Optane & future of storage",
+            "url": "http://feeds.soundcloud.com/stream/521808801-thefullnerd-special-edition-intel-talks-optane-future-of-storage.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1540848088.0
+        },
+        {
             "title": "Episode 73: Core i9-9900K performance, Intel cancels 10nm?? Q&A",
             "url": "http://feeds.soundcloud.com/stream/518825775-thefullnerd-episode-73-core-i9-9900k-performance-intel-cancels-10nm-qa.mp3",
             "downloaded": true,
