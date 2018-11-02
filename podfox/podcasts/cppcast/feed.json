@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "C++ Bestiary with Adi Shavit",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-173.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1541128565.0
+        },
+        {
             "title": "Meeting C++ and Embedded with Jens Weller",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-172.mp3?dest-id=282890",
             "downloaded": true,
