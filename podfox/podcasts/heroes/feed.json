@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "The One About DevSecOps: Evolving security and reliability",
+            "url": "https://tracking.feedpress.it/link/18442/10730858/5cfd48a4.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1541462520.0
+        },
+        {
             "title": "Fail Better: Embracing Failure",
             "url": "https://tracking.feedpress.it/link/18442/10632742/fce7f007.mp3",
             "downloaded": true,
