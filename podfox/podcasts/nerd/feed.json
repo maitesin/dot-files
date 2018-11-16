@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 74: RX 590 review, RTX on in Battlefield 5, 2080 Ti failures, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/530476209-thefullnerd-episode-74-rx-590-review-rtx-on-in-battlefield-5-2080-ti-failures-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1542311994.0
+        },
+        {
             "title": "Special edition: Intel talks Optane & future of storage",
             "url": "http://feeds.soundcloud.com/stream/521808801-thefullnerd-special-edition-intel-talks-optane-future-of-storage.mp3",
             "downloaded": true,
