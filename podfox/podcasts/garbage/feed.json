@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "garbage[45]: New fixes for old laptops",
+            "url": "https://garbage.fm/episodes/garbage45.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1542312000.0
+        },
+        {
             "title": "/* +1 (252) 88-TRASH */",
             "url": "https://garbage.fm/episodes/garbage44.mp3",
             "downloaded": true,

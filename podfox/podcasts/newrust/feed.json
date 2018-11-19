@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "News: Rust 1.29 and 1.30",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_29_1_30.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1542352241.0
+        },
+        {
             "title": "Bonus 12: Translating Between Languages",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/translating_between_languages.mp3",
             "downloaded": true,
