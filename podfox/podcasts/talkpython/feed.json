@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#187 Secure all the things with HubbleStack",
+            "url": "https://talkpython.fm/episodes/download/187/secure-all-the-things-with-hubblestack.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1542672000.0
+        },
+        {
             "title": "#186 100 Days of Python in a Magical Universe",
             "url": "https://talkpython.fm/episodes/download/186/100-days-of-python-in-a-magical-universe.mp3",
             "downloaded": true,
