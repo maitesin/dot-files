@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E37 \u2013 Thirty Seven: Essays On Life, Wisdom, And Masculinity",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e37/ubuntupodcast_s11e37.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1542898850.0
+        },
+        {
             "title": "S11E36 \u2013 Thirty-Six Hours",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e36/ubuntupodcast_s11e36.mp3",
             "downloaded": true,
