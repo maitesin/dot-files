@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Destination Linux EP98 \u2013 Down With The Sickness",
+            "url": "http://podtrac.com/pts/redirect.mp3/destinationlinux.org/media/DestinationLinuxEP98.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1543437974.0
+        },
+        {
             "title": "Destination Linux EP97 \u2013 In Sickness and In Health",
             "url": "http://podtrac.com/pts/redirect.mp3/destinationlinux.org/media/DestinationLinuxEP97.mp3",
             "downloaded": false,
