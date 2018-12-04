@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "e027: Trust Me; I Promise!",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e027.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1543614419.0
+        },
+        {
             "title": "News: Rust 1.29 and 1.30",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_29_1_30.mp3",
             "downloaded": true,

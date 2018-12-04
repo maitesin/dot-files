@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#188 Async for the Pythonic web with Sanic",
+            "url": "https://talkpython.fm/episodes/download/188/async-for-the-pythonic-web-with-sanic.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1543622400.0
+        },
+        {
             "title": "#187 Secure all the things with HubbleStack",
             "url": "https://talkpython.fm/episodes/download/187/secure-all-the-things-with-hubblestack.mp3",
             "downloaded": true,
