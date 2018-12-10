@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Performance Analysis and Optimization with Denis Bakhvalov",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-178.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1544157204.0
+        },
+        {
             "title": "TDD, BDD, Low Latency and CppCon with Lenny Maiorani",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-177.mp3?dest-id=282890",
             "downloaded": true,
