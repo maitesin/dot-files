@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#190 Teaching Django",
+            "url": "https://talkpython.fm/episodes/download/190/teaching-django.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1544486400.0
+        },
+        {
             "title": "#189 War Stories of the Developer Evangelists",
             "url": "https://talkpython.fm/episodes/download/189/war-stories-of-the-developer-evangelists.mp3",
             "downloaded": true,
