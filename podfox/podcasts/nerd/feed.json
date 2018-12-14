@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 78: Intel stages a comeback? Laptop RTX rumors & Corsair's fake RGB RAM",
+            "url": "http://feeds.soundcloud.com/stream/544075419-thefullnerd-episode-78-intel-stages-a-comeback-laptop-rtx-rumors-corsairs-fake-rgb-ram.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1544650979.0
+        },
+        {
             "title": "Episode 77: Super X-Fi, Sound Blaster AE-9 reveal, and PC memories with Ryan from Creative",
             "url": "http://feeds.soundcloud.com/stream/539894874-thefullnerd-episode-77-super-x-fi-sound-blaster-ae-9-reveal-and-pc-memories-with-ryan-from-creative.mp3",
             "downloaded": true,
