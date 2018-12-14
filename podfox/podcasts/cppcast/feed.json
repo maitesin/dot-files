@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "San Diego EWGI Trip Report with JF Bastien",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-179.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1544759282.0
+        },
+        {
             "title": "Performance Analysis and Optimization with Denis Bakhvalov",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-178.mp3?dest-id=282890",
             "downloaded": true,
