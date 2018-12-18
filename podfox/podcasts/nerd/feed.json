@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 79: Best PC hardware of 2018",
+            "url": "http://feeds.soundcloud.com/stream/546447069-thefullnerd-episode-79-best-pc-hardware-of-2018.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545086137.0
+        },
+        {
             "title": "Episode 78: Intel stages a comeback? Laptop RTX rumors & Corsair's fake RGB RAM",
             "url": "http://feeds.soundcloud.com/stream/544075419-thefullnerd-episode-78-intel-stages-a-comeback-laptop-rtx-rumors-corsairs-fake-rgb-ram.mp3",
             "downloaded": true,
