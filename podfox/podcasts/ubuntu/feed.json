@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E41 \u2013 Forty-One Jane Doe\u2019s",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e41/ubuntupodcast_s11e41.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545318056.0
+        },
+        {
             "title": "S11E40 \u2013 North Dallas Forty",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e40/ubuntupodcast_s11e40.mp3",
             "downloaded": true,

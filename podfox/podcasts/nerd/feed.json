@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 80: 2019 PC hardware predictions & eating 2018 paper",
+            "url": "http://feeds.soundcloud.com/stream/547954641-thefullnerd-episode-80-2019-pc-hardware-predictions-eating-2018-paper.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545344677.0
+        },
+        {
             "title": "Episode 79: Best PC hardware of 2018",
             "url": "http://feeds.soundcloud.com/stream/546447069-thefullnerd-episode-79-best-pc-hardware-of-2018.mp3",
             "downloaded": true,

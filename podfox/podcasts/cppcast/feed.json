@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Semantic Merge with Pablo Santos",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-180.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545356363.0
+        },
+        {
             "title": "San Diego EWGI Trip Report with JF Bastien",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-179.mp3?dest-id=282890",
             "downloaded": true,
