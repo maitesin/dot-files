@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Interview: Integer32",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/interview/integer32.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1546272000.0
+        },
+        {
             "title": "e027: Trust Me; I Promise!",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e027.mp3",
             "downloaded": true,

@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "#193 Data Science Year in Review 2018 Edition",
+            "url": "https://talkpython.fm/episodes/download/193/data-science-year-in-review-2018-edition.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1546214400.0
+        },
+        {
+            "title": "#192 Python Year in Review 2018 Edition",
+            "url": "https://talkpython.fm/episodes/download/192/python-year-in-review-2018-edition.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545782400.0
+        },
+        {
             "title": "#191 Python's journey at Microsoft",
             "url": "https://talkpython.fm/episodes/download/191/python-s-journey-at-microsoft.mp3",
             "downloaded": true,

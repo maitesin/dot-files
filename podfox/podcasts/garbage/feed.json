@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "garbage[46]: Robot uprising",
+            "url": "https://garbage.fm/episodes/garbage46.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545336000.0
+        },
+        {
             "title": "garbage[45]: New fixes for old laptops",
             "url": "https://garbage.fm/episodes/garbage45.mp3",
             "downloaded": true,

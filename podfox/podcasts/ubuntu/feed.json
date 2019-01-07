@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S11E42 \u2013 42 Habits for Minimalism",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e42/ubuntupodcast_s11e42.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545922806.0
+        },
+        {
             "title": "S11E41 \u2013 Forty-One Jane Doe\u2019s",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e41/ubuntupodcast_s11e41.mp3",
             "downloaded": true,
