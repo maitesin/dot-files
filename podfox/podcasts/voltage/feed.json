@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "2\u00d745: Volt 45",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x45.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1547144955.0
+        },
+        {
             "title": "2\u00d744: Seven Systems",
             "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x44.mp3",
             "downloaded": true,

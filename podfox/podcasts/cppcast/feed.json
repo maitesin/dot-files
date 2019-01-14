@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Trivially Relocatable with Arthur O'Dwyer",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-182.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1547179024.0
+        },
+        {
             "title": "ISO Papers and Merged Modules with Isabella Muerte",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-181.mp3?dest-id=282890",
             "downloaded": true,

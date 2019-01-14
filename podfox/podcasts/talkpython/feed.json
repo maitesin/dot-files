@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#194 Learning (and teaching) Python in a vacuum",
+            "url": "https://talkpython.fm/episodes/download/194/learning-and-teaching-python-in-a-vacuum.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1547164800.0
+        },
+        {
             "title": "#193 Data Science Year in Review 2018 Edition",
             "url": "https://talkpython.fm/episodes/download/193/data-science-year-in-review-2018-edition.mp3",
             "downloaded": true,
