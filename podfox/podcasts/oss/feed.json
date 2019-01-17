@@ -1,0 +1,707 @@
+{
+    "episodes": [
+        {
+            "title": "Episode 129 - The EU bug bounty program",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_129_The_EU_bug_bounty_program.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1547427479.0
+        },
+        {
+            "title": "Episode 128 - Australia's encryption backdoor bill",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode-128_Australias_encryption_backdoor_bill.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1546821559.0
+        },
+        {
+            "title": "2018 Christmas Special - Is Santa GDPR compliant?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2018_Christmas_Special_Is_Santa_GDPR_compliant.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1545613186.0
+        },
+        {
+            "title": "Episode 127 - Walled gardens, appstores, and more",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_127_Walled_gardens_appstores_and_more.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1545008119.0
+        },
+        {
+            "title": "Episode 126 - The not so dire future of supply chain security",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_126_The_not_so_dire_future_of_supply_chain_security.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1544404362.0
+        },
+        {
+            "title": "Episode 125 - Open Source, supply chains, npm, and you",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_125_Open_Source_supply_chains_npm_and_you.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1543798766.0
+        },
+        {
+            "title": "Episode 124 - Cloudflare's service workers and the economics of security",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_124_Cloudflares_service_workers_and_the_economics_of_security.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1543196329.0
+        },
+        {
+            "title": "Episode 123 - Talking about Kubernetes and container security with Liz Rice",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_123_Talking_about_Kubernetes_and_container_security_with_Liz_Rice.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1542589254.0
+        },
+        {
+            "title": "Episode 122 - What will Apple's T2 chip mean for the rest of us?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_122_What_will_Apples_T2_chip_mean_for_the_rest_of_us.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1541995194.0
+        },
+        {
+            "title": "Episode 121 - All about the security of voting",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_121_All_about_the_security_of_voting.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1541379600.0
+        },
+        {
+            "title": "Episode 120 - Bloomberg and hardware backdoors - it's already happening",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_120_Bloomberg_and_hardware_backdoors_its_already_happening.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1540771200.0
+        },
+        {
+            "title": "Episode 119 - The Google+ and Facebook incidents, it's not your data anymore",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_119_the_google_and_facebook_incidents_its_not_your_data_anymore.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1540164093.0
+        },
+        {
+            "title": "Episode 118 - Cloudflare's IPFS and onion service",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_118_cloudflares_ipfs_and_onion_service.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1539563920.0
+        },
+        {
+            "title": "Episode 117 - Will security follow Linus' lead on being nice?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_117_Will_security_follow_Linus_lead_on_being_nice.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1538953200.0
+        },
+        {
+            "title": "Episode 116 - The future of the CISO with Michael Piacente",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_116_The_future_of_the_CISO_with_Michael_Piacente.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1538348400.0
+        },
+        {
+            "title": "Episode 115 - Discussion with Brian Hajost from SteelCloud",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_115_Discussion_with_Brian_Hajost_from_SteelCloud.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1537743600.0
+        },
+        {
+            "title": "Episode 114 - Review of \"Click Here to Kill Everybody\"",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_114_review_of_click_here_to_kill_everybody.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1537139540.0
+        },
+        {
+            "title": "Episode 113 - Actual real security advice",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_113_actual_real_security_advice.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1536534395.0
+        },
+        {
+            "title": "Episode 112 - Google's Titan Key and the latest Struts issue",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode-112_googles_titan_key_and_the_latest_struts_issue.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1535929242.0
+        },
+        {
+            "title": "Episode 111 - The TLS 1.3 and DNS episode",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_111_The_TLS_1_3_and_DNS_episode.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1535324536.0
+        },
+        {
+            "title": "Episode 110 - Review of Black Hat, Defcon, and the effect of security policies",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_110_review_of_black_hat_defcon_and_the_effect_of_security_policies.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1534719563.0
+        },
+        {
+            "title": "Episode 109 - OSCon and actionable advice",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_109_OSCon_and_actionable_advice.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1534115339.0
+        },
+        {
+            "title": "Episode 108 -  Bluetooth, phishing, airgaps, and eating soup off the floor",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_108_bluetooth_phishing_airgaps_and_eating_soup_off_the_floor.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1533513647.0
+        },
+        {
+            "title": "Episode 107 - The year of the Linux Desktop and other hardware stories",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_107_the_year_of_the_linux_desktop_and_other_hardware_stories.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1532918494.0
+        },
+        {
+            "title": "Episode 106 - Data isn't oil, it's nuclear waste",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_106_data_isnt_oil_its_nuclear_waste.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1532304056.0
+        },
+        {
+            "title": "Episode 105 - More backdoors in open source",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_105_more_backdoors_in_open_source.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1531699637.0
+        },
+        {
+            "title": "Episode 104 - The Gentoo security incident",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_104_the_gentoo_security_incident.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1531091639.0
+        },
+        {
+            "title": "Episode 103 - The Seven Properties of Highly Secure Devices",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_103_the_seven_properties_of_highly_secure_devices.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1530493942.0
+        },
+        {
+            "title": "Episode 102 - Michael Feiertag from tCell",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_102_michael_feiertag_from_tcell.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1529883185.0
+        },
+        {
+            "title": "Episode 101 - Our unregulated future is here to stay",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_101_our_unregulated_future_is_here_to_stay.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1529276146.0
+        },
+        {
+            "title": "Episode 100 - You're bad at buying security, we can help!",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_100_your_bad_at_buying_solutions_we_can_help.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1528676980.0
+        },
+        {
+            "title": "Episode 99 - Consumer security is too broken to fix, and it doesn't matter",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_99_consumer_security_is_too_broken_to_fix_and_it_doesnt_matter.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1528073559.0
+        },
+        {
+            "title": "Episode 98 - When IT decisions kill people",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_98_when_it_decisions_kill_people.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1527462000.0
+        },
+        {
+            "title": "Episode 97 - Automation: Humans are slow and dumb",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_97_automation_humans_are_slow_and_dumb.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1526854688.0
+        },
+        {
+            "title": "Episode 96 - Are legal backdoors a good idea?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_96_all_about_backdoors.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1526053031.0
+        },
+        {
+            "title": "Episode 95 - Twitter passwords and npm backdoors",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_95_twitter_passwords_and_npm_backdoors.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1525649947.0
+        },
+        {
+            "title": "Episode 94 - DNSSEC, BGP, and reality",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_94_dns_bgp_and_reality.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1525045200.0
+        },
+        {
+            "title": "Episode 93 - Security flaws in beep and patch, how did we get here?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_93-Security_flaws_in_beep_and_patch_how_did_we_get_here.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1523832939.0
+        },
+        {
+            "title": "Episode 92 - Chat with Rami Saas the CEO of WhiteSource",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode-92_chat_with_rami_saas.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1523829122.0
+        },
+        {
+            "title": "Episode 91 - Security lessons from a 7 year old",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode-91_security_lessons_from_a_7_year_old.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1523223743.0
+        },
+        {
+            "title": "Episode 90 - Humans and misinformation",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode-90_humans_and_misinformation.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1522628611.0
+        },
+        {
+            "title": "Episode 89 - Short selling AMD security flaws",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode-89_short_selling_amd_security_flaws.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1522008221.0
+        },
+        {
+            "title": "Episode 88 - Chat with Chris Rosen from IBM about Container Security",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_88_chat_with_chris_rosen_from_ibm_about_container_security.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1521405217.0
+        },
+        {
+            "title": "Episode 87 - Chat with Let's Encrypt co-founder Josh Aas",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_87_Chat_with_lets_encrypt_co-founder_josh_aas.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1520809219.0
+        },
+        {
+            "title": "Episode 86 - What happens when 23 thousand certificates leak?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_86_What_happens_when_23_thousand_certificates_leak.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1520101160.0
+        },
+        {
+            "title": "Episode 85 - NPM ate my files",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_85_npm_ate_my_files.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1519406676.0
+        },
+        {
+            "title": "Episode 84 - Have I been pwned?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_84_Have_I_been_pwned.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1519402807.0
+        },
+        {
+            "title": "Episode 83 - XKCD + CVE = XKCVE",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_83_XKCD_CVE_XKCVE.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1519171646.0
+        },
+        {
+            "title": "Episode 82 - RSA, TLS, Chrome HTTP, and PCI",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_82_-_RSA_TLS_Chrome_HTTP_and_PCI.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1518566102.0
+        },
+        {
+            "title": "Episode 81 - Autosploit, bug bounties, and the future of security",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_81-Autosploit_bug_bounties_and_the_future_of_security.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1517961881.0
+        },
+        {
+            "title": "Episode 80 - GPS tracking and jamming",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_80_-_GPS_tracking_and_jamming.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1517357529.0
+        },
+        {
+            "title": "Episode 79 - Skyfall: please don't yell 'fire'",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_79_-_skyfall_please_dont_yell_fire.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1516752634.0
+        },
+        {
+            "title": "Episode 78 - Risk lessons from Hawaii",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_78_-_Risk_lessons_from_Hawaii.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1516127313.0
+        },
+        {
+            "title": "Episode 77 - npm and the supply chain",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_77_-_npm_and_the_supply_chain.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1515594685.0
+        },
+        {
+            "title": "Episode 76 - Meltdown aftermath",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_76_-_Meltdown_aftermath.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1515358982.0
+        },
+        {
+            "title": "Episode 75 - Security Planner review",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_75_-_Security_Planner_review.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1513712729.0
+        },
+        {
+            "title": "Episode 74 - Facial recognition and physical security",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_74_-_Facial_recognition_and_physical_security.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1513131587.0
+        },
+        {
+            "title": "Episode 73 - Security from Santa",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_73_-_Security_from_Santa.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1512522077.0
+        },
+        {
+            "title": "Episode 72 - Bitcoin: It's over 9000",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_72_-_Bitcoin_its_over_9000.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1511902013.0
+        },
+        {
+            "title": "Episode 71 - GitHub's Security Scanner",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_71_-_GitHubs_security_scanner.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1511279236.0
+        },
+        {
+            "title": "Episode 70 - The security of Intel ME",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_70_-_The_security_of_Intel_ME.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1510703598.0
+        },
+        {
+            "title": "Episode 69 - Actionable security advice",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_69_-_Actionable_security_advice.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1510076267.0
+        },
+        {
+            "title": "Episode 68 - Ruining the Internet",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_68_-_Ruining_the_Internet.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1509545149.0
+        },
+        {
+            "title": "Episode 67 - Cyber won",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_67_-_Cyber_won.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1508865402.0
+        },
+        {
+            "title": "Episode 66 - Objects in mirror are less terrible than they appear",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_66_-_Objects_in_mirror_are_less_terrible_than_they_appear.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1508024563.0
+        },
+        {
+            "title": "Episode 65 - Will aliens overthrow us before AI?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_65_-_Will_aliens_overthrow_us_before_AI.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1507506339.0
+        },
+        {
+            "title": "Episode 64 - Networks and Dnsmasq and IoT oh my",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_64_-_Networks_and_Dnsmasq_and_IoT_oh_my.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1507054673.0
+        },
+        {
+            "title": "Episode 63 - Shoot, Shovel, and Bury",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_63_-_Shoot_Shovel_and_Bury.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1506426670.0
+        },
+        {
+            "title": "Episode 62 - All about the Equifax hack",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_62_-_All_about_the_Equifax_hack.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1505136751.0
+        },
+        {
+            "title": "Episode 61 - Market driven security",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_61_-_Market_driven_security.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1504610137.0
+        },
+        {
+            "title": "Episode 60 - The official blockchain episode",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_60_-_The_official_blockchain_episode.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1504096140.0
+        },
+        {
+            "title": "Episode 59 - The VPN Episode",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_59_-_The_VPN_Episode.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1502805471.0
+        },
+        {
+            "title": "Episode 58 - Backwards compatibility to the point of insanity",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_58_-_Backwards_compatibility_to_the_point_of_insanity.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1502281168.0
+        },
+        {
+            "title": "Episode 57 - We may never see amazing security research ever again",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_57_-_We_may_never_see_amazing_security_research_ever_again.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1501590890.0
+        },
+        {
+            "title": "Episode 56 - Devil's Advocate and other fuzzy topics",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_56_-_Devils_advocate_and_other_fuzzy_topics.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1500407298.0
+        },
+        {
+            "title": "Episode 55 - Good Docs Ruin My Story",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/332865562-opensourcesecuritypodcast-episode-55-good-docs-ruin-my-story.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1499863971.0
+        },
+        {
+            "title": "Episode 54 - Turning Into An Old Person",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/331564004-opensourcesecuritypodcast-episode-54-turning-into-an-old-person.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1499198407.0
+        },
+        {
+            "title": "Episode 53 - A Plane Isn't Like A Car",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/330513530-opensourcesecuritypodcast-episode-53-a-plane-isnt-like-a-car.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1498645861.0
+        },
+        {
+            "title": "Episode 52 - You Could Have Done It Right, But You Didn't",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/328927519-opensourcesecuritypodcast-episode-52-you-could-have-done-it-right-but-you-didnt.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1497920237.0
+        },
+        {
+            "title": "Episode 51 - All About CVE",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/327688703-opensourcesecuritypodcast-episode-51-all-about-cve.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1497267456.0
+        },
+        {
+            "title": "Episode 50 - This Is A Security Podcast After All",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/326788036-opensourcesecuritypodcast-episode-50-this-is-a-security-podcast-after-all.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1496780407.0
+        },
+        {
+            "title": "Episode 49 - Testing Software Is Impossible",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/325265404-opensourcesecuritypodcast-episode-49-testing-software-is-impossible.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1496180069.0
+        },
+        {
+            "title": "Episode 48 - Machine Learning: Not Actually Magic",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/323810101-opensourcesecuritypodcast-episode-48-machine-learning-not-actually-magic.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1495392537.0
+        },
+        {
+            "title": "Episode 47 - WannaCry: Everything Is Basically Broken",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/322577205-opensourcesecuritypodcast-episode-47-wannacry-everything-is-basically-broken.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1494778629.0
+        },
+        {
+            "title": "Episode 46 - Turns Out I'm Not A Bad Guy",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/320997006-opensourcesecuritypodcast-episode-46-turns-out-im-not-a-bad-guy.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1493926270.0
+        },
+        {
+            "title": "Episode 45 - Trust Is More Important Now Than The Truth",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/320432805-opensourcesecuritypodcast-episode-45-trust-is-more-important-now-than-the-truth.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1493686040.0
+        },
+        {
+            "title": "Episode 44 - Bug Bounties Vs Pen Testing",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/319388588-opensourcesecuritypodcast-episode-44-bug-bounties-vs-pen-testing.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1493118101.0
+        },
+        {
+            "title": "Episode 43 - We Are Totally Immature",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/318438805-opensourcesecuritypodcast-episode-43-we-are-totally-immature.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1492602181.0
+        },
+        {
+            "title": "Episode 42 - Hitchhiker's Guide To Security",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/317490724-opensourcesecuritypodcast-episode-42-hitchhikers-guide-to-security.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1492081436.0
+        },
+        {
+            "title": "Episode 41 - All Your Money Are Belong To Us",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/316915938-opensourcesecuritypodcast-episode-41-all-your-money-are-belong-to-us.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1491780440.0
+        },
+        {
+            "title": "Episode 40 - Let's Fork Bitcoin, Again",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/315737179-opensourcesecuritypodcast-episode-40-lets-fork-bitcoin-again.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1491160592.0
+        },
+        {
+            "title": "Episode 39 - Flash On Your Dishwasher",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/314794586-opensourcesecuritypodcast-episode-39-flash-on-your-dishwasher.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1490659295.0
+        },
+        {
+            "title": "Episode 38 - We Ruin Everything",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/313701429-opensourcesecuritypodcast-episode-38-we-ruin-everything.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1490146119.0
+        },
+        {
+            "title": "Episode 37 - Your Bathtub Is More Dangerous Than A Shark",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/311442678-opensourcesecuritypodcast-episode-37-your-bathtub-is-more-dangerous-than-a-shark.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1489019744.0
+        },
+        {
+            "title": "Episode 36 - A Good Enough Podcast",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/310851037-opensourcesecuritypodcast-episode-36-a-good-enough-podcast.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1488739394.0
+        },
+        {
+            "title": "Episode 35 - Crazy Cosmic Accident",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/309898784-opensourcesecuritypodcast-episode-35-crazy-cosmic-accident.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1488250718.0
+        },
+        {
+            "title": "Episode 34 - Bathing In Ebola Virus",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/309062655-opensourcesecuritypodcast-episode-34-bathing-in-ebola-virus.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1487798488.0
+        },
+        {
+            "title": "Episode 33 - Everybody Who Went To The Circus Is In The Circus (RSA 2017)",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/307825712-opensourcesecuritypodcast-episode-33-everybody-who-went-to-the-circus-is-in-the-circus-rsa-2017.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1487139545.0
+        },
+        {
+            "title": "Episode 32 - Gambling As A Service",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/306639696-opensourcesecuritypodcast-episode-32-gambling-as-a-service.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1486517083.0
+        },
+        {
+            "title": "Episode 31 - XML Is Never The Solution",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/305513722-opensourcesecuritypodcast-episode-31-xml-is-never-the-solution.mp3?dest-id=542864",
+            "downloaded": false,
+            "listened": false,
+            "published": 1485911706.0
+        }
+    ],
+    "shortname": "oss",
+    "title": "Open Source Security Podcast",
+    "url": "https://opensourcesecuritypodcast.libsyn.com/rss"
+}
