@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "[Boost] DI and SML with Kris Jusiak",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-183.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1547782567.0
+        },
+        {
             "title": "Trivially Relocatable with Arthur O'Dwyer",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-182.mp3?dest-id=282890",
             "downloaded": true,
