@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#195 Teaching Python at Apple",
+            "url": "https://talkpython.fm/episodes/download/195/teaching-python-at-apple.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1547942400.0
+        },
+        {
             "title": "#194 Learning (and teaching) Python in a vacuum",
             "url": "https://talkpython.fm/episodes/download/194/learning-and-teaching-python-in-a-vacuum.mp3",
             "downloaded": true,
