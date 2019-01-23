@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "News: Rust 1.32",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_32.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1548188457.0
+        },
+        {
             "title": "News: Rust 1.31 and the 2018 Edition, Part II",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_31/part_2.mp3",
             "downloaded": true,

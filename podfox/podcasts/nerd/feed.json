@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 82: GTX 1660 Ti rumors, Super X-Fi review, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/563089158-thefullnerd-episode-82-gtx-1660-ti-rumors-super-x-fi-review-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1548191152.0
+        },
+        {
             "title": "Episode 81: RTX 2060 review, 3rd gen Ryzen news, and best of PCs at CES 2019",
             "url": "http://feeds.soundcloud.com/stream/559150662-thefullnerd-episode-81-rtx-2060-review-3rd-gen-ryzen-news-and-best-of-pcs-at-ces-2019.mp3",
             "downloaded": true,
