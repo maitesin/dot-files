@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#196 Datalore: Hosted smart notebooks",
+            "url": "https://talkpython.fm/episodes/download/196/datalore-hosted-smart-notebooks.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1548201600.0
+        },
+        {
             "title": "#195 Teaching Python at Apple",
             "url": "https://talkpython.fm/episodes/download/195/teaching-python-at-apple.mp3",
             "downloaded": true,
