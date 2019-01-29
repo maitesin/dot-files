@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "garbage[47]: EOF",
+            "url": "https://garbage.fm/episodes/garbage47.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1548705600.0
+        },
+        {
             "title": "garbage[46]: Robot uprising",
             "url": "https://garbage.fm/episodes/garbage46.mp3",
             "downloaded": true,
