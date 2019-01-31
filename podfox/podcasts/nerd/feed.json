@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 83: 28-Core Xeon review, RTX arrives in laptops, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/567396234-thefullnerd-episode-83-28-core-xeon-review-rtx-arrives-in-laptops-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1548890830.0
+        },
+        {
             "title": "Episode 82: GTX 1660 Ti rumors, Super X-Fi review, Q&A",
             "url": "http://feeds.soundcloud.com/stream/563089158-thefullnerd-episode-82-gtx-1660-ti-rumors-super-x-fi-review-qa.mp3",
             "downloaded": true,
