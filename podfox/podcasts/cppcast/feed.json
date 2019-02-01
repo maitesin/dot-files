@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "libc++ with Eric Fiselier",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-185.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1548993926.0
+        },
+        {
             "title": "SG20 with Christopher Di Bella",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-184.mp3?dest-id=282890",
             "downloaded": true,
