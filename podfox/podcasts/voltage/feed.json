@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "2\u00d747: Get Oval Shortbread",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x47.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1549543280.0
+        },
+        {
             "title": "2\u00d746: A Giant Loser",
             "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x46.mp3",
             "downloaded": true,

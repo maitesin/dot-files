@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 84: Radeon VII review, GTX vs RTX laptops, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/571825665-thefullnerd-episode-84-radeon-vii-review-gtx-vs-rtx-laptops-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1549576499.0
+        },
+        {
             "title": "Special episode: AMD talks Radeon VII and the future of FreeSync",
             "url": "http://feeds.soundcloud.com/stream/570117921-thefullnerd-special-episode-amd-talks-radeon-vii-and-the-future-of-freesync.mp3",
             "downloaded": true,
