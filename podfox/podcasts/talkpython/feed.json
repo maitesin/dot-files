@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#198 Catching up with the Anaconda distribution",
+            "url": "https://talkpython.fm/episodes/download/198/catching-up-with-the-anaconda-distribution.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1549670400.0
+        },
+        {
             "title": "#197 Modern Python Standard Library Cookbook",
             "url": "https://talkpython.fm/episodes/download/197/modern-python-standard-library-cookbook.mp3",
             "downloaded": true,
