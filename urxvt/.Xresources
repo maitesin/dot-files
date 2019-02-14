@@ -1,5 +1,5 @@
 XTerm*faceName: Hack
-xterm*faceSize: 12
+xterm*faceSize: 10
 xterm*vt100*geometry: 80x60
 xterm*saveLines: 16384
 xterm*loginShell: true
@@ -8,10 +8,10 @@ xterm*termName: xterm-color
 xterm*eightBitInput: false
 
 ! URxvt font
-URxvt.font:                xft: Hack:size=13
-URxvt.boldFont:            xft: Hack:size=13:bold
-URxvt.italicFont:          xft: Hack:size=13:italic
-URxvt.boldItalicFont:      xft: Hack:size=13:bold:italic
+URxvt.font:                xft: Hack:size=10
+URxvt.boldFont:            xft: Hack:size=10:bold
+URxvt.italicFont:          xft: Hack:size=10:italic
+URxvt.boldItalicFont:      xft: Hack:size=10:bold:italic
 
 ! URxvt misc
 URxvt.scrollBar: false
