@@ -16,7 +16,7 @@ pnmixer &
 clipit &
 
 # To set colours and configuration for Urxvt
-xrdb -merge .Xresources
+xrdb .Xresources
 
 # Mapping spanish stuff in my keyboard
 xbindkeys &
