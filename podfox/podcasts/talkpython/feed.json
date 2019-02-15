@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#199 Automate all the things with Python at Zapier",
+            "url": "https://talkpython.fm/episodes/download/199/automate-all-the-things-with-python-at-zapier.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550102400.0
+        },
+        {
             "title": "#198 Catching up with the Anaconda distribution",
             "url": "https://talkpython.fm/episodes/download/198/catching-up-with-the-anaconda-distribution.mp3",
             "downloaded": true,
