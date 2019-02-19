@@ -16,7 +16,7 @@ pnmixer &
 clipit &
 
 # To set colours and configuration for Urxvt
-xrdb -merge .Xresources
+xrdb .Xresources
 
 # Mapping spanish stuff in my keyboard
 xbindkeys &
@@ -27,6 +27,9 @@ wmname LG3D
 
 # Autolock screen
 xautolock -time 15 -locker 'xlock -mode blank' &
+
+# Trayer
+trayer --edge top --align right --SetDockType true --SetPartialStrut true  --expand true --width 6 --height 17 --transparent true --alpha 0 --tint 0x000000 &
 
 # Loop
 while true

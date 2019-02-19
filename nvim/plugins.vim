@@ -44,3 +44,4 @@ Plug 'fatih/vim-go'
 call plug#end()
 
 
+let g:go_version_warning = 0
