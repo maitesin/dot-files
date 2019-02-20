@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 85: Is RTX winning? Intel's Core i9-9990XE/KFC, AMD rumors, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/578108685-thefullnerd-episode-85-is-rtx-winning-intels-core-i9-9990xekfc-amd-rumors-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550613173.0
+        },
+        {
             "title": "Episode 84: Radeon VII review, GTX vs RTX laptops, Q&A",
             "url": "http://feeds.soundcloud.com/stream/571825665-thefullnerd-episode-84-radeon-vii-review-gtx-vs-rtx-laptops-qa.mp3",
             "downloaded": true,
