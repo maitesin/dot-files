@@ -3,6 +3,20 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Kona Trip Report with Peter Bindels",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-188.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1551411998.0
+        },
+        {
+            "title": "Analyzing Undefined Behavior with John Regehr",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-187.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550807591.0
+        },
+        {
             "title": "Leaf and \"What is Programming?\" with Edaqa Mortoray",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-186.mp3?dest-id=282890",
             "downloaded": true,

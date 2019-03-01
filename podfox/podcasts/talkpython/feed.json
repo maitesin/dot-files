@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "#201 Choosing JupyterHub and Python over MATLAB",
+            "url": "https://talkpython.fm/episodes/download/201/choosing-jupyterhub-and-python-over-matlab.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1551225600.0
+        },
+        {
+            "title": "#200 Escaping Excel Hell with Python and Pandas",
+            "url": "https://talkpython.fm/episodes/download/200/escaping-excel-hell-with-python-and-pandas.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550707200.0
+        },
+        {
             "title": "#199 Automate all the things with Python at Zapier",
             "url": "https://talkpython.fm/episodes/download/199/automate-all-the-things-with-python-at-zapier.mp3",
             "downloaded": true,

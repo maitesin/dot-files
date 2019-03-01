@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "Bonus 13: I Still Make Silly Mistakes",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/13.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1551338400.0
+        },
+        {
+            "title": "e028: Meet My Associates",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e028.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550784600.0
+        },
+        {
             "title": "News: Rust 1.32",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_32.mp3",
             "downloaded": true,
