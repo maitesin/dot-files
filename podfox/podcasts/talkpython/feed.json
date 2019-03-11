@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#202 Building a software business",
+            "url": "https://talkpython.fm/episodes/download/202/building-a-software-business.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552089600.0
+        },
+        {
             "title": "#201 Choosing JupyterHub and Python over MATLAB",
             "url": "https://talkpython.fm/episodes/download/201/choosing-jupyterhub-and-python-over-matlab.mp3",
             "downloaded": true,
