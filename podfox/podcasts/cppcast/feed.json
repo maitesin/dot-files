@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "RxCpp and Executors with Kirk Shoop",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-189.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552016938.0
+        },
+        {
             "title": "Kona Trip Report with Peter Bindels",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-188.mp3?dest-id=282890",
             "downloaded": true,
