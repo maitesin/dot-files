@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#203 Beginners and Experts in Software Development",
+            "url": "https://talkpython.fm/episodes/download/203/beginners-and-experts-in-software-development.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552435200.0
+        },
+        {
             "title": "#202 Building a software business",
             "url": "https://talkpython.fm/episodes/download/202/building-a-software-business.mp3",
             "downloaded": true,
