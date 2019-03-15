@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 87: GTX 1660 review, upgradeable laptops/Area 51m, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/590150631-thefullnerd-episode-87-gtx-1660-review-upgradeable-laptopsarea-51m-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552594644.0
+        },
+        {
             "title": "Episode 86: GTX 1660 Ti review, 3rd Gen Ryzen rumors, USB 4 problems, and Q&A",
             "url": "http://feeds.soundcloud.com/stream/587078790-thefullnerd-episode-86-gtx-1660-ti-review-3rd-gen-ryzen-rumors-usb-4-problems-and-qa.mp3",
             "downloaded": true,
