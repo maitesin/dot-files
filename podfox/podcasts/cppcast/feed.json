@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Visual C++ Updates with Marian Luparu, Simon Brand, Tara Raj and Bob Brown",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-191.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553225093.0
+        },
+        {
             "title": "News Roundup",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-190.mp3?dest-id=282890",
             "downloaded": true,

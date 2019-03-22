@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 88: RTX on GTX, Intel graphics, Comet Lake rumors, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/593757681-thefullnerd-episode-88-rtx-on-gtx-intel-graphics-comet-lake-rumors-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553201386.0
+        },
+        {
             "title": "Episode 87: GTX 1660 review, upgradeable laptops/Area 51m, and Q&A",
             "url": "http://feeds.soundcloud.com/stream/590150631-thefullnerd-episode-87-gtx-1660-review-upgradeable-laptopsarea-51m-and-qa.mp3",
             "downloaded": true,

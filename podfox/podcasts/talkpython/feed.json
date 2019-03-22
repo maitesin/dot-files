@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#204 StaticFrame, like Pandas but safer",
+            "url": "https://talkpython.fm/episodes/download/204/staticframe-like-pandas-but-safer.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553126400.0
+        },
+        {
             "title": "#203 Beginners and Experts in Software Development",
             "url": "https://talkpython.fm/episodes/download/203/beginners-and-experts-in-software-development.mp3",
             "downloaded": true,
