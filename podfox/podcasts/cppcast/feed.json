@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Reverse Engineering C++ with Gal Zaban",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-192.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553828173.0
+        },
+        {
             "title": "Visual C++ Updates with Marian Luparu, Simon Brand, Tara Raj and Bob Brown",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-191.mp3?dest-id=282890",
             "downloaded": true,
