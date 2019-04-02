@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Late Night Linux \u2013 Episode 60",
+            "url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/LNL60.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554165793.0
+        },
+        {
             "title": "Late Night Linux \u2013 Episode 59",
             "url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/LNL59.mp3",
             "downloaded": true,
