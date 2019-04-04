@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 89: Special guest Will Smith talks the death of VR, the death of the PC, and more",
+            "url": "http://feeds.soundcloud.com/stream/600534891-thefullnerd-episode-89-special-guest-will-smith-talks-the-death-of-vr-the-death-of-the-pc-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554322980.0
+        },
+        {
             "title": "Episode 88: RTX on GTX, Intel graphics, Comet Lake rumors, Q&A",
             "url": "http://feeds.soundcloud.com/stream/593757681-thefullnerd-episode-88-rtx-on-gtx-intel-graphics-comet-lake-rumors-qa.mp3",
             "downloaded": true,
