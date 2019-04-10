@@ -1,0 +1,574 @@
+{
+    "episodes": [
+        {
+            "title": "Go 2 and the future of Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/80/go-time-80.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1554832800.0
+        },
+        {
+            "title": "New Go branding strategy",
+            "url": "https://cdn.changelog.com/uploads/gotime/79/go-time-79.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1525714689.0
+        },
+        {
+            "title": "Hacking drones with Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/78/go-time-78.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1525104000.0
+        },
+        {
+            "title": "BONUS \u2013 Go and WebAssembly (Wasm)",
+            "url": "https://cdn.changelog.com/uploads/gotime/bonus-77/go-time-bonus-77.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1524686400.0
+        },
+        {
+            "title": "Dependencies and the future of Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/77/go-time-77.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1524500994.0
+        },
+        {
+            "title": "Building a distributed index with Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/76/go-time-76.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1523652265.0
+        },
+        {
+            "title": "GoLand IDE and managing Gopher Slack",
+            "url": "https://cdn.changelog.com/uploads/gotime/75/go-time-75.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1523037600.0
+        },
+        {
+            "title": "Gophercises and creating content for Gophers",
+            "url": "https://cdn.changelog.com/uploads/gotime/74/go-time-74.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1522423228.0
+        },
+        {
+            "title": "CockroachDB and distributed databases in Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/73/go-time-73.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1521791507.0
+        },
+        {
+            "title": "Learning and teaching Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/72/go-time-72.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1521715157.0
+        },
+        {
+            "title": "Go is for everyone",
+            "url": "https://cdn.changelog.com/uploads/gotime/71/go-time-71.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1521713558.0
+        },
+        {
+            "title": "From Russia with love",
+            "url": "https://cdn.changelog.com/uploads/gotime/70/go-time-70.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1521231006.0
+        },
+        {
+            "title": "Golang Flow, FaaS, and Buffalo",
+            "url": "https://cdn.changelog.com/uploads/gotime/69/go-time-69.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1520597808.0
+        },
+        {
+            "title": "SPECIAL \u2014 Ask us anything! (pt. 2)",
+            "url": "https://cdn.changelog.com/uploads/gotime/68/go-time-68.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1519938970.0
+        },
+        {
+            "title": "Supporting the Go community",
+            "url": "https://cdn.changelog.com/uploads/gotime/67/go-time-67.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1519405653.0
+        },
+        {
+            "title": "Performance, Fuzzing, Magic",
+            "url": "https://cdn.changelog.com/uploads/gotime/66/go-time-66.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1518741367.0
+        },
+        {
+            "title": "GopherCon Brazil & Genetics",
+            "url": "https://cdn.changelog.com/uploads/gotime/65/go-time-65.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1517875811.0
+        },
+        {
+            "title": "InfluxDB & IoT Data",
+            "url": "https://cdn.changelog.com/uploads/gotime/64/go-time-64.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1517265189.0
+        },
+        {
+            "title": "Changelog Takeover \u2014 K8s and Virtual Kubelet",
+            "url": "https://cdn.changelog.com/uploads/gotime/63/go-time-63.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1516043702.0
+        },
+        {
+            "title": "Building Blocks",
+            "url": "https://cdn.changelog.com/uploads/gotime/62/go-time-62.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1512170638.0
+        },
+        {
+            "title": "Loggregator, gRPC, Diodes",
+            "url": "https://cdn.changelog.com/uploads/gotime/61/go-time-61.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1511635031.0
+        },
+        {
+            "title": "Why WADL When You Can Swagger?",
+            "url": "https://cdn.changelog.com/uploads/gotime/60/go-time-60.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1510959038.0
+        },
+        {
+            "title": "Improved Improved Improved (i3)",
+            "url": "https://cdn.changelog.com/uploads/gotime/59/go-time-59.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1510344116.0
+        },
+        {
+            "title": "Full-time Open Source",
+            "url": "https://cdn.changelog.com/uploads/gotime/58/go-time-58.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1509733937.0
+        },
+        {
+            "title": "Presenting a Pragmatic Perspective",
+            "url": "https://cdn.changelog.com/uploads/gotime/57/go-time-57.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1505515069.0
+        },
+        {
+            "title": "Container Security and Demystifying Complexity",
+            "url": "https://cdn.changelog.com/uploads/gotime/56/go-time-56.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1504893121.0
+        },
+        {
+            "title": "Dep, Cross-platform, and Getting Started",
+            "url": "https://cdn.changelog.com/uploads/gotime/55/go-time-55.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1504220373.0
+        },
+        {
+            "title": "Go at Walmart (and Scale)",
+            "url": "https://cdn.changelog.com/uploads/gotime/54/go-time-54.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1503088195.0
+        },
+        {
+            "title": "GopherCon 2017: A Retrospective",
+            "url": "https://cdn.changelog.com/uploads/gotime/53/go-time-53.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1503014230.0
+        },
+        {
+            "title": "All About The Go Compiler",
+            "url": "https://cdn.changelog.com/uploads/gotime/52/go-time-52.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1502139350.0
+        },
+        {
+            "title": "Infosec Research and App Security",
+            "url": "https://cdn.changelog.com/uploads/gotime/51/go-time-51.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1500420450.0
+        },
+        {
+            "title": "Bringing Kubernetes to Azure",
+            "url": "https://cdn.changelog.com/uploads/gotime/50/go-time-50.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1499363345.0
+        },
+        {
+            "title": "Adventures in VS Code",
+            "url": "https://cdn.changelog.com/uploads/gotime/49/go-time-49.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1497379631.0
+        },
+        {
+            "title": "Restic and Backups (Done Right)",
+            "url": "https://cdn.changelog.com/uploads/gotime/48/go-time-48.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1496341672.0
+        },
+        {
+            "title": "Docker, Moby, Containers",
+            "url": "https://cdn.changelog.com/uploads/gotime/47/go-time-47.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1495744086.0
+        },
+        {
+            "title": "Periph.io, Drivers, Hardware",
+            "url": "https://cdn.changelog.com/uploads/gotime/46/go-time-46.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1494560518.0
+        },
+        {
+            "title": "SPECIAL \u2014 Ask Us Anything!",
+            "url": "https://cdn.changelog.com/uploads/gotime/45/go-time-45.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1493912264.0
+        },
+        {
+            "title": "Go4 and Contributing to Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/44/go-time-44.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1493321131.0
+        },
+        {
+            "title": "Getting Better, Mentoring, Drawing Gophers",
+            "url": "https://cdn.changelog.com/uploads/gotime/43/go-time-43.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1492718344.0
+        },
+        {
+            "title": "Race detection, firmware, production-grade Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/42/go-time-42.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1492108782.0
+        },
+        {
+            "title": "Distributed Messaging and Network Clients",
+            "url": "https://cdn.changelog.com/uploads/gotime/41/go-time-41.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1491517182.0
+        },
+        {
+            "title": "Game Development and Rebuilding Microservices",
+            "url": "https://cdn.changelog.com/uploads/gotime/40/go-time-40.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1490915291.0
+        },
+        {
+            "title": "Splice, Audio, Compassion",
+            "url": "https://cdn.changelog.com/uploads/gotime/39/go-time-39.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1490388668.0
+        },
+        {
+            "title": "Go Developer Survey",
+            "url": "https://cdn.changelog.com/uploads/gotime/38/go-time-38.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1489699412.0
+        },
+        {
+            "title": "Gobot, Hardware, Gatekeeping",
+            "url": "https://cdn.changelog.com/uploads/gotime/37/go-time-37.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1489088267.0
+        },
+        {
+            "title": "Dependency Management, Semver, Community Consensus",
+            "url": "https://cdn.changelog.com/uploads/gotime/36/go-time-36.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1488497803.0
+        },
+        {
+            "title": "Honeycomb, Complex Systems, Saving Sanity",
+            "url": "https://cdn.changelog.com/uploads/gotime/35/go-time-35.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1487880000.0
+        },
+        {
+            "title": "Pachyderm, Provenance, Data Lakes",
+            "url": "https://cdn.changelog.com/uploads/gotime/34/go-time-34.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1487269929.0
+        },
+        {
+            "title": "Gopherize.me, GitHub Stars, BitBar",
+            "url": "https://cdn.changelog.com/uploads/gotime/33/go-time-33.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1486663200.0
+        },
+        {
+            "title": "Hellogopher, whosthere?",
+            "url": "https://cdn.changelog.com/uploads/gotime/32/go-time-32.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1486065600.0
+        },
+        {
+            "title": "Go, Jocko, Kafka",
+            "url": "https://cdn.changelog.com/uploads/gotime/31/go-time-31.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1485460800.0
+        },
+        {
+            "title": "Discussing Imposter Syndrome",
+            "url": "https://cdn.changelog.com/uploads/gotime/30/go-time-30.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1484856000.0
+        },
+        {
+            "title": "Go and Buffalo Live from Dunkin' Donuts",
+            "url": "https://cdn.changelog.com/uploads/gotime/29/go-time-29.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1484229600.0
+        },
+        {
+            "title": "Creating a Programming Language",
+            "url": "https://cdn.changelog.com/uploads/gotime/28/go-time-28.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1482519600.0
+        },
+        {
+            "title": "The Go Compiler and Go 1.8",
+            "url": "https://cdn.changelog.com/uploads/gotime/27/go-time-27.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1481832000.0
+        },
+        {
+            "title": "Teaching and Learning Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/26/go-time-26.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1481749200.0
+        },
+        {
+            "title": "Go Kit, Dependency Management, Microservices",
+            "url": "https://cdn.changelog.com/uploads/gotime/25/go-time-25.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1481652000.0
+        },
+        {
+            "title": "Juju, Jujucharms, Gorram",
+            "url": "https://cdn.changelog.com/uploads/gotime/24/go-time-24.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1478786400.0
+        },
+        {
+            "title": "Open Sourcing Chain's Developer Platform",
+            "url": "https://cdn.changelog.com/uploads/gotime/23/go-time-23.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1478181600.0
+        },
+        {
+            "title": "Go Work Groups and Hardware Projects",
+            "url": "https://cdn.changelog.com/uploads/gotime/22/go-time-22.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1477573200.0
+        },
+        {
+            "title": "Building a Startup on Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/21/go-time-21.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1476968400.0
+        },
+        {
+            "title": "Kubernetes, Containers, Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/20/go-time-20.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1476363600.0
+        },
+        {
+            "title": "Programming Practices, Exercism, Open Source",
+            "url": "https://cdn.changelog.com/uploads/gotime/19/go-time-19.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1475758800.0
+        },
+        {
+            "title": "Aaron Schlesinger on Go in 5 Minutes and Design Patterns",
+            "url": "https://cdn.changelog.com/uploads/gotime/18/go-time-18.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1474570800.0
+        },
+        {
+            "title": "Monorepos, Mentoring, Testing",
+            "url": "https://cdn.changelog.com/uploads/gotime/17/go-time-17.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1473966000.0
+        },
+        {
+            "title": "SOLID Go Design",
+            "url": "https://cdn.changelog.com/uploads/gotime/16/go-time-16.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1473361200.0
+        },
+        {
+            "title": "The Go Standard Library",
+            "url": "https://cdn.changelog.com/uploads/gotime/15/go-time-15.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1472756400.0
+        },
+        {
+            "title": "Matt Holt on CaddyServer, the ACME Protocol, TLS",
+            "url": "https://cdn.changelog.com/uploads/gotime/14/go-time-14.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1472151600.0
+        },
+        {
+            "title": "Francesc Campoy on GopherCon and Understanding nil",
+            "url": "https://cdn.changelog.com/uploads/gotime/13/go-time-13.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1471546800.0
+        },
+        {
+            "title": "Beyang Liu on Go at Sourcegraph and Writing Better Code",
+            "url": "https://cdn.changelog.com/uploads/gotime/12/go-time-12.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1470855600.0
+        },
+        {
+            "title": "Jessie Frazelle on Maintaining Open Source, Docker, dotfiles",
+            "url": "https://cdn.changelog.com/uploads/gotime/11/go-time-11.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1470852000.0
+        },
+        {
+            "title": "State of Go Survey and Go at Heroku",
+            "url": "https://cdn.changelog.com/uploads/gotime/10/go-time-10.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1470078000.0
+        },
+        {
+            "title": "Scott Mansfield on Go at Netflix",
+            "url": "https://cdn.changelog.com/uploads/gotime/9/go-time-9.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1469732400.0
+        },
+        {
+            "title": "Asim Aslam on Micro, the Go Microservice Toolkit",
+            "url": "https://cdn.changelog.com/uploads/gotime/8/go-time-8.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1469642400.0
+        },
+        {
+            "title": "Rapha\u00ebl Simon on goa, the Framework for Building Microservices",
+            "url": "https://cdn.changelog.com/uploads/gotime/7/go-time-7.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1469559600.0
+        },
+        {
+            "title": "Bill Kennedy on Mechanical Sympathy",
+            "url": "https://cdn.changelog.com/uploads/gotime/6/go-time-6.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1466712480.0
+        },
+        {
+            "title": "Sarah Adams on Test2Doc and Women Who Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/5/go-time-5.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1466539380.0
+        },
+        {
+            "title": "Go and Data Science",
+            "url": "https://cdn.changelog.com/uploads/gotime/4/go-time-4.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1466107080.0
+        },
+        {
+            "title": "Early Go Adoption",
+            "url": "https://cdn.changelog.com/uploads/gotime/3/go-time-3.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1465585200.0
+        },
+        {
+            "title": "Go Community Discussions",
+            "url": "https://cdn.changelog.com/uploads/gotime/2/go-time-2.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1464850800.0
+        },
+        {
+            "title": "It's Go Time!",
+            "url": "https://cdn.changelog.com/uploads/gotime/1/go-time-1.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1463684400.0
+        }
+    ],
+    "shortname": "go",
+    "title": "Go Time",
+    "url": "https://changelog.com/gotime/feed"
+}
