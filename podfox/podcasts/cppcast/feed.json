@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Linear Algebra and Audio with Guy Davidson",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-194.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555035419.0
+        },
+        {
             "title": "Boden Cross-Platform Framework with Marcus Tillmanns and Tobias Lensing",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-193.mp3?dest-id=282890",
             "downloaded": true,
