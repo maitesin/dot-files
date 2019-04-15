@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 90: Core i9-9990XE for sale, Ryzen market share increase, Kaby Lake-G returns",
+            "url": "http://feeds.soundcloud.com/stream/605132853-thefullnerd-episode-90-core-i9-9990xe-for-sale-ryzen-market-share-increase-kaby-lake-g-returns.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555099826.0
+        },
+        {
             "title": "Episode 89: Special guest Will Smith talks the death of VR, the death of the PC, and more",
             "url": "http://feeds.soundcloud.com/stream/600534891-thefullnerd-episode-89-special-guest-will-smith-talks-the-death-of-vr-the-death-of-the-pc-and-more.mp3",
             "downloaded": true,

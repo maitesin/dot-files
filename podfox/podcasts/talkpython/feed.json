@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#207 Parallelizing computation with Dask",
+            "url": "https://talkpython.fm/episodes/download/207/parallelizing-computation-with-dask.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555196400.0
+        },
+        {
             "title": "#206 Running Django in Production",
             "url": "https://talkpython.fm/episodes/download/206/running-django-in-production.mp3",
             "downloaded": true,
