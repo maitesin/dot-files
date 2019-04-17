@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 91: Acer/PC case design, Sony PS5 vs PC specs, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/607043679-thefullnerd-episode-91-acerpc-case-design-sony-ps5-vs-pc-specs-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555446751.0
+        },
+        {
             "title": "Episode 90: Core i9-9990XE for sale, Ryzen market share increase, Kaby Lake-G returns",
             "url": "http://feeds.soundcloud.com/stream/605132853-thefullnerd-episode-90-core-i9-9990xe-for-sale-ryzen-market-share-increase-kaby-lake-g-returns.mp3",
             "downloaded": true,

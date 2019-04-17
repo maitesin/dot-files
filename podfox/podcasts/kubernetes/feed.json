@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Live from Google Cloud Next '19, with Eric Brewer",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep049.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555414185.0
+        },
+        {
             "title": "Anthos Migrate, with Issy Ben-Shaul",
             "url": "https://kubernetespodcast.com/episodes/KPfGep048.mp3",
             "downloaded": false,
