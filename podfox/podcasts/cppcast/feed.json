@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "fmt with Victor Zverovich",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-195.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555638389.0
+        },
+        {
             "title": "Linear Algebra and Audio with Guy Davidson",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-194.mp3?dest-id=282890",
             "downloaded": true,

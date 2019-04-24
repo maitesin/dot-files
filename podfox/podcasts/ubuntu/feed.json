@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E02 \u2013 Light Force",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e02/ubuntupodcast_s12e02.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555592410.0
+        },
+        {
             "title": "S12E01 \u2013 Bombjack",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e01/ubuntupodcast_s12e01.mp3",
             "downloaded": true,

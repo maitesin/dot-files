@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Episode 142 - Hypothetical security: what if you find a USB flash drive?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_142_Hypothetical_security_what_if_you_find_a_USB_flash_drive.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555886789.0
+        },
+        {
             "title": "Episode 141 - Timezones are hard, security is harder",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_141_Timezones_are_hard_security_is_harder.mp3?dest-id=542864",
             "downloaded": true,

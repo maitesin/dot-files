@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#208 Packaging, Making the most of PyCon, and more",
+            "url": "https://talkpython.fm/episodes/download/208/packaging-making-the-most-of-pycon-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555801200.0
+        },
+        {
             "title": "#207 Parallelizing computation with Dask",
             "url": "https://talkpython.fm/episodes/download/207/parallelizing-computation-with-dask.mp3",
             "downloaded": true,
