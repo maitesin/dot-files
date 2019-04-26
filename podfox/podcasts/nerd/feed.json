@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 91.5: Gordon is wrong about the PS5, game streaming, Star Trek: TMP, and more",
+            "url": "http://feeds.soundcloud.com/stream/611413926-thefullnerd-episode-915-gordon-is-wrong-about-the-ps5-game-streaming-star-trek-tmp-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556220546.0
+        },
+        {
             "title": "Episode 91: Acer/PC case design, Sony PS5 vs PC specs, Q&A",
             "url": "http://feeds.soundcloud.com/stream/607043679-thefullnerd-episode-91-acerpc-case-design-sony-ps5-vs-pc-specs-qa.mp3",
             "downloaded": true,

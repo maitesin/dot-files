@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "CPPP with Fred Tingaud and Jo\u00ebl Falcou",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-196.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556244208.0
+        },
+        {
             "title": "fmt with Victor Zverovich",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-195.mp3?dest-id=282890",
             "downloaded": true,

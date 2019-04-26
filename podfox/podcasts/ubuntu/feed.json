@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E03 \u2013 Wizball",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e03/ubuntupodcast_s12e03.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556197249.0
+        },
+        {
             "title": "S12E02 \u2013 Light Force",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e02/ubuntupodcast_s12e02.mp3",
             "downloaded": true,
