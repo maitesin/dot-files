@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Episode 143 - Security lessons from the phone book",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_143_Security_lessons_from_the_phone_book.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556492400.0
+        },
+        {
             "title": "Episode 142 - Hypothetical security: what if you find a USB flash drive?",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_142_Hypothetical_security_what_if_you_find_a_USB_flash_drive.mp3?dest-id=542864",
             "downloaded": true,
