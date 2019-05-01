@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 92: GTX 1650 reviews, new 9th gen Intel CPU's, Ryzen 3000 leaks, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/613899111-thefullnerd-episode-92-gtx-1650-reviews-new-9th-gen-intel-cpus-ryzen-3000-leaks-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556666280.0
+        },
+        {
             "title": "Episode 91.5: Gordon is wrong about the PS5, game streaming, Star Trek: TMP, and more",
             "url": "http://feeds.soundcloud.com/stream/611413926-thefullnerd-episode-915-gordon-is-wrong-about-the-ps5-game-streaming-star-trek-tmp-and-more.mp3",
             "downloaded": true,
