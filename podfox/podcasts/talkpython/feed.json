@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#210 Making the most out of in-person training",
+            "url": "https://talkpython.fm/episodes/download/210/making-the-most-out-of-in-person-training.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556751600.0
+        },
+        {
             "title": "#209 Inside Python's new governance model",
             "url": "https://talkpython.fm/episodes/download/209/inside-python-s-new-governance-model.mp3",
             "downloaded": true,

@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E04 \u2013 Ant Attack",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e04/ubuntupodcast_s12e04.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556807403.0
+        },
+        {
             "title": "S12E03 \u2013 Wizball",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e03/ubuntupodcast_s12e03.mp3",
             "downloaded": true,
