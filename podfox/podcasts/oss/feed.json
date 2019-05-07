@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Episode 144 - The security of money, which one is best?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_144_The_security_of_money_which_one_is_best.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557097200.0
+        },
+        {
             "title": "Episode 143 - Security lessons from the phone book",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_143_Security_lessons_from_the_phone_book.mp3?dest-id=542864",
             "downloaded": true,
