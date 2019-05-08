@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "AutoTrader UK, with Russell Warman and Karl Stoney",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep052.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557256015.0
+        },
+        {
             "title": "KeyBank, with Gabe Jaynes",
             "url": "https://kubernetespodcast.com/episodes/KPfGep051.mp3",
             "downloaded": true,
