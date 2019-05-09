@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Hardware hacking with TinyGo and Gopherbot",
+            "url": "https://cdn.changelog.com/uploads/gotime/84/go-time-84.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557313200.0
+        },
+        {
             "title": "It's time to talk about testing",
             "url": "https://cdn.changelog.com/uploads/gotime/83/go-time-83.mp3",
             "downloaded": true,
