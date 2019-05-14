@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#211 Classic CS problems in Python",
+            "url": "https://talkpython.fm/episodes/download/211/classic-cs-problems-in-python.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557529200.0
+        },
+        {
             "title": "#210 Making the most out of in-person training",
             "url": "https://talkpython.fm/episodes/download/210/making-the-most-out-of-in-person-training.mp3",
             "downloaded": true,
