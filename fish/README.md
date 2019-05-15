@@ -12,12 +12,5 @@ Go to [https://github.com/powerline/fonts](https://github.com/powerline/fonts)
 
 # Step 4. Install theme and plugins
 ```bash
-omf install agnoster
+omf install lambda
 ```
-
-# Step 5. Remove greeting from the command line
-Append:
-```bash
-set --erase fish_greeting
-```
-to the file `~/.config/fish/config.fish`
