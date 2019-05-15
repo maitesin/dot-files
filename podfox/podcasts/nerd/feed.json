@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 93: AMD Ryzen/Navi rumors, Computex predictions, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/620632389-thefullnerd-episode-93-amd-ryzennavi-rumors-computex-predictions-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557858715.0
+        },
+        {
             "title": "Episode 92: GTX 1650 reviews, new 9th gen Intel CPU's, Ryzen 3000 leaks, Q&A",
             "url": "http://feeds.soundcloud.com/stream/613899111-thefullnerd-episode-92-gtx-1650-reviews-new-9th-gen-intel-cpus-ryzen-3000-leaks-qa.mp3",
             "downloaded": true,
