@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Go for beginners",
+            "url": "https://cdn.changelog.com/uploads/gotime/85/go-time-85.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557936000.0
+        },
+        {
             "title": "Hardware hacking with TinyGo and Gopherbot",
             "url": "https://cdn.changelog.com/uploads/gotime/84/go-time-84.mp3",
             "downloaded": true,
