@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E06 \u2013 International Karate+",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e06/ubuntupodcast_s12e06.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558011640.0
+        },
+        {
             "title": "S12E05 \u2013 Superfrog",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e05/ubuntupodcast_s12e05.mp3",
             "downloaded": true,
