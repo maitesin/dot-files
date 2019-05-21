@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Tech, Life, and KubeCon EU, with Bryan Liles",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep054.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558426440.0
+        },
+        {
             "title": "Optiva and Arctiq, with Dan Dyer and Kyle Bassett",
             "url": "https://kubernetespodcast.com/episodes/KPfGep053.mp3",
             "downloaded": true,
