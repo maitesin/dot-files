@@ -19,6 +19,13 @@
             "url": "https://tracking.feedpress.it/link/18442/11369476/1ebfa28a_tc.mp3",
             "downloaded": true,
             "listened": false,
+            "published": 1545123660.0
+        },
+        {
+            "title": "Open Curiosity: NASA, Mars, and Beyond",
+            "url": "https://tracking.feedpress.it/link/18442/11369476/1ebfa28a_tc.mp3",
+            "downloaded": true,
+            "listened": false,
             "published": 1545120060.0
         },
         {
@@ -27,6 +34,13 @@
             "downloaded": true,
             "listened": false,
             "published": 1545091260.0
+        },
+        {
+            "title": "Bonus: Developer Advocacy Roundtable",
+            "url": "https://tracking.feedpress.it/link/18442/11369477/7a9b329b_tc.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1545063480.0
         },
         {
             "title": "Bonus: Developer Advocacy Roundtable",
@@ -47,6 +61,13 @@
             "url": "https://tracking.feedpress.it/link/18442/11369478/aebc2c45_tc.mp3",
             "downloaded": false,
             "listened": false,
+            "published": 1543914300.0
+        },
+        {
+            "title": "At Your Serverless: Development Empowerment with Control",
+            "url": "https://tracking.feedpress.it/link/18442/11369478/aebc2c45_tc.mp3",
+            "downloaded": false,
+            "listened": false,
             "published": 1543910700.0
         },
         {
@@ -55,6 +76,13 @@
             "downloaded": true,
             "listened": false,
             "published": 1543881900.0
+        },
+        {
+            "title": "The Data Explosion: Processing, Storage, and the Cloud",
+            "url": "https://tracking.feedpress.it/link/18442/11369479/4c5f676c_tc.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1542704700.0
         },
         {
             "title": "The Data Explosion: Processing, Storage, and the Cloud",
@@ -83,6 +111,13 @@
             "downloaded": false,
             "listened": false,
             "published": 1542672300.0
+        },
+        {
+            "title": "The One About DevSecOps: Evolving Security and Reliability",
+            "url": "https://tracking.feedpress.it/link/18442/11369480/5cfd48a4_tc.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1541494920.0
         },
         {
             "title": "The One About DevSecOps: Evolving Security and Reliability",
@@ -215,6 +250,13 @@
             "url": "https://tracking.feedpress.it/link/18442/11369488/3aed4d5c_tc.mp3",
             "downloaded": false,
             "listened": false,
+            "published": 1519714800.0
+        },
+        {
+            "title": "The Containers_Derby",
+            "url": "https://tracking.feedpress.it/link/18442/11369488/3aed4d5c_tc.mp3",
+            "downloaded": false,
+            "listened": false,
             "published": 1519711200.0
         },
         {
@@ -223,6 +265,13 @@
             "title": "The Containers_Derby",
             "published": 1519682400.0,
             "url": "https://tracking.feedpress.it/link/18442/8401094/3aed4d5c.mp3"
+        },
+        {
+            "title": "DevOps_Tear Down That Wall",
+            "url": "https://tracking.feedpress.it/link/18442/11369489/beffda00_tc.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1518505200.0
         },
         {
             "title": "DevOps_Tear Down That Wall",
@@ -243,6 +292,13 @@
             "url": "https://tracking.feedpress.it/link/18442/11369490/acf5928d_tc.mp3",
             "downloaded": false,
             "listened": false,
+            "published": 1517295600.0
+        },
+        {
+            "title": "The Agile_Revolution",
+            "url": "https://tracking.feedpress.it/link/18442/11369490/acf5928d_tc.mp3",
+            "downloaded": false,
+            "listened": false,
             "published": 1517292000.0
         },
         {
@@ -251,6 +307,20 @@
             "title": "The Agile_Revolution",
             "published": 1517263200.0,
             "url": "https://tracking.feedpress.it/link/18442/8106515/acf5928d.mp3"
+        },
+        {
+            "title": "OS Wars_part 2: Rise of Linux",
+            "url": "https://tracking.feedpress.it/link/18442/11369491/2199861a_tc.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1516086060.0
+        },
+        {
+            "title": "OS Wars_part 1",
+            "url": "https://tracking.feedpress.it/link/18442/11369492/f7670e99_tc.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1516086000.0
         },
         {
             "title": "OS Wars_part 2: Rise of Linux",
@@ -293,6 +363,13 @@
             "title": "OS Wars_part 1",
             "published": 1516053600.0,
             "url": "https://tracking.feedpress.it/link/18442/8049593/f7670e99.mp3"
+        },
+        {
+            "title": "Preview_CLH",
+            "url": "https://tracking.feedpress.it/link/18442/11369493/3def9db9_tc.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1512140400.0
         },
         {
             "title": "Preview_CLH",
