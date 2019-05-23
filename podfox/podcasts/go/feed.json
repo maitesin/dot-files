@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Go modules and the Athens project",
+            "url": "https://cdn.changelog.com/uploads/gotime/86/go-time-86.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558555200.0
+        },
+        {
             "title": "Go for beginners",
             "url": "https://cdn.changelog.com/uploads/gotime/85/go-time-85.mp3",
             "downloaded": true,
