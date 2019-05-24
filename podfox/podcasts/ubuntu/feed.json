@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E07 \u2013 R-Type",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e07/ubuntupodcast_s12e07.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558639825.0
+        },
+        {
             "title": "S12E06 \u2013 International Karate+",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e06/ubuntupodcast_s12e06.mp3",
             "downloaded": true,

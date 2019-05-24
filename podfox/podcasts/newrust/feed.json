@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "News: Rust 1.35",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_35.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558641600.0
+        },
+        {
             "title": "CYSK: bindgen and cbindgen",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/cysk/bindgen_cbindgen.mp3",
             "downloaded": true,
