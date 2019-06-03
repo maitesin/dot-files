@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Simplifying C++ with Herb Sutter",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-200.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559267171.0
+        },
+        {
             "title": "Constexpr Evaluation with Daveed Vandevoorde",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-199.mp3?dest-id=282890",
             "downloaded": true,

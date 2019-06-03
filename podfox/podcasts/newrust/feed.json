@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Meta 3: Happy Coding",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/meta/3.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558944900.0
+        },
+        {
             "title": "News: Rust 1.35",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_35.mp3",
             "downloaded": true,

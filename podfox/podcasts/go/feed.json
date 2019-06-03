@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Functional programming?",
+            "url": "https://cdn.changelog.com/uploads/gotime/87/go-time-87.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559145600.0
+        },
+        {
             "title": "Go modules and the Athens project",
             "url": "https://cdn.changelog.com/uploads/gotime/86/go-time-86.mp3",
             "downloaded": true,

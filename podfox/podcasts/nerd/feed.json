@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 94: AMD vs Intel live from Computex, laptops galore & do benchmarks matter?",
+            "url": "http://feeds.soundcloud.com/stream/628941171-thefullnerd-tfn19-094-tfnep94-v1.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559222610.0
+        },
+        {
             "title": "Episode 93: AMD Ryzen/Navi rumors, Computex predictions, and Q&A",
             "url": "http://feeds.soundcloud.com/stream/620632389-thefullnerd-episode-93-amd-ryzennavi-rumors-computex-predictions-and-qa.mp3",
             "downloaded": true,

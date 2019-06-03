@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "Episode 148 - You just got pwnt, what now?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_148_You_just_got_pwnt_what_now.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559517084.0
+        },
+        {
+            "title": "Episode 147 - Scams and operations as part of the supply chain",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_147_Scams_and_operations_as_part_of_the_supply_chain.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558917966.0
+        },
+        {
             "title": "Episode 146 - What the @#$% happened to Microsoft?",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_146_What_the_happened_to_Microsoft.mp3?dest-id=542864",
             "downloaded": true,

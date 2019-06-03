@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "#214 Dive into CPython 3.8 and beyond",
+            "url": "https://talkpython.fm/episodes/download/214/dive-into-cpython-3.8-and-beyond.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559257200.0
+        },
+        {
+            "title": "#213 WebAssembly and CPython",
+            "url": "https://talkpython.fm/episodes/download/213/webassembly-and-cpython.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558738800.0
+        },
+        {
             "title": "#212 Python in Web Assembly with Pyodide",
             "url": "https://talkpython.fm/episodes/download/212/python-in-web-assembly-with-pyodide.mp3",
             "downloaded": true,
