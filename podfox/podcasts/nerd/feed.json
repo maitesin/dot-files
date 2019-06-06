@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 95: Why PCIe 4 matters, the Mac Pro returns, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/631798179-thefullnerd-episode-95-why-pcie-4-matters-the-mac-pro-returns-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559679708.0
+        },
+        {
             "title": "Episode 94: AMD vs Intel live from Computex, laptops galore & do benchmarks matter?",
             "url": "http://feeds.soundcloud.com/stream/628941171-thefullnerd-tfn19-094-tfnep94-v1.mp3",
             "downloaded": true,

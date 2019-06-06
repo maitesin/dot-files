@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "OpenEBS, with Evan Powell",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep056.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559662553.0
+        },
+        {
+            "title": "Solo.io, with Idit Levine",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep055.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559063858.0
+        },
+        {
             "title": "Tech, Life, and KubeCon EU, with Bryan Liles",
             "url": "https://kubernetespodcast.com/episodes/KPfGep054.mp3",
             "downloaded": true,
