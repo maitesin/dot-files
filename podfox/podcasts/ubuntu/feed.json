@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E09 \u2013 Great Giana Sisters",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e09/ubuntupodcast_s12e09.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559826019.0
+        },
+        {
             "title": "S12E08 \u2013 Spyro the Dragon",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e08/ubuntupodcast_s12e08.mp3",
             "downloaded": true,
