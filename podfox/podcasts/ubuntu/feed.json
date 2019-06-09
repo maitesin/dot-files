@@ -4,6 +4,76 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E09 \u2013 Great Giana Sisters",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e09/ubuntupodcast_s12e09.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559826019.0
+        },
+        {
+            "title": "S12E08 \u2013 Spyro the Dragon",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e08/ubuntupodcast_s12e08.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559221225.0
+        },
+        {
+            "title": "S12E07 \u2013 R-Type",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e07/ubuntupodcast_s12e07.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558639825.0
+        },
+        {
+            "title": "S12E06 \u2013 International Karate+",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e06/ubuntupodcast_s12e06.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558011640.0
+        },
+        {
+            "title": "S12E05 \u2013 Superfrog",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e05/ubuntupodcast_s12e05.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557419452.0
+        },
+        {
+            "title": "S12E04 \u2013 Ant Attack",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e04/ubuntupodcast_s12e04.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556807403.0
+        },
+        {
+            "title": "S12E03 \u2013 Wizball",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e03/ubuntupodcast_s12e03.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556197249.0
+        },
+        {
+            "title": "S12E02 \u2013 Light Force",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e02/ubuntupodcast_s12e02.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555592410.0
+        },
+        {
+            "title": "S12E01 \u2013 Bombjack",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e01/ubuntupodcast_s12e01.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554987623.0
+        },
+        {
+            "title": "S12E00 \u2013 Frontier",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e00/ubuntupodcast_s12e00.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554393639.0
+        },
+        {
             "title": "S11E99 \u2013 Listener Get Together",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s11/e99/ubuntupodcast_s11e99.mp3",
             "downloaded": true,

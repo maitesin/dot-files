@@ -1,6 +1,118 @@
 {
     "episodes": [
         {
+            "title": "Episode 148 - You just got pwnt, what now?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_148_You_just_got_pwnt_what_now.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559517084.0
+        },
+        {
+            "title": "Episode 147 - Scams and operations as part of the supply chain",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_147_Scams_and_operations_as_part_of_the_supply_chain.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558917966.0
+        },
+        {
+            "title": "Episode 146 - What the @#$% happened to Microsoft?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_146_What_the_happened_to_Microsoft.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558306800.0
+        },
+        {
+            "title": "Episode 145 - What do security and fire have in common?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_145_What_do_security_and_fire_have_in_common.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557704516.0
+        },
+        {
+            "title": "Episode 144 - The security of money, which one is best?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_144_The_security_of_money_which_one_is_best.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557097200.0
+        },
+        {
+            "title": "Episode 143 - Security lessons from the phone book",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_143_Security_lessons_from_the_phone_book.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556492400.0
+        },
+        {
+            "title": "Episode 142 - Hypothetical security: what if you find a USB flash drive?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_142_Hypothetical_security_what_if_you_find_a_USB_flash_drive.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555886789.0
+        },
+        {
+            "title": "Episode 141 - Timezones are hard, security is harder",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_141_Timezones_are_hard_security_is_harder.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555283808.0
+        },
+        {
+            "title": "Episode 140 - Good enough security is a pretty high bar",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_140_Good_enough_security_is_a_pretty_high_bar.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554678765.0
+        },
+        {
+            "title": "Episode 139 - Secure voting, firefox send, and toxic comments on the internet",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_139_secure_voting_firefox_send_and_toxic_comments_on_the_internet.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554073200.0
+        },
+        {
+            "title": "Episode 138 - Information wants to be free",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_138_Information_wants_to_be_free.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553475600.0
+        },
+        {
+            "title": "Episode 137.5 - Holy cow Beto was in the cDc, this is awesome!",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_137_5_Holy_cow_Beto_was_in_the_cDc_this_is_awesome.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552867200.0
+        },
+        {
+            "title": "Episode 137 - When the IoT attacks!",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_137_When_the_IoT_attacks.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552262400.0
+        },
+        {
+            "title": "Episode 136 - How people feel is more important than being right",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_136_How_people_feel_is_more_important_than_being_right.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1551661700.0
+        },
+        {
+            "title": "Episode 135 - Passwords, AI, and cloud strategy",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_135_Passwords_AI_and_cloud_strategy.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1551056838.0
+        },
+        {
+            "title": "Episode 134 - What's up with the container runc security flaw?",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_134_Whats_up_with_the_container_runc_security_flaw.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550452942.0
+        },
+        {
             "title": "Episode 133 - Smart locks and the government hacking devices",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_133_Smart_locks_and_the_government_hacking_devices.mp3?dest-id=542864",
             "downloaded": true,

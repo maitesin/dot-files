@@ -1,6 +1,41 @@
 {
     "episodes": [
         {
+            "title": "2\u00d752: Apples to Oranges",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x52.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558006851.0
+        },
+        {
+            "title": "2\u00d751: Game of Groans",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x51.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555582210.0
+        },
+        {
+            "title": "2\u00d750: Born In A Log Cabin",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x50.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553190691.0
+        },
+        {
+            "title": "2\u00d749: Social Missiles",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x49.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550746402.0
+        },
+        {
+            "title": "2\u00d748: Antisocial Media",
+            "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x48.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550139320.0
+        },
+        {
             "title": "2\u00d747: Get Oval Shortbread",
             "url": "http://audio.lugradio.org/badvoltage/Bad%20Voltage%202x47.mp3",
             "downloaded": true,

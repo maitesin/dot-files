@@ -3,6 +3,90 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 95: Why PCIe 4 matters, the Mac Pro returns, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/631798179-thefullnerd-episode-95-why-pcie-4-matters-the-mac-pro-returns-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559679708.0
+        },
+        {
+            "title": "Episode 94: AMD vs Intel live from Computex, laptops galore & do benchmarks matter?",
+            "url": "http://feeds.soundcloud.com/stream/628941171-thefullnerd-tfn19-094-tfnep94-v1.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559222610.0
+        },
+        {
+            "title": "Episode 93: AMD Ryzen/Navi rumors, Computex predictions, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/620632389-thefullnerd-episode-93-amd-ryzennavi-rumors-computex-predictions-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557858715.0
+        },
+        {
+            "title": "Episode 92: GTX 1650 reviews, new 9th gen Intel CPU's, Ryzen 3000 leaks, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/613899111-thefullnerd-episode-92-gtx-1650-reviews-new-9th-gen-intel-cpus-ryzen-3000-leaks-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556666280.0
+        },
+        {
+            "title": "Episode 91.5: Gordon is wrong about the PS5, game streaming, Star Trek: TMP, and more",
+            "url": "http://feeds.soundcloud.com/stream/611413926-thefullnerd-episode-915-gordon-is-wrong-about-the-ps5-game-streaming-star-trek-tmp-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556220546.0
+        },
+        {
+            "title": "Episode 91: Acer/PC case design, Sony PS5 vs PC specs, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/607043679-thefullnerd-episode-91-acerpc-case-design-sony-ps5-vs-pc-specs-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555446751.0
+        },
+        {
+            "title": "Episode 90: Core i9-9990XE for sale, Ryzen market share increase, Kaby Lake-G returns",
+            "url": "http://feeds.soundcloud.com/stream/605132853-thefullnerd-episode-90-core-i9-9990xe-for-sale-ryzen-market-share-increase-kaby-lake-g-returns.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555099826.0
+        },
+        {
+            "title": "Episode 89: Special guest Will Smith talks the death of VR, the death of the PC, and more",
+            "url": "http://feeds.soundcloud.com/stream/600534891-thefullnerd-episode-89-special-guest-will-smith-talks-the-death-of-vr-the-death-of-the-pc-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554322980.0
+        },
+        {
+            "title": "Episode 88: RTX on GTX, Intel graphics, Comet Lake rumors, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/593757681-thefullnerd-episode-88-rtx-on-gtx-intel-graphics-comet-lake-rumors-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553201386.0
+        },
+        {
+            "title": "Episode 87: GTX 1660 review, upgradeable laptops/Area 51m, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/590150631-thefullnerd-episode-87-gtx-1660-review-upgradeable-laptopsarea-51m-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552594644.0
+        },
+        {
+            "title": "Episode 86: GTX 1660 Ti review, 3rd Gen Ryzen rumors, USB 4 problems, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/587078790-thefullnerd-episode-86-gtx-1660-ti-review-3rd-gen-ryzen-rumors-usb-4-problems-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552080396.0
+        },
+        {
+            "title": "Episode 85: Is RTX winning? Intel's Core i9-9990XE/KFC, AMD rumors, and Q&A",
+            "url": "http://feeds.soundcloud.com/stream/578108685-thefullnerd-episode-85-is-rtx-winning-intels-core-i9-9990xekfc-amd-rumors-and-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550613173.0
+        },
+        {
             "title": "Episode 84: Radeon VII review, GTX vs RTX laptops, Q&A",
             "url": "http://feeds.soundcloud.com/stream/571825665-thefullnerd-episode-84-radeon-vii-review-gtx-vs-rtx-laptops-qa.mp3",
             "downloaded": true,

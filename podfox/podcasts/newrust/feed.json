@@ -1,6 +1,76 @@
 {
     "episodes": [
         {
+            "title": "Meta 3: Happy Coding",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/meta/3.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558944900.0
+        },
+        {
+            "title": "News: Rust 1.35",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_35.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558641600.0
+        },
+        {
+            "title": "CYSK: bindgen and cbindgen",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/cysk/bindgen_cbindgen.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558120200.0
+        },
+        {
+            "title": "e031: FFI Deep Dive",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e031.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557776400.0
+        },
+        {
+            "title": "e030: Can You See Me Now?",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e030.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556312400.0
+        },
+        {
+            "title": "News: Rust 1.33 and 1.34",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_33_1_34.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555762500.0
+        },
+        {
+            "title": "e029: I\u2019m Out to C",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e029.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554326112.0
+        },
+        {
+            "title": "Bonus 14: How the Sausage Gets Made",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/14.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553374212.0
+        },
+        {
+            "title": "Bonus 13: I Still Make Silly Mistakes",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/bonus/13.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1551338400.0
+        },
+        {
+            "title": "e028: Meet My Associates",
+            "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/e028.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550784600.0
+        },
+        {
             "title": "News: Rust 1.32",
             "url": "https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/newrustacean/news/rust_1_32.mp3",
             "downloaded": true,

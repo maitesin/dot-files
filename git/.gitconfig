@@ -1,10 +1,17 @@
 [user]
 	name = Maitesin
-	email = violador.de.segmentos@gmail.com
+	email = oscar.forner.martinez@gmail.com
+
 [core]
-	editor = nvim 
+	editor = nvim
+
+[pager]
+  diff = diff-so-fancy | less --tabs=1,5 -RFX
+  show = diff-so-fancy | less --tabs=1,5 -RFX
+
 [merge]
 	tool = vimdiff
+
 [color]
 	ui = true
 	branch = auto
@@ -14,14 +21,16 @@
 	pager = true
 
 [color "status"]
-       added = green
-       changed = red bold
-       untracked = magenta bold
+  added = green
+  changed = red bold
+  untracked = magenta bold
 
 [color "branch"]
-       remote = yellow
+  remote = yellow
+
 [push]
 	default = simple
+
 [sendemail]
 	smtpencryption = tls
 	smtpserver = smtp.gmail.com

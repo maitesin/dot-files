@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "019 - It's Still Not Magic",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_19.mp3?dest-id=552832",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554553690.0
+        },
+        {
+            "title": "018 - Ghidra",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_18.mp3?dest-id=552832",
+            "downloaded": false,
+            "listened": false,
+            "published": 1552656830.0
+        },
+        {
             "title": "017 - Supercon 2018 Part 2",
             "url": "http://traffic.libsyn.com/reverseengineering/episode_17.mp3?dest-id=552832",
             "downloaded": true,

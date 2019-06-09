@@ -3,6 +3,118 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Pattern Matching with Michael Park",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-201.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559872257.0
+        },
+        {
+            "title": "Simplifying C++ with Herb Sutter",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-200.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559267171.0
+        },
+        {
+            "title": "Constexpr Evaluation with Daveed Vandevoorde",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-199.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1558665353.0
+        },
+        {
+            "title": "Mutation Testing with Mull",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-198.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1557451966.0
+        },
+        {
+            "title": "Reflection TS with David Sankel",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-197.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556850847.0
+        },
+        {
+            "title": "CPPP with Fred Tingaud and Jo\u00ebl Falcou",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-196.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1556244208.0
+        },
+        {
+            "title": "fmt with Victor Zverovich",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-195.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555638389.0
+        },
+        {
+            "title": "Linear Algebra and Audio with Guy Davidson",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-194.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1555035419.0
+        },
+        {
+            "title": "Boden Cross-Platform Framework with Marcus Tillmanns and Tobias Lensing",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-193.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1554429097.0
+        },
+        {
+            "title": "Reverse Engineering C++ with Gal Zaban",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-192.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553828173.0
+        },
+        {
+            "title": "Visual C++ Updates with Marian Luparu, Simon Brand, Tara Raj and Bob Brown",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-191.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1553225093.0
+        },
+        {
+            "title": "News Roundup",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-190.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552680722.0
+        },
+        {
+            "title": "RxCpp and Executors with Kirk Shoop",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-189.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1552016938.0
+        },
+        {
+            "title": "Kona Trip Report with Peter Bindels",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-188.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1551411998.0
+        },
+        {
+            "title": "Analyzing Undefined Behavior with John Regehr",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-187.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550807591.0
+        },
+        {
+            "title": "Leaf and \"What is Programming?\" with Edaqa Mortoray",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-186.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1550201983.0
+        },
+        {
             "title": "libc++ with Eric Fiselier",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-185.mp3?dest-id=282890",
             "downloaded": true,
