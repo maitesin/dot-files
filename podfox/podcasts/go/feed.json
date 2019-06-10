@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Go \ud83d\udc9a open source",
+            "url": "https://cdn.changelog.com/uploads/gotime/88/go-time-88.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1559937600.0
+        },
+        {
             "title": "Functional programming?",
             "url": "https://cdn.changelog.com/uploads/gotime/87/go-time-87.mp3",
             "downloaded": true,
