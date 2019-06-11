@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Introducing Season 3 of Command Line Heroes",
+            "url": "https://tracking.feedpress.it/link/18442/11757533/CLH_Season_3_Trailer_vFINAL_tc.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1560233103.0
+        },
+        {
             "title": "Bonus: Developer Advocacy Roundtable",
             "url": "https://tracking.feedpress.it/link/18442/10987254/7a9b329b.mp3",
             "downloaded": true,
