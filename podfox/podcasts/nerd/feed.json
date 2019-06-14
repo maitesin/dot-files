@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 96: 16-core Ryzen revealed, Navi is here, Nvidia Super rumors and more",
+            "url": "http://feeds.soundcloud.com/stream/636261396-thefullnerd-episode-96-16-core-ryzen-revealed-navi-is-here-nvidia-super-rumors-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1560455039.0
+        },
+        {
             "title": "Episode 95: Why PCIe 4 matters, the Mac Pro returns, and Q&A",
             "url": "http://feeds.soundcloud.com/stream/631798179-thefullnerd-episode-95-why-pcie-4-matters-the-mac-pro-returns-and-qa.mp3",
             "downloaded": true,

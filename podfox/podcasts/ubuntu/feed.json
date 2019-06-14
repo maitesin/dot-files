@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E10 \u2013 Salamander",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e10/ubuntupodcast_s12e10.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1560430813.0
+        },
+        {
             "title": "S12E09 \u2013 Great Giana Sisters",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e09/ubuntupodcast_s12e09.mp3",
             "downloaded": true,
