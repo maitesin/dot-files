@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#216 Digging into Visual Studio Code",
+            "url": "https://talkpython.fm/episodes/download/216/digging-into-visual-studio-code.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1560466800.0
+        },
+        {
             "title": "#215 The software powering Talk Python courses and podcast",
             "url": "https://talkpython.fm/episodes/download/215/the-software-powering-talk-python-courses-and-podcast.mp3",
             "downloaded": true,

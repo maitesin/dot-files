@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "KDE Plasma 5.16, AMD Ryzen/Navi, Firefox Premium, Matrix 1.0, OBS, PinePhone | This Week in Linux 70",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/jtjg5p/this-week-in-linux-episode-70.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1560682811.0
+        },
+        {
             "title": "GParted 1.0, AMD Ryzen 3000, Zorin OS, Krita, HiddenWasp, Google Stadia | This Week in Linux 69",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/2e76tj/this-week-in-linux-episode-69.mp3",
             "downloaded": false,
