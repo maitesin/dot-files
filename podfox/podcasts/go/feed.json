@@ -66,7 +66,7 @@
         {
             "title": "Go 2 and the future of Go",
             "url": "https://cdn.changelog.com/uploads/gotime/80/go-time-80.mp3",
-            "downloaded": false,
+            "downloaded": true,
             "listened": false,
             "published": 1554832800.0
         },
@@ -275,6 +275,13 @@
         },
         {
             "title": "Infosec Research and App Security",
+            "url": "https://cdn.changelog.com/uploads/gotime/51/go-time-51.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1500420450.0
+        },
+        {
+            "title": "Infosec research and app security",
             "url": "https://cdn.changelog.com/uploads/gotime/51/go-time-51.mp3",
             "downloaded": false,
             "listened": false,
