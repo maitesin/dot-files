@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Istio 1.2, with Louis Ryan",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep058.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1560889055.0
+        },
+        {
             "title": "Rancher Labs, with Darren Shepherd",
             "url": "https://kubernetespodcast.com/episodes/KPfGep057.mp3",
             "downloaded": true,

@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 97: The PC at E3, next gen consoles vs PC, game streaming vs PC and more",
+            "url": "http://feeds.soundcloud.com/stream/638732817-thefullnerd-episode-97-the-pc-at-e3-next-gen-consoles-vs-pc-game-streaming-vs-pc-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1560891438.0
+        },
+        {
             "title": "Episode 96: 16-core Ryzen revealed, Navi is here, Nvidia Super rumors and more",
             "url": "http://feeds.soundcloud.com/stream/636261396-thefullnerd-episode-96-16-core-ryzen-revealed-navi-is-here-nvidia-super-rumors-and-more.mp3",
             "downloaded": true,
