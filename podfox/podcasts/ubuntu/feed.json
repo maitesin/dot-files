@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E11 \u2013 1942",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e11/ubuntupodcast_s12e11.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561039228.0
+        },
+        {
             "title": "S12E10 \u2013 Salamander",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e10/ubuntupodcast_s12e10.mp3",
             "downloaded": true,
