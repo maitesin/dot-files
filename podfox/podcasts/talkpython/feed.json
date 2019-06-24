@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#217 Notebooks vs data science-enabled scripts",
+            "url": "https://talkpython.fm/episodes/download/217/notebooks-vs-data-science-enabled-scripts.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561071600.0
+        },
+        {
             "title": "#216 Digging into Visual Studio Code",
             "url": "https://talkpython.fm/episodes/download/216/digging-into-visual-studio-code.mp3",
             "downloaded": true,

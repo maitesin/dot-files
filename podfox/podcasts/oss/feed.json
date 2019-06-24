@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Episode 151 - The DARPA Cyber Grand Challenge with David Brumley",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_151_The_Darpa_Cyber_Grand_Challenge_with_David_Brumley.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561330800.0
+        },
+        {
             "title": "Episode 150 - Our ad funded dystopian present",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_150_Our_ad_funded_dystopian_present.mp3?dest-id=542864",
             "downloaded": true,

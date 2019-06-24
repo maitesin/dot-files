@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "021 - Silent Disco Wizards",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_21.mp3?dest-id=552832",
+            "downloaded": false,
+            "listened": false,
+            "published": 1561296686.0
+        },
+        {
             "title": "020 - Hardwear.io CTF Interviews",
             "url": "http://traffic.libsyn.com/reverseengineering/episode_20.mp3?dest-id=552832",
             "downloaded": true,
