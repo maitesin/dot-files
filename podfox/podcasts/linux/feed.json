@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Ubuntu Ex86s 32-Bit, OpenMandriva, Alpine, openSUSE, EndeavourOS, Regolith | This Week in Linux 71",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/9kuarb/this-week-in-linux-episode-71.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561393960.0
+        },
+        {
             "title": "KDE Plasma 5.16, AMD Ryzen/Navi, Firefox Premium, Matrix 1.0, OBS, PinePhone | This Week in Linux 70",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/jtjg5p/this-week-in-linux-episode-70.mp3",
             "downloaded": true,
