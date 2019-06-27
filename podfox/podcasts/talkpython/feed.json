@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#218 Serverless Python functions in Azure",
+            "url": "https://talkpython.fm/episodes/download/218/serverless-python-functions-in-azure.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561417200.0
+        },
+        {
             "title": "#217 Notebooks vs data science-enabled scripts",
             "url": "https://talkpython.fm/episodes/download/217/notebooks-vs-data-science-enabled-scripts.mp3",
             "downloaded": true,

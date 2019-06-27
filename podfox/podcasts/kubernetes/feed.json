@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Banzai Cloud, with Janos Matyas",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep059.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561489542.0
+        },
+        {
             "title": "Istio 1.2, with Louis Ryan",
             "url": "https://kubernetespodcast.com/episodes/KPfGep058.mp3",
             "downloaded": true,
