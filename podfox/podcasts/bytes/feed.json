@@ -1,0 +1,959 @@
+{
+    "episodes": [
+        {
+            "title": "#136 A Python kernel rather than cleaning the batteries?",
+            "url": "https://pythonbytes.fm/episodes/download/136/a-python-kernel-rather-than-cleaning-the-batteries.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1561417200.0
+        },
+        {
+            "title": "#135 macOS deprecates Python 2, will stop shipping it (eventually)",
+            "url": "https://pythonbytes.fm/episodes/download/135/macos-deprecates-python-2-will-stop-shipping-it-eventually.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1560985200.0
+        },
+        {
+            "title": "#134 Python proves Mercury is the closest planet to Earth",
+            "url": "https://pythonbytes.fm/episodes/download/134/python-proves-mercury-is-the-closest-planet-to-earth.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1560294000.0
+        },
+        {
+            "title": "#133 Github sponsors - The model open source has been waiting for?",
+            "url": "https://pythonbytes.fm/episodes/download/133/github-sponsors-the-model-open-source-has-been-waiting-for.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1559689200.0
+        },
+        {
+            "title": "#132 Algorithms as objects",
+            "url": "https://pythonbytes.fm/episodes/download/132/algorithms-as-objects.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1559170800.0
+        },
+        {
+            "title": "#131 Python 3 has issues (over on GitHub)",
+            "url": "https://pythonbytes.fm/episodes/download/131/python-3-has-issues-over-on-github.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1558393200.0
+        },
+        {
+            "title": "#130 Python.exe now shipping with Windows 10",
+            "url": "https://pythonbytes.fm/episodes/download/130/python.exe-now-shipping-with-windows-10.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1557788400.0
+        },
+        {
+            "title": "#129 Maintaining a Python Project when it\u2019s not your job",
+            "url": "https://pythonbytes.fm/episodes/download/129/maintaining-a-python-project-when-it-s-not-your-job.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1557097200.0
+        },
+        {
+            "title": "#128 Will the GIL be obsolete with PEP 554?",
+            "url": "https://pythonbytes.fm/episodes/download/128/will-the-gil-be-obsolete-with-pep-554.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1556751600.0
+        },
+        {
+            "title": "#127 That Python code is on fire!",
+            "url": "https://pythonbytes.fm/episodes/download/127/that-python-code-is-on-fire.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1556146800.0
+        },
+        {
+            "title": "#126 WebAssembly comes to Python",
+            "url": "https://pythonbytes.fm/episodes/download/126/webassembly-comes-to-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1555628400.0
+        },
+        {
+            "title": "#125 Will you conquer the deadlock empire?",
+            "url": "https://pythonbytes.fm/episodes/download/125/will-you-conquer-the-deadlock-empire.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1555110000.0
+        },
+        {
+            "title": "#124 This is not the None you're looking for",
+            "url": "https://pythonbytes.fm/episodes/download/124/this-is-not-the-none-you-re-looking-for.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1554418800.0
+        },
+        {
+            "title": "#123 Time to right the py-wrongs",
+            "url": "https://pythonbytes.fm/episodes/download/123/time-to-right-the-py-wrongs.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1553817600.0
+        },
+        {
+            "title": "#122 Give Me Back My Monolith",
+            "url": "https://pythonbytes.fm/episodes/download/122/give-me-back-my-monolith.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1553212800.0
+        },
+        {
+            "title": "#121 python2 becomes self-aware, enters fifth stage of grief",
+            "url": "https://pythonbytes.fm/episodes/download/121/python2-becomes-self-aware-enters-fifth-stage-of-grief.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1552694400.0
+        },
+        {
+            "title": "#120 AWS, MongoDB, and the Economic Realities of Open Source and more",
+            "url": "https://pythonbytes.fm/episodes/download/120/aws-mongodb-and-the-economic-realities-of-open-source-and-more.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1551744000.0
+        },
+        {
+            "title": "#119 Assorted files as Django ORM backends with Alkali",
+            "url": "https://pythonbytes.fm/episodes/download/119/assorted-files-as-django-orm-backends-with-alkali.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1551139200.0
+        },
+        {
+            "title": "#118 Better Python executable management with pipx",
+            "url": "https://pythonbytes.fm/episodes/download/118/better-python-executable-management-with-pipx.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1550793600.0
+        },
+        {
+            "title": "#117 Is this the end of Python virtual environments?",
+            "url": "https://pythonbytes.fm/episodes/download/117/is-this-the-end-of-python-virtual-environments.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1550102400.0
+        },
+        {
+            "title": "#116 So you want Python in a 3D graphics engine?",
+            "url": "https://pythonbytes.fm/episodes/download/116/so-you-want-python-in-a-3d-graphics-engine.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1549411200.0
+        },
+        {
+            "title": "#115 Dataclass CSV reader and Nina drops by",
+            "url": "https://pythonbytes.fm/episodes/download/115/dataclass-csv-reader-and-nina-drops-by.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1549065600.0
+        },
+        {
+            "title": "#114 What should be in the Python standard library?",
+            "url": "https://pythonbytes.fm/episodes/download/114/what-should-be-in-the-python-standard-library.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1548460800.0
+        },
+        {
+            "title": "#113 Python Lands on the Windows 10 App Store",
+            "url": "https://pythonbytes.fm/episodes/download/113/python-lands-on-the-windows-10-app-store.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1547769600.0
+        },
+        {
+            "title": "#112 Don't use the greater than sign in programming",
+            "url": "https://pythonbytes.fm/episodes/download/112/don-t-use-the-greater-than-sign-in-programming.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1547164800.0
+        },
+        {
+            "title": "#111 loguru: Python logging made simple",
+            "url": "https://pythonbytes.fm/episodes/download/111/loguru-python-logging-made-simple.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1546646400.0
+        },
+        {
+            "title": "#110 Python Year in Review 2018 Edition",
+            "url": "https://pythonbytes.fm/episodes/download/110/python-year-in-review-2018-edition.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1545782400.0
+        },
+        {
+            "title": "#109 CPython byte code explorer",
+            "url": "https://pythonbytes.fm/episodes/download/109/cpython-byte-code-explorer.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1545091200.0
+        },
+        {
+            "title": "#108 Spilled data? Call the PyJanitor",
+            "url": "https://pythonbytes.fm/episodes/download/108/spilled-data-call-the-pyjanitor.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1544486400.0
+        },
+        {
+            "title": "#107 Restructuring and searching data, the Python way",
+            "url": "https://pythonbytes.fm/episodes/download/107/restructuring-and-searching-data-the-python-way.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1544140800.0
+        },
+        {
+            "title": "#106 Fluent query APIs on Python collections",
+            "url": "https://pythonbytes.fm/episodes/download/106/fluent-query-apis-on-python-collections.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1543622400.0
+        },
+        {
+            "title": "#105 Colorizing and Restoring Old Images with Deep Learning",
+            "url": "https://pythonbytes.fm/episodes/download/105/colorizing-and-restoring-old-images-with-deep-learning.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1542931200.0
+        },
+        {
+            "title": "#104 API Evolution the Right Way",
+            "url": "https://pythonbytes.fm/episodes/download/104/api-evolution-the-right-way.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1542412800.0
+        },
+        {
+            "title": "#103 Getting to 10x (results for developers)",
+            "url": "https://pythonbytes.fm/episodes/download/103/getting-to-10x-results-for-developers.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1541635200.0
+        },
+        {
+            "title": "#102 Structure of a Flask Project",
+            "url": "https://pythonbytes.fm/episodes/download/102/structure-of-a-flask-project.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1540944000.0
+        },
+        {
+            "title": "#101 Nobel Prize awarded to a Python convert",
+            "url": "https://pythonbytes.fm/episodes/download/101/nobel-prize-awarded-to-a-python-convert.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1540335600.0
+        },
+        {
+            "title": "#100 The big 100 with special guests",
+            "url": "https://pythonbytes.fm/episodes/download/100/the-big-100-with-special-guests.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1539903600.0
+        },
+        {
+            "title": "#99 parse - the regex antidote in Python",
+            "url": "https://pythonbytes.fm/episodes/download/99/parse-the-regex-antidote-in-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1539644400.0
+        },
+        {
+            "title": "#98 Python-Electron as a Python GUI",
+            "url": "https://pythonbytes.fm/episodes/download/98/python-electron-as-a-python-gui.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1538953200.0
+        },
+        {
+            "title": "#97 Java goes paid",
+            "url": "https://pythonbytes.fm/episodes/download/97/java-goes-paid.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1538089200.0
+        },
+        {
+            "title": "#96 Python Language Summit 2018",
+            "url": "https://pythonbytes.fm/episodes/download/96/python-language-summit-2018.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1537570800.0
+        },
+        {
+            "title": "#95 Unleash the py-spy!",
+            "url": "https://pythonbytes.fm/episodes/download/95/unleash-the-py-spy.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1536966000.0
+        },
+        {
+            "title": "#94 Why don't you like notebooks?",
+            "url": "https://pythonbytes.fm/episodes/download/94/why-don-t-you-like-notebooks.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1536188400.0
+        },
+        {
+            "title": "#93 Looking like there will be a PyBlazor!",
+            "url": "https://pythonbytes.fm/episodes/download/93/looking-like-there-will-be-a-pyblazor.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1535670000.0
+        },
+        {
+            "title": "#92 Will your Python be compiled?",
+            "url": "https://pythonbytes.fm/episodes/download/92/will-your-python-be-compiled.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1535151600.0
+        },
+        {
+            "title": "#91 Will there be a PyBlazor?",
+            "url": "https://pythonbytes.fm/episodes/download/91/will-there-be-a-pyblazor.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1534287600.0
+        },
+        {
+            "title": "#90 A Django Async Roadmap",
+            "url": "https://pythonbytes.fm/episodes/download/90/a-django-async-roadmap.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1533596400.0
+        },
+        {
+            "title": "#89 A tenacious episode that won't give up",
+            "url": "https://pythonbytes.fm/episodes/download/89/a-tenacious-episode-that-won-t-give-up.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1533337200.0
+        },
+        {
+            "title": "#88 Python has brought computer programming to a vast new audience",
+            "url": "https://pythonbytes.fm/episodes/download/88/python-has-brought-computer-programming-to-a-vast-new-audience.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1532646000.0
+        },
+        {
+            "title": "#87 Guido van Rossum steps down",
+            "url": "https://pythonbytes.fm/episodes/download/87/guido-van-rossum-steps-down.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1531782000.0
+        },
+        {
+            "title": "#86 Make your NoSQL async and await-able with uMongo",
+            "url": "https://pythonbytes.fm/episodes/download/86/make-your-nosql-async-and-await-able-with-umongo.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1531436400.0
+        },
+        {
+            "title": "#85 Visually debugging your Jupyter notebook",
+            "url": "https://pythonbytes.fm/episodes/download/85/visually-debugging-your-jupyter-notebook.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1530572400.0
+        },
+        {
+            "title": "#84 Vibora web framework: It's fast, async, and means viper",
+            "url": "https://pythonbytes.fm/episodes/download/84/vibora-web-framework-it-s-fast-async-and-means-viper.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1530140400.0
+        },
+        {
+            "title": "#83 from __future__ import braces",
+            "url": "https://pythonbytes.fm/episodes/download/83/from-future-import-braces.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1529622000.0
+        },
+        {
+            "title": "#82 Let's make a clear Python 3 statement",
+            "url": "https://pythonbytes.fm/episodes/download/82/let-s-make-a-clear-python-3-statement.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1529017200.0
+        },
+        {
+            "title": "#81 Making your C library callable from Python by wrapping it with Cython",
+            "url": "https://pythonbytes.fm/episodes/download/81/making-your-c-library-callable-from-python-by-wrapping-it-with-cython.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1528153200.0
+        },
+        {
+            "title": "#80 Dan Bader drops by and we found 30 new Python projects",
+            "url": "https://pythonbytes.fm/episodes/download/80/dan-bader-drops-by-and-we-found-30-new-python-projects.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1527548400.0
+        },
+        {
+            "title": "#79 15 Tips to Enhance your Github Flow",
+            "url": "https://pythonbytes.fm/episodes/download/79/15-tips-to-enhance-your-github-flow.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1527202800.0
+        },
+        {
+            "title": "#78 Setting Expectations for Open Source Participation",
+            "url": "https://pythonbytes.fm/episodes/download/78/setting-expectations-for-open-source-participation.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1526598000.0
+        },
+        {
+            "title": "#77 You Don't Have To Be a Workaholic To Win",
+            "url": "https://pythonbytes.fm/episodes/download/77/you-don-t-have-to-be-a-workaholic-to-win.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1526079600.0
+        },
+        {
+            "title": "#76 Goodbye zero-versioning",
+            "url": "https://pythonbytes.fm/episodes/download/76/goodbye-zero-versioning.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1525388400.0
+        },
+        {
+            "title": "#75 pypi.org officially launches",
+            "url": "https://pythonbytes.fm/episodes/download/75/pypi.org-officially-launches.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1524870000.0
+        },
+        {
+            "title": "#74 Contributing to Open Source effectively",
+            "url": "https://pythonbytes.fm/episodes/download/74/contributing-to-open-source-effectively.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1524092400.0
+        },
+        {
+            "title": "#73 This podcast comes in any color you want, as long as it's black",
+            "url": "https://pythonbytes.fm/episodes/download/73/this-podcast-comes-in-any-color-you-want-as-long-as-it-s-black.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1523487600.0
+        },
+        {
+            "title": "#72 New versioning: Episode 0.0.7.2 (with 72 releases)",
+            "url": "https://pythonbytes.fm/episodes/download/72/new-versioning-episode-0.0.7.2-with-72-releases.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1522882800.0
+        },
+        {
+            "title": "#71 We can migrate to Python 3, careful please",
+            "url": "https://pythonbytes.fm/episodes/download/71/we-can-migrate-to-python-3-careful-please.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1522191600.0
+        },
+        {
+            "title": "#70 Have you seen my log? It's cute!",
+            "url": "https://pythonbytes.fm/episodes/download/70/have-you-seen-my-log-it-s-cute.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1521763200.0
+        },
+        {
+            "title": "#69 Digging into StackOverflow's 2018 survey results",
+            "url": "https://pythonbytes.fm/episodes/download/69/digging-into-stackoverflow-s-2018-survey-results.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1521331200.0
+        },
+        {
+            "title": "#68 Python notebooks galore!",
+            "url": "https://pythonbytes.fm/episodes/download/68/python-notebooks-galore.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1520294400.0
+        },
+        {
+            "title": "#67 Result of moving Python to Github",
+            "url": "https://pythonbytes.fm/episodes/download/67/result-of-moving-python-to-github.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1519862400.0
+        },
+        {
+            "title": "#66 Wait, NoSQL with ACID and transactions?",
+            "url": "https://pythonbytes.fm/episodes/download/66/wait-nosql-with-acid-and-transactions.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1519344000.0
+        },
+        {
+            "title": "#65 Speed of your import statements affecting performance?",
+            "url": "https://pythonbytes.fm/episodes/download/65/speed-of-your-import-statements-affecting-performance.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1518566400.0
+        },
+        {
+            "title": "#64 The GUI phoenix rises with wxPython",
+            "url": "https://pythonbytes.fm/episodes/download/64/the-gui-phoenix-rises-with-wxpython.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1518134400.0
+        },
+        {
+            "title": "#63 We're still on a desktop GUI kick",
+            "url": "https://pythonbytes.fm/episodes/download/63/we-re-still-on-a-desktop-gui-kick.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1517443200.0
+        },
+        {
+            "title": "#62 Wooey and Gooey are simple Python GUIs",
+            "url": "https://pythonbytes.fm/episodes/download/62/wooey-and-gooey-are-simple-python-guis.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1516924800.0
+        },
+        {
+            "title": "#61 On Being a Senior Engineer",
+            "url": "https://pythonbytes.fm/episodes/download/61/on-being-a-senior-engineer.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1516060800.0
+        },
+        {
+            "title": "#60 Don't dismiss SQLite as just a starter DB",
+            "url": "https://pythonbytes.fm/episodes/download/60/don-t-dismiss-sqlite-as-just-a-starter-db.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1515628800.0
+        },
+        {
+            "title": "#59 Instagram disregards Python's GC (again)",
+            "url": "https://pythonbytes.fm/episodes/download/59/instagram-disregards-python-s-gc-again.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1515110400.0
+        },
+        {
+            "title": "#58 Better cache decorators and another take on type hints",
+            "url": "https://pythonbytes.fm/episodes/download/58/better-cache-decorators-and-another-take-on-type-hints.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1514246400.0
+        },
+        {
+            "title": "#57 Our take on Excel and Python",
+            "url": "https://pythonbytes.fm/episodes/download/57/our-take-on-excel-and-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1513814400.0
+        },
+        {
+            "title": "#56 The pendulum of time swings beautifully in PyPI",
+            "url": "https://pythonbytes.fm/episodes/download/56/the-pendulum-of-time-swings-beautifully-in-pypi.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1513209600.0
+        },
+        {
+            "title": "#55 Flask, Flask, Flask, 3x Flask",
+            "url": "https://pythonbytes.fm/episodes/download/55/flask-flask-flask-3x-flask.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1512604800.0
+        },
+        {
+            "title": "#54 PyAnnotate your way to the future",
+            "url": "https://pythonbytes.fm/episodes/download/54/pyannotate-your-way-to-the-future.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1511913600.0
+        },
+        {
+            "title": "#53 Getting started with devpi and Git Virtual FS",
+            "url": "https://pythonbytes.fm/episodes/download/53/getting-started-with-devpi-and-git-virtual-fs.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1511308800.0
+        },
+        {
+            "title": "#52 Call your APIs with uplink and test them in the tavern",
+            "url": "https://pythonbytes.fm/episodes/download/52/call-your-apis-with-uplink-and-test-them-in-the-tavern.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1510790400.0
+        },
+        {
+            "title": "#51 How to make your code 80 times faster",
+            "url": "https://pythonbytes.fm/episodes/download/51/how-to-make-your-code-80-times-faster.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1510185600.0
+        },
+        {
+            "title": "#50 Bundling , shipping, and protecting Python applications",
+            "url": "https://pythonbytes.fm/episodes/download/50/bundling-shipping-and-protecting-python-applications.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1509580800.0
+        },
+        {
+            "title": "#49 Your technical skills are obsolete: now what?",
+            "url": "https://pythonbytes.fm/episodes/download/49/your-technical-skills-are-obsolete-now-what.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1508886000.0
+        },
+        {
+            "title": "#48 Garbage collection and memory management in Python",
+            "url": "https://pythonbytes.fm/episodes/download/48/garbage-collection-and-memory-management-in-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1508367600.0
+        },
+        {
+            "title": "#47 PyPy now works with way more C-extensions and parking your package safely",
+            "url": "https://pythonbytes.fm/episodes/download/47/pypy-now-works-with-way-more-c-extensions-and-parking-your-package-safely.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1507762800.0
+        },
+        {
+            "title": "#46 Spicy lecture notes and unicorn console spinners",
+            "url": "https://pythonbytes.fm/episodes/download/46/spicy-lecture-notes-and-unicorn-console-spinners.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1507158000.0
+        },
+        {
+            "title": "#45 A really small web API and OS-level machine learning",
+            "url": "https://pythonbytes.fm/episodes/download/45/a-really-small-web-api-and-os-level-machine-learning.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1506639600.0
+        },
+        {
+            "title": "#44 pip install malicious-code",
+            "url": "https://pythonbytes.fm/episodes/download/44/pip-install-malicious-code.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1505862000.0
+        },
+        {
+            "title": "#43 Python string theory, v2",
+            "url": "https://pythonbytes.fm/episodes/download/43/python-string-theory-v2.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1505343600.0
+        },
+        {
+            "title": "#42 Behold: The Python 2 death clock",
+            "url": "https://pythonbytes.fm/episodes/download/42/behold-the-python-2-death-clock.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1504825200.0
+        },
+        {
+            "title": "#41 Python Concurrency From the Ground Up and Caring for our Community",
+            "url": "https://pythonbytes.fm/episodes/download/41/python-concurrency-from-the-ground-up-and-caring-for-our-community.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1504134000.0
+        },
+        {
+            "title": "#40 Packet Manipulation with Scapy",
+            "url": "https://pythonbytes.fm/episodes/download/40/packet-manipulation-with-scapy.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1503529200.0
+        },
+        {
+            "title": "#39 The new PyPI",
+            "url": "https://pythonbytes.fm/episodes/download/39/the-new-pypi.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1502924400.0
+        },
+        {
+            "title": "#38 Hacking Classic Nintendo Games with Python",
+            "url": "https://pythonbytes.fm/episodes/download/38/hacking-classic-nintendo-games-with-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1502233200.0
+        },
+        {
+            "title": "#37 Rule over the shells with Sultan",
+            "url": "https://pythonbytes.fm/episodes/download/37/rule-over-the-shells-with-sultan.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1501628400.0
+        },
+        {
+            "title": "#36 Craft Your Python Like Poetry and Other Musings",
+            "url": "https://pythonbytes.fm/episodes/download/36/craft-your-python-like-poetry-and-other-musings.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1501196400.0
+        },
+        {
+            "title": "#35 How developers change programming languages over time",
+            "url": "https://pythonbytes.fm/episodes/download/35/how-developers-change-programming-languages-over-time.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1500418800.0
+        },
+        {
+            "title": "#34 The Real Threat of Artificial Intelligence",
+            "url": "https://pythonbytes.fm/episodes/download/34/the-real-threat-of-artificial-intelligence.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1499900400.0
+        },
+        {
+            "title": "#33 You should build an Alexa skill",
+            "url": "https://pythonbytes.fm/episodes/download/33/you-should-build-an-alexa-skill.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1499295600.0
+        },
+        {
+            "title": "#32 8 ways to contribute to open source when you have no time",
+            "url": "https://pythonbytes.fm/episodes/download/32/8-ways-to-contribute-to-open-source-when-you-have-no-time.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1498863600.0
+        },
+        {
+            "title": "#31 You should have a change log",
+            "url": "https://pythonbytes.fm/episodes/download/31/you-should-have-a-change-log.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1497999600.0
+        },
+        {
+            "title": "#30 You are not Google and other ruminations",
+            "url": "https://pythonbytes.fm/episodes/download/30/you-are-not-google-and-other-ruminations.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1497481200.0
+        },
+        {
+            "title": "#29 Responsive Bar Charts with Bokeh, Flask, and Python 3",
+            "url": "https://pythonbytes.fm/episodes/download/29/responsive-bar-charts-with-bokeh-flask-and-python-3.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1496876400.0
+        },
+        {
+            "title": "#28 The meaning of _ in Python",
+            "url": "https://pythonbytes.fm/episodes/download/28/the-meaning-of-in-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1496358000.0
+        },
+        {
+            "title": "#27 The PyCon 2017 recap and functional Python",
+            "url": "https://pythonbytes.fm/episodes/download/27/the-pycon-2017-recap-and-functional-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1495666800.0
+        },
+        {
+            "title": "#26 How have you automated your life, or CLI, with Python?",
+            "url": "https://pythonbytes.fm/episodes/download/26/how-have-you-automated-your-life-or-cli-with-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1495148400.0
+        },
+        {
+            "title": "#25 Could we have more in-database machine learning please?",
+            "url": "https://pythonbytes.fm/episodes/download/25/could-we-have-more-in-database-machine-learning-please.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1494543600.0
+        },
+        {
+            "title": "#24 I have a local PyPI server and so do you!",
+            "url": "https://pythonbytes.fm/episodes/download/24/i-have-a-local-pypi-server-and-so-do-you.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1493766000.0
+        },
+        {
+            "title": "#23 Can you grok the GIL?",
+            "url": "https://pythonbytes.fm/episodes/download/23/can-you-grok-the-gil.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1493161200.0
+        },
+        {
+            "title": "#22 PYTHONPATH considered harmful",
+            "url": "https://pythonbytes.fm/episodes/download/22/pythonpath-considered-harmful.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1492470000.0
+        },
+        {
+            "title": "#21 Python has a new star framework for RESTful APIs",
+            "url": "https://pythonbytes.fm/episodes/download/21/python-has-a-new-star-framework-for-restful-apis.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1492038000.0
+        },
+        {
+            "title": "#20 Finding similar but not identical images in 128 bits via Python",
+            "url": "https://pythonbytes.fm/episodes/download/20/finding-similar-but-not-identical-images-in-128-bits-via-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1491346800.0
+        },
+        {
+            "title": "#19 Put your Python dictionaries in a box and apparently Python is really wanted",
+            "url": "https://pythonbytes.fm/episodes/download/19/put-your-python-dictionaries-in-a-box-and-apparently-python-is-really-wanted.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1490569200.0
+        },
+        {
+            "title": "#18 Python 3 has some amazing types and you can now constructively insult your shell!",
+            "url": "https://pythonbytes.fm/episodes/download/18/python-3-has-some-amazing-types-and-you-can-now-constructively-insult-your-shell.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1490054400.0
+        },
+        {
+            "title": "#17 Google's Python is on fire and Simon says you have CPU load Pythonically",
+            "url": "https://pythonbytes.fm/episodes/download/17/google-s-python-is-on-fire-and-simon-says-you-have-cpu-load-pythonically.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1489795200.0
+        },
+        {
+            "title": "#16 Postmodern Python and Open-source Financial Awards",
+            "url": "https://pythonbytes.fm/episodes/download/16/postmodern-python-and-open-source-financial-awards.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1488844800.0
+        },
+        {
+            "title": "#15 Digging into Python packaging",
+            "url": "https://pythonbytes.fm/episodes/download/15/digging-into-python-packaging.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1488240000.0
+        },
+        {
+            "title": "#14 Lots of Python style and Python 3000 is 3000 days old",
+            "url": "https://pythonbytes.fm/episodes/download/14/lots-of-python-style-and-python-3000-is-3000-days-old.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1487721600.0
+        },
+        {
+            "title": "#13 Python making the move to GitHub and Dropbox is stepping back from Pyston",
+            "url": "https://pythonbytes.fm/episodes/download/13/python-making-the-move-to-github-and-dropbox-is-stepping-back-from-pyston.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1487030400.0
+        },
+        {
+            "title": "#12 Expanding your Python mental model and serving millions of requests per second with Python",
+            "url": "https://pythonbytes.fm/episodes/download/12/expanding-your-python-mental-model-and-serving-millions-of-requests-per-second-with-python.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1486425600.0
+        },
+        {
+            "title": "#11 Django 2.0 is dropping Python 2 entirely, pipenv for profile functionality, and Pythonic home automation",
+            "url": "https://pythonbytes.fm/episodes/download/11/django-2.0-is-dropping-python-2-entirely-pipenv-for-profile-functionality-and-pythonic-home-automation.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1485820800.0
+        },
+        {
+            "title": "#10 Dismissing Python's Garbage Collection,  PyPI Name Reservations, and Hackers Exfiltrate US Government Data to Save Itself",
+            "url": "https://pythonbytes.fm/episodes/download/10/dismissing-python-s-garbage-collection-pypi-name-reservations-and-hackers-exfiltrate-us-government-data-to-save-itself.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1485129600.0
+        },
+        {
+            "title": "#9 Walking with async coroutines, diving deep into requests, and a universe of options (for AIs)",
+            "url": "https://pythonbytes.fm/episodes/download/9/walking-with-async-coroutines-diving-deep-into-requests-and-a-universe-of-options-for-ais.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1484611200.0
+        },
+        {
+            "title": "#8 Python gets Grumpy, avoiding burnout, Postman for API testing and more",
+            "url": "https://pythonbytes.fm/episodes/download/8/python-gets-grumpy-avoiding-burnout-postman-for-api-testing-and-more.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1484006400.0
+        },
+        {
+            "title": "#7 Python 3.6 is out, Sanic is a blazing web framework, and are failing our open source infrastructure?",
+            "url": "https://pythonbytes.fm/episodes/download/7/python-3.6-is-out-sanic-is-a-blazing-web-framework-and-are-failing-our-open-source-infrastructure.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1483488000.0
+        },
+        {
+            "title": "#6 Python 3.6 is going to be awesome, Kite: your friendly co-developing AI",
+            "url": "https://pythonbytes.fm/episodes/download/6/python-3.6-is-going-to-be-awesome-kite-your-friendly-co-developing-ai.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1481500800.0
+        },
+        {
+            "title": "#5 Legacy Python vs Python and why words matter and Request's 5 Whys retrospective",
+            "url": "https://pythonbytes.fm/episodes/download/5/legacy-python-vs-python-and-why-words-matter-and-request-s-5-whys-retrospective.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1480896000.0
+        },
+        {
+            "title": "#4 Python 3 is just fine for beginners thank you, q is awesome for debugging, and more",
+            "url": "https://pythonbytes.fm/episodes/download/4/python-3-is-just-fine-for-beginners-thank-you-q-is-awesome-for-debugging-and-more.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1480377600.0
+        },
+        {
+            "title": "#3 Python 3.6 is coming, and it's awesome plus superior text processing with Pynini",
+            "url": "https://pythonbytes.fm/episodes/download/3/python-3.6-is-coming-and-it-s-awesome-plus-superior-text-processing-with-pynini.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1479859200.0
+        },
+        {
+            "title": "#2 PyCon, awesome python, python developer job prospects, and more",
+            "url": "https://pythonbytes.fm/episodes/download/2/pycon-awesome-python-python-developer-job-prospects-and-more.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1479081600.0
+        },
+        {
+            "title": "#1 Intro to the show and pip 9 is out!",
+            "url": "https://pythonbytes.fm/episodes/download/1/intro-to-the-show-and-pip-9-is-out.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1478476800.0
+        }
+    ],
+    "shortname": "bytes",
+    "title": "Python Bytes",
+    "url": "https://pythonbytes.fm/episodes/rss"
+}
