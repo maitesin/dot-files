@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Special Edition: AMD talks Ryzen 3000 and Radeon 5700 series launch",
+            "url": "http://feeds.soundcloud.com/stream/643073595-thefullnerd-special-edition-amd-talks-ryzen-3000-and-radeon-5700-series-launch.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561663836.0
+        },
+        {
             "title": "Episode 98: Ryzen 3000 performance leaks, X570 board news, Q&A",
             "url": "http://feeds.soundcloud.com/stream/642006570-thefullnerd-episode-98-ryzen-3000-performance-leaks-x570-board-news-qa.mp3",
             "downloaded": true,

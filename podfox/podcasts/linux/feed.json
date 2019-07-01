@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Episode 72 | This Week in Linux",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/ednici/this-week-in-linux-episode-72.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561955256.0
+        },
+        {
             "title": "Ubuntu Ex86s 32-Bit, OpenMandriva, Alpine, openSUSE, EndeavourOS, Regolith | This Week in Linux 71",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/9kuarb/this-week-in-linux-episode-71.mp3",
             "downloaded": true,

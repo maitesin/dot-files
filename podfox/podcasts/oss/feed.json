@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Episode 152 - Tavis breaks the world ... again",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_152_Tavis_breaks_the_world_again.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1561941279.0
+        },
+        {
             "title": "Episode 151 - The DARPA Cyber Grand Challenge with David Brumley",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_151_The_Darpa_Cyber_Grand_Challenge_with_David_Brumley.mp3?dest-id=542864",
             "downloaded": true,
