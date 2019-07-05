@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "CMake and VTK with Robert Maynard",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-205.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1562292714.0
+        },
+        {
             "title": "Functional Programming in C++ with Ivan \u010cuki\u0107",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-204.mp3?dest-id=282890",
             "downloaded": true,
