@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 99: Ryzen 9 3900X review, Radeon RX 5700/XT reviews, Geforce RTX 2060/2070 Super reviews",
+            "url": "http://feeds.soundcloud.com/stream/648176523-thefullnerd-episode-99-ryzen-9-3900x-review-radeon-rx-5700xt-reviews-geforce-rtx-20602070-super-reviews.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1562616336.0
+        },
+        {
             "title": "Special Edition: AMD talks Ryzen 3000 and Radeon 5700 series launch",
             "url": "http://feeds.soundcloud.com/stream/643073595-thefullnerd-special-edition-amd-talks-ryzen-3000-and-radeon-5700-series-launch.mp3",
             "downloaded": true,

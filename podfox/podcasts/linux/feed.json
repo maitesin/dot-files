@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Linux 5.2, Debian 10, Pinebook Pro, Mageia, Whonix, GRUB, Valve, Zorin, Mint | This Week in Linux 73",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/etv699/this-week-in-linux-episode-73.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1562644458.0
+        },
+        {
             "title": "Episode 72 | This Week in Linux",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/ednici/this-week-in-linux-episode-72.mp3",
             "downloaded": true,

@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#138 Will PyOxidizer weld shut one of Python's major gaps?",
+            "url": "https://pythonbytes.fm/episodes/download/138/will-pyoxidizer-weld-shut-one-of-python-s-major-gaps.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1562540400.0
+        },
+        {
             "title": "#137 Advanced Python testing and big-time diffs",
             "url": "https://pythonbytes.fm/episodes/download/137/advanced-python-testing-and-big-time-diffs.mp3",
             "downloaded": true,

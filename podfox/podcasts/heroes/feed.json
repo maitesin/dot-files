@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Learning the BASICs",
+            "url": "https://tracking.feedpress.it/link/18442/12633154/clh_s3e2_learning_the_basics_vfinal_withcta_tc.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1562652313.0
+        },
+        {
             "title": "Python\u2019s Tale",
             "url": "https://tracking.feedpress.it/link/18442/12201029/clh_s3e1_pythons_tale_vfinal_withcta_tc.mp3",
             "downloaded": true,
