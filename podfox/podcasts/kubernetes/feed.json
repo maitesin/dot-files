@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Cloud Native Application Bundles, with Jeremy Rickard and Ralph Squillace",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep061.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1562693166.0
+        },
+        {
             "title": "Ubuntu, with Mark Shuttleworth",
             "url": "https://kubernetespodcast.com/episodes/KPfGep060.mp3",
             "downloaded": true,
