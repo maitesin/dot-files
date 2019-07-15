@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "024 - Cars, Servers, and FPGAs!",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_24.mp3?dest-id=552832",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563156502.0
+        },
+        {
             "title": "023 - Magic Moonbeams",
             "url": "http://traffic.libsyn.com/reverseengineering/episode_23.mp3?dest-id=552832",
             "downloaded": true,

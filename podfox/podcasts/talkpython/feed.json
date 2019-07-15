@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#220 Machine Learning in the cloud with Azure ML",
+            "url": "https://talkpython.fm/episodes/download/220/machine-learning-in-the-cloud-with-azure-ml.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1562886000.0
+        },
+        {
             "title": "#219 Take a Python tour of duty at the United States Digital Service",
             "url": "https://talkpython.fm/episodes/download/219/take-a-python-tour-of-duty-at-the-united-states-digital-service.mp3",
             "downloaded": true,
