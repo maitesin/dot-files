@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "IBM / Red Hat, Ubuntu & Nvidia, Firefox, Kdenlive, Syncthing, Huawei, Valve | This Week in Linux 74",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/xuf7m4/this-week-in-linux-episode-74.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563227080.0
+        },
+        {
             "title": "Linux 5.2, Debian 10, Pinebook Pro, Mageia, Whonix, GRUB, Valve, Zorin, Mint | This Week in Linux 73",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/etv699/this-week-in-linux-episode-73.mp3",
             "downloaded": true,
