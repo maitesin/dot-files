@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#139 f\"Yes!\" for the f-strings",
+            "url": "https://pythonbytes.fm/episodes/download/139/f-yes-for-the-f-strings.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563404400.0
+        },
+        {
             "title": "#138 Will PyOxidizer weld shut one of Python's major gaps?",
             "url": "https://pythonbytes.fm/episodes/download/138/will-pyoxidizer-weld-shut-one-of-python-s-major-gaps.mp3",
             "downloaded": true,
