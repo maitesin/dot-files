@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Creating JavaScript",
+            "url": "https://tracking.feedpress.it/link/18442/12684924/clh_s3e3_creating_javascript_vfinal_w_cta_tc.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563861903.0
+        },
+        {
             "title": "Learning the BASICs",
             "url": "https://tracking.feedpress.it/link/18442/12633154/clh_s3e2_learning_the_basics_vfinal_withcta_tc.mp3",
             "downloaded": true,

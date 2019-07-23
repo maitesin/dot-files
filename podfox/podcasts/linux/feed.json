@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "EndeavourOS, Proxmox, deepin, EvilGnome Malware, Dropbox, FerenOS, Steam | This Week in Linux 75",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/32etne/this-week-in-linux-episode-75.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563853985.0
+        },
+        {
             "title": "IBM / Red Hat, Ubuntu & Nvidia, Firefox, Kdenlive, Syncthing, Huawei, Valve | This Week in Linux 74",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/xuf7m4/this-week-in-linux-episode-74.mp3",
             "downloaded": true,
