@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#140 Becoming a 10x Developer (sorta)",
+            "url": "https://pythonbytes.fm/episodes/download/140/becoming-a-10x-developer-sorta.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563836400.0
+        },
+        {
             "title": "#139 f\"Yes!\" for the f-strings",
             "url": "https://pythonbytes.fm/episodes/download/139/f-yes-for-the-f-strings.mp3",
             "downloaded": true,

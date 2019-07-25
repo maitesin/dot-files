@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "PC Hardware Hall of Fame, episode 200 predictions, Full Nerd moments/trivia | The Full Nerd ep. 100",
+            "url": "http://feeds.soundcloud.com/stream/655439117-thefullnerd-pc-hardware-hall-of-fame-episode-200-predictions-full-nerd-momentstrivia-the-full-nerd-ep-100.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563913896.0
+        },
+        {
             "title": "Episode 99: Ryzen 9 3900X review, Radeon RX 5700/XT reviews, Geforce RTX 2060/2070 Super reviews",
             "url": "http://feeds.soundcloud.com/stream/648176523-thefullnerd-episode-99-ryzen-9-3900x-review-radeon-rx-5700xt-reviews-geforce-rtx-20602070-super-reviews.mp3",
             "downloaded": true,
