@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "Cologne Trip Report with Botond Ballo and Tom Honermann",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-207.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1564102909.0
+        },
+        {
             "title": "GitKraken with Tyler Ang-Wanek",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-206.mp3?dest-id=282890",
             "downloaded": true,

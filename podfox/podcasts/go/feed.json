@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Go is eating the world of software",
+            "url": "https://cdn.changelog.com/uploads/gotime/the-changelog-354/go-time-the-changelog-354.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1563876000.0
+        },
+        {
             "title": "Web development in Go",
             "url": "https://cdn.changelog.com/uploads/gotime/92/go-time-92.mp3",
             "downloaded": true,
