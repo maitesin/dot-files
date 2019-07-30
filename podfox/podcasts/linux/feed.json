@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Pinebook Pro, VLC Bug Debunked, Fedora CoreOS, SUSE New CEO, Mageia, Arco | This Week in Linux 76",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/7vc4xi/this-week-in-linux-episode-76.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1564454656.0
+        },
+        {
             "title": "EndeavourOS, Proxmox, deepin, EvilGnome Malware, Dropbox, FerenOS, Steam | This Week in Linux 75",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/32etne/this-week-in-linux-episode-75.mp3",
             "downloaded": true,
