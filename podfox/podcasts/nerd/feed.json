@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 101: Threadripper 3 rumors, Destiny 2 on Ryzen, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/658757678-thefullnerd-episode-101-threadripper-3-rumors-destiny-2-on-ryzen-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1564521957.0
+        },
+        {
             "title": "PC Hardware Hall of Fame, episode 200 predictions, Full Nerd moments/trivia | The Full Nerd ep. 100",
             "url": "http://feeds.soundcloud.com/stream/655439117-thefullnerd-pc-hardware-hall-of-fame-episode-200-predictions-full-nerd-momentstrivia-the-full-nerd-ep-100.mp3",
             "downloaded": true,
