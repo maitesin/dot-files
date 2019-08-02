@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E17 \u2013 The Secret of Monkey Island",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e17/ubuntupodcast_s12e17.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1564686018.0
+        },
+        {
             "title": "S12E16 \u2013 Glider Rider",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e16/ubuntupodcast_s12e16.mp3",
             "downloaded": true,
