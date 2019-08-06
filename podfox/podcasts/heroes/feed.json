@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Diving for Perl",
+            "url": "https://tracking.feedpress.it/link/18442/12721198/clh_s3e4_the_perl_dive_vfinal_tc.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565071509.0
+        },
+        {
             "title": "Creating JavaScript",
             "url": "https://tracking.feedpress.it/link/18442/12684924/clh_s3e3_creating_javascript_vfinal_w_cta_tc.mp3",
             "downloaded": true,

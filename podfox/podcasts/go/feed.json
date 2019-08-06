@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "If you've never been to GopherCon...",
+            "url": "https://cdn.changelog.com/uploads/gotime/93/go-time-93.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565017200.0
+        },
+        {
             "title": "Go is eating the world of software",
             "url": "https://cdn.changelog.com/uploads/gotime/the-changelog-354/go-time-the-changelog-354.mp3",
             "downloaded": true,
