@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 102: Ice Lake on desktop, $200 Intel GPU, Lisa Su to leave AMD?",
+            "url": "http://feeds.soundcloud.com/stream/662644214-thefullnerd-episode-102-ice-lake-on-desktop-200-intel-gpu-lisa-su-to-leave-amd.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565209526.0
+        },
+        {
             "title": "Episode 101: Threadripper 3 rumors, Destiny 2 on Ryzen, Q&A",
             "url": "http://feeds.soundcloud.com/stream/658757678-thefullnerd-episode-101-threadripper-3-rumors-destiny-2-on-ryzen-qa.mp3",
             "downloaded": true,

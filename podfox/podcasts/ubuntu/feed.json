@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E18 \u2013 Pilotwings",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e18/ubuntupodcast_s12e18.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565269217.0
+        },
+        {
             "title": "S12E17 \u2013 The Secret of Monkey Island",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e17/ubuntupodcast_s12e17.mp3",
             "downloaded": true,
