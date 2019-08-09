@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#142 There's a bandit in the Python space",
+            "url": "https://pythonbytes.fm/episodes/download/142/there-s-a-bandit-in-the-python-space.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565046000.0
+        },
+        {
             "title": "#141 Debugging with f-strings coming in Python 3.8",
             "url": "https://pythonbytes.fm/episodes/download/141/debugging-with-f-strings-coming-in-python-3.8.mp3",
             "downloaded": true,

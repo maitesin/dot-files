@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Blender 2.80, Linux Mint, VR Desktop, System76, Librem 5, Manjaro, Proton | This Week in Linux 77",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/mh76jj/this-week-in-linux-episode-77.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565129171.0
+        },
+        {
             "title": "Pinebook Pro, VLC Bug Debunked, Fedora CoreOS, SUSE New CEO, Mageia, Arco | This Week in Linux 76",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/7vc4xi/this-week-in-linux-episode-76.mp3",
             "downloaded": true,
