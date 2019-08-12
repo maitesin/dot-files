@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Structuring your Go apps",
+            "url": "https://cdn.changelog.com/uploads/gotime/94/go-time-94.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565377200.0
+        },
+        {
             "title": "If you've never been to GopherCon...",
             "url": "https://cdn.changelog.com/uploads/gotime/93/go-time-93.mp3",
             "downloaded": true,
