@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Xfce 4.14, FFmpeg, KDE Zero-Day, Linux Journal, NVidia, AMD, LibreOffice | This Week in Linux 78",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/emajyd/this-week-in-linux-episode-78.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565665593.0
+        },
+        {
             "title": "Blender 2.80, Linux Mint, VR Desktop, System76, Librem 5, Manjaro, Proton | This Week in Linux 77",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/mh76jj/this-week-in-linux-episode-77.mp3",
             "downloaded": true,
