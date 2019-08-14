@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "kubectl Plugins and krew, with Ahmet Alp Balkan and Luk Burchard",
+            "url": "https://kubernetespodcast.com/episodes/KPfGep066.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565711894.0
+        },
+        {
             "title": "Attacking and Defending Kubernetes, with Ian Coldwater",
             "url": "https://kubernetespodcast.com/episodes/KPfGep065.mp3",
             "downloaded": true,

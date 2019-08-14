@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#143 Spike the robot, powered by Python!",
+            "url": "https://pythonbytes.fm/episodes/download/143/spike-the-robot-powered-by-python.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565737200.0
+        },
+        {
             "title": "#142 There's a bandit in the Python space",
             "url": "https://pythonbytes.fm/episodes/download/142/there-s-a-bandit-in-the-python-space.mp3",
             "downloaded": true,
