@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E19 \u2013 Starglider",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e19/ubuntupodcast_s12e19.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565874040.0
+        },
+        {
             "title": "S12E18 \u2013 Pilotwings",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e18/ubuntupodcast_s12e18.mp3",
             "downloaded": true,
