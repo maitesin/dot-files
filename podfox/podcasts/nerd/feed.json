@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 102.5: PC gaming on a controller, portable retro gaming emulation, and more",
+            "url": "http://feeds.soundcloud.com/stream/666862700-thefullnerd-episode-1025-pc-gaming-on-a-controller-portable-retro-gaming-emulation-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1565985018.0
+        },
+        {
             "title": "Episode 102: Ice Lake on desktop, $200 Intel GPU, Lisa Su to leave AMD?",
             "url": "http://feeds.soundcloud.com/stream/662644214-thefullnerd-episode-102-ice-lake-on-desktop-200-intel-gpu-lisa-su-to-leave-amd.mp3",
             "downloaded": true,

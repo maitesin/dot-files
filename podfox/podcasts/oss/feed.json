@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Episode 157 - Backdoors and snake oil in our cryptography",
+            "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_157_Backdoors_and_snake_oil_in_our_cryptography.mp3?dest-id=542864",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566174987.0
+        },
+        {
             "title": "Episode 156 - What if we MitM a whole country?",
             "url": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/Episode_156_What_if_we_MitM_a_whole_country.mp3?dest-id=542864",
             "downloaded": true,
