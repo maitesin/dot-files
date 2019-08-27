@@ -3,6 +3,13 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "AWS Lambda with Marco Magdy",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-211.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566527330.0
+        },
+        {
             "title": "mdspan and /r/cpp with Bryce Adelstein Lelbach",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-210.mp3?dest-id=282890",
             "downloaded": true,

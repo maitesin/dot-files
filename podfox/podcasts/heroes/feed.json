@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "The Infrastructure Effect: COBOL and Go",
+            "url": "https://tracking.feedpress.it/link/18442/12754058/clh_s3_ep5_the_infrastructure_effect_vfinal_tc.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566281117.0
+        },
+        {
             "title": "Diving for Perl",
             "url": "https://tracking.feedpress.it/link/18442/12721198/clh_s3e4_the_perl_dive_vfinal_tc.mp3",
             "downloaded": true,

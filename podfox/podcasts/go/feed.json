@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "The importance of representation",
+            "url": "https://cdn.changelog.com/uploads/gotime/95/go-time-95.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566320400.0
+        },
+        {
             "title": "Structuring your Go apps",
             "url": "https://cdn.changelog.com/uploads/gotime/94/go-time-94.mp3",
             "downloaded": true,

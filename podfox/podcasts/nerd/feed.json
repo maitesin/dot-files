@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 103: Comet Lake confusion, Jensens' RTX rant, best $500 budget build and more",
+            "url": "http://feeds.soundcloud.com/stream/671249774-thefullnerd-episode-103-comet-lake-confusion-jensens-rtx-rant-best-500-budget-build-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566832086.0
+        },
+        {
             "title": "Episode 102.5: PC gaming on a controller, portable retro gaming emulation, and more",
             "url": "http://feeds.soundcloud.com/stream/666862700-thefullnerd-episode-1025-pc-gaming-on-a-controller-portable-retro-gaming-emulation-and-more.mp3",
             "downloaded": true,

@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "KDE Apps 19.08, KNOPPIX, System76, Slackware, Huawei, EndeavourOS, Dreamcast | This Week in Linux 79",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/teamnc/this-week-in-linux-episode-79.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566268558.0
+        },
+        {
             "title": "Xfce 4.14, FFmpeg, KDE Zero-Day, Linux Journal, NVidia, AMD, LibreOffice | This Week in Linux 78",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/emajyd/this-week-in-linux-episode-78.mp3",
             "downloaded": true,
