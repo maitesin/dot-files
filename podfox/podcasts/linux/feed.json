@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Linux Birthday, IBM POWER, Ubuntu Touch, Pinebook Pro, NVIDIA, Dell, Steam | This Week in Linux 80",
+            "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/e9nm9a/this-week-in-linux-episode-80.mp3",
+            "downloaded": false,
+            "listened": false,
+            "published": 1566961605.0
+        },
+        {
             "title": "KDE Apps 19.08, KNOPPIX, System76, Slackware, Huawei, EndeavourOS, Dreamcast | This Week in Linux 79",
             "url": "https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/teamnc/this-week-in-linux-episode-79.mp3",
             "downloaded": true,

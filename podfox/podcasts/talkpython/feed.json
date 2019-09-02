@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#227 Maintainable data science: Tips for non-developers",
+            "url": "https://talkpython.fm/episodes/download/227/maintainable-data-science-tips-for-non-developers.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566946800.0
+        },
+        {
             "title": "#226 Building Flask APIs for data scientists",
             "url": "https://talkpython.fm/episodes/download/226/building-flask-apis-for-data-scientists.mp3",
             "downloaded": false,

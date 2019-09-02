@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 104: RTX gets a killer app, Radeon VII dies, the best time to buy hardware, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/671911655-thefullnerd-episode-104-rtx-gets-a-killer-app-radeon-vii-dies-the-best-time-to-buy-hardware-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1566938953.0
+        },
+        {
             "title": "Episode 103: Comet Lake confusion, Jensens' RTX rant, best $500 budget build and more",
             "url": "http://feeds.soundcloud.com/stream/671249774-thefullnerd-episode-103-comet-lake-confusion-jensens-rtx-rant-best-500-budget-build-and-more.mp3",
             "downloaded": true,

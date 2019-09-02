@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "026 - You Can Lose in so Many Colors!",
+            "url": "http://traffic.libsyn.com/reverseengineering/episode_26.mp3?dest-id=552832",
+            "downloaded": false,
+            "listened": false,
+            "published": 1567216799.0
+        },
+        {
             "title": "025 - Opaque Magisterium",
             "url": "http://traffic.libsyn.com/reverseengineering/Episode_25.mp3?dest-id=552832",
             "downloaded": true,
