@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Heroes in a BASH Shell",
+            "url": "https://tracking.feedpress.it/link/18442/12789152/clh_s3_ep6_heroes_in_a_bash_shell_vfinal_tc.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567490702.0
+        },
+        {
             "title": "The Infrastructure Effect: COBOL and Go",
             "url": "https://tracking.feedpress.it/link/18442/12754058/clh_s3_ep5_the_infrastructure_effect_vfinal_tc.mp3",
             "downloaded": true,
