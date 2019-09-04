@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Serverless and Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/96/go-time-96.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567537200.0
+        },
+        {
             "title": "The infrastructure effect: COBOL and Go",
             "url": "https://cdn.changelog.com/uploads/gotime/takeover-clh-s3e5/go-time-takeover-clh-s3e5.mp3",
             "downloaded": true,
