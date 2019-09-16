@@ -3,6 +3,20 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 106: Ryzen boost bug patch, Windows 10 in 2019, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/680741468-thefullnerd-episode-106-ryzen-boost-bug-patch-windows-10-in-2019-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568405553.0
+        },
+        {
+            "title": "Episode 105: Intel gets salty, Ryzen 3000 boost bug, the best GPUs to buy now, and more",
+            "url": "http://feeds.soundcloud.com/stream/676380338-thefullnerd-episode-105-intel-gets-salty-ryzen-3000-boost-bug-the-best-gpus-to-buy-now-and-more.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567625873.0
+        },
+        {
             "title": "Episode 104: RTX gets a killer app, Radeon VII dies, the best time to buy hardware, Q&A",
             "url": "http://feeds.soundcloud.com/stream/671911655-thefullnerd-episode-104-rtx-gets-a-killer-app-radeon-vii-dies-the-best-time-to-buy-hardware-qa.mp3",
             "downloaded": true,

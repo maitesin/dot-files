@@ -4,6 +4,20 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E23 \u2013 Wing Commander",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e23/ubuntupodcast_s12e23.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568379635.0
+        },
+        {
+            "title": "S12E22 \u2013 Shadow of the Beast",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e22/ubuntupodcast_s12e22.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567699208.0
+        },
+        {
             "title": "S12E21 \u2013 Rebelstar Raiders",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e21/ubuntupodcast_s12e21.mp3",
             "downloaded": true,

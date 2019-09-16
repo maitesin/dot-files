@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "#229 Building advanced Pythonic interviews with docassemble",
+            "url": "https://talkpython.fm/episodes/download/229/building-advanced-pythonic-interviews-with-docassemble.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568242800.0
+        },
+        {
+            "title": "#228 Hunting bugs and tech startups with Python",
+            "url": "https://talkpython.fm/episodes/download/228/hunting-bugs-and-tech-startups-with-python.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567551600.0
+        },
+        {
             "title": "#227 Maintainable data science: Tips for non-developers",
             "url": "https://talkpython.fm/episodes/download/227/maintainable-data-science-tips-for-non-developers.mp3",
             "downloaded": true,

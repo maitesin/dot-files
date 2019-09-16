@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "#147 Mocking out AWS APIs",
+            "url": "https://pythonbytes.fm/episodes/download/147/mocking-out-aws-apis.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568156400.0
+        },
+        {
+            "title": "#146 Slay the dragon, learn the Python",
+            "url": "https://pythonbytes.fm/episodes/download/146/slay-the-dragon-learn-the-python.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567897200.0
+        },
+        {
             "title": "#145 The Python 3 \u201cY2K\u201d problem",
             "url": "https://pythonbytes.fm/episodes/download/145/the-python-3-y2k-problem.mp3",
             "downloaded": true,

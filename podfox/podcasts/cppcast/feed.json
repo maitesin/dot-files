@@ -3,6 +3,20 @@
     "url": "http://cppcast.libsyn.com/rss",
     "episodes": [
         {
+            "title": "C++ Extensions with Miro Knejp",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-214.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568342119.0
+        },
+        {
+            "title": "Professional CMake with Craig Scott",
+            "url": "http://traffic.libsyn.com/cppcast/cppcast-213.mp3?dest-id=282890",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567736163.0
+        },
+        {
             "title": "C++ Epochs with Vittorio Romeo",
             "url": "http://traffic.libsyn.com/cppcast/cppcast-212.mp3?dest-id=282890",
             "downloaded": true,

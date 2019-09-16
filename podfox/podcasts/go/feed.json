@@ -1,6 +1,20 @@
 {
     "episodes": [
         {
+            "title": "Generics in Go",
+            "url": "https://cdn.changelog.com/uploads/gotime/98/go-time-98.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568221200.0
+        },
+        {
+            "title": "LIVE from Gophercon UK",
+            "url": "https://cdn.changelog.com/uploads/gotime/97/go-time-97.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1567605600.0
+        },
+        {
             "title": "Serverless and Go",
             "url": "https://cdn.changelog.com/uploads/gotime/96/go-time-96.mp3",
             "downloaded": true,
