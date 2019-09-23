@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "#230 Python in digital humanities research",
+            "url": "https://talkpython.fm/episodes/download/230/python-in-digital-humanities-research.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568761200.0
+        },
+        {
             "title": "#229 Building advanced Pythonic interviews with docassemble",
             "url": "https://talkpython.fm/episodes/download/229/building-advanced-pythonic-interviews-with-docassemble.mp3",
             "downloaded": true,

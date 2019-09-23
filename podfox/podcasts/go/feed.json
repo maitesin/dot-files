@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Hiring and nurturing junior developers",
+            "url": "https://cdn.changelog.com/uploads/gotime/99/go-time-99.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1569002400.0
+        },
+        {
             "title": "Generics in Go",
             "url": "https://cdn.changelog.com/uploads/gotime/98/go-time-98.mp3",
             "downloaded": true,

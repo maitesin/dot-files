@@ -4,6 +4,13 @@
     "shortname": "ubuntu",
     "episodes": [
         {
+            "title": "S12E24 \u2013 Gran Turismo",
+            "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e24/ubuntupodcast_s12e24.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568907924.0
+        },
+        {
             "title": "S12E23 \u2013 Wing Commander",
             "url": "http://static.ubuntupodcast.org/ubuntupodcast/s12/e23/ubuntupodcast_s12e23.mp3",
             "downloaded": true,

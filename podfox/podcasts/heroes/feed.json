@@ -1,6 +1,13 @@
 {
     "episodes": [
         {
+            "title": "Talking to Machines: LISP and the Origins of A.I.",
+            "url": "https://tracking.feedpress.it/link/18442/12829600/clh_s3_e7_talking_to_machines_lisp_and_the_origins_of_a_i_vfinal_20190915_tc.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568700307.0
+        },
+        {
             "title": "Heroes in a BASH Shell",
             "url": "https://tracking.feedpress.it/link/18442/12789152/clh_s3_ep6_heroes_in_a_bash_shell_vfinal_tc.mp3",
             "downloaded": true,

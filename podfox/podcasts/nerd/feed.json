@@ -3,6 +3,13 @@
     "url": "http://feeds.soundcloud.com/users/soundcloud:users:226190044/sounds.rss",
     "episodes": [
         {
+            "title": "Episode 107: CPU performance 'leaks', pre-built PC's, ST: TMP review, Q&A",
+            "url": "http://feeds.soundcloud.com/stream/684165677-thefullnerd-episode-107-cpu-performance-leaks-pre-built-pcs-st-tmp-review-qa.mp3",
+            "downloaded": true,
+            "listened": false,
+            "published": 1568999836.0
+        },
+        {
             "title": "Episode 106: Ryzen boost bug patch, Windows 10 in 2019, Q&A",
             "url": "http://feeds.soundcloud.com/stream/680741468-thefullnerd-episode-106-ryzen-boost-bug-patch-windows-10-in-2019-qa.mp3",
             "downloaded": true,
