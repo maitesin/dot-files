@@ -1,38 +1,22 @@
-[user]
-	name = Maitesin
-	email = oscar.forner.martinez@gmail.com
-
 [core]
-	editor = nvim
-
-[pager]
-  diff = diff-so-fancy | less --tabs=1,5 -RFX
-  show = diff-so-fancy | less --tabs=1,5 -RFX
-
-[merge]
-	tool = vimdiff
-
+	pager = diff-so-fancy | less --tabs=4 -RFX
+	excludesfile = /home/maitesin/.gitignore_global
 [color]
 	ui = true
-	branch = auto
-	diff = auto
-	status = auto
-	interactive = auto
-	pager = true
-
-[color "status"]
-  added = green
-  changed = red bold
-  untracked = magenta bold
-
-[color "branch"]
-  remote = yellow
-
-[push]
-	default = simple
-
-[sendemail]
-	smtpencryption = tls
-	smtpserver = smtp.gmail.com
-	smtpuser = oscar.forner.martinez@gmail.com
-	smtpserverport = 587
+[color "diff-highlight"]
+	oldNormal = red bold
+	oldHighlight = red bold 52
+	newNormal = green bold
+	newHighlight = green bold 22
+[color "diff"]
+	meta = 11
+	frag = magenta bold
+	commit = yellow bold
+	old = red bold
+	new = green bold
+	whitespace = red reverse
+[user]
+	name = Oscar Forner Martinez
+	email = oscar.forner@paack.co
+[url "git@github.com:PaackEng"]
+    insteadOf = "https://github.com/PaackEng"
