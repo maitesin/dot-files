@@ -1,7 +1,5 @@
 call neomake#configure#automake('nw', 750)
 
-
-
 " automatically run linter and open errorlist
 let g:neomake_open_list = 2
 let g:neomake_list_height = 8
