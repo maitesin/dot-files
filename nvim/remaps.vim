@@ -4,16 +4,9 @@
 nmap <F2> :w<CR>
 " in insert mode F2 will exit insert, save, enters insert again
 imap <F2> <ESC>:w<CR>i
-" in normal mode Shift + F2 strip the whitespace of the file and save it
-nmap <S-F2> :StripWhitespace :w<CR>
-" in insert mode Shift + F2 strip the whitespace of the file and save it
-nmap <S-F2> <ESC> :StripWhitespace :w<CR>i
 " in normal mode F3 will strip the whitespaces of the file
 nmap <F3> :NERDTreeToggle<CR>
 imap <F3> <ESC>:NERDTreeToggle<CR>i
-" switch between header/source with F4
-autocmd BufNewFile,BufRead *cpp map <F4> :e %:p:s,.h$,.X123X,:s,.cpp$,.h,:s,.X123X$,.cpp,<CR>
-autocmd BufNewFile,BufRead *.c map <F4> :e %:p:s,.h$,.X123X,:s,.c$,.h,:s,.X123X$,.c,<CR>
 " recreate tags file with F5
 map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
 " build using makeprg with <F6>

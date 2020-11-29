@@ -21,6 +21,3 @@ Plug 'NLKNguyen/papercolor-theme'
 Plug 'jparise/vim-graphql'
 
 call plug#end()
-
-
-let g:go_version_warning = 0
