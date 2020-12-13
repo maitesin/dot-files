@@ -1,11 +1,6 @@
 Vim SetUp
 ========
 
-## Follow steps for the installation of `Vundle` 
-[https://github.com/VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+## Follow steps for the installation of `vim-plug` 
+[https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 
-## In case of failure to configure YouCompleteMe
-```bash
-cd <folder where neovim stores the plugins>
-./install.py --clang-completer --gocode-completer --rust-compiler
-```
