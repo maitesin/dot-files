@@ -13,6 +13,10 @@ autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
-colorscheme PaperColor
-let g:airline_theme='papercolor'
+" better whitespace
+let g:better_whitespace_enabled=1
+let g:strip_whitespace_on_save=1
+
+colorscheme gruvbox
+let g:airline_theme='gruvbox'
 
