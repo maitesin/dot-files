@@ -7,9 +7,14 @@ Plug 'preservim/nerdtree' |
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'jiangmiao/auto-pairs'
 Plug 'terryma/vim-multiple-cursors'
-Plug 'junegunn/fzf.vim'
+Plug 'tpope/vim-surround'
 
+" NeoMake
 Plug 'neomake/neomake'
+
+" fzf
+Plug 'junegunn/fzf'
+Plug 'junegunn/fzf.vim'
 
 " Airline
 Plug 'vim-airline/vim-airline'
