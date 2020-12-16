@@ -6,7 +6,7 @@ sudo snap install --classic goland
 sudo snap install --classic code
 sudo snap install --classic slack
 sudo snap install --classic skype
-sudo snap install --classic notable 
+sudo snap install --classic notable
 sudo snap install --classic kubectl
 
 sudo snap install --edge keybase
@@ -38,9 +38,7 @@ sudo apt install -y \
 	curl \
 	docker.io \
 	docker-compose \
-	shellcheck \
-	fzf \
-	bat
+	shellcheck
 
 # Install Google Chrome
 # wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O /tmp/google-chrome-stable_current_amd64.deb
@@ -58,8 +56,7 @@ sudo usermod -aG docker $USER
 # Install Rust Toolchain
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-~/.cargo/bin/cargo install alacritty 
-~/.cargo/bin/cargo install git-delta
+~/.cargo/bin/cargo install alacritty git-delta bat ripgrep
 
 # All done. Time to restart
 echo "Time to restart the computer"
