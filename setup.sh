@@ -56,7 +56,7 @@ sudo usermod -aG docker $USER
 # Install Rust Toolchain
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-~/.cargo/bin/cargo install alacritty git-delta bat ripgrep
+~/.cargo/bin/cargo install alacritty git-delta bat ripgrep exa
 
 # All done. Time to restart
 echo "Time to restart the computer"
