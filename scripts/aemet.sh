@@ -35,9 +35,7 @@ TMP=$(mktemp -d)
 echo "HELLO FROM ${TMP}"
 pushd "${TMP}" || exit
 
-process_url "${BASE_URL}${BASE_FILE}01${EXTENSION}" "01"
-
-for month in $(seq -w 2 12)
+for month in $(seq -w 12)
 do
   process_url "${BASE_URL}${BASE_FILE}${month}${EXTENSION}" "${month}"
 done
