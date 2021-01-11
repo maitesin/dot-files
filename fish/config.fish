@@ -5,3 +5,4 @@ set -gx EDITOR nvim
 
 alias ls="exa -lgHS --git --time-style long-iso --extended"
 alias cat="bat --theme gruvbox"
+alias grep="rg"
