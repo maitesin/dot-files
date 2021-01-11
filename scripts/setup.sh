@@ -8,6 +8,7 @@ sudo snap install --classic slack
 sudo snap install --classic skype
 sudo snap install --classic notable
 sudo snap install --classic kubectl
+sudo snap install --classic ripgrep
 
 sudo snap install --edge keybase
 
@@ -56,7 +57,7 @@ sudo usermod -aG docker $USER
 # Install Rust Toolchain
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-~/.cargo/bin/cargo install alacritty git-delta bat ripgrep exa
+~/.cargo/bin/cargo install alacritty git-delta bat exa
 
 # All done. Time to restart
 echo "Time to restart the computer"
