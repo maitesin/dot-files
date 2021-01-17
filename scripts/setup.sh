@@ -17,6 +17,7 @@ sudo snap install \
 	telegram-desktop \
 	postman \
 	zoom-client \
+  signal-desktop \
 	hugo \
 	htop \
 	dbeaver-ce \
