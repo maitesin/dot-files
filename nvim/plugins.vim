@@ -13,7 +13,7 @@ Plug 'tpope/vim-surround'
 Plug 'neomake/neomake'
 
 " fzf
-Plug 'junegunn/fzf'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
 " Airline
