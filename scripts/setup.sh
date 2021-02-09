@@ -42,6 +42,9 @@ sudo apt install -y \
 	docker-compose \
 	shellcheck
 
+# Change default shell
+chsh -s $(which fish) $USER
+
 # Install Google Chrome
 # wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O /tmp/google-chrome-stable_current_amd64.deb
 # sudo dpkg -i /tmp/google-chrome-stable_current_amd64.deb
@@ -60,9 +63,6 @@ sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-
 
 # Install Oh-My-Fish
 curl -L https://get.oh-my.fish | fish
-
-# Change shell
-echo "Run `chsh -s $(which fish) $USER`"
 
 # All done. Time to restart
 echo "Time to restart the computer"
