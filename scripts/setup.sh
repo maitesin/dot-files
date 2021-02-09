@@ -62,7 +62,7 @@ sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-
 curl -L https://get.oh-my.fish | fish
 
 # Change shell
-chsh -s $(which fish) $USER
+echo "Run `chsh -s $(which fish) $USER`"
 
 # All done. Time to restart
 echo "Time to restart the computer"
