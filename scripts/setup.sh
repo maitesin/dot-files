@@ -1,5 +1,15 @@
 #!/bin/bash
 
+# Link configuration folders
+ln -s ~/.dot-files/alacritty ~/.config/alacritty
+ln -s ~/.dot-files/fish ~/.config/fish
+ln -s ~/.dot-files/nvim ~/.config/nvim
+ln -s ~/.dot-files/buku ~/.local/share/buku
+ln -s ~/.dot-files/liferea/config ~/.config/liferea
+ln -s ~/.dot-files/liferea/local_shared ~/.local/share/liferea
+ln -s ~/.dot-files/git/.gitconfig ~/.gitconfig
+ln -s ~/.dot-files/git/.gitignore_global ~/.gitignore_global
+
 # Install snaps
 sudo snap install --classic go
 sudo snap install --classic goland
@@ -23,7 +33,6 @@ sudo snap install \
 	dbeaver-ce \
 	nmap
 
-
 # Install apt packages
 sudo apt update
 sudo apt install -y \
@@ -40,7 +49,14 @@ sudo apt install -y \
 	curl \
 	docker.io \
 	docker-compose \
-	shellcheck
+	shellcheck \
+	buku \
+	liferea \
+	fonts-powerline \
+	fonts-hack-ttf
+
+# Download vim-plug to manage NeoVim's plugins
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
 # Change default shell
 chsh -s $(which fish) $USER
@@ -60,6 +76,10 @@ sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-
 
 # Install Rust binaries
 ~/.cargo/bin/cargo install alacritty git-delta bat exa
+
+# Download Alacritty's desktop file
+wget https://raw.githubusercontent.com/alacritty/alacritty/master/extra/linux/Alacritty.desktop
+mv Alacritty.desktop ~/.local/share/applications
 
 # Install Oh-My-Fish
 curl -L https://get.oh-my.fish | fish
