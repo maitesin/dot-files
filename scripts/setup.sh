@@ -10,6 +10,9 @@ ln -s ~/.dot-files/liferea/local_shared ~/.local/share/liferea
 ln -s ~/.dot-files/git/.gitconfig ~/.gitconfig
 ln -s ~/.dot-files/git/.gitignore_global ~/.gitignore_global
 
+# Hiden the snap folder from the home directory
+echo "snap" >> ~/.hidden
+
 # Install snaps
 sudo snap install --classic go
 sudo snap install --classic goland
