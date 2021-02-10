@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 # Link configuration folders
 ln -s ~/.dot-files/alacritty ~/.config/alacritty
 ln -s ~/.dot-files/fish ~/.config/fish
