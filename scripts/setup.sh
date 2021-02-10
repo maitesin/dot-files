@@ -9,6 +9,8 @@ ln -s ~/.dot-files/liferea/config ~/.config/liferea
 ln -s ~/.dot-files/liferea/local_shared ~/.local/share/liferea
 ln -s ~/.dot-files/git/.gitconfig ~/.gitconfig
 ln -s ~/.dot-files/git/.gitignore_global ~/.gitignore_global
+mkdir -p ~/.pandoc/templates
+ln -s ~/.dot-files/pandoc/eisvogel.latex ~/.pandoc/templates
 
 # Hiden the snap folder from the home directory
 echo "snap" >> ~/.hidden
