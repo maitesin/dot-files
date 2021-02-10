@@ -78,8 +78,14 @@ sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-
 ~/.cargo/bin/cargo install alacritty git-delta bat exa
 
 # Download Alacritty's desktop file
-wget https://raw.githubusercontent.com/alacritty/alacritty/master/extra/linux/Alacritty.desktop
-mv Alacritty.desktop ~/.local/share/applications
+curl https://raw.githubusercontent.com/alacritty/alacritty/master/extra/linux/Alacritty.desktop -o ~/.local/share/applications/Alacritty.desktop
+
+# Download Alacritty's fish completion
+curl https://raw.githubusercontent.com/alacritty/alacritty/master/extra/completions/alacritty.fish -o ~/.config/fish/completions/alacritty.fish
+
+# Download Alacritty's icon
+curl https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-simple.svg -o /tmp/Alacritty.svg
+sudo mv /tmp/Alacritty.svg /usr/share/pixmaps/
 
 # Install Oh-My-Fish
 curl -L https://get.oh-my.fish | fish
