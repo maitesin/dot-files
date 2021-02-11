@@ -11,6 +11,8 @@ ln -s ~/.dot-files/liferea/config ~/.config/liferea
 ln -s ~/.dot-files/liferea/local_shared ~/.local/share/liferea
 ln -s ~/.dot-files/git/.gitconfig ~/.gitconfig
 ln -s ~/.dot-files/git/.gitignore_global ~/.gitignore_global
+ln -s ~/.dot-files/notable/.notable.json ~/.notable.json
+ln -s ~/.dot-files/notable/config ~/.config/notable
 mkdir -p ~/.pandoc/templates
 ln -s ~/.dot-files/pandoc/eisvogel.latex ~/.pandoc/templates
 
