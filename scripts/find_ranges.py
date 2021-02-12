@@ -14,7 +14,7 @@ def find_ranges(elements, depth):
     if depth == 0:
         print(len(elements))
         return [(elements[0], elements[-1])]
-    
+
     l = len(elements) // 2
     lrs = find_ranges(elements[:l], depth - 1)
     rrs = find_ranges(elements[l:], depth - 1)
