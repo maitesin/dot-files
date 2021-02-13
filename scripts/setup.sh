@@ -13,6 +13,7 @@ ln -s ~/.dot-files/git/.gitconfig ~/.gitconfig
 ln -s ~/.dot-files/git/.gitignore_global ~/.gitignore_global
 ln -s ~/.dot-files/notable/.notable.json ~/.notable.json
 ln -s ~/.dot-files/notable/config ~/.config/notable
+ln -s ~/.dot-files/i3 ~/.config/i3
 mkdir -p ~/.pandoc/templates
 ln -s ~/.dot-files/pandoc/eisvogel.latex ~/.pandoc/templates
 
