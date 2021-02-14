@@ -16,6 +16,7 @@ ln -s ~/.dot-files/notable/config ~/.config/notable
 ln -s ~/.dot-files/i3 ~/.config/i3
 mkdir -p ~/.pandoc/templates
 ln -s ~/.dot-files/pandoc/eisvogel.latex ~/.pandoc/templates
+ln -s ~/.dot-files/polybar ~/.config/polybar
 
 # Hiden the snap folder from the home directory
 echo "snap" >> ~/.hidden
@@ -66,6 +67,9 @@ sudo apt install -y \
 	fonts-hack-ttf \
   clipit \
   i3
+
+# Call polybar instalation
+./install_polybar.sh
 
 # Download vim-plug to manage NeoVim's plugins
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
