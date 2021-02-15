@@ -65,6 +65,7 @@ sudo apt install -y \
 	liferea \
 	fonts-powerline \
 	fonts-hack-ttf \
+  fonts-font-awesome \
   clipit \
   i3
 
