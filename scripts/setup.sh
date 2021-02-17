@@ -92,7 +92,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev python3
 
 # Install Rust binaries
-~/.cargo/bin/cargo install alacritty git-delta bat exa
+~/.cargo/bin/cargo install alacritty git-delta bat exa fd-find
 
 # Download Alacritty's desktop file
 curl https://raw.githubusercontent.com/alacritty/alacritty/master/extra/linux/Alacritty.desktop -o ~/.local/share/applications/Alacritty.desktop
