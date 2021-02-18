@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 set -e
 
@@ -13,10 +13,8 @@ ln -s ~/.dot-files/git/.gitconfig ~/.gitconfig
 ln -s ~/.dot-files/git/.gitignore_global ~/.gitignore_global
 ln -s ~/.dot-files/notable/.notable.json ~/.notable.json
 ln -s ~/.dot-files/notable/config ~/.config/notable
-ln -s ~/.dot-files/i3 ~/.config/i3
 mkdir -p ~/.pandoc/templates
 ln -s ~/.dot-files/pandoc/eisvogel.latex ~/.pandoc/templates
-ln -s ~/.dot-files/polybar ~/.config/polybar
 
 # Hiden the snap folder from the home directory
 echo "snap" >> ~/.hidden
@@ -65,12 +63,7 @@ sudo apt install -y \
 	liferea \
 	fonts-powerline \
 	fonts-hack-ttf \
-  fonts-font-awesome \
-  clipit \
-  i3
-
-# Call polybar instalation
-./install_polybar.sh
+  clipit
 
 # Download vim-plug to manage NeoVim's plugins
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
