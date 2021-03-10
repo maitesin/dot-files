@@ -1,7 +1,7 @@
 ---
 title: Unexpected beviours
 created: '2020-10-01T09:10:19.019Z'
-modified: '2020-12-01T14:21:52.942Z'
+modified: '2021-03-10T13:25:55.718Z'
 ---
 
 # Unexpected beviours
@@ -110,3 +110,7 @@ int main(void) {
 ## Java compare Integers
 
 ## Java insert integer into list of strings
+
+## Go
+The order matters
+https://stackoverflow.com/a/46290179
