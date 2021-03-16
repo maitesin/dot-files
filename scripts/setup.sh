@@ -28,6 +28,7 @@ sudo snap install --classic skype
 sudo snap install --classic notable
 sudo snap install --classic kubectl
 sudo snap install --classic ripgrep
+sudo snap install --classic nvim
 
 sudo snap install --edge keybase
 
@@ -48,7 +49,6 @@ sudo apt install -y \
 	build-essential \
 	ctags \
 	clang \
-	neovim \
 	git \
 	openssh-server \
 	fish \
