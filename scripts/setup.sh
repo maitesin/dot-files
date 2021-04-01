@@ -41,7 +41,8 @@ sudo snap install \
 	hugo \
 	htop \
 	dbeaver-ce \
-	nmap
+	nmap \
+  cacher
 
 # Install apt packages
 sudo apt update
