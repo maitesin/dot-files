@@ -15,6 +15,7 @@ ln -s ~/.dot-files/notable/.notable.json ~/.notable.json
 ln -s ~/.dot-files/notable/config ~/.config/notable
 mkdir -p ~/.pandoc/templates
 ln -s ~/.dot-files/pandoc/eisvogel.latex ~/.pandoc/templates
+ln -s ~/.dot-files/pandoc/letter.latex ~/.pandoc/templates
 
 # Hiden the snap folder from the home directory
 echo "snap" >> ~/.hidden
