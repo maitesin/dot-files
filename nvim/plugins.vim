@@ -26,4 +26,11 @@ Plug 'gruvbox-community/gruvbox'
 " GraphQL
 Plug 'jparise/vim-graphql'
 
+" LSP
+Plug 'neovim/nvim-lspconfig'
+Plug 'glepnir/lspsaga.nvim'
+
+" Go
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+
 call plug#end()
