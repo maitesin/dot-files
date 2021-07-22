@@ -1,6 +1,6 @@
 [core]
     pager = delta
-	excludesfile = /home/maitesin/.gitignore_global
+	excludesfile = /Users/maitesin/.gitignore_global
 
 [interactive]
     diffFilter = delta --color-only
@@ -16,8 +16,8 @@
 
 [user]
     name = Oscar Forner Martinez
-    email = oscar.forner@paack.co
+    email = oscar.forner.martinez@gmail.com
 
-[url "git@github.com:PaackEng"]
-    insteadOf = "https://github.com/PaackEng"
 
+[url "ssh://git@github.com/sketch-hq"]
+	insteadOf = https://github.com/sketch-hq
