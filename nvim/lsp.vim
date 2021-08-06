@@ -34,18 +34,6 @@ local on_attach = function(client, bufnr)
 
 end
 
--- Use a loop to conveniently call 'setup' on multiple servers and
--- map buffer local keybindings when the language server attaches
-local servers = {"clangd", "rust_analyzer", "pyls"}
-for _, lsp in ipairs(servers) do
-  nvim_lsp[lsp].setup {
-    on_attach = on_attach,
-    flags = {
-      debounce_text_changes = 150,
-    }
-  }
-end
-
 nvim_lsp.gopls.setup {
   cmd = {"gopls", "serve"},
     settings = {
@@ -57,4 +45,8 @@ nvim_lsp.gopls.setup {
       },
     },
   }
+
+nvim_lsp.elixirls.setup{
+ cmd = { vim.loop.os_homedir() .. "/.config/elixir-ls/language_server.sh" };
+}
 EOF
