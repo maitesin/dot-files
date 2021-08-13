@@ -4,7 +4,7 @@ set -gx PATH $PATH $GOPATH/bin $HOME/.cargo/bin
 set -gx EDITOR nvim
 set -gx GOPRIVATE github.com/sketch-hq
 
-alias ls="exa -lgHSI snap --git --time-style long-iso --extended"
+alias ls="exa -lgHSI snap --git --time-style long-iso"
 alias cat="bat --theme gruvbox"
 alias grep="rg"
 
