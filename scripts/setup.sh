@@ -86,7 +86,7 @@ sudo usermod -aG docker $USER
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # Install alacritty dependencies
-sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev python3
+sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
 
 # Install Rust binaries
 ~/.cargo/bin/cargo install git-delta bat exa fd-find
