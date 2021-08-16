@@ -94,6 +94,9 @@ sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-
 # Install Alacritty
 ./install_alacritty.sh
 
+# Install universal-ctags (https://github.com/universal-ctags/ctags)
+./install_ctags.sh
+
 # Install Oh-My-Fish
 curl -L https://get.oh-my.fish | fish
 
