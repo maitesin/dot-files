@@ -32,6 +32,6 @@ syntax on
 " folding methods
 set foldmethod=marker
 set foldmarker={,}
-set foldlevel=2
+set foldlevel=4
 set foldclose=all
 
