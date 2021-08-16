@@ -23,9 +23,6 @@ Plug 'vim-airline/vim-airline-themes'
 " Color theme
 Plug 'gruvbox-community/gruvbox'
 
-" GraphQL
-Plug 'jparise/vim-graphql'
-
 " LSP
 Plug 'neovim/nvim-lspconfig'
 Plug 'glepnir/lspsaga.nvim'
@@ -34,5 +31,8 @@ Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 " Go
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+
+" Tags
+Plug 'liuchengxu/vista.vim'
 
 call plug#end()

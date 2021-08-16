@@ -5,3 +5,4 @@ source ~/.config/nvim/remaps.vim
 source ~/.config/nvim/ui.vim
 source ~/.config/nvim/neomake.vim
 source ~/.config/nvim/lspsaga.vim
+source ~/.config/nvim/tags.vim
