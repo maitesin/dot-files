@@ -32,6 +32,45 @@ local on_attach = function(client, bufnr)
   buf_set_keymap('n', '<space>q', '<cmd>lua vim.lsp.diagnostic.set_loclist()<CR>', opts)
   buf_set_keymap("n", "<space>f", "<cmd>lua vim.lsp.buf.formatting()<CR>", opts)
 
+  -- formatting
+  if client.resolved_capabilities.document_formatting then
+    vim.api.nvim_command [[augroup Format]]
+    vim.api.nvim_command [[autocmd! * <buffer>]]
+    vim.api.nvim_command [[autocmd BufWritePre <buffer> lua vim.lsp.buf.formatting_seq_sync()]]
+    vim.api.nvim_command [[augroup END]]
+  end
+
+  require'completion'.on_attach(client, bufnr)
+
+  --protocol.SymbolKind = { }
+  protocol.CompletionItemKind = {
+    '', -- Text
+    '', -- Method
+    '', -- Function
+    '', -- Constructor
+    '', -- Field
+    '', -- Variable
+    '', -- Class
+    'ﰮ', -- Interface
+    '', -- Module
+    '', -- Property
+    '', -- Unit
+    '', -- Value
+    '', -- Enum
+    '', -- Keyword
+    '﬌', -- Snippet
+    '', -- Color
+    '', -- File
+    '', -- Reference
+    '', -- Folder
+    '', -- EnumMember
+    '', -- Constant
+    '', -- Struct
+    '', -- Event
+    'ﬦ', -- Operator
+    '', -- TypeParameter
+  }
+
 end
 
 nvim_lsp.gopls.setup {
@@ -48,10 +87,11 @@ nvim_lsp.gopls.setup {
 
 nvim_lsp.elixirls.setup{
  cmd = { vim.loop.os_homedir() .. "/.config/elixir-ls/language_server.sh" };
+
 }
 
 require('nvim-treesitter.configs').setup({
-    ensure_installed = {"elixir", "python", "go"},
+    ensure_installed = {"elixir", "python", "go", "html", "toml", "yaml"},
 
     highlight = {
         enable = true,
