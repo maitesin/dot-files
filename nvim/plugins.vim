@@ -1,17 +1,6 @@
 " Vim Bundles (Vim-Plug)
 call plug#begin('~/.local/share/nvim/plugged')
 
-Plug 'preservim/nerdtree' |
-            \ Plug 'Xuyuanp/nerdtree-git-plugin'
-
-Plug 'ntpeters/vim-better-whitespace'
-Plug 'jiangmiao/auto-pairs'
-Plug 'terryma/vim-multiple-cursors'
-Plug 'tpope/vim-surround'
-
-" NeoMake
-Plug 'neomake/neomake'
-
 " fzf
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
@@ -29,9 +18,12 @@ Plug 'glepnir/lspsaga.nvim'
 
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'nvim-lua/completion-nvim'
+
+" Telescope
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-telescope/telescope-fzy-native.nvim'
 Plug 'kyazdani42/nvim-web-devicons'
 
 " Go
