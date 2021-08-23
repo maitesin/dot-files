@@ -1,29 +1,19 @@
 " Enhanced keyboard mappings
 "
 " in normal mode F2 will save the file
-nmap <F2> :w<CR>
+nmap <F1> :w<CR>
 " in insert mode F2 will exit insert, save, enters insert again
-imap <F2> <ESC>:w<CR>i
+imap <F1> <ESC>:w<CR>i
 " in normal mode F3 will strip the whitespaces of the file
-nmap <F3> :NERDTreeToggle<CR>
-imap <F3> <ESC>:NERDTreeToggle<CR>i
-" recreate tags file with F5
-map <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
-" build using makeprg with <F6>
-map <F6> :make<CR>
-" build using makeprg with <S-F6>
-map <S-F6> :make clean all<CR>
-" goto definition with F12
-map <F12> <C-]>
-
-" Ctrl + c comment selected lines
-map <C-c> :s/^/\/\//<Enter>
-" Ctrl + u uncomment selected lines
-map <C-u> :s/^\/\///<Enter>
-
+nmap <F2> :NvimTreeToggle<CR>
+imap <F2> <ESC>:NvimTreeToggle<CR>i
+"
 " fzf remaps to search files
 map <C-p> :Files<CR>
 imap <C-p> :Files<CR>i
+" fxf remaps to search inside files
+map <C-o> :Rg<CR>
+imap <C-o> :Rg<CR>i
 
 " Vista
 map <C-m> :Vista <CR>

@@ -1,6 +1,10 @@
 " Vim Bundles (Vim-Plug)
 call plug#begin('~/.local/share/nvim/plugged')
 
+" LuaTree
+Plug 'kyazdani42/nvim-web-devicons' " for file icons
+Plug 'kyazdani42/nvim-tree.lua'
+
 " fzf
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
