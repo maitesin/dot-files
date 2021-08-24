@@ -23,25 +23,16 @@ echo "snap" >> ~/.hidden
 # Install snaps
 sudo snap install --classic go
 sudo snap install --classic goland
-sudo snap install --classic code
 sudo snap install --classic slack
-sudo snap install --classic skype
-sudo snap install --classic notable
-sudo snap install --classic kubectl
 sudo snap install --classic ripgrep
-sudo snap install --classic nvim
-
-sudo snap install --edge keybase
+sudo snap install --classic --edge nvim
 
 sudo snap install \
 	discord \
 	telegram-desktop \
-	postman \
-	zoom-client \
 	signal-desktop \
 	hugo \
 	htop \
-	dbeaver-ce \
 	nmap \
   cacher
 
@@ -94,8 +85,11 @@ sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-
 # Install Alacritty
 ./install_alacritty.sh
 
+# Install tree-sitter from cargo
+~/.cargo/bin/cargo install tree-sitter-cli --git https://github.com/tree-sitter/tree-sitter.git --tag v0.20.0
+
 # Install universal-ctags (https://github.com/universal-ctags/ctags)
-./install_ctags.sh
+# ./install_ctags.sh
 
 # Install Oh-My-Fish
 curl -L https://get.oh-my.fish | fish
