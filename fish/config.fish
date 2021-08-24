@@ -8,4 +8,6 @@ alias ls="exa -lgHSI snap --git --time-style long-iso"
 alias cat="bat --theme gruvbox"
 alias grep="rg"
 
-source /usr/local/opt/asdf/asdf.fish
+if test -f /usr/local/opt/asdf/asdf.fish
+  /usr/local/opt/asdf/asdf.fish
+end
