@@ -9,5 +9,5 @@ alias cat="bat --theme gruvbox"
 alias grep="rg"
 
 if test -f /usr/local/opt/asdf/asdf.fish
-  /usr/local/opt/asdf/asdf.fish
+  source /usr/local/opt/asdf/asdf.fish
 end
