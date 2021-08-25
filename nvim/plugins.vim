@@ -4,9 +4,21 @@ call plug#begin('~/.local/share/nvim/plugged')
 " Commentary
 Plug 'tpope/vim-commentary'
 
-" LuaTree
-Plug 'kyazdani42/nvim-web-devicons' " for file icons
-Plug 'kyazdani42/nvim-tree.lua'
+" NERDTree
+Plug 'preservim/nerdtree' |
+\ Plug 'Xuyuanp/nerdtree-git-plugin'
+
+" Removes trailing whitespaces on save
+Plug 'ntpeters/vim-better-whitespace'
+
+" Auto pairs
+Plug 'jiangmiao/auto-pairs'
+
+" Multi cursor
+Plug 'terryma/vim-multiple-cursors'
+
+" Vim surround manager
+Plug 'tpope/vim-surround'
 
 " fzf
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }

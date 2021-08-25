@@ -5,8 +5,8 @@ nmap <F1> :w<CR>
 " in insert mode F2 will exit insert, save, enters insert again
 imap <F1> <ESC>:w<CR>i
 " in normal mode F3 will strip the whitespaces of the file
-nmap <F2> :NvimTreeToggle<CR>
-imap <F2> <ESC>:NvimTreeToggle<CR>i
+nmap <F2> :NERDTreeToggle<CR>
+imap <F2> <ESC>:NERDTreeToggle<CR>i
 "
 " fzf remaps to search files
 map <C-p> :Files<CR>
