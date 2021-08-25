@@ -18,3 +18,6 @@ imap <C-o> :Rg<CR>i
 " Vista
 map <C-m> :Vista <CR>
 
+" Commentary
+nnoremap <space>/ :Commentary<CR>
+vnoremap <space>/ :Commentary<CR>

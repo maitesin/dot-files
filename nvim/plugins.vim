@@ -1,6 +1,9 @@
 " Vim Bundles (Vim-Plug)
 call plug#begin('~/.local/share/nvim/plugged')
 
+" Commentary
+Plug 'tpope/vim-commentary'
+
 " LuaTree
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
 Plug 'kyazdani42/nvim-tree.lua'
