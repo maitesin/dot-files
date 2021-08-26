@@ -16,7 +16,7 @@ map <C-o> :Rg<CR>
 imap <C-o> :Rg<CR>i
 
 " Vista
-map <C-m> :Vista <CR>
+map <C-m> :Vista!! <CR>
 
 " Commentary
 nnoremap <space>/ :Commentary<CR>
