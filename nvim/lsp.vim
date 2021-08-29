@@ -40,8 +40,6 @@ local on_attach = function(client, bufnr)
     vim.api.nvim_command [[augroup END]]
   end
 
-  require'completion'.on_attach(client, bufnr)
-
   --protocol.SymbolKind = { }
   protocol.CompletionItemKind = {
     '', -- Text
@@ -83,11 +81,12 @@ nvim_lsp.gopls.setup {
         staticcheck = true,
       },
     },
+  on_attach=require'completion'.on_attach
   }
 
 nvim_lsp.elixirls.setup{
  cmd = { vim.loop.os_homedir() .. "/.config/elixir-ls/language_server.sh" };
-
+ on_attach=require'completion'.on_attach
 }
 
 require('nvim-treesitter.configs').setup({
