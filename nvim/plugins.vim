@@ -44,4 +44,7 @@ Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 " Tags
 Plug 'liuchengxu/vista.vim'
 
+" Welcome
+Plug 'mhinz/vim-startify'
+
 call plug#end()
