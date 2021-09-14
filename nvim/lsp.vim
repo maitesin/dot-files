@@ -89,6 +89,8 @@ nvim_lsp.elixirls.setup{
  on_attach=require'completion'.on_attach
 }
 
+nvim_lsp.pyright.setup {}
+
 require('nvim-treesitter.configs').setup({
     ensure_installed = {"elixir", "python", "go", "html", "toml", "yaml"},
 
