@@ -1,12 +1,12 @@
 " Enhanced keyboard mappings
 "
 " in normal mode F2 will save the file
-nmap <F1> :w<CR>
+nmap <F2> :w<CR>
 " in insert mode F2 will exit insert, save, enters insert again
-imap <F1> <ESC>:w<CR>i
+imap <F2> <ESC>:w<CR>i
 " in normal mode F3 will strip the whitespaces of the file
-nmap <F2> :NERDTreeToggle<CR>
-imap <F2> <ESC>:NERDTreeToggle<CR>i
+nmap <F3> :NERDTreeToggle<CR>
+imap <F3> <ESC>:NERDTreeToggle<CR>i
 "
 " fzf remaps to search files
 map <C-p> :Files<CR>
