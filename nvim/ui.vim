@@ -12,3 +12,9 @@ let g:strip_whitespace_on_save=1
 colorscheme gruvbox
 let g:airline_theme='gruvbox'
 
+lua << EOF
+
+-- git integration
+require('gitsigns').setup()
+
+EOF

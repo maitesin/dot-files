@@ -38,6 +38,11 @@ Plug 'glepnir/lspsaga.nvim'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'nvim-lua/completion-nvim'
 
+Plug 'nvim-lua/plenary.nvim'
+
+" Git
+Plug 'lewis6991/gitsigns.nvim'
+
 " Go
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
