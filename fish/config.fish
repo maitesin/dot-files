@@ -12,6 +12,10 @@ if test -f /usr/local/opt/asdf/asdf.fish
   source /usr/local/opt/asdf/asdf.fish
 end
 
+if test -f $HOME/.local.fish
+  source $HOME/.local.fish
+end
+
 if test -d /Applications/Sketch.app/Contents/MacOS
   set -gx PATH $PATH /Applications/Sketch.app/Contents/MacOS
 end
