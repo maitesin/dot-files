@@ -1,6 +1,11 @@
 lua << EOF
 local nvim_lsp = require('lspconfig')
 
+-- Neovim doesn't support snippets out of the box, so we need to mutate the
+-- capabilities we send to the language server to let them know we want snippets.
+local capabilities = vim.lsp.protocol.make_client_capabilities()
+capabilities.textDocument.completion.completionItem.snippetSupport = true
+
 -- Use an on_attach function to only map the following keys
 -- after the language server attaches to the current buffer
 local on_attach = function(client, bufnr)
@@ -85,8 +90,10 @@ nvim_lsp.gopls.setup {
   }
 
 nvim_lsp.elixirls.setup{
- cmd = { vim.loop.os_homedir() .. "/.config/elixir-ls/language_server.sh" };
- on_attach=require'completion'.on_attach
+ --cmd = { vim.loop.os_homedir() .. "/.config/elixir-ls/language_server.sh" };
+ cmd = { "/Users/maitesin/.config/elixir-ls/language_server.sh" },
+ on_attach=require'completion'.on_attach,
+ capabilities = capabilities,
 }
 
 nvim_lsp.pyright.setup {}
