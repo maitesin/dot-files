@@ -6,6 +6,7 @@ set -e
 ln -s ~/.dot-files/alacritty ~/.config/alacritty
 ln -s ~/.dot-files/fish ~/.config/fish
 ln -s ~/.dot-files/nvim ~/.config/nvim
+ln -s ~/.dot-files/beets ~/.config/beets
 ln -s ~/.dot-files/buku ~/.local/share/buku
 ln -s ~/.dot-files/liferea/config ~/.config/liferea
 ln -s ~/.dot-files/liferea/local_shared ~/.local/share/liferea
