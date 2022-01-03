@@ -21,3 +21,5 @@
 
 [url "ssh://git@github.com/sketch-hq"]
 	insteadOf = https://github.com/sketch-hq
+[url "ssh://git@gitlab.com"]
+  insteadOf = https://gitlab.com
