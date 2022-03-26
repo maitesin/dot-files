@@ -10,7 +10,10 @@ pushd ${USB_PATH}
 
 # Create a new folder for the backup
 BKP_PATH="backup-$(date +%F)"
-mkdir ${BKP_PATH}
+if [ ! -d ${BKP_PATH} ]
+then
+  mkdir ${BKP_PATH}
+fi
 
 # Move to the backup folder
 pushd ${BKP_PATH}
