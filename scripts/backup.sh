@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -x
+set -e
 
 USB_PATH="/mnt"
 DADES_PATH="/Dades"
