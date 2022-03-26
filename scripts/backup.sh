@@ -29,3 +29,6 @@ rsync -av --progress --append ${DADES_PATH}/Games .
 
 # Backup the Music folder
 rsync -av --progress --append ${DADES_PATH}/Music .
+
+# Backup the Pictures folder
+rsync -av --progress --append ${DADES_PATH}/Pictures .
