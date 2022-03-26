@@ -20,3 +20,6 @@ pushd ${BKP_PATH}
 
 # Backup the Backup folder
 rsync -av --progress --append ${DADES_PATH}/Backup .
+
+# Backup the Documents folder
+rsync -av --progress --append ${DADES_PATH}/Documents .
