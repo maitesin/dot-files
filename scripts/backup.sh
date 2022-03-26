@@ -9,7 +9,7 @@ DADES_PATH="/Dades"
 pushd ${USB_PATH}
 
 # Create a new folder for the backup
-BKP_PATH="backup-${date +%F}"
+BKP_PATH="backup-$(date +%F)"
 mkdir ${BKP_PATH}
 
 # Move to the backup folder
