@@ -33,6 +33,9 @@ rsync -av --progress --append ${DADES_PATH}/Music .
 # Backup the Pictures folder
 rsync -av --progress --append ${DADES_PATH}/Pictures .
 
+# Backup the Sync folder
+rsync -av --progress --append ${DADES_PATH}/Sync .
+
 # Backup the Others folder
 rsync -av --progress --append --exclude Manuales_Linux ${DADES_PATH}/Others .
 
