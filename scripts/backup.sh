@@ -41,3 +41,7 @@ rsync -av --progress --append --exclude Manuales_Linux ${DADES_PATH}/Others .
 
 # Backup the Videos folder
 rsync -av --progress --append --exclude Movies --exclude Series ${DADES_PATH}/Videos .
+
+# Finish all the writing of data into the USB
+sync
+
