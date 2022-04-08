@@ -17,5 +17,9 @@ if test -f $HOME/.local.fish
 end
 
 if test -d /Applications/Sketch.app/Contents/MacOS
-  set -gx PATH $PATH /Applications/Sketch.app/Contents/MacOS
+  alias sketchtool="/Applications/Sketch.app/Contents/MacOS/sketchtool"
+end
+
+if test -d /Applications/Sketch\ Experimental.app/Contents/MacOS/
+  alias sketchtool-experimental="/Applications/Sketch\ Experimental.app/Contents/MacOS/sketchtool"
 end
