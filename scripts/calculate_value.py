@@ -6,7 +6,12 @@ import sys
 def main(rows):
     accum = 0
     for row in rows:
-        accum += float(row["price"])*int(row["quantity"])
+        price = 0.0
+        if row["price"] != '':
+            price = float(row["price"])
+        else:
+            print(f'Price for {row["name"]} is unknown')
+        accum += price*int(row["quantity"])
     print(accum)
 
 if __name__ == "__main__":
