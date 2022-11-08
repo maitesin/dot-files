@@ -24,8 +24,6 @@ echo "snap" >> ~/.hidden
 # Install snaps
 sudo snap install --classic go
 sudo snap install --classic goland
-sudo snap install --classic slack
-sudo snap install --classic ripgrep
 sudo snap install --classic --edge nvim
 
 sudo snap install \
@@ -35,13 +33,14 @@ sudo snap install \
 	hugo \
 	htop \
 	nmap \
+  slack \
   cacher
 
 # Install apt packages
 sudo apt update
 sudo apt install -y \
 	build-essential \
-	ctags \
+	exuberant-ctags \
 	clang \
 	git \
 	openssh-server \
@@ -81,13 +80,13 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
 
 # Install Rust binaries
-~/.cargo/bin/cargo install git-delta bat exa fd-find
+~/.cargo/bin/cargo install git-delta bat exa ripgrep alacritty fd-find
 
 # Install Alacritty
-./install_alacritty.sh
+#./install_alacritty.sh
 
 # Install tree-sitter from cargo
-~/.cargo/bin/cargo install tree-sitter-cli --git https://github.com/tree-sitter/tree-sitter.git --tag v0.20.0
+~/.cargo/bin/cargo install tree-sitter-cli --git https://github.com/tree-sitter/tree-sitter.git --tag v0.20.7
 
 # Install universal-ctags (https://github.com/universal-ctags/ctags)
 # ./install_ctags.sh
