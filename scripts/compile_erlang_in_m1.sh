@@ -7,4 +7,4 @@ export KERL_CONFIGURE_OPTIONS="--with-ssl=/usr/local/opt/openssl@1.1 \
   --without-javac \
   --disable-jit"
 
-asdf install erlang 24.1.2
+asdf install erlang 24.0.5

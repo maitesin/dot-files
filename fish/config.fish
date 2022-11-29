@@ -1,7 +1,7 @@
 # Symlink this file to ~/.config/fish/config.fish
 set -gx GOPATH $HOME/dev/go
 set -gx FLYCTL_INSTALL $HOME/.fly
-set -gx PATH $PATH $GOPATH/bin $HOME/.cargo/bin $FLYCTL_INSTALL/bin
+set -gx PATH $PATH $GOPATH/bin $HOME/.cargo/bin $FLYCTL_INSTALL/bin /Library/PostgreSQL/15/bin /usr/local/opt/node@16/bin
 set -gx EDITOR nvim
 set -gx GOPRIVATE github.com/sketch-hq
 
