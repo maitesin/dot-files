@@ -2,11 +2,10 @@
 
 - [x] Format Pensive
 - [ ] Upgrade the system in Stronghold
-- [ ] Clean workroom desktop
-- [ ] Sort out the wardrobe and make more room for the Mtg Cards
+- [x] Clean workroom desktop
+- [x] Sort out the wardrobe and make more room for the Mtg Cards
 - [ ] Sort out the wardrobe in the bedroom
 - [ ] Clean out the cupboard in the kitchen
 - [x] Set up 1Password account for sister
 - [ ] Dispose of the private documents
 - [ ] Store old videogame consoles
-- [ ] 

@@ -1,4 +1,7 @@
 # My personal wiki
 
+## Stronghold
+* [[Snaps]]
+
 ## TODO
 * [[Xmas_22_23]]
