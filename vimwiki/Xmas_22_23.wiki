@@ -7,5 +7,5 @@
 - [ ] Sort out the wardrobe in the bedroom
 - [ ] Clean out the cupboard in the kitchen
 - [x] Set up 1Password account for sister
-- [ ] Dispose of the private documents
+- [x] Dispose of the private documents
 - [ ] Store old videogame consoles
