@@ -1,7 +1,7 @@
 # Xmas 22/23 TODO
 
 - [x] Format Pensive
-- [ ] Upgrade the system in Stronghold
+- [x] Upgrade the system in Stronghold
 - [x] Clean workroom desktop
 - [x] Sort out the wardrobe and make more room for the Mtg Cards
 - [ ] Sort out the wardrobe in the bedroom
@@ -9,3 +9,4 @@
 - [x] Set up 1Password account for sister
 - [x] Dispose of the private documents
 - [ ] Store old videogame consoles
+- [x] Clean out the wasting bin
