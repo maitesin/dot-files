@@ -2,6 +2,8 @@
 
 ## Bookmarks
 * [[Hobbies]]
+* [C++](C++)
+* [Linux (Kernel)](Linux (Kernel\))
 
 ## Stronghold
 * [[Snaps]]
