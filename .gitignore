@@ -1,2 +1,3 @@
 fish/fish_variables
 fish/completions/alacritty.fish
+nvim/plugin/packer_compiled.lua
