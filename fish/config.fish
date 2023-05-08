@@ -4,7 +4,7 @@ set -gx PATH $PATH $GOPATH/bin $HOME/.cargo/bin
 set -gx EDITOR nvim
 
 alias ls="exa -lgHSI snap --git --time-style long-iso"
-alias cat="bat --theme gruvbox"
+alias cat="bat --theme gruvbox-dark"
 alias grep="rg"
 
 if test -f $HOME/.local.fish
