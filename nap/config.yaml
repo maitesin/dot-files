@@ -1,0 +1,4 @@
+# Configuration
+home: ~/.local/share/nap
+default_language: go
+theme: gruvbox

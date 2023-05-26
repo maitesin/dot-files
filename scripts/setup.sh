@@ -11,6 +11,7 @@ ln -s ~/.dot-files/beets ~/.config/beets
 ln -s ~/.dot-files/buku ~/.local/share/buku
 ln -s ~/.dot-files/liferea/config ~/.config/liferea
 ln -s ~/.dot-files/liferea/local_shared ~/.local/share/liferea
+ln -s ~/.dot-files/nap ~/.local/share/nap
 ln -s ~/.dot-files/git/.gitconfig ~/.gitconfig
 ln -s ~/.dot-files/git/.gitignore_global ~/.gitignore_global
 ln -s ~/.dot-files/notable/.notable.json ~/.notable.json
