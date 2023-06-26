@@ -1,6 +1,6 @@
 require('mason').setup()
 require('mason-lspconfig').setup({
-  ensure_installed = {'sumneko_lua', 'elixirls'}
+  ensure_installed = {'lua_ls', 'elixirls'}
 })
 
 local on_attach = function(_, _)
@@ -14,6 +14,6 @@ local on_attach = function(_, _)
   vim.keymap.set('n', 'K', vim.lsp.buf.hover, {})
 end
 
-require('lspconfig').sumneko_lua.setup{}
+require('lspconfig').lua_ls.setup{}
 
 require('lspconfig').elixirls.setup{}
