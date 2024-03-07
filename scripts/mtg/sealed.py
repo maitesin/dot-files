@@ -4,7 +4,7 @@ from itertools import product
 import random
 
 colors = ['red', 'green', 'blue', 'yellow', 'orange']
-numbers = [i for i in range(1, 15)]
+numbers = [i for i in range(1, 16)]
 packs = []
 
 for r in product(colors, numbers):
