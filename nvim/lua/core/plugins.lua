@@ -25,7 +25,7 @@ return require('packer').startup(function(use)
   use 'tpope/vim-surround'
   use {
     'nvim-telescope/telescope.nvim',
-    tag = '0.1.0',
+    tag = '0.1.6',
     requires = {{'nvim-lua/plenary.nvim'}}
   }
   use {
@@ -33,8 +33,6 @@ return require('packer').startup(function(use)
     'williamboman/mason-lspconfig.nvim',
     'neovim/nvim-lspconfig',
   }
-  use 'vimwiki/vimwiki'
-  use 'github/copilot.vim'
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
