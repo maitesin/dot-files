@@ -1,14 +1,15 @@
 # My personal wiki
 
 ## Bookmarks
-* [[Hobbies]]
-* [C++](C++)
-* [Linux (Kernel)](Linux (Kernel\))
+* [Hobbies](bookmarks/Hobbies)
+* [C++](bookmarks/C++)
+* [Linux (Kernel)](bookmarks/Linux (Kernel\))
 
 ## Stronghold
-* [[Snaps]]
-* [[Expanssion]]
+* [Snaps](stronghold/Snaps)
+* [Expanssion](stronghold/Expanssion)
 
-## TODO
-* [[Xmas_22_23]]
-* [[June Holiday]]
+## Interviews
+* [Preparation](interviews/Preparation)
+* [2024](interviews/2024)
+

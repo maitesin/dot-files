@@ -23,6 +23,7 @@ return require('packer').startup(function(use)
   use 'terryma/vim-multiple-cursors'
   use 'mhinz/vim-startify'
   use 'tpope/vim-surround'
+  use 'vimwiki/vimwiki'
   use {
     'nvim-telescope/telescope.nvim',
     tag = '0.1.6',
